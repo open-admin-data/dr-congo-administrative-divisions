@@ -1,0 +1,284 @@
+[
+  {
+    "id": "CD5305",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Dungu",
+      "en": "Dungu",
+      "slug": "dungu"
+    },
+    "code": {
+      "id": "CD5305",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD53",
+      "level": 1,
+      "name": {
+        "local": "Haut-Uele",
+        "en": "Haut-Uele",
+        "slug": "haut-uele"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD53",
+        "level": 1,
+        "name": {
+          "local": "Haut-Uele",
+          "en": "Haut-Uele",
+          "slug": "haut-uele"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.005",
+      "lon": "28.773"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD5307",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Faradje",
+      "en": "Faradje",
+      "slug": "faradje"
+    },
+    "code": {
+      "id": "CD5307",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD53",
+      "level": 1,
+      "name": {
+        "local": "Haut-Uele",
+        "en": "Haut-Uele",
+        "slug": "haut-uele"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD53",
+        "level": 1,
+        "name": {
+          "local": "Haut-Uele",
+          "en": "Haut-Uele",
+          "slug": "haut-uele"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.485",
+      "lon": "29.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD5303",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Niangara",
+      "en": "Niangara",
+      "slug": "niangara"
+    },
+    "code": {
+      "id": "CD5303",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD53",
+      "level": 1,
+      "name": {
+        "local": "Haut-Uele",
+        "en": "Haut-Uele",
+        "slug": "haut-uele"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD53",
+        "level": 1,
+        "name": {
+          "local": "Haut-Uele",
+          "en": "Haut-Uele",
+          "slug": "haut-uele"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.492",
+      "lon": "27.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD5302",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Rungu",
+      "en": "Rungu",
+      "slug": "rungu"
+    },
+    "code": {
+      "id": "CD5302",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD53",
+      "level": 1,
+      "name": {
+        "local": "Haut-Uele",
+        "en": "Haut-Uele",
+        "slug": "haut-uele"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD53",
+        "level": 1,
+        "name": {
+          "local": "Haut-Uele",
+          "en": "Haut-Uele",
+          "slug": "haut-uele"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.609",
+      "lon": "27.32"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD5311",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Wamba",
+      "en": "Wamba",
+      "slug": "wamba"
+    },
+    "code": {
+      "id": "CD5311",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD53",
+      "level": 1,
+      "name": {
+        "local": "Haut-Uele",
+        "en": "Haut-Uele",
+        "slug": "haut-uele"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD53",
+        "level": 1,
+        "name": {
+          "local": "Haut-Uele",
+          "en": "Haut-Uele",
+          "slug": "haut-uele"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.096",
+      "lon": "27.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD5309",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Watsa",
+      "en": "Watsa",
+      "slug": "watsa"
+    },
+    "code": {
+      "id": "CD5309",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD53",
+      "level": 1,
+      "name": {
+        "local": "Haut-Uele",
+        "en": "Haut-Uele",
+        "slug": "haut-uele"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD53",
+        "level": 1,
+        "name": {
+          "local": "Haut-Uele",
+          "en": "Haut-Uele",
+          "slug": "haut-uele"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.774",
+      "lon": "29.225"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

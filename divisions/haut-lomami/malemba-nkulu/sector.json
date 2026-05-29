@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CD730501",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kinkondja",
+      "en": "Kinkondja",
+      "slug": "kinkondja"
+    },
+    "code": {
+      "id": "CD730501",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7305",
+      "level": 2,
+      "name": {
+        "local": "Malemba-Nkulu",
+        "en": "Malemba-Nkulu",
+        "slug": "malemba-nkulu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD73",
+        "level": 1,
+        "name": {
+          "local": "Haut-Lomami",
+          "en": "Haut-Lomami",
+          "slug": "haut-lomami"
+        }
+      },
+      {
+        "id": "CD7305",
+        "level": 2,
+        "name": {
+          "local": "Malemba-Nkulu",
+          "en": "Malemba-Nkulu",
+          "slug": "malemba-nkulu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.059",
+      "lon": "27.143"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD730502",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Lwamba",
+      "en": "Lwamba",
+      "slug": "lwamba"
+    },
+    "code": {
+      "id": "CD730502",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7305",
+      "level": 2,
+      "name": {
+        "local": "Malemba-Nkulu",
+        "en": "Malemba-Nkulu",
+        "slug": "malemba-nkulu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD73",
+        "level": 1,
+        "name": {
+          "local": "Haut-Lomami",
+          "en": "Haut-Lomami",
+          "slug": "haut-lomami"
+        }
+      },
+      {
+        "id": "CD7305",
+        "level": 2,
+        "name": {
+          "local": "Malemba-Nkulu",
+          "en": "Malemba-Nkulu",
+          "slug": "malemba-nkulu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.059",
+      "lon": "27.143"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD730503",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Mukanga",
+      "en": "Mukanga",
+      "slug": "mukanga"
+    },
+    "code": {
+      "id": "CD730503",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7305",
+      "level": 2,
+      "name": {
+        "local": "Malemba-Nkulu",
+        "en": "Malemba-Nkulu",
+        "slug": "malemba-nkulu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD73",
+        "level": 1,
+        "name": {
+          "local": "Haut-Lomami",
+          "en": "Haut-Lomami",
+          "slug": "haut-lomami"
+        }
+      },
+      {
+        "id": "CD7305",
+        "level": 2,
+        "name": {
+          "local": "Malemba-Nkulu",
+          "en": "Malemba-Nkulu",
+          "slug": "malemba-nkulu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.059",
+      "lon": "27.143"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD730504",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Mulongo",
+      "en": "Mulongo",
+      "slug": "mulongo"
+    },
+    "code": {
+      "id": "CD730504",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7305",
+      "level": 2,
+      "name": {
+        "local": "Malemba-Nkulu",
+        "en": "Malemba-Nkulu",
+        "slug": "malemba-nkulu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD73",
+        "level": 1,
+        "name": {
+          "local": "Haut-Lomami",
+          "en": "Haut-Lomami",
+          "slug": "haut-lomami"
+        }
+      },
+      {
+        "id": "CD7305",
+        "level": 2,
+        "name": {
+          "local": "Malemba-Nkulu",
+          "en": "Malemba-Nkulu",
+          "slug": "malemba-nkulu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.059",
+      "lon": "27.143"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

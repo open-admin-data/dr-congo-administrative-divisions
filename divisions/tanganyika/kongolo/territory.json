@@ -1,0 +1,47 @@
+{
+  "id": "CD7409",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Kongolo",
+    "en": "Kongolo",
+    "slug": "kongolo"
+  },
+  "code": {
+    "id": "CD7409",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD74",
+    "level": 1,
+    "name": {
+      "local": "Tanganyika",
+      "en": "Tanganyika",
+      "slug": "tanganyika"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD74",
+      "level": 1,
+      "name": {
+        "local": "Tanganyika",
+        "en": "Tanganyika",
+        "slug": "tanganyika"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.429",
+    "lon": "26.876"
+  },
+  "metadata": {},
+  "source": {}
+}

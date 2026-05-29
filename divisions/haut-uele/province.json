@@ -1,0 +1,30 @@
+{
+  "id": "CD53",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Haut-Uele",
+    "en": "Haut-Uele",
+    "slug": "haut-uele"
+  },
+  "code": {
+    "id": "CD53",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "territory": 6,
+    "sector": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.327",
+    "lon": "28.811"
+  },
+  "metadata": {},
+  "source": {}
+}

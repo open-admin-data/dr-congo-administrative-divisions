@@ -1,0 +1,30 @@
+{
+  "id": "CD54",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Ituri",
+    "en": "Ituri",
+    "slug": "ituri"
+  },
+  "code": {
+    "id": "CD54",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "territory": 5,
+    "sector": 36
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.097",
+    "lon": "29.056"
+  },
+  "metadata": {},
+  "source": {}
+}

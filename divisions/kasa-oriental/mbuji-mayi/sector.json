@@ -1,0 +1,542 @@
+[
+  {
+    "id": "CD820101",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Bipemba",
+      "en": "Bipemba",
+      "slug": "bipemba"
+    },
+    "code": {
+      "id": "CD820101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD8201",
+      "level": 2,
+      "name": {
+        "local": "Mbuji-Mayi",
+        "en": "Mbuji-Mayi",
+        "slug": "mbuji-mayi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD82",
+        "level": 1,
+        "name": {
+          "local": "Kasaï-Oriental",
+          "en": "Kasaï-Oriental",
+          "slug": "kasa-oriental"
+        }
+      },
+      {
+        "id": "CD8201",
+        "level": 2,
+        "name": {
+          "local": "Mbuji-Mayi",
+          "en": "Mbuji-Mayi",
+          "slug": "mbuji-mayi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.111",
+      "lon": "23.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD820102",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Bonzola",
+      "en": "Bonzola",
+      "slug": "bonzola"
+    },
+    "code": {
+      "id": "CD820102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD8201",
+      "level": 2,
+      "name": {
+        "local": "Mbuji-Mayi",
+        "en": "Mbuji-Mayi",
+        "slug": "mbuji-mayi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD82",
+        "level": 1,
+        "name": {
+          "local": "Kasaï-Oriental",
+          "en": "Kasaï-Oriental",
+          "slug": "kasa-oriental"
+        }
+      },
+      {
+        "id": "CD8201",
+        "level": 2,
+        "name": {
+          "local": "Mbuji-Mayi",
+          "en": "Mbuji-Mayi",
+          "slug": "mbuji-mayi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.111",
+      "lon": "23.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD820103",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Dibindi",
+      "en": "Dibindi",
+      "slug": "dibindi"
+    },
+    "code": {
+      "id": "CD820103",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD8201",
+      "level": 2,
+      "name": {
+        "local": "Mbuji-Mayi",
+        "en": "Mbuji-Mayi",
+        "slug": "mbuji-mayi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD82",
+        "level": 1,
+        "name": {
+          "local": "Kasaï-Oriental",
+          "en": "Kasaï-Oriental",
+          "slug": "kasa-oriental"
+        }
+      },
+      {
+        "id": "CD8201",
+        "level": 2,
+        "name": {
+          "local": "Mbuji-Mayi",
+          "en": "Mbuji-Mayi",
+          "slug": "mbuji-mayi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.111",
+      "lon": "23.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD820104",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Diulu",
+      "en": "Diulu",
+      "slug": "diulu"
+    },
+    "code": {
+      "id": "CD820104",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD8201",
+      "level": 2,
+      "name": {
+        "local": "Mbuji-Mayi",
+        "en": "Mbuji-Mayi",
+        "slug": "mbuji-mayi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD82",
+        "level": 1,
+        "name": {
+          "local": "Kasaï-Oriental",
+          "en": "Kasaï-Oriental",
+          "slug": "kasa-oriental"
+        }
+      },
+      {
+        "id": "CD8201",
+        "level": 2,
+        "name": {
+          "local": "Mbuji-Mayi",
+          "en": "Mbuji-Mayi",
+          "slug": "mbuji-mayi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.111",
+      "lon": "23.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD820105",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kansele",
+      "en": "Kansele",
+      "slug": "kansele"
+    },
+    "code": {
+      "id": "CD820105",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD8201",
+      "level": 2,
+      "name": {
+        "local": "Mbuji-Mayi",
+        "en": "Mbuji-Mayi",
+        "slug": "mbuji-mayi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD82",
+        "level": 1,
+        "name": {
+          "local": "Kasaï-Oriental",
+          "en": "Kasaï-Oriental",
+          "slug": "kasa-oriental"
+        }
+      },
+      {
+        "id": "CD8201",
+        "level": 2,
+        "name": {
+          "local": "Mbuji-Mayi",
+          "en": "Mbuji-Mayi",
+          "slug": "mbuji-mayi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.111",
+      "lon": "23.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD820106",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Lubilanji",
+      "en": "Lubilanji",
+      "slug": "lubilanji"
+    },
+    "code": {
+      "id": "CD820106",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD8201",
+      "level": 2,
+      "name": {
+        "local": "Mbuji-Mayi",
+        "en": "Mbuji-Mayi",
+        "slug": "mbuji-mayi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD82",
+        "level": 1,
+        "name": {
+          "local": "Kasaï-Oriental",
+          "en": "Kasaï-Oriental",
+          "slug": "kasa-oriental"
+        }
+      },
+      {
+        "id": "CD8201",
+        "level": 2,
+        "name": {
+          "local": "Mbuji-Mayi",
+          "en": "Mbuji-Mayi",
+          "slug": "mbuji-mayi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.111",
+      "lon": "23.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD820107",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Lukelenge",
+      "en": "Lukelenge",
+      "slug": "lukelenge"
+    },
+    "code": {
+      "id": "CD820107",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD8201",
+      "level": 2,
+      "name": {
+        "local": "Mbuji-Mayi",
+        "en": "Mbuji-Mayi",
+        "slug": "mbuji-mayi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD82",
+        "level": 1,
+        "name": {
+          "local": "Kasaï-Oriental",
+          "en": "Kasaï-Oriental",
+          "slug": "kasa-oriental"
+        }
+      },
+      {
+        "id": "CD8201",
+        "level": 2,
+        "name": {
+          "local": "Mbuji-Mayi",
+          "en": "Mbuji-Mayi",
+          "slug": "mbuji-mayi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.111",
+      "lon": "23.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD820108",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Mpokolo",
+      "en": "Mpokolo",
+      "slug": "mpokolo"
+    },
+    "code": {
+      "id": "CD820108",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD8201",
+      "level": 2,
+      "name": {
+        "local": "Mbuji-Mayi",
+        "en": "Mbuji-Mayi",
+        "slug": "mbuji-mayi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD82",
+        "level": 1,
+        "name": {
+          "local": "Kasaï-Oriental",
+          "en": "Kasaï-Oriental",
+          "slug": "kasa-oriental"
+        }
+      },
+      {
+        "id": "CD8201",
+        "level": 2,
+        "name": {
+          "local": "Mbuji-Mayi",
+          "en": "Mbuji-Mayi",
+          "slug": "mbuji-mayi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.111",
+      "lon": "23.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD820109",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Muya",
+      "en": "Muya",
+      "slug": "muya"
+    },
+    "code": {
+      "id": "CD820109",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD8201",
+      "level": 2,
+      "name": {
+        "local": "Mbuji-Mayi",
+        "en": "Mbuji-Mayi",
+        "slug": "mbuji-mayi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD82",
+        "level": 1,
+        "name": {
+          "local": "Kasaï-Oriental",
+          "en": "Kasaï-Oriental",
+          "slug": "kasa-oriental"
+        }
+      },
+      {
+        "id": "CD8201",
+        "level": 2,
+        "name": {
+          "local": "Mbuji-Mayi",
+          "en": "Mbuji-Mayi",
+          "slug": "mbuji-mayi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.111",
+      "lon": "23.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD820110",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Nzaba",
+      "en": "Nzaba",
+      "slug": "nzaba"
+    },
+    "code": {
+      "id": "CD820110",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD8201",
+      "level": 2,
+      "name": {
+        "local": "Mbuji-Mayi",
+        "en": "Mbuji-Mayi",
+        "slug": "mbuji-mayi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD82",
+        "level": 1,
+        "name": {
+          "local": "Kasaï-Oriental",
+          "en": "Kasaï-Oriental",
+          "slug": "kasa-oriental"
+        }
+      },
+      {
+        "id": "CD8201",
+        "level": 2,
+        "name": {
+          "local": "Mbuji-Mayi",
+          "en": "Mbuji-Mayi",
+          "slug": "mbuji-mayi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.111",
+      "lon": "23.61"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

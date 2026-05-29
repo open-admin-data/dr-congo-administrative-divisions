@@ -1,0 +1,30 @@
+{
+  "id": "CD81",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Lomami",
+    "en": "Lomami",
+    "slug": "lomami"
+  },
+  "code": {
+    "id": "CD81",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "territory": 6,
+    "sector": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.407",
+    "lon": "24.627"
+  },
+  "metadata": {},
+  "source": {}
+}

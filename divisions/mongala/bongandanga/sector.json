@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CD440501",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Bongandanga",
+      "en": "Bongandanga",
+      "slug": "bongandanga"
+    },
+    "code": {
+      "id": "CD440501",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD4405",
+      "level": 2,
+      "name": {
+        "local": "Bongandanga",
+        "en": "Bongandanga",
+        "slug": "bongandanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD44",
+        "level": 1,
+        "name": {
+          "local": "Mongala",
+          "en": "Mongala",
+          "slug": "mongala"
+        }
+      },
+      {
+        "id": "CD4405",
+        "level": 2,
+        "name": {
+          "local": "Bongandanga",
+          "en": "Bongandanga",
+          "slug": "bongandanga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.471",
+      "lon": "21.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD440502",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Boso Mondanda",
+      "en": "Boso Mondanda",
+      "slug": "boso-mondanda"
+    },
+    "code": {
+      "id": "CD440502",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD4405",
+      "level": 2,
+      "name": {
+        "local": "Bongandanga",
+        "en": "Bongandanga",
+        "slug": "bongandanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD44",
+        "level": 1,
+        "name": {
+          "local": "Mongala",
+          "en": "Mongala",
+          "slug": "mongala"
+        }
+      },
+      {
+        "id": "CD4405",
+        "level": 2,
+        "name": {
+          "local": "Bongandanga",
+          "en": "Bongandanga",
+          "slug": "bongandanga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.471",
+      "lon": "21.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD440503",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Bosondjo",
+      "en": "Bosondjo",
+      "slug": "bosondjo"
+    },
+    "code": {
+      "id": "CD440503",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD4405",
+      "level": 2,
+      "name": {
+        "local": "Bongandanga",
+        "en": "Bongandanga",
+        "slug": "bongandanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD44",
+        "level": 1,
+        "name": {
+          "local": "Mongala",
+          "en": "Mongala",
+          "slug": "mongala"
+        }
+      },
+      {
+        "id": "CD4405",
+        "level": 2,
+        "name": {
+          "local": "Bongandanga",
+          "en": "Bongandanga",
+          "slug": "bongandanga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.471",
+      "lon": "21.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD440504",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Pimu",
+      "en": "Pimu",
+      "slug": "pimu"
+    },
+    "code": {
+      "id": "CD440504",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD4405",
+      "level": 2,
+      "name": {
+        "local": "Bongandanga",
+        "en": "Bongandanga",
+        "slug": "bongandanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD44",
+        "level": 1,
+        "name": {
+          "local": "Mongala",
+          "en": "Mongala",
+          "slug": "mongala"
+        }
+      },
+      {
+        "id": "CD4405",
+        "level": 2,
+        "name": {
+          "local": "Bongandanga",
+          "en": "Bongandanga",
+          "slug": "bongandanga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.471",
+      "lon": "21.26"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

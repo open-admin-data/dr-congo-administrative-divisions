@@ -1,0 +1,326 @@
+[
+  {
+    "id": "CD540901",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Adi",
+      "en": "Adi",
+      "slug": "adi"
+    },
+    "code": {
+      "id": "CD540901",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5409",
+      "level": 2,
+      "name": {
+        "local": "Aru",
+        "en": "Aru",
+        "slug": "aru"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD54",
+        "level": 1,
+        "name": {
+          "local": "Ituri",
+          "en": "Ituri",
+          "slug": "ituri"
+        }
+      },
+      {
+        "id": "CD5409",
+        "level": 2,
+        "name": {
+          "local": "Aru",
+          "en": "Aru",
+          "slug": "aru"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.029",
+      "lon": "30.457"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD540902",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Adja",
+      "en": "Adja",
+      "slug": "adja"
+    },
+    "code": {
+      "id": "CD540902",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5409",
+      "level": 2,
+      "name": {
+        "local": "Aru",
+        "en": "Aru",
+        "slug": "aru"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD54",
+        "level": 1,
+        "name": {
+          "local": "Ituri",
+          "en": "Ituri",
+          "slug": "ituri"
+        }
+      },
+      {
+        "id": "CD5409",
+        "level": 2,
+        "name": {
+          "local": "Aru",
+          "en": "Aru",
+          "slug": "aru"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.029",
+      "lon": "30.457"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD540903",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Ariwara",
+      "en": "Ariwara",
+      "slug": "ariwara"
+    },
+    "code": {
+      "id": "CD540903",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5409",
+      "level": 2,
+      "name": {
+        "local": "Aru",
+        "en": "Aru",
+        "slug": "aru"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD54",
+        "level": 1,
+        "name": {
+          "local": "Ituri",
+          "en": "Ituri",
+          "slug": "ituri"
+        }
+      },
+      {
+        "id": "CD5409",
+        "level": 2,
+        "name": {
+          "local": "Aru",
+          "en": "Aru",
+          "slug": "aru"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.029",
+      "lon": "30.457"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD540904",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Aru",
+      "en": "Aru",
+      "slug": "aru"
+    },
+    "code": {
+      "id": "CD540904",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5409",
+      "level": 2,
+      "name": {
+        "local": "Aru",
+        "en": "Aru",
+        "slug": "aru"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD54",
+        "level": 1,
+        "name": {
+          "local": "Ituri",
+          "en": "Ituri",
+          "slug": "ituri"
+        }
+      },
+      {
+        "id": "CD5409",
+        "level": 2,
+        "name": {
+          "local": "Aru",
+          "en": "Aru",
+          "slug": "aru"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.029",
+      "lon": "30.457"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD540905",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Biringi",
+      "en": "Biringi",
+      "slug": "biringi"
+    },
+    "code": {
+      "id": "CD540905",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5409",
+      "level": 2,
+      "name": {
+        "local": "Aru",
+        "en": "Aru",
+        "slug": "aru"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD54",
+        "level": 1,
+        "name": {
+          "local": "Ituri",
+          "en": "Ituri",
+          "slug": "ituri"
+        }
+      },
+      {
+        "id": "CD5409",
+        "level": 2,
+        "name": {
+          "local": "Aru",
+          "en": "Aru",
+          "slug": "aru"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.029",
+      "lon": "30.457"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD540906",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Laybo",
+      "en": "Laybo",
+      "slug": "laybo"
+    },
+    "code": {
+      "id": "CD540906",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5409",
+      "level": 2,
+      "name": {
+        "local": "Aru",
+        "en": "Aru",
+        "slug": "aru"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD54",
+        "level": 1,
+        "name": {
+          "local": "Ituri",
+          "en": "Ituri",
+          "slug": "ituri"
+        }
+      },
+      {
+        "id": "CD5409",
+        "level": 2,
+        "name": {
+          "local": "Aru",
+          "en": "Aru",
+          "slug": "aru"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.029",
+      "lon": "30.457"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

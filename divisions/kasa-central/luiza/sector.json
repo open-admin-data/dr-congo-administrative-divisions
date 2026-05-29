@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CD910401",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Luambo",
+      "en": "Luambo",
+      "slug": "luambo"
+    },
+    "code": {
+      "id": "CD910401",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD9104",
+      "level": 2,
+      "name": {
+        "local": "Luiza",
+        "en": "Luiza",
+        "slug": "luiza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD91",
+        "level": 1,
+        "name": {
+          "local": "Kasaï-Central",
+          "en": "Kasaï-Central",
+          "slug": "kasa-central"
+        }
+      },
+      {
+        "id": "CD9104",
+        "level": 2,
+        "name": {
+          "local": "Luiza",
+          "en": "Luiza",
+          "slug": "luiza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.201",
+      "lon": "22.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD910402",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Luiza",
+      "en": "Luiza",
+      "slug": "luiza"
+    },
+    "code": {
+      "id": "CD910402",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD9104",
+      "level": 2,
+      "name": {
+        "local": "Luiza",
+        "en": "Luiza",
+        "slug": "luiza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD91",
+        "level": 1,
+        "name": {
+          "local": "Kasaï-Central",
+          "en": "Kasaï-Central",
+          "slug": "kasa-central"
+        }
+      },
+      {
+        "id": "CD9104",
+        "level": 2,
+        "name": {
+          "local": "Luiza",
+          "en": "Luiza",
+          "slug": "luiza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.201",
+      "lon": "22.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD910403",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Masuika",
+      "en": "Masuika",
+      "slug": "masuika"
+    },
+    "code": {
+      "id": "CD910403",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD9104",
+      "level": 2,
+      "name": {
+        "local": "Luiza",
+        "en": "Luiza",
+        "slug": "luiza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD91",
+        "level": 1,
+        "name": {
+          "local": "Kasaï-Central",
+          "en": "Kasaï-Central",
+          "slug": "kasa-central"
+        }
+      },
+      {
+        "id": "CD9104",
+        "level": 2,
+        "name": {
+          "local": "Luiza",
+          "en": "Luiza",
+          "slug": "luiza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.201",
+      "lon": "22.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD910404",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Yangala",
+      "en": "Yangala",
+      "slug": "yangala"
+    },
+    "code": {
+      "id": "CD910404",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD9104",
+      "level": 2,
+      "name": {
+        "local": "Luiza",
+        "en": "Luiza",
+        "slug": "luiza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD91",
+        "level": 1,
+        "name": {
+          "local": "Kasaï-Central",
+          "en": "Kasaï-Central",
+          "slug": "kasa-central"
+        }
+      },
+      {
+        "id": "CD9104",
+        "level": 2,
+        "name": {
+          "local": "Luiza",
+          "en": "Luiza",
+          "slug": "luiza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.201",
+      "lon": "22.477"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

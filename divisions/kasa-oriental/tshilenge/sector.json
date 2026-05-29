@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CD820201",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kasansa",
+      "en": "Kasansa",
+      "slug": "kasansa"
+    },
+    "code": {
+      "id": "CD820201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD8202",
+      "level": 2,
+      "name": {
+        "local": "Tshilenge",
+        "en": "Tshilenge",
+        "slug": "tshilenge"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD82",
+        "level": 1,
+        "name": {
+          "local": "Kasaï-Oriental",
+          "en": "Kasaï-Oriental",
+          "slug": "kasa-oriental"
+        }
+      },
+      {
+        "id": "CD8202",
+        "level": 2,
+        "name": {
+          "local": "Tshilenge",
+          "en": "Tshilenge",
+          "slug": "tshilenge"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.465",
+      "lon": "23.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD820202",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Tshilenge",
+      "en": "Tshilenge",
+      "slug": "tshilenge"
+    },
+    "code": {
+      "id": "CD820202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD8202",
+      "level": 2,
+      "name": {
+        "local": "Tshilenge",
+        "en": "Tshilenge",
+        "slug": "tshilenge"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD82",
+        "level": 1,
+        "name": {
+          "local": "Kasaï-Oriental",
+          "en": "Kasaï-Oriental",
+          "slug": "kasa-oriental"
+        }
+      },
+      {
+        "id": "CD8202",
+        "level": 2,
+        "name": {
+          "local": "Tshilenge",
+          "en": "Tshilenge",
+          "slug": "tshilenge"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.465",
+      "lon": "23.621"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

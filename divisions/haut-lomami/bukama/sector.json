@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CD730601",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Bukama",
+      "en": "Bukama",
+      "slug": "bukama"
+    },
+    "code": {
+      "id": "CD730601",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7306",
+      "level": 2,
+      "name": {
+        "local": "Bukama",
+        "en": "Bukama",
+        "slug": "bukama"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD73",
+        "level": 1,
+        "name": {
+          "local": "Haut-Lomami",
+          "en": "Haut-Lomami",
+          "slug": "haut-lomami"
+        }
+      },
+      {
+        "id": "CD7306",
+        "level": 2,
+        "name": {
+          "local": "Bukama",
+          "en": "Bukama",
+          "slug": "bukama"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.835",
+      "lon": "26.119"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD730602",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Butumba",
+      "en": "Butumba",
+      "slug": "butumba"
+    },
+    "code": {
+      "id": "CD730602",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7306",
+      "level": 2,
+      "name": {
+        "local": "Bukama",
+        "en": "Bukama",
+        "slug": "bukama"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD73",
+        "level": 1,
+        "name": {
+          "local": "Haut-Lomami",
+          "en": "Haut-Lomami",
+          "slug": "haut-lomami"
+        }
+      },
+      {
+        "id": "CD7306",
+        "level": 2,
+        "name": {
+          "local": "Bukama",
+          "en": "Bukama",
+          "slug": "bukama"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.835",
+      "lon": "26.119"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD730603",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kabondo Dianda",
+      "en": "Kabondo Dianda",
+      "slug": "kabondo-dianda"
+    },
+    "code": {
+      "id": "CD730603",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7306",
+      "level": 2,
+      "name": {
+        "local": "Bukama",
+        "en": "Bukama",
+        "slug": "bukama"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD73",
+        "level": 1,
+        "name": {
+          "local": "Haut-Lomami",
+          "en": "Haut-Lomami",
+          "slug": "haut-lomami"
+        }
+      },
+      {
+        "id": "CD7306",
+        "level": 2,
+        "name": {
+          "local": "Bukama",
+          "en": "Bukama",
+          "slug": "bukama"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.835",
+      "lon": "26.119"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD730604",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Malemba Nkulu",
+      "en": "Malemba Nkulu",
+      "slug": "malemba-nkulu"
+    },
+    "code": {
+      "id": "CD730604",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7306",
+      "level": 2,
+      "name": {
+        "local": "Bukama",
+        "en": "Bukama",
+        "slug": "bukama"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD73",
+        "level": 1,
+        "name": {
+          "local": "Haut-Lomami",
+          "en": "Haut-Lomami",
+          "slug": "haut-lomami"
+        }
+      },
+      {
+        "id": "CD7306",
+        "level": 2,
+        "name": {
+          "local": "Bukama",
+          "en": "Bukama",
+          "slug": "bukama"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.835",
+      "lon": "26.119"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

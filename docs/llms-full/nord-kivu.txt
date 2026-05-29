@@ -1,0 +1,190 @@
+# Nord-Kivu — DR Congo Administrative Divisions
+
+> 9 territorys, 34 sectors
+> Code: CD61
+> Coordinates: -0.559, 28.808
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Territorys
+
+### Beni
+
+Code: CD6109, Coordinates: 0.482, 29.453
+Sectors: 1
+
+#### Beni
+
+Code: CD610901, Coordinates: 0.482, 29.453
+
+### Butembo
+
+Code: CD6110, Coordinates: 0.135, 29.282
+Sectors: 2
+
+#### Butembo
+
+Code: CD611001, Coordinates: 0.135, 29.282
+
+#### Katwa
+
+Code: CD611002, Coordinates: 0.135, 29.282
+
+### Goma
+
+Code: CD6101, Coordinates: -1.655, 29.202
+Sectors: 2
+
+#### Goma
+
+Code: CD610101, Coordinates: -1.655, 29.202
+
+#### Karisimbi
+
+Code: CD610102, Coordinates: -1.655, 29.202
+
+### Lubero
+
+Code: CD6105, Coordinates: -0.06, 28.762
+Sectors: 7
+
+#### Alimbongo
+
+Code: CD610501, Coordinates: -0.06, 28.762
+
+#### Biena
+
+Code: CD610502, Coordinates: -0.06, 28.762
+
+#### Kayna
+
+Code: CD610503, Coordinates: -0.06, 28.762
+
+#### Lubero
+
+Code: CD610504, Coordinates: -0.06, 28.762
+
+#### Manguredjipa
+
+Code: CD610505, Coordinates: -0.06, 28.762
+
+#### Masereka
+
+Code: CD610506, Coordinates: -0.06, 28.762
+
+#### Musienene
+
+Code: CD610507, Coordinates: -0.06, 28.762
+
+### Masisi
+
+Code: CD6103, Coordinates: -1.371, 28.882
+Sectors: 4
+
+#### Katoyi
+
+Code: CD610301, Coordinates: -1.371, 28.882
+
+#### Kirotshe
+
+Code: CD610302, Coordinates: -1.371, 28.882
+
+#### Masisi
+
+Code: CD610303, Coordinates: -1.371, 28.882
+
+#### Mweso
+
+Code: CD610304, Coordinates: -1.371, 28.882
+
+### Nyiragongo
+
+Code: CD6102, Coordinates: -1.553, 29.249
+Sectors: 1
+
+#### Nyiragongo
+
+Code: CD610201, Coordinates: -1.553, 29.249
+
+### Oïcha
+
+Code: CD6107, Coordinates: 0.401, 29.72
+Sectors: 7
+
+#### Kalunguta
+
+Code: CD610701, Coordinates: 0.401, 29.72
+
+#### Kamango
+
+Code: CD610702, Coordinates: 0.401, 29.72
+
+#### Kyondo
+
+Code: CD610703, Coordinates: 0.401, 29.72
+
+#### Mabalako
+
+Code: CD610704, Coordinates: 0.401, 29.72
+
+#### Mutwanga
+
+Code: CD610705, Coordinates: 0.401, 29.72
+
+#### Oicha
+
+Code: CD610706, Coordinates: 0.401, 29.72
+
+#### Vuhovi
+
+Code: CD610707, Coordinates: 0.401, 29.72
+
+### Rutshuru
+
+Code: CD6111, Coordinates: -0.961, 29.327
+Sectors: 6
+
+#### Bambo
+
+Code: CD611101, Coordinates: -0.961, 29.327
+
+#### Binza
+
+Code: CD611102, Coordinates: -0.961, 29.327
+
+#### Birambizo
+
+Code: CD611103, Coordinates: -0.961, 29.327
+
+#### Kibirizi
+
+Code: CD611104, Coordinates: -0.961, 29.327
+
+#### Rutshuru
+
+Code: CD611105, Coordinates: -0.961, 29.327
+
+#### Rwanguba
+
+Code: CD611106, Coordinates: -0.961, 29.327
+
+### Walikale
+
+Code: CD6104, Coordinates: -1.084, 27.984
+Sectors: 4
+
+#### Itebero
+
+Code: CD610401, Coordinates: -1.084, 27.984
+
+#### Kibua
+
+Code: CD610402, Coordinates: -1.084, 27.984
+
+#### Pinga
+
+Code: CD610403, Coordinates: -1.084, 27.984
+
+#### Walikale
+
+Code: CD610404, Coordinates: -1.084, 27.984
+

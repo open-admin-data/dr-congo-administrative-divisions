@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CD620501",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Bunyakiri",
+      "en": "Bunyakiri",
+      "slug": "bunyakiri"
+    },
+    "code": {
+      "id": "CD620501",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6205",
+      "level": 2,
+      "name": {
+        "local": "Kalehe",
+        "en": "Kalehe",
+        "slug": "kalehe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD62",
+        "level": 1,
+        "name": {
+          "local": "Sud-Kivu",
+          "en": "Sud-Kivu",
+          "slug": "sud-kivu"
+        }
+      },
+      {
+        "id": "CD6205",
+        "level": 2,
+        "name": {
+          "local": "Kalehe",
+          "en": "Kalehe",
+          "slug": "kalehe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.031",
+      "lon": "28.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD620502",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kalehe",
+      "en": "Kalehe",
+      "slug": "kalehe"
+    },
+    "code": {
+      "id": "CD620502",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6205",
+      "level": 2,
+      "name": {
+        "local": "Kalehe",
+        "en": "Kalehe",
+        "slug": "kalehe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD62",
+        "level": 1,
+        "name": {
+          "local": "Sud-Kivu",
+          "en": "Sud-Kivu",
+          "slug": "sud-kivu"
+        }
+      },
+      {
+        "id": "CD6205",
+        "level": 2,
+        "name": {
+          "local": "Kalehe",
+          "en": "Kalehe",
+          "slug": "kalehe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.031",
+      "lon": "28.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD620503",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kalonge",
+      "en": "Kalonge",
+      "slug": "kalonge"
+    },
+    "code": {
+      "id": "CD620503",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6205",
+      "level": 2,
+      "name": {
+        "local": "Kalehe",
+        "en": "Kalehe",
+        "slug": "kalehe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD62",
+        "level": 1,
+        "name": {
+          "local": "Sud-Kivu",
+          "en": "Sud-Kivu",
+          "slug": "sud-kivu"
+        }
+      },
+      {
+        "id": "CD6205",
+        "level": 2,
+        "name": {
+          "local": "Kalehe",
+          "en": "Kalehe",
+          "slug": "kalehe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.031",
+      "lon": "28.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD620504",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Minova",
+      "en": "Minova",
+      "slug": "minova"
+    },
+    "code": {
+      "id": "CD620504",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6205",
+      "level": 2,
+      "name": {
+        "local": "Kalehe",
+        "en": "Kalehe",
+        "slug": "kalehe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD62",
+        "level": 1,
+        "name": {
+          "local": "Sud-Kivu",
+          "en": "Sud-Kivu",
+          "slug": "sud-kivu"
+        }
+      },
+      {
+        "id": "CD6205",
+        "level": 2,
+        "name": {
+          "local": "Kalehe",
+          "en": "Kalehe",
+          "slug": "kalehe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.031",
+      "lon": "28.582"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

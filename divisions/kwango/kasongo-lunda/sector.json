@@ -1,0 +1,272 @@
+[
+  {
+    "id": "CD310601",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kasongo Lunda",
+      "en": "Kasongo Lunda",
+      "slug": "kasongo-lunda"
+    },
+    "code": {
+      "id": "CD310601",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD3106",
+      "level": 2,
+      "name": {
+        "local": "Kasongo-Lunda",
+        "en": "Kasongo-Lunda",
+        "slug": "kasongo-lunda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD31",
+        "level": 1,
+        "name": {
+          "local": "Kwango",
+          "en": "Kwango",
+          "slug": "kwango"
+        }
+      },
+      {
+        "id": "CD3106",
+        "level": 2,
+        "name": {
+          "local": "Kasongo-Lunda",
+          "en": "Kasongo-Lunda",
+          "slug": "kasongo-lunda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.181",
+      "lon": "17.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD310602",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kitenda",
+      "en": "Kitenda",
+      "slug": "kitenda"
+    },
+    "code": {
+      "id": "CD310602",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD3106",
+      "level": 2,
+      "name": {
+        "local": "Kasongo-Lunda",
+        "en": "Kasongo-Lunda",
+        "slug": "kasongo-lunda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD31",
+        "level": 1,
+        "name": {
+          "local": "Kwango",
+          "en": "Kwango",
+          "slug": "kwango"
+        }
+      },
+      {
+        "id": "CD3106",
+        "level": 2,
+        "name": {
+          "local": "Kasongo-Lunda",
+          "en": "Kasongo-Lunda",
+          "slug": "kasongo-lunda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.181",
+      "lon": "17.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD310603",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Panzi",
+      "en": "Panzi",
+      "slug": "panzi"
+    },
+    "code": {
+      "id": "CD310603",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD3106",
+      "level": 2,
+      "name": {
+        "local": "Kasongo-Lunda",
+        "en": "Kasongo-Lunda",
+        "slug": "kasongo-lunda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD31",
+        "level": 1,
+        "name": {
+          "local": "Kwango",
+          "en": "Kwango",
+          "slug": "kwango"
+        }
+      },
+      {
+        "id": "CD3106",
+        "level": 2,
+        "name": {
+          "local": "Kasongo-Lunda",
+          "en": "Kasongo-Lunda",
+          "slug": "kasongo-lunda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.181",
+      "lon": "17.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD310604",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Tembo",
+      "en": "Tembo",
+      "slug": "tembo"
+    },
+    "code": {
+      "id": "CD310604",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD3106",
+      "level": 2,
+      "name": {
+        "local": "Kasongo-Lunda",
+        "en": "Kasongo-Lunda",
+        "slug": "kasongo-lunda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD31",
+        "level": 1,
+        "name": {
+          "local": "Kwango",
+          "en": "Kwango",
+          "slug": "kwango"
+        }
+      },
+      {
+        "id": "CD3106",
+        "level": 2,
+        "name": {
+          "local": "Kasongo-Lunda",
+          "en": "Kasongo-Lunda",
+          "slug": "kasongo-lunda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.181",
+      "lon": "17.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD310605",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Wamba Lwadi",
+      "en": "Wamba Lwadi",
+      "slug": "wamba-lwadi"
+    },
+    "code": {
+      "id": "CD310605",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD3106",
+      "level": 2,
+      "name": {
+        "local": "Kasongo-Lunda",
+        "en": "Kasongo-Lunda",
+        "slug": "kasongo-lunda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD31",
+        "level": 1,
+        "name": {
+          "local": "Kwango",
+          "en": "Kwango",
+          "slug": "kwango"
+        }
+      },
+      {
+        "id": "CD3106",
+        "level": 2,
+        "name": {
+          "local": "Kasongo-Lunda",
+          "en": "Kasongo-Lunda",
+          "slug": "kasongo-lunda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.181",
+      "lon": "17.796"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

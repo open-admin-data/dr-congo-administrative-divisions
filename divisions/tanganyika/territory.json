@@ -1,0 +1,284 @@
+[
+  {
+    "id": "CD7407",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Kabalo",
+      "en": "Kabalo",
+      "slug": "kabalo"
+    },
+    "code": {
+      "id": "CD7407",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD74",
+      "level": 1,
+      "name": {
+        "local": "Tanganyika",
+        "en": "Tanganyika",
+        "slug": "tanganyika"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD74",
+        "level": 1,
+        "name": {
+          "local": "Tanganyika",
+          "en": "Tanganyika",
+          "slug": "tanganyika"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.184",
+      "lon": "26.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD7402",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Kalemie",
+      "en": "Kalemie",
+      "slug": "kalemie"
+    },
+    "code": {
+      "id": "CD7402",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD74",
+      "level": 1,
+      "name": {
+        "local": "Tanganyika",
+        "en": "Tanganyika",
+        "slug": "tanganyika"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD74",
+        "level": 1,
+        "name": {
+          "local": "Tanganyika",
+          "en": "Tanganyika",
+          "slug": "tanganyika"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.066",
+      "lon": "28.889"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD7409",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Kongolo",
+      "en": "Kongolo",
+      "slug": "kongolo"
+    },
+    "code": {
+      "id": "CD7409",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD74",
+      "level": 1,
+      "name": {
+        "local": "Tanganyika",
+        "en": "Tanganyika",
+        "slug": "tanganyika"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD74",
+        "level": 1,
+        "name": {
+          "local": "Tanganyika",
+          "en": "Tanganyika",
+          "slug": "tanganyika"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.429",
+      "lon": "26.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD7406",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Manono",
+      "en": "Manono",
+      "slug": "manono"
+    },
+    "code": {
+      "id": "CD7406",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD74",
+      "level": 1,
+      "name": {
+        "local": "Tanganyika",
+        "en": "Tanganyika",
+        "slug": "tanganyika"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD74",
+        "level": 1,
+        "name": {
+          "local": "Tanganyika",
+          "en": "Tanganyika",
+          "slug": "tanganyika"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.421",
+      "lon": "27.589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD7404",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Moba",
+      "en": "Moba",
+      "slug": "moba"
+    },
+    "code": {
+      "id": "CD7404",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD74",
+      "level": 1,
+      "name": {
+        "local": "Tanganyika",
+        "en": "Tanganyika",
+        "slug": "tanganyika"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD74",
+        "level": 1,
+        "name": {
+          "local": "Tanganyika",
+          "en": "Tanganyika",
+          "slug": "tanganyika"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.405",
+      "lon": "29.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD7410",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Nyunzu",
+      "en": "Nyunzu",
+      "slug": "nyunzu"
+    },
+    "code": {
+      "id": "CD7410",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD74",
+      "level": 1,
+      "name": {
+        "local": "Tanganyika",
+        "en": "Tanganyika",
+        "slug": "tanganyika"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD74",
+        "level": 1,
+        "name": {
+          "local": "Tanganyika",
+          "en": "Tanganyika",
+          "slug": "tanganyika"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.86",
+      "lon": "27.66"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

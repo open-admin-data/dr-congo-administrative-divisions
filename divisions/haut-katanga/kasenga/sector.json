@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CD710701",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kasenga",
+      "en": "Kasenga",
+      "slug": "kasenga"
+    },
+    "code": {
+      "id": "CD710701",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7107",
+      "level": 2,
+      "name": {
+        "local": "Kasenga",
+        "en": "Kasenga",
+        "slug": "kasenga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD71",
+        "level": 1,
+        "name": {
+          "local": "Haut-Katanga",
+          "en": "Haut-Katanga",
+          "slug": "haut-katanga"
+        }
+      },
+      {
+        "id": "CD7107",
+        "level": 2,
+        "name": {
+          "local": "Kasenga",
+          "en": "Kasenga",
+          "slug": "kasenga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.367",
+      "lon": "27.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD710704",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kashobwe",
+      "en": "Kashobwe",
+      "slug": "kashobwe"
+    },
+    "code": {
+      "id": "CD710704",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7107",
+      "level": 2,
+      "name": {
+        "local": "Kasenga",
+        "en": "Kasenga",
+        "slug": "kasenga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD71",
+        "level": 1,
+        "name": {
+          "local": "Haut-Katanga",
+          "en": "Haut-Katanga",
+          "slug": "haut-katanga"
+        }
+      },
+      {
+        "id": "CD7107",
+        "level": 2,
+        "name": {
+          "local": "Kasenga",
+          "en": "Kasenga",
+          "slug": "kasenga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.367",
+      "lon": "27.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD710702",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kikula",
+      "en": "Kikula",
+      "slug": "kikula"
+    },
+    "code": {
+      "id": "CD710702",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7107",
+      "level": 2,
+      "name": {
+        "local": "Kasenga",
+        "en": "Kasenga",
+        "slug": "kasenga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD71",
+        "level": 1,
+        "name": {
+          "local": "Haut-Katanga",
+          "en": "Haut-Katanga",
+          "slug": "haut-katanga"
+        }
+      },
+      {
+        "id": "CD7107",
+        "level": 2,
+        "name": {
+          "local": "Kasenga",
+          "en": "Kasenga",
+          "slug": "kasenga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.367",
+      "lon": "27.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD710703",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Lukafu",
+      "en": "Lukafu",
+      "slug": "lukafu"
+    },
+    "code": {
+      "id": "CD710703",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7107",
+      "level": 2,
+      "name": {
+        "local": "Kasenga",
+        "en": "Kasenga",
+        "slug": "kasenga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD71",
+        "level": 1,
+        "name": {
+          "local": "Haut-Katanga",
+          "en": "Haut-Katanga",
+          "slug": "haut-katanga"
+        }
+      },
+      {
+        "id": "CD7107",
+        "level": 2,
+        "name": {
+          "local": "Kasenga",
+          "en": "Kasenga",
+          "slug": "kasenga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.367",
+      "lon": "27.882"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

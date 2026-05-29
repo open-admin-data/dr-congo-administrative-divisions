@@ -1,0 +1,47 @@
+{
+  "id": "CD4507",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Monkoto",
+    "en": "Monkoto",
+    "slug": "monkoto"
+  },
+  "code": {
+    "id": "CD4507",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD45",
+    "level": 1,
+    "name": {
+      "local": "Tshuapa",
+      "en": "Tshuapa",
+      "slug": "tshuapa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD45",
+      "level": 1,
+      "name": {
+        "local": "Tshuapa",
+        "en": "Tshuapa",
+        "slug": "tshuapa"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.597",
+    "lon": "20.9"
+  },
+  "metadata": {},
+  "source": {}
+}

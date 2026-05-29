@@ -1,0 +1,98 @@
+# Sud-Ubangi — DR Congo Administrative Divisions
+
+> 5 territorys, 16 sectors
+> Code: CD42
+> Coordinates: 3.341, 19.447
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Territorys
+
+### Budjala
+
+Code: CD4203, Coordinates: 2.6, 20.065
+Sectors: 5
+
+#### Bangabola
+
+Code: CD420301, Coordinates: 2.6, 20.065
+
+#### Budjala
+
+Code: CD420302, Coordinates: 2.6, 20.065
+
+#### Bulu
+
+Code: CD420303, Coordinates: 2.6, 20.065
+
+#### Mbaya
+
+Code: CD420304, Coordinates: 2.6, 20.065
+
+#### Ndage
+
+Code: CD420305, Coordinates: 2.6, 20.065
+
+### Gemena
+
+Code: CD4202, Coordinates: 3.437, 19.708
+Sectors: 5
+
+#### Bogosenubia
+
+Code: CD420201, Coordinates: 3.437, 19.708
+
+#### Bominenge
+
+Code: CD420202, Coordinates: 3.437, 19.708
+
+#### Bwamanda
+
+Code: CD420203, Coordinates: 3.437, 19.708
+
+#### Gemena
+
+Code: CD420204, Coordinates: 3.437, 19.708
+
+#### Tandala
+
+Code: CD420205, Coordinates: 3.437, 19.708
+
+### Kungu
+
+Code: CD4204, Coordinates: 2.549, 18.747
+Sectors: 3
+
+#### Bokonzi
+
+Code: CD420401, Coordinates: 2.549, 18.747
+
+#### Boto
+
+Code: CD420402, Coordinates: 2.549, 18.747
+
+#### Kungu
+
+Code: CD420403, Coordinates: 2.549, 18.747
+
+### Libenge
+
+Code: CD4205, Coordinates: 3.76, 18.976
+Sectors: 2
+
+#### Libenge
+
+Code: CD420501, Coordinates: 3.76, 18.976
+
+#### Mawuya
+
+Code: CD420502, Coordinates: 3.76, 18.976
+
+### Zongo
+
+Code: CD4206, Coordinates: 4.186, 18.72
+Sectors: 1
+
+#### Zongo
+
+Code: CD420601, Coordinates: 4.186, 18.72
+

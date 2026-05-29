@@ -1,0 +1,56 @@
+[
+  {
+    "id": "CD410501",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Makanza",
+      "en": "Makanza",
+      "slug": "makanza"
+    },
+    "code": {
+      "id": "CD410501",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD4105",
+      "level": 2,
+      "name": {
+        "local": "Makanza",
+        "en": "Makanza",
+        "slug": "makanza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD41",
+        "level": 1,
+        "name": {
+          "local": "Equateur",
+          "en": "Equateur",
+          "slug": "equateur"
+        }
+      },
+      {
+        "id": "CD4105",
+        "level": 2,
+        "name": {
+          "local": "Makanza",
+          "en": "Makanza",
+          "slug": "makanza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.263",
+      "lon": "18.799"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "CD4204",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Kungu",
+    "en": "Kungu",
+    "slug": "kungu"
+  },
+  "code": {
+    "id": "CD4204",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD42",
+    "level": 1,
+    "name": {
+      "local": "Sud-Ubangi",
+      "en": "Sud-Ubangi",
+      "slug": "sud-ubangi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD42",
+      "level": 1,
+      "name": {
+        "local": "Sud-Ubangi",
+        "en": "Sud-Ubangi",
+        "slug": "sud-ubangi"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.549",
+    "lon": "18.747"
+  },
+  "metadata": {},
+  "source": {}
+}

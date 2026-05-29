@@ -1,0 +1,378 @@
+[
+  {
+    "id": "CD7105",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Kambove",
+      "en": "Kambove",
+      "slug": "kambove"
+    },
+    "code": {
+      "id": "CD7105",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD71",
+      "level": 1,
+      "name": {
+        "local": "Haut-Katanga",
+        "en": "Haut-Katanga",
+        "slug": "haut-katanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD71",
+        "level": 1,
+        "name": {
+          "local": "Haut-Katanga",
+          "en": "Haut-Katanga",
+          "slug": "haut-katanga"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.236",
+      "lon": "26.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD7107",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Kasenga",
+      "en": "Kasenga",
+      "slug": "kasenga"
+    },
+    "code": {
+      "id": "CD7107",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD71",
+      "level": 1,
+      "name": {
+        "local": "Haut-Katanga",
+        "en": "Haut-Katanga",
+        "slug": "haut-katanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD71",
+        "level": 1,
+        "name": {
+          "local": "Haut-Katanga",
+          "en": "Haut-Katanga",
+          "slug": "haut-katanga"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.367",
+      "lon": "27.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD7102",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Kipushi",
+      "en": "Kipushi",
+      "slug": "kipushi"
+    },
+    "code": {
+      "id": "CD7102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD71",
+      "level": 1,
+      "name": {
+        "local": "Haut-Katanga",
+        "en": "Haut-Katanga",
+        "slug": "haut-katanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD71",
+        "level": 1,
+        "name": {
+          "local": "Haut-Katanga",
+          "en": "Haut-Katanga",
+          "slug": "haut-katanga"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.623",
+      "lon": "27.999"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD7106",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Likasi",
+      "en": "Likasi",
+      "slug": "likasi"
+    },
+    "code": {
+      "id": "CD7106",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD71",
+      "level": 1,
+      "name": {
+        "local": "Haut-Katanga",
+        "en": "Haut-Katanga",
+        "slug": "haut-katanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD71",
+        "level": 1,
+        "name": {
+          "local": "Haut-Katanga",
+          "en": "Haut-Katanga",
+          "slug": "haut-katanga"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.964",
+      "lon": "26.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD7101",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Lubumbashi",
+      "en": "Lubumbashi",
+      "slug": "lubumbashi"
+    },
+    "code": {
+      "id": "CD7101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD71",
+      "level": 1,
+      "name": {
+        "local": "Haut-Katanga",
+        "en": "Haut-Katanga",
+        "slug": "haut-katanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD71",
+        "level": 1,
+        "name": {
+          "local": "Haut-Katanga",
+          "en": "Haut-Katanga",
+          "slug": "haut-katanga"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.655",
+      "lon": "27.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD7108",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Mitwaba",
+      "en": "Mitwaba",
+      "slug": "mitwaba"
+    },
+    "code": {
+      "id": "CD7108",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD71",
+      "level": 1,
+      "name": {
+        "local": "Haut-Katanga",
+        "en": "Haut-Katanga",
+        "slug": "haut-katanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD71",
+        "level": 1,
+        "name": {
+          "local": "Haut-Katanga",
+          "en": "Haut-Katanga",
+          "slug": "haut-katanga"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.111",
+      "lon": "27.099"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD7109",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Pweto",
+      "en": "Pweto",
+      "slug": "pweto"
+    },
+    "code": {
+      "id": "CD7109",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD71",
+      "level": 1,
+      "name": {
+        "local": "Haut-Katanga",
+        "en": "Haut-Katanga",
+        "slug": "haut-katanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD71",
+        "level": 1,
+        "name": {
+          "local": "Haut-Katanga",
+          "en": "Haut-Katanga",
+          "slug": "haut-katanga"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.693",
+      "lon": "28.309"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD7104",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Sakania",
+      "en": "Sakania",
+      "slug": "sakania"
+    },
+    "code": {
+      "id": "CD7104",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD71",
+      "level": 1,
+      "name": {
+        "local": "Haut-Katanga",
+        "en": "Haut-Katanga",
+        "slug": "haut-katanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD71",
+        "level": 1,
+        "name": {
+          "local": "Haut-Katanga",
+          "en": "Haut-Katanga",
+          "slug": "haut-katanga"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.605",
+      "lon": "29.156"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

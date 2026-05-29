@@ -1,0 +1,47 @@
+{
+  "id": "CD8308",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Katako-Kombe",
+    "en": "Katako-Kombe",
+    "slug": "katako-kombe"
+  },
+  "code": {
+    "id": "CD8308",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD83",
+    "level": 1,
+    "name": {
+      "local": "Sankuru",
+      "en": "Sankuru",
+      "slug": "sankuru"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD83",
+      "level": 1,
+      "name": {
+        "local": "Sankuru",
+        "en": "Sankuru",
+        "slug": "sankuru"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.372",
+    "lon": "24.414"
+  },
+  "metadata": {},
+  "source": {}
+}

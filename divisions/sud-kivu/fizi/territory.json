@@ -1,0 +1,47 @@
+{
+  "id": "CD6210",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Fizi",
+    "en": "Fizi",
+    "slug": "fizi"
+  },
+  "code": {
+    "id": "CD6210",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD62",
+    "level": 1,
+    "name": {
+      "local": "Sud-Kivu",
+      "en": "Sud-Kivu",
+      "slug": "sud-kivu"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD62",
+      "level": 1,
+      "name": {
+        "local": "Sud-Kivu",
+        "en": "Sud-Kivu",
+        "slug": "sud-kivu"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.276",
+    "lon": "28.883"
+  },
+  "metadata": {},
+  "source": {}
+}

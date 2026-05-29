@@ -1,0 +1,272 @@
+[
+  {
+    "id": "CD620201",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kabare",
+      "en": "Kabare",
+      "slug": "kabare"
+    },
+    "code": {
+      "id": "CD620201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6202",
+      "level": 2,
+      "name": {
+        "local": "Kabare",
+        "en": "Kabare",
+        "slug": "kabare"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD62",
+        "level": 1,
+        "name": {
+          "local": "Sud-Kivu",
+          "en": "Sud-Kivu",
+          "slug": "sud-kivu"
+        }
+      },
+      {
+        "id": "CD6202",
+        "level": 2,
+        "name": {
+          "local": "Kabare",
+          "en": "Kabare",
+          "slug": "kabare"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.407",
+      "lon": "28.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD620202",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kaniola",
+      "en": "Kaniola",
+      "slug": "kaniola"
+    },
+    "code": {
+      "id": "CD620202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6202",
+      "level": 2,
+      "name": {
+        "local": "Kabare",
+        "en": "Kabare",
+        "slug": "kabare"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD62",
+        "level": 1,
+        "name": {
+          "local": "Sud-Kivu",
+          "en": "Sud-Kivu",
+          "slug": "sud-kivu"
+        }
+      },
+      {
+        "id": "CD6202",
+        "level": 2,
+        "name": {
+          "local": "Kabare",
+          "en": "Kabare",
+          "slug": "kabare"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.407",
+      "lon": "28.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD620203",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Katana",
+      "en": "Katana",
+      "slug": "katana"
+    },
+    "code": {
+      "id": "CD620203",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6202",
+      "level": 2,
+      "name": {
+        "local": "Kabare",
+        "en": "Kabare",
+        "slug": "kabare"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD62",
+        "level": 1,
+        "name": {
+          "local": "Sud-Kivu",
+          "en": "Sud-Kivu",
+          "slug": "sud-kivu"
+        }
+      },
+      {
+        "id": "CD6202",
+        "level": 2,
+        "name": {
+          "local": "Kabare",
+          "en": "Kabare",
+          "slug": "kabare"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.407",
+      "lon": "28.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD620204",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Miti-Murhesa",
+      "en": "Miti-Murhesa",
+      "slug": "miti-murhesa"
+    },
+    "code": {
+      "id": "CD620204",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6202",
+      "level": 2,
+      "name": {
+        "local": "Kabare",
+        "en": "Kabare",
+        "slug": "kabare"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD62",
+        "level": 1,
+        "name": {
+          "local": "Sud-Kivu",
+          "en": "Sud-Kivu",
+          "slug": "sud-kivu"
+        }
+      },
+      {
+        "id": "CD6202",
+        "level": 2,
+        "name": {
+          "local": "Kabare",
+          "en": "Kabare",
+          "slug": "kabare"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.407",
+      "lon": "28.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD620205",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Nyantende",
+      "en": "Nyantende",
+      "slug": "nyantende"
+    },
+    "code": {
+      "id": "CD620205",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6202",
+      "level": 2,
+      "name": {
+        "local": "Kabare",
+        "en": "Kabare",
+        "slug": "kabare"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD62",
+        "level": 1,
+        "name": {
+          "local": "Sud-Kivu",
+          "en": "Sud-Kivu",
+          "slug": "sud-kivu"
+        }
+      },
+      {
+        "id": "CD6202",
+        "level": 2,
+        "name": {
+          "local": "Kabare",
+          "en": "Kabare",
+          "slug": "kabare"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.407",
+      "lon": "28.769"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "CD5102",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Ubundu",
+    "en": "Ubundu",
+    "slug": "ubundu"
+  },
+  "code": {
+    "id": "CD5102",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD51",
+    "level": 1,
+    "name": {
+      "local": "Tshopo",
+      "en": "Tshopo",
+      "slug": "tshopo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD51",
+      "level": 1,
+      "name": {
+        "local": "Tshopo",
+        "en": "Tshopo",
+        "slug": "tshopo"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.602",
+    "lon": "25.394"
+  },
+  "metadata": {},
+  "source": {}
+}

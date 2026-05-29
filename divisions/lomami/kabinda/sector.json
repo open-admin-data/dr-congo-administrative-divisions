@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CD810201",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kabinda",
+      "en": "Kabinda",
+      "slug": "kabinda"
+    },
+    "code": {
+      "id": "CD810201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD8102",
+      "level": 2,
+      "name": {
+        "local": "Kabinda",
+        "en": "Kabinda",
+        "slug": "kabinda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD81",
+        "level": 1,
+        "name": {
+          "local": "Lomami",
+          "en": "Lomami",
+          "slug": "lomami"
+        }
+      },
+      {
+        "id": "CD8102",
+        "level": 2,
+        "name": {
+          "local": "Kabinda",
+          "en": "Kabinda",
+          "slug": "kabinda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.075",
+      "lon": "24.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD810202",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kalonda Est",
+      "en": "Kalonda Est",
+      "slug": "kalonda-est"
+    },
+    "code": {
+      "id": "CD810202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD8102",
+      "level": 2,
+      "name": {
+        "local": "Kabinda",
+        "en": "Kabinda",
+        "slug": "kabinda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD81",
+        "level": 1,
+        "name": {
+          "local": "Lomami",
+          "en": "Lomami",
+          "slug": "lomami"
+        }
+      },
+      {
+        "id": "CD8102",
+        "level": 2,
+        "name": {
+          "local": "Kabinda",
+          "en": "Kabinda",
+          "slug": "kabinda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.075",
+      "lon": "24.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD810203",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Ludimbi Lukula",
+      "en": "Ludimbi Lukula",
+      "slug": "ludimbi-lukula"
+    },
+    "code": {
+      "id": "CD810203",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD8102",
+      "level": 2,
+      "name": {
+        "local": "Kabinda",
+        "en": "Kabinda",
+        "slug": "kabinda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD81",
+        "level": 1,
+        "name": {
+          "local": "Lomami",
+          "en": "Lomami",
+          "slug": "lomami"
+        }
+      },
+      {
+        "id": "CD8102",
+        "level": 2,
+        "name": {
+          "local": "Kabinda",
+          "en": "Kabinda",
+          "slug": "kabinda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.075",
+      "lon": "24.611"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "CD8104",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Luilu",
+    "en": "Luilu",
+    "slug": "luilu"
+  },
+  "code": {
+    "id": "CD8104",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD81",
+    "level": 1,
+    "name": {
+      "local": "Lomami",
+      "en": "Lomami",
+      "slug": "lomami"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD81",
+      "level": 1,
+      "name": {
+        "local": "Lomami",
+        "en": "Lomami",
+        "slug": "lomami"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.313",
+    "lon": "23.602"
+  },
+  "metadata": {},
+  "source": {}
+}

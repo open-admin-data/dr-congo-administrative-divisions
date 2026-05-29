@@ -1,0 +1,47 @@
+{
+  "id": "CD5208",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Poko",
+    "en": "Poko",
+    "slug": "poko"
+  },
+  "code": {
+    "id": "CD5208",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD52",
+    "level": 1,
+    "name": {
+      "local": "Bas-Uele",
+      "en": "Bas-Uele",
+      "slug": "bas-uele"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD52",
+      "level": 1,
+      "name": {
+        "local": "Bas-Uele",
+        "en": "Bas-Uele",
+        "slug": "bas-uele"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.982",
+    "lon": "27.051"
+  },
+  "metadata": {},
+  "source": {}
+}

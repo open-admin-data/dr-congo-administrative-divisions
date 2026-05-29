@@ -1,0 +1,326 @@
+[
+  {
+    "id": "CD540201",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Boga",
+      "en": "Boga",
+      "slug": "boga"
+    },
+    "code": {
+      "id": "CD540201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5402",
+      "level": 2,
+      "name": {
+        "local": "Irumu",
+        "en": "Irumu",
+        "slug": "irumu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD54",
+        "level": 1,
+        "name": {
+          "local": "Ituri",
+          "en": "Ituri",
+          "slug": "ituri"
+        }
+      },
+      {
+        "id": "CD5402",
+        "level": 2,
+        "name": {
+          "local": "Irumu",
+          "en": "Irumu",
+          "slug": "irumu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.27",
+      "lon": "30.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD540202",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Bunia",
+      "en": "Bunia",
+      "slug": "bunia"
+    },
+    "code": {
+      "id": "CD540202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5402",
+      "level": 2,
+      "name": {
+        "local": "Irumu",
+        "en": "Irumu",
+        "slug": "irumu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD54",
+        "level": 1,
+        "name": {
+          "local": "Ituri",
+          "en": "Ituri",
+          "slug": "ituri"
+        }
+      },
+      {
+        "id": "CD5402",
+        "level": 2,
+        "name": {
+          "local": "Irumu",
+          "en": "Irumu",
+          "slug": "irumu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.27",
+      "lon": "30.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD540203",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Gethy",
+      "en": "Gethy",
+      "slug": "gethy"
+    },
+    "code": {
+      "id": "CD540203",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5402",
+      "level": 2,
+      "name": {
+        "local": "Irumu",
+        "en": "Irumu",
+        "slug": "irumu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD54",
+        "level": 1,
+        "name": {
+          "local": "Ituri",
+          "en": "Ituri",
+          "slug": "ituri"
+        }
+      },
+      {
+        "id": "CD5402",
+        "level": 2,
+        "name": {
+          "local": "Irumu",
+          "en": "Irumu",
+          "slug": "irumu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.27",
+      "lon": "30.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD540204",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Komanda",
+      "en": "Komanda",
+      "slug": "komanda"
+    },
+    "code": {
+      "id": "CD540204",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5402",
+      "level": 2,
+      "name": {
+        "local": "Irumu",
+        "en": "Irumu",
+        "slug": "irumu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD54",
+        "level": 1,
+        "name": {
+          "local": "Ituri",
+          "en": "Ituri",
+          "slug": "ituri"
+        }
+      },
+      {
+        "id": "CD5402",
+        "level": 2,
+        "name": {
+          "local": "Irumu",
+          "en": "Irumu",
+          "slug": "irumu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.27",
+      "lon": "30.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD540205",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Nyakunde",
+      "en": "Nyakunde",
+      "slug": "nyakunde"
+    },
+    "code": {
+      "id": "CD540205",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5402",
+      "level": 2,
+      "name": {
+        "local": "Irumu",
+        "en": "Irumu",
+        "slug": "irumu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD54",
+        "level": 1,
+        "name": {
+          "local": "Ituri",
+          "en": "Ituri",
+          "slug": "ituri"
+        }
+      },
+      {
+        "id": "CD5402",
+        "level": 2,
+        "name": {
+          "local": "Irumu",
+          "en": "Irumu",
+          "slug": "irumu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.27",
+      "lon": "30.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD540206",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Rwampara",
+      "en": "Rwampara",
+      "slug": "rwampara"
+    },
+    "code": {
+      "id": "CD540206",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5402",
+      "level": 2,
+      "name": {
+        "local": "Irumu",
+        "en": "Irumu",
+        "slug": "irumu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD54",
+        "level": 1,
+        "name": {
+          "local": "Ituri",
+          "en": "Ituri",
+          "slug": "ituri"
+        }
+      },
+      {
+        "id": "CD5402",
+        "level": 2,
+        "name": {
+          "local": "Irumu",
+          "en": "Irumu",
+          "slug": "irumu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.27",
+      "lon": "30.017"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

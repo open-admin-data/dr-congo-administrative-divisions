@@ -1,0 +1,380 @@
+[
+  {
+    "id": "CD540701",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Angumu",
+      "en": "Angumu",
+      "slug": "angumu"
+    },
+    "code": {
+      "id": "CD540701",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5407",
+      "level": 2,
+      "name": {
+        "local": "Mahagi",
+        "en": "Mahagi",
+        "slug": "mahagi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD54",
+        "level": 1,
+        "name": {
+          "local": "Ituri",
+          "en": "Ituri",
+          "slug": "ituri"
+        }
+      },
+      {
+        "id": "CD5407",
+        "level": 2,
+        "name": {
+          "local": "Mahagi",
+          "en": "Mahagi",
+          "slug": "mahagi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.325",
+      "lon": "30.673"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD540702",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Aungba",
+      "en": "Aungba",
+      "slug": "aungba"
+    },
+    "code": {
+      "id": "CD540702",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5407",
+      "level": 2,
+      "name": {
+        "local": "Mahagi",
+        "en": "Mahagi",
+        "slug": "mahagi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD54",
+        "level": 1,
+        "name": {
+          "local": "Ituri",
+          "en": "Ituri",
+          "slug": "ituri"
+        }
+      },
+      {
+        "id": "CD5407",
+        "level": 2,
+        "name": {
+          "local": "Mahagi",
+          "en": "Mahagi",
+          "slug": "mahagi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.325",
+      "lon": "30.673"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD540703",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kambala",
+      "en": "Kambala",
+      "slug": "kambala"
+    },
+    "code": {
+      "id": "CD540703",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5407",
+      "level": 2,
+      "name": {
+        "local": "Mahagi",
+        "en": "Mahagi",
+        "slug": "mahagi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD54",
+        "level": 1,
+        "name": {
+          "local": "Ituri",
+          "en": "Ituri",
+          "slug": "ituri"
+        }
+      },
+      {
+        "id": "CD5407",
+        "level": 2,
+        "name": {
+          "local": "Mahagi",
+          "en": "Mahagi",
+          "slug": "mahagi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.325",
+      "lon": "30.673"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD540704",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Logo",
+      "en": "Logo",
+      "slug": "logo"
+    },
+    "code": {
+      "id": "CD540704",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5407",
+      "level": 2,
+      "name": {
+        "local": "Mahagi",
+        "en": "Mahagi",
+        "slug": "mahagi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD54",
+        "level": 1,
+        "name": {
+          "local": "Ituri",
+          "en": "Ituri",
+          "slug": "ituri"
+        }
+      },
+      {
+        "id": "CD5407",
+        "level": 2,
+        "name": {
+          "local": "Mahagi",
+          "en": "Mahagi",
+          "slug": "mahagi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.325",
+      "lon": "30.673"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD540705",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Mahagi",
+      "en": "Mahagi",
+      "slug": "mahagi"
+    },
+    "code": {
+      "id": "CD540705",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5407",
+      "level": 2,
+      "name": {
+        "local": "Mahagi",
+        "en": "Mahagi",
+        "slug": "mahagi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD54",
+        "level": 1,
+        "name": {
+          "local": "Ituri",
+          "en": "Ituri",
+          "slug": "ituri"
+        }
+      },
+      {
+        "id": "CD5407",
+        "level": 2,
+        "name": {
+          "local": "Mahagi",
+          "en": "Mahagi",
+          "slug": "mahagi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.325",
+      "lon": "30.673"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD540706",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Nyarambe",
+      "en": "Nyarambe",
+      "slug": "nyarambe"
+    },
+    "code": {
+      "id": "CD540706",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5407",
+      "level": 2,
+      "name": {
+        "local": "Mahagi",
+        "en": "Mahagi",
+        "slug": "mahagi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD54",
+        "level": 1,
+        "name": {
+          "local": "Ituri",
+          "en": "Ituri",
+          "slug": "ituri"
+        }
+      },
+      {
+        "id": "CD5407",
+        "level": 2,
+        "name": {
+          "local": "Mahagi",
+          "en": "Mahagi",
+          "slug": "mahagi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.325",
+      "lon": "30.673"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD540707",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Rimba",
+      "en": "Rimba",
+      "slug": "rimba"
+    },
+    "code": {
+      "id": "CD540707",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5407",
+      "level": 2,
+      "name": {
+        "local": "Mahagi",
+        "en": "Mahagi",
+        "slug": "mahagi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD54",
+        "level": 1,
+        "name": {
+          "local": "Ituri",
+          "en": "Ituri",
+          "slug": "ituri"
+        }
+      },
+      {
+        "id": "CD5407",
+        "level": 2,
+        "name": {
+          "local": "Mahagi",
+          "en": "Mahagi",
+          "slug": "mahagi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.325",
+      "lon": "30.673"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

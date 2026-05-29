@@ -1,0 +1,56 @@
+[
+  {
+    "id": "CD920801",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Dekese",
+      "en": "Dekese",
+      "slug": "dekese"
+    },
+    "code": {
+      "id": "CD920801",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD9208",
+      "level": 2,
+      "name": {
+        "local": "Dekese",
+        "en": "Dekese",
+        "slug": "dekese"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD92",
+        "level": 1,
+        "name": {
+          "local": "Kasaï",
+          "en": "Kasaï",
+          "slug": "kasa"
+        }
+      },
+      {
+        "id": "CD9208",
+        "level": 2,
+        "name": {
+          "local": "Dekese",
+          "en": "Dekese",
+          "slug": "dekese"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.235",
+      "lon": "21.367"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

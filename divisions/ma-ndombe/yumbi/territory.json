@@ -1,0 +1,47 @@
+{
+  "id": "CD3310",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Yumbi",
+    "en": "Yumbi",
+    "slug": "yumbi"
+  },
+  "code": {
+    "id": "CD3310",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD33",
+    "level": 1,
+    "name": {
+      "local": "Maï-Ndombe",
+      "en": "Maï-Ndombe",
+      "slug": "ma-ndombe"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD33",
+      "level": 1,
+      "name": {
+        "local": "Maï-Ndombe",
+        "en": "Maï-Ndombe",
+        "slug": "ma-ndombe"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.097",
+    "lon": "16.465"
+  },
+  "metadata": {},
+  "source": {}
+}

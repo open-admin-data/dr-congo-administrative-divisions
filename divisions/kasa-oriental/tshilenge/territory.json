@@ -1,0 +1,47 @@
+{
+  "id": "CD8202",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Tshilenge",
+    "en": "Tshilenge",
+    "slug": "tshilenge"
+  },
+  "code": {
+    "id": "CD8202",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD82",
+    "level": 1,
+    "name": {
+      "local": "Kasaï-Oriental",
+      "en": "Kasaï-Oriental",
+      "slug": "kasa-oriental"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD82",
+      "level": 1,
+      "name": {
+        "local": "Kasaï-Oriental",
+        "en": "Kasaï-Oriental",
+        "slug": "kasa-oriental"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.465",
+    "lon": "23.621"
+  },
+  "metadata": {},
+  "source": {}
+}

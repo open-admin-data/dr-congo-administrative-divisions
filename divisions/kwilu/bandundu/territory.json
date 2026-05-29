@@ -1,0 +1,47 @@
+{
+  "id": "CD3201",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Bandundu",
+    "en": "Bandundu",
+    "slug": "bandundu"
+  },
+  "code": {
+    "id": "CD3201",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD32",
+    "level": 1,
+    "name": {
+      "local": "Kwilu",
+      "en": "Kwilu",
+      "slug": "kwilu"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD32",
+      "level": 1,
+      "name": {
+        "local": "Kwilu",
+        "en": "Kwilu",
+        "slug": "kwilu"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.319",
+    "lon": "17.454"
+  },
+  "metadata": {},
+  "source": {}
+}

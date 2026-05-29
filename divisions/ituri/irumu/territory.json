@@ -1,0 +1,47 @@
+{
+  "id": "CD5402",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Irumu",
+    "en": "Irumu",
+    "slug": "irumu"
+  },
+  "code": {
+    "id": "CD5402",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD54",
+    "level": 1,
+    "name": {
+      "local": "Ituri",
+      "en": "Ituri",
+      "slug": "ituri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD54",
+      "level": 1,
+      "name": {
+        "local": "Ituri",
+        "en": "Ituri",
+        "slug": "ituri"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.27",
+    "lon": "30.017"
+  },
+  "metadata": {},
+  "source": {}
+}

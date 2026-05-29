@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CD830201",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Lusambo",
+      "en": "Lusambo",
+      "slug": "lusambo"
+    },
+    "code": {
+      "id": "CD830201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD8302",
+      "level": 2,
+      "name": {
+        "local": "Lusambo",
+        "en": "Lusambo",
+        "slug": "lusambo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD83",
+        "level": 1,
+        "name": {
+          "local": "Sankuru",
+          "en": "Sankuru",
+          "slug": "sankuru"
+        }
+      },
+      {
+        "id": "CD8302",
+        "level": 2,
+        "name": {
+          "local": "Lusambo",
+          "en": "Lusambo",
+          "slug": "lusambo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.009",
+      "lon": "23.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD830202",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Ototo",
+      "en": "Ototo",
+      "slug": "ototo"
+    },
+    "code": {
+      "id": "CD830202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD8302",
+      "level": 2,
+      "name": {
+        "local": "Lusambo",
+        "en": "Lusambo",
+        "slug": "lusambo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD83",
+        "level": 1,
+        "name": {
+          "local": "Sankuru",
+          "en": "Sankuru",
+          "slug": "sankuru"
+        }
+      },
+      {
+        "id": "CD8302",
+        "level": 2,
+        "name": {
+          "local": "Lusambo",
+          "en": "Lusambo",
+          "slug": "lusambo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.009",
+      "lon": "23.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD830203",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Pania Mutombo",
+      "en": "Pania Mutombo",
+      "slug": "pania-mutombo"
+    },
+    "code": {
+      "id": "CD830203",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD8302",
+      "level": 2,
+      "name": {
+        "local": "Lusambo",
+        "en": "Lusambo",
+        "slug": "lusambo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD83",
+        "level": 1,
+        "name": {
+          "local": "Sankuru",
+          "en": "Sankuru",
+          "slug": "sankuru"
+        }
+      },
+      {
+        "id": "CD8302",
+        "level": 2,
+        "name": {
+          "local": "Lusambo",
+          "en": "Lusambo",
+          "slug": "lusambo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.009",
+      "lon": "23.417"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

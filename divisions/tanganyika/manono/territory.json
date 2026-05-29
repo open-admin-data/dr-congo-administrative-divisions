@@ -1,0 +1,47 @@
+{
+  "id": "CD7406",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Manono",
+    "en": "Manono",
+    "slug": "manono"
+  },
+  "code": {
+    "id": "CD7406",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD74",
+    "level": 1,
+    "name": {
+      "local": "Tanganyika",
+      "en": "Tanganyika",
+      "slug": "tanganyika"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD74",
+      "level": 1,
+      "name": {
+        "local": "Tanganyika",
+        "en": "Tanganyika",
+        "slug": "tanganyika"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.421",
+    "lon": "27.589"
+  },
+  "metadata": {},
+  "source": {}
+}

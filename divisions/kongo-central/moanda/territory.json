@@ -1,0 +1,47 @@
+{
+  "id": "CD2003",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Moanda",
+    "en": "Moanda",
+    "slug": "moanda"
+  },
+  "code": {
+    "id": "CD2003",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD20",
+    "level": 1,
+    "name": {
+      "local": "Kongo-Central",
+      "en": "Kongo-Central",
+      "slug": "kongo-central"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD20",
+      "level": 1,
+      "name": {
+        "local": "Kongo-Central",
+        "en": "Kongo-Central",
+        "slug": "kongo-central"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.756",
+    "lon": "12.943"
+  },
+  "metadata": {},
+  "source": {}
+}

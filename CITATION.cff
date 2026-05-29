@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite as below"
+type: dataset
+authors:
+  - name: "jakkrapongt"
+title: "DR Congo Administrative Divisions Dataset"
+version: "2026.05"
+date-released: "2026-05-29"
+url: "https://github.com/open-admin-data/dr-congo-administrative-divisions"
+repository-code: "https://github.com/open-admin-data/dr-congo-administrative-divisions"
+license: CC-BY-4.0
+keywords:
+  - dr congo
+  - administrative-divisions
+  - geography
+  - open-data
+  - dataset
+  - multilingual
+abstract: >
+  Open dataset of DR Congo's administrative hierarchy:
+  26 provinces, 164 territorys, 519 sectors.
+  Bilingual with coordinates and postal codes where available.

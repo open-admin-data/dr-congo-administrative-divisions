@@ -1,0 +1,161 @@
+# Haut-Katanga — DR Congo Administrative Divisions
+
+> 8 territorys, 28 sectors
+> Code: CD71
+> Coordinates: -10.539, 27.876
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Territorys
+
+### Kambove
+
+Code: CD7105, Coordinates: -11.236, 26.674
+Sectors: 5
+
+#### Kambove
+
+Code: CD710501, Coordinates: -11.236, 26.674
+
+#### Kapolowe
+
+Code: CD710502, Coordinates: -11.236, 26.674
+
+#### Kilela Balanda
+
+Code: CD710503, Coordinates: -11.236, 26.674
+
+#### Manika
+
+Code: CD710504, Coordinates: -11.236, 26.674
+
+#### Panda
+
+Code: CD710505, Coordinates: -11.236, 26.674
+
+### Kasenga
+
+Code: CD7107, Coordinates: -10.367, 27.882
+Sectors: 4
+
+#### Kasenga
+
+Code: CD710701, Coordinates: -10.367, 27.882
+
+#### Kashobwe
+
+Code: CD710704, Coordinates: -10.367, 27.882
+
+#### Kikula
+
+Code: CD710702, Coordinates: -10.367, 27.882
+
+#### Lukafu
+
+Code: CD710703, Coordinates: -10.367, 27.882
+
+### Kipushi
+
+Code: CD7102, Coordinates: -11.623, 27.999
+Sectors: 2
+
+#### Kafubu
+
+Code: CD710201, Coordinates: -11.623, 27.999
+
+#### Kipushi
+
+Code: CD710202, Coordinates: -11.623, 27.999
+
+### Likasi
+
+Code: CD7106, Coordinates: -10.964, 26.732
+Sectors: 1
+
+#### Likasi
+
+Code: CD710601, Coordinates: -10.964, 26.732
+
+### Lubumbashi
+
+Code: CD7101, Coordinates: -11.655, 27.46
+Sectors: 11
+
+#### Kamalondo
+
+Code: CD710101, Coordinates: -11.655, 27.46
+
+#### Kampemba
+
+Code: CD710102, Coordinates: -11.655, 27.46
+
+#### Katuba
+
+Code: CD710103, Coordinates: -11.655, 27.46
+
+#### Kenya
+
+Code: CD710104, Coordinates: -11.655, 27.46
+
+#### Kisanga
+
+Code: CD710105, Coordinates: -11.655, 27.46
+
+#### Kowe
+
+Code: CD710106, Coordinates: -11.655, 27.46
+
+#### Lubumbashi
+
+Code: CD710107, Coordinates: -11.655, 27.46
+
+#### Mumbunda
+
+Code: CD710108, Coordinates: -11.655, 27.46
+
+#### Rwashi
+
+Code: CD710109, Coordinates: -11.655, 27.46
+
+#### Tshamilemba
+
+Code: CD710110, Coordinates: -11.655, 27.46
+
+#### Vangu
+
+Code: CD710111, Coordinates: -11.655, 27.46
+
+### Mitwaba
+
+Code: CD7108, Coordinates: -9.111, 27.099
+Sectors: 2
+
+#### Mitwaba
+
+Code: CD710801, Coordinates: -9.111, 27.099
+
+#### Mufunga Sampwe
+
+Code: CD710802, Coordinates: -9.111, 27.099
+
+### Pweto
+
+Code: CD7109, Coordinates: -8.693, 28.309
+Sectors: 2
+
+#### Kilwa
+
+Code: CD710901, Coordinates: -8.693, 28.309
+
+#### Pweto
+
+Code: CD710902, Coordinates: -8.693, 28.309
+
+### Sakania
+
+Code: CD7104, Coordinates: -12.605, 29.156
+Sectors: 1
+
+#### Sakania
+
+Code: CD710401, Coordinates: -12.605, 29.156
+

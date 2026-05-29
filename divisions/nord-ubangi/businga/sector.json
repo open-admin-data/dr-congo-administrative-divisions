@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CD430501",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Businga",
+      "en": "Businga",
+      "slug": "businga"
+    },
+    "code": {
+      "id": "CD430501",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD4305",
+      "level": 2,
+      "name": {
+        "local": "Businga",
+        "en": "Businga",
+        "slug": "businga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD43",
+        "level": 1,
+        "name": {
+          "local": "Nord-Ubangi",
+          "en": "Nord-Ubangi",
+          "slug": "nord-ubangi"
+        }
+      },
+      {
+        "id": "CD4305",
+        "level": 2,
+        "name": {
+          "local": "Businga",
+          "en": "Businga",
+          "slug": "businga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.443",
+      "lon": "20.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD430502",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Karawa",
+      "en": "Karawa",
+      "slug": "karawa"
+    },
+    "code": {
+      "id": "CD430502",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD4305",
+      "level": 2,
+      "name": {
+        "local": "Businga",
+        "en": "Businga",
+        "slug": "businga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD43",
+        "level": 1,
+        "name": {
+          "local": "Nord-Ubangi",
+          "en": "Nord-Ubangi",
+          "slug": "nord-ubangi"
+        }
+      },
+      {
+        "id": "CD4305",
+        "level": 2,
+        "name": {
+          "local": "Businga",
+          "en": "Businga",
+          "slug": "businga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.443",
+      "lon": "20.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD430503",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Loko",
+      "en": "Loko",
+      "slug": "loko"
+    },
+    "code": {
+      "id": "CD430503",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD4305",
+      "level": 2,
+      "name": {
+        "local": "Businga",
+        "en": "Businga",
+        "slug": "businga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD43",
+        "level": 1,
+        "name": {
+          "local": "Nord-Ubangi",
+          "en": "Nord-Ubangi",
+          "slug": "nord-ubangi"
+        }
+      },
+      {
+        "id": "CD4305",
+        "level": 2,
+        "name": {
+          "local": "Businga",
+          "en": "Businga",
+          "slug": "businga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.443",
+      "lon": "20.745"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

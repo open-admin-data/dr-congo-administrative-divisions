@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CD410201",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Bikoro",
+      "en": "Bikoro",
+      "slug": "bikoro"
+    },
+    "code": {
+      "id": "CD410201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD4102",
+      "level": 2,
+      "name": {
+        "local": "Bikoro",
+        "en": "Bikoro",
+        "slug": "bikoro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD41",
+        "level": 1,
+        "name": {
+          "local": "Equateur",
+          "en": "Equateur",
+          "slug": "equateur"
+        }
+      },
+      {
+        "id": "CD4102",
+        "level": 2,
+        "name": {
+          "local": "Bikoro",
+          "en": "Bikoro",
+          "slug": "bikoro"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.751",
+      "lon": "18.225"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD410202",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Iboko",
+      "en": "Iboko",
+      "slug": "iboko"
+    },
+    "code": {
+      "id": "CD410202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD4102",
+      "level": 2,
+      "name": {
+        "local": "Bikoro",
+        "en": "Bikoro",
+        "slug": "bikoro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD41",
+        "level": 1,
+        "name": {
+          "local": "Equateur",
+          "en": "Equateur",
+          "slug": "equateur"
+        }
+      },
+      {
+        "id": "CD4102",
+        "level": 2,
+        "name": {
+          "local": "Bikoro",
+          "en": "Bikoro",
+          "slug": "bikoro"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.751",
+      "lon": "18.225"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD410203",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Ntondo",
+      "en": "Ntondo",
+      "slug": "ntondo"
+    },
+    "code": {
+      "id": "CD410203",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD4102",
+      "level": 2,
+      "name": {
+        "local": "Bikoro",
+        "en": "Bikoro",
+        "slug": "bikoro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD41",
+        "level": 1,
+        "name": {
+          "local": "Equateur",
+          "en": "Equateur",
+          "slug": "equateur"
+        }
+      },
+      {
+        "id": "CD4102",
+        "level": 2,
+        "name": {
+          "local": "Bikoro",
+          "en": "Bikoro",
+          "slug": "bikoro"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.751",
+      "lon": "18.225"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "CD6104",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Walikale",
+    "en": "Walikale",
+    "slug": "walikale"
+  },
+  "code": {
+    "id": "CD6104",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD61",
+    "level": 1,
+    "name": {
+      "local": "Nord-Kivu",
+      "en": "Nord-Kivu",
+      "slug": "nord-kivu"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD61",
+      "level": 1,
+      "name": {
+        "local": "Nord-Kivu",
+        "en": "Nord-Kivu",
+        "slug": "nord-kivu"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.084",
+    "lon": "27.984"
+  },
+  "metadata": {},
+  "source": {}
+}

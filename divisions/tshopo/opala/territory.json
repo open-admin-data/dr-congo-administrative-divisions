@@ -1,0 +1,47 @@
+{
+  "id": "CD5103",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Opala",
+    "en": "Opala",
+    "slug": "opala"
+  },
+  "code": {
+    "id": "CD5103",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD51",
+    "level": 1,
+    "name": {
+      "local": "Tshopo",
+      "en": "Tshopo",
+      "slug": "tshopo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD51",
+      "level": 1,
+      "name": {
+        "local": "Tshopo",
+        "en": "Tshopo",
+        "slug": "tshopo"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.708",
+    "lon": "23.953"
+  },
+  "metadata": {},
+  "source": {}
+}

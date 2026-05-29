@@ -1,0 +1,47 @@
+{
+  "id": "CD2005",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Lukula",
+    "en": "Lukula",
+    "slug": "lukula"
+  },
+  "code": {
+    "id": "CD2005",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD20",
+    "level": 1,
+    "name": {
+      "local": "Kongo-Central",
+      "en": "Kongo-Central",
+      "slug": "kongo-central"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD20",
+      "level": 1,
+      "name": {
+        "local": "Kongo-Central",
+        "en": "Kongo-Central",
+        "slug": "kongo-central"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.388",
+    "lon": "12.852"
+  },
+  "metadata": {},
+  "source": {}
+}

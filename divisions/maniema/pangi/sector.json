@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CD630701",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kalima",
+      "en": "Kalima",
+      "slug": "kalima"
+    },
+    "code": {
+      "id": "CD630701",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6307",
+      "level": 2,
+      "name": {
+        "local": "Pangi",
+        "en": "Pangi",
+        "slug": "pangi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD63",
+        "level": 1,
+        "name": {
+          "local": "Maniema",
+          "en": "Maniema",
+          "slug": "maniema"
+        }
+      },
+      {
+        "id": "CD6307",
+        "level": 2,
+        "name": {
+          "local": "Pangi",
+          "en": "Pangi",
+          "slug": "pangi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.132",
+      "lon": "26.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD630702",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kampene",
+      "en": "Kampene",
+      "slug": "kampene"
+    },
+    "code": {
+      "id": "CD630702",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6307",
+      "level": 2,
+      "name": {
+        "local": "Pangi",
+        "en": "Pangi",
+        "slug": "pangi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD63",
+        "level": 1,
+        "name": {
+          "local": "Maniema",
+          "en": "Maniema",
+          "slug": "maniema"
+        }
+      },
+      {
+        "id": "CD6307",
+        "level": 2,
+        "name": {
+          "local": "Pangi",
+          "en": "Pangi",
+          "slug": "pangi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.132",
+      "lon": "26.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD630703",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Pangi",
+      "en": "Pangi",
+      "slug": "pangi"
+    },
+    "code": {
+      "id": "CD630703",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6307",
+      "level": 2,
+      "name": {
+        "local": "Pangi",
+        "en": "Pangi",
+        "slug": "pangi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD63",
+        "level": 1,
+        "name": {
+          "local": "Maniema",
+          "en": "Maniema",
+          "slug": "maniema"
+        }
+      },
+      {
+        "id": "CD6307",
+        "level": 2,
+        "name": {
+          "local": "Pangi",
+          "en": "Pangi",
+          "slug": "pangi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.132",
+      "lon": "26.618"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

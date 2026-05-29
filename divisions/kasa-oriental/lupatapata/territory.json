@@ -1,0 +1,47 @@
+{
+  "id": "CD8208",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Lupatapata",
+    "en": "Lupatapata",
+    "slug": "lupatapata"
+  },
+  "code": {
+    "id": "CD8208",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD82",
+    "level": 1,
+    "name": {
+      "local": "Kasaï-Oriental",
+      "en": "Kasaï-Oriental",
+      "slug": "kasa-oriental"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD82",
+      "level": 1,
+      "name": {
+        "local": "Kasaï-Oriental",
+        "en": "Kasaï-Oriental",
+        "slug": "kasa-oriental"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.023",
+    "lon": "23.602"
+  },
+  "metadata": {},
+  "source": {}
+}

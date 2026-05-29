@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CD631301",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kibombo",
+      "en": "Kibombo",
+      "slug": "kibombo"
+    },
+    "code": {
+      "id": "CD631301",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6313",
+      "level": 2,
+      "name": {
+        "local": "Kibombo",
+        "en": "Kibombo",
+        "slug": "kibombo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD63",
+        "level": 1,
+        "name": {
+          "local": "Maniema",
+          "en": "Maniema",
+          "slug": "maniema"
+        }
+      },
+      {
+        "id": "CD6313",
+        "level": 2,
+        "name": {
+          "local": "Kibombo",
+          "en": "Kibombo",
+          "slug": "kibombo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.082",
+      "lon": "25.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD631302",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Tunda",
+      "en": "Tunda",
+      "slug": "tunda"
+    },
+    "code": {
+      "id": "CD631302",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6313",
+      "level": 2,
+      "name": {
+        "local": "Kibombo",
+        "en": "Kibombo",
+        "slug": "kibombo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD63",
+        "level": 1,
+        "name": {
+          "local": "Maniema",
+          "en": "Maniema",
+          "slug": "maniema"
+        }
+      },
+      {
+        "id": "CD6313",
+        "level": 2,
+        "name": {
+          "local": "Kibombo",
+          "en": "Kibombo",
+          "slug": "kibombo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.082",
+      "lon": "25.488"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

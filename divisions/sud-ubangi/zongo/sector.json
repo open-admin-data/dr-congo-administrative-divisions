@@ -1,0 +1,56 @@
+[
+  {
+    "id": "CD420601",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Zongo",
+      "en": "Zongo",
+      "slug": "zongo"
+    },
+    "code": {
+      "id": "CD420601",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD4206",
+      "level": 2,
+      "name": {
+        "local": "Zongo",
+        "en": "Zongo",
+        "slug": "zongo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD42",
+        "level": 1,
+        "name": {
+          "local": "Sud-Ubangi",
+          "en": "Sud-Ubangi",
+          "slug": "sud-ubangi"
+        }
+      },
+      {
+        "id": "CD4206",
+        "level": 2,
+        "name": {
+          "local": "Zongo",
+          "en": "Zongo",
+          "slug": "zongo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.186",
+      "lon": "18.72"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

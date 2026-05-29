@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CD430601",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Bili",
+      "en": "Bili",
+      "slug": "bili"
+    },
+    "code": {
+      "id": "CD430601",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD4306",
+      "level": 2,
+      "name": {
+        "local": "Bosobolo",
+        "en": "Bosobolo",
+        "slug": "bosobolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD43",
+        "level": 1,
+        "name": {
+          "local": "Nord-Ubangi",
+          "en": "Nord-Ubangi",
+          "slug": "nord-ubangi"
+        }
+      },
+      {
+        "id": "CD4306",
+        "level": 2,
+        "name": {
+          "local": "Bosobolo",
+          "en": "Bosobolo",
+          "slug": "bosobolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.523",
+      "lon": "19.938"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD430602",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Bosobolo",
+      "en": "Bosobolo",
+      "slug": "bosobolo"
+    },
+    "code": {
+      "id": "CD430602",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD4306",
+      "level": 2,
+      "name": {
+        "local": "Bosobolo",
+        "en": "Bosobolo",
+        "slug": "bosobolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD43",
+        "level": 1,
+        "name": {
+          "local": "Nord-Ubangi",
+          "en": "Nord-Ubangi",
+          "slug": "nord-ubangi"
+        }
+      },
+      {
+        "id": "CD4306",
+        "level": 2,
+        "name": {
+          "local": "Bosobolo",
+          "en": "Bosobolo",
+          "slug": "bosobolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.523",
+      "lon": "19.938"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

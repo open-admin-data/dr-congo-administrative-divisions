@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CD321201",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Masi-Manimba",
+      "en": "Masi-Manimba",
+      "slug": "masi-manimba"
+    },
+    "code": {
+      "id": "CD321201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD3212",
+      "level": 2,
+      "name": {
+        "local": "Masi-Manimba",
+        "en": "Masi-Manimba",
+        "slug": "masi-manimba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD32",
+        "level": 1,
+        "name": {
+          "local": "Kwilu",
+          "en": "Kwilu",
+          "slug": "kwilu"
+        }
+      },
+      {
+        "id": "CD3212",
+        "level": 2,
+        "name": {
+          "local": "Masi-Manimba",
+          "en": "Masi-Manimba",
+          "slug": "masi-manimba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.012",
+      "lon": "17.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD321202",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Moanza",
+      "en": "Moanza",
+      "slug": "moanza"
+    },
+    "code": {
+      "id": "CD321202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD3212",
+      "level": 2,
+      "name": {
+        "local": "Masi-Manimba",
+        "en": "Masi-Manimba",
+        "slug": "masi-manimba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD32",
+        "level": 1,
+        "name": {
+          "local": "Kwilu",
+          "en": "Kwilu",
+          "slug": "kwilu"
+        }
+      },
+      {
+        "id": "CD3212",
+        "level": 2,
+        "name": {
+          "local": "Masi-Manimba",
+          "en": "Masi-Manimba",
+          "slug": "masi-manimba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.012",
+      "lon": "17.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD321203",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Mosango",
+      "en": "Mosango",
+      "slug": "mosango"
+    },
+    "code": {
+      "id": "CD321203",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD3212",
+      "level": 2,
+      "name": {
+        "local": "Masi-Manimba",
+        "en": "Masi-Manimba",
+        "slug": "masi-manimba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD32",
+        "level": 1,
+        "name": {
+          "local": "Kwilu",
+          "en": "Kwilu",
+          "slug": "kwilu"
+        }
+      },
+      {
+        "id": "CD3212",
+        "level": 2,
+        "name": {
+          "local": "Masi-Manimba",
+          "en": "Masi-Manimba",
+          "slug": "masi-manimba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.012",
+      "lon": "17.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD321204",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Yasa-Bonga",
+      "en": "Yasa-Bonga",
+      "slug": "yasa-bonga"
+    },
+    "code": {
+      "id": "CD321204",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD3212",
+      "level": 2,
+      "name": {
+        "local": "Masi-Manimba",
+        "en": "Masi-Manimba",
+        "slug": "masi-manimba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD32",
+        "level": 1,
+        "name": {
+          "local": "Kwilu",
+          "en": "Kwilu",
+          "slug": "kwilu"
+        }
+      },
+      {
+        "id": "CD3212",
+        "level": 2,
+        "name": {
+          "local": "Masi-Manimba",
+          "en": "Masi-Manimba",
+          "slug": "masi-manimba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.012",
+      "lon": "17.921"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

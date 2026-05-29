@@ -1,0 +1,47 @@
+{
+  "id": "CD6109",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Beni",
+    "en": "Beni",
+    "slug": "beni"
+  },
+  "code": {
+    "id": "CD6109",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD61",
+    "level": 1,
+    "name": {
+      "local": "Nord-Kivu",
+      "en": "Nord-Kivu",
+      "slug": "nord-kivu"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD61",
+      "level": 1,
+      "name": {
+        "local": "Nord-Kivu",
+        "en": "Nord-Kivu",
+        "slug": "nord-kivu"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.482",
+    "lon": "29.453"
+  },
+  "metadata": {},
+  "source": {}
+}

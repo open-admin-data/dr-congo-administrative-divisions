@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CD631101",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kasongo",
+      "en": "Kasongo",
+      "slug": "kasongo"
+    },
+    "code": {
+      "id": "CD631101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6311",
+      "level": 2,
+      "name": {
+        "local": "Kasongo",
+        "en": "Kasongo",
+        "slug": "kasongo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD63",
+        "level": 1,
+        "name": {
+          "local": "Maniema",
+          "en": "Maniema",
+          "slug": "maniema"
+        }
+      },
+      {
+        "id": "CD6311",
+        "level": 2,
+        "name": {
+          "local": "Kasongo",
+          "en": "Kasongo",
+          "slug": "kasongo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.179",
+      "lon": "26.549"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD631102",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kunda",
+      "en": "Kunda",
+      "slug": "kunda"
+    },
+    "code": {
+      "id": "CD631102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6311",
+      "level": 2,
+      "name": {
+        "local": "Kasongo",
+        "en": "Kasongo",
+        "slug": "kasongo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD63",
+        "level": 1,
+        "name": {
+          "local": "Maniema",
+          "en": "Maniema",
+          "slug": "maniema"
+        }
+      },
+      {
+        "id": "CD6311",
+        "level": 2,
+        "name": {
+          "local": "Kasongo",
+          "en": "Kasongo",
+          "slug": "kasongo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.179",
+      "lon": "26.549"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD631103",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Samba",
+      "en": "Samba",
+      "slug": "samba"
+    },
+    "code": {
+      "id": "CD631103",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6311",
+      "level": 2,
+      "name": {
+        "local": "Kasongo",
+        "en": "Kasongo",
+        "slug": "kasongo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD63",
+        "level": 1,
+        "name": {
+          "local": "Maniema",
+          "en": "Maniema",
+          "slug": "maniema"
+        }
+      },
+      {
+        "id": "CD6311",
+        "level": 2,
+        "name": {
+          "local": "Kasongo",
+          "en": "Kasongo",
+          "slug": "kasongo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.179",
+      "lon": "26.549"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

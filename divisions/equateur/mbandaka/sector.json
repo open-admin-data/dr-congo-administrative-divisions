@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CD410101",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Bolenge",
+      "en": "Bolenge",
+      "slug": "bolenge"
+    },
+    "code": {
+      "id": "CD410101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD4101",
+      "level": 2,
+      "name": {
+        "local": "Mbandaka",
+        "en": "Mbandaka",
+        "slug": "mbandaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD41",
+        "level": 1,
+        "name": {
+          "local": "Equateur",
+          "en": "Equateur",
+          "slug": "equateur"
+        }
+      },
+      {
+        "id": "CD4101",
+        "level": 2,
+        "name": {
+          "local": "Mbandaka",
+          "en": "Mbandaka",
+          "slug": "mbandaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.087",
+      "lon": "18.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD410102",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Mbandaka",
+      "en": "Mbandaka",
+      "slug": "mbandaka"
+    },
+    "code": {
+      "id": "CD410102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD4101",
+      "level": 2,
+      "name": {
+        "local": "Mbandaka",
+        "en": "Mbandaka",
+        "slug": "mbandaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD41",
+        "level": 1,
+        "name": {
+          "local": "Equateur",
+          "en": "Equateur",
+          "slug": "equateur"
+        }
+      },
+      {
+        "id": "CD4101",
+        "level": 2,
+        "name": {
+          "local": "Mbandaka",
+          "en": "Mbandaka",
+          "slug": "mbandaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.087",
+      "lon": "18.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD410103",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Wangata",
+      "en": "Wangata",
+      "slug": "wangata"
+    },
+    "code": {
+      "id": "CD410103",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD4101",
+      "level": 2,
+      "name": {
+        "local": "Mbandaka",
+        "en": "Mbandaka",
+        "slug": "mbandaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD41",
+        "level": 1,
+        "name": {
+          "local": "Equateur",
+          "en": "Equateur",
+          "slug": "equateur"
+        }
+      },
+      {
+        "id": "CD4101",
+        "level": 2,
+        "name": {
+          "local": "Mbandaka",
+          "en": "Mbandaka",
+          "slug": "mbandaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.087",
+      "lon": "18.26"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

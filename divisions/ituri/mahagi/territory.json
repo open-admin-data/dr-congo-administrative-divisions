@@ -1,0 +1,47 @@
+{
+  "id": "CD5407",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Mahagi",
+    "en": "Mahagi",
+    "slug": "mahagi"
+  },
+  "code": {
+    "id": "CD5407",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD54",
+    "level": 1,
+    "name": {
+      "local": "Ituri",
+      "en": "Ituri",
+      "slug": "ituri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD54",
+      "level": 1,
+      "name": {
+        "local": "Ituri",
+        "en": "Ituri",
+        "slug": "ituri"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.325",
+    "lon": "30.673"
+  },
+  "metadata": {},
+  "source": {}
+}

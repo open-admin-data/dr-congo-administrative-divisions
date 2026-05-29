@@ -1,0 +1,56 @@
+[
+  {
+    "id": "CD610901",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Beni",
+      "en": "Beni",
+      "slug": "beni"
+    },
+    "code": {
+      "id": "CD610901",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6109",
+      "level": 2,
+      "name": {
+        "local": "Beni",
+        "en": "Beni",
+        "slug": "beni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD61",
+        "level": 1,
+        "name": {
+          "local": "Nord-Kivu",
+          "en": "Nord-Kivu",
+          "slug": "nord-kivu"
+        }
+      },
+      {
+        "id": "CD6109",
+        "level": 2,
+        "name": {
+          "local": "Beni",
+          "en": "Beni",
+          "slug": "beni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.482",
+      "lon": "29.453"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

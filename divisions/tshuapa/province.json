@@ -1,0 +1,30 @@
+{
+  "id": "CD45",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Tshuapa",
+    "en": "Tshuapa",
+    "slug": "tshuapa"
+  },
+  "code": {
+    "id": "CD45",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "territory": 6,
+    "sector": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.384",
+    "lon": "21.529"
+  },
+  "metadata": {},
+  "source": {}
+}

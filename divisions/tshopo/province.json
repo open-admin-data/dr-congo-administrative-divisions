@@ -1,0 +1,30 @@
+{
+  "id": "CD51",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Tshopo",
+    "en": "Tshopo",
+    "slug": "tshopo"
+  },
+  "code": {
+    "id": "CD51",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "territory": 8,
+    "sector": 23
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.141",
+    "lon": "25.598"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CD820901",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Bibanga",
+      "en": "Bibanga",
+      "slug": "bibanga"
+    },
+    "code": {
+      "id": "CD820901",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD8209",
+      "level": 2,
+      "name": {
+        "local": "Katanda",
+        "en": "Katanda",
+        "slug": "katanda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD82",
+        "level": 1,
+        "name": {
+          "local": "Kasaï-Oriental",
+          "en": "Kasaï-Oriental",
+          "slug": "kasa-oriental"
+        }
+      },
+      {
+        "id": "CD8209",
+        "level": 2,
+        "name": {
+          "local": "Katanda",
+          "en": "Katanda",
+          "slug": "katanda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.077",
+      "lon": "23.927"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD820902",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Tshitenge",
+      "en": "Tshitenge",
+      "slug": "tshitenge"
+    },
+    "code": {
+      "id": "CD820902",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD8209",
+      "level": 2,
+      "name": {
+        "local": "Katanda",
+        "en": "Katanda",
+        "slug": "katanda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD82",
+        "level": 1,
+        "name": {
+          "local": "Kasaï-Oriental",
+          "en": "Kasaï-Oriental",
+          "slug": "kasa-oriental"
+        }
+      },
+      {
+        "id": "CD8209",
+        "level": 2,
+        "name": {
+          "local": "Katanda",
+          "en": "Katanda",
+          "slug": "katanda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.077",
+      "lon": "23.927"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "id": "CD63",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Maniema",
+    "en": "Maniema",
+    "slug": "maniema"
+  },
+  "code": {
+    "id": "CD63",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "territory": 8,
+    "sector": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.516",
+    "lon": "25.943"
+  },
+  "metadata": {},
+  "source": {}
+}

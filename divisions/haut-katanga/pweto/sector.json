@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CD710901",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kilwa",
+      "en": "Kilwa",
+      "slug": "kilwa"
+    },
+    "code": {
+      "id": "CD710901",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7109",
+      "level": 2,
+      "name": {
+        "local": "Pweto",
+        "en": "Pweto",
+        "slug": "pweto"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD71",
+        "level": 1,
+        "name": {
+          "local": "Haut-Katanga",
+          "en": "Haut-Katanga",
+          "slug": "haut-katanga"
+        }
+      },
+      {
+        "id": "CD7109",
+        "level": 2,
+        "name": {
+          "local": "Pweto",
+          "en": "Pweto",
+          "slug": "pweto"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.693",
+      "lon": "28.309"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD710902",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Pweto",
+      "en": "Pweto",
+      "slug": "pweto"
+    },
+    "code": {
+      "id": "CD710902",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7109",
+      "level": 2,
+      "name": {
+        "local": "Pweto",
+        "en": "Pweto",
+        "slug": "pweto"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD71",
+        "level": 1,
+        "name": {
+          "local": "Haut-Katanga",
+          "en": "Haut-Katanga",
+          "slug": "haut-katanga"
+        }
+      },
+      {
+        "id": "CD7109",
+        "level": 2,
+        "name": {
+          "local": "Pweto",
+          "en": "Pweto",
+          "slug": "pweto"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.693",
+      "lon": "28.309"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

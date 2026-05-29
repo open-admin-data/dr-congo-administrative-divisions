@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CD520601",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Bili",
+      "en": "Bili",
+      "slug": "bili"
+    },
+    "code": {
+      "id": "CD520601",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5206",
+      "level": 2,
+      "name": {
+        "local": "Bondo",
+        "en": "Bondo",
+        "slug": "bondo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD52",
+        "level": 1,
+        "name": {
+          "local": "Bas-Uele",
+          "en": "Bas-Uele",
+          "slug": "bas-uele"
+        }
+      },
+      {
+        "id": "CD5206",
+        "level": 2,
+        "name": {
+          "local": "Bondo",
+          "en": "Bondo",
+          "slug": "bondo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.255",
+      "lon": "23.948"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD520602",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Bondo",
+      "en": "Bondo",
+      "slug": "bondo"
+    },
+    "code": {
+      "id": "CD520602",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5206",
+      "level": 2,
+      "name": {
+        "local": "Bondo",
+        "en": "Bondo",
+        "slug": "bondo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD52",
+        "level": 1,
+        "name": {
+          "local": "Bas-Uele",
+          "en": "Bas-Uele",
+          "slug": "bas-uele"
+        }
+      },
+      {
+        "id": "CD5206",
+        "level": 2,
+        "name": {
+          "local": "Bondo",
+          "en": "Bondo",
+          "slug": "bondo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.255",
+      "lon": "23.948"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD520603",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Monga",
+      "en": "Monga",
+      "slug": "monga"
+    },
+    "code": {
+      "id": "CD520603",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5206",
+      "level": 2,
+      "name": {
+        "local": "Bondo",
+        "en": "Bondo",
+        "slug": "bondo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD52",
+        "level": 1,
+        "name": {
+          "local": "Bas-Uele",
+          "en": "Bas-Uele",
+          "slug": "bas-uele"
+        }
+      },
+      {
+        "id": "CD5206",
+        "level": 2,
+        "name": {
+          "local": "Bondo",
+          "en": "Bondo",
+          "slug": "bondo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.255",
+      "lon": "23.948"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

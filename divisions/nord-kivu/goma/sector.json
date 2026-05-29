@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CD610101",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Goma",
+      "en": "Goma",
+      "slug": "goma"
+    },
+    "code": {
+      "id": "CD610101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6101",
+      "level": 2,
+      "name": {
+        "local": "Goma",
+        "en": "Goma",
+        "slug": "goma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD61",
+        "level": 1,
+        "name": {
+          "local": "Nord-Kivu",
+          "en": "Nord-Kivu",
+          "slug": "nord-kivu"
+        }
+      },
+      {
+        "id": "CD6101",
+        "level": 2,
+        "name": {
+          "local": "Goma",
+          "en": "Goma",
+          "slug": "goma"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.655",
+      "lon": "29.202"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD610102",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Karisimbi",
+      "en": "Karisimbi",
+      "slug": "karisimbi"
+    },
+    "code": {
+      "id": "CD610102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6101",
+      "level": 2,
+      "name": {
+        "local": "Goma",
+        "en": "Goma",
+        "slug": "goma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD61",
+        "level": 1,
+        "name": {
+          "local": "Nord-Kivu",
+          "en": "Nord-Kivu",
+          "slug": "nord-kivu"
+        }
+      },
+      {
+        "id": "CD6101",
+        "level": 2,
+        "name": {
+          "local": "Goma",
+          "en": "Goma",
+          "slug": "goma"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.655",
+      "lon": "29.202"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

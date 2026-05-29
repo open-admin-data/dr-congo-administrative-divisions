@@ -1,0 +1,47 @@
+{
+  "id": "CD7407",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Kabalo",
+    "en": "Kabalo",
+    "slug": "kabalo"
+  },
+  "code": {
+    "id": "CD7407",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD74",
+    "level": 1,
+    "name": {
+      "local": "Tanganyika",
+      "en": "Tanganyika",
+      "slug": "tanganyika"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD74",
+      "level": 1,
+      "name": {
+        "local": "Tanganyika",
+        "en": "Tanganyika",
+        "slug": "tanganyika"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.184",
+    "lon": "26.978"
+  },
+  "metadata": {},
+  "source": {}
+}

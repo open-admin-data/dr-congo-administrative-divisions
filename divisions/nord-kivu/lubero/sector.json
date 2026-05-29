@@ -1,0 +1,380 @@
+[
+  {
+    "id": "CD610501",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Alimbongo",
+      "en": "Alimbongo",
+      "slug": "alimbongo"
+    },
+    "code": {
+      "id": "CD610501",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6105",
+      "level": 2,
+      "name": {
+        "local": "Lubero",
+        "en": "Lubero",
+        "slug": "lubero"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD61",
+        "level": 1,
+        "name": {
+          "local": "Nord-Kivu",
+          "en": "Nord-Kivu",
+          "slug": "nord-kivu"
+        }
+      },
+      {
+        "id": "CD6105",
+        "level": 2,
+        "name": {
+          "local": "Lubero",
+          "en": "Lubero",
+          "slug": "lubero"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.06",
+      "lon": "28.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD610502",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Biena",
+      "en": "Biena",
+      "slug": "biena"
+    },
+    "code": {
+      "id": "CD610502",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6105",
+      "level": 2,
+      "name": {
+        "local": "Lubero",
+        "en": "Lubero",
+        "slug": "lubero"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD61",
+        "level": 1,
+        "name": {
+          "local": "Nord-Kivu",
+          "en": "Nord-Kivu",
+          "slug": "nord-kivu"
+        }
+      },
+      {
+        "id": "CD6105",
+        "level": 2,
+        "name": {
+          "local": "Lubero",
+          "en": "Lubero",
+          "slug": "lubero"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.06",
+      "lon": "28.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD610503",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kayna",
+      "en": "Kayna",
+      "slug": "kayna"
+    },
+    "code": {
+      "id": "CD610503",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6105",
+      "level": 2,
+      "name": {
+        "local": "Lubero",
+        "en": "Lubero",
+        "slug": "lubero"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD61",
+        "level": 1,
+        "name": {
+          "local": "Nord-Kivu",
+          "en": "Nord-Kivu",
+          "slug": "nord-kivu"
+        }
+      },
+      {
+        "id": "CD6105",
+        "level": 2,
+        "name": {
+          "local": "Lubero",
+          "en": "Lubero",
+          "slug": "lubero"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.06",
+      "lon": "28.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD610504",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Lubero",
+      "en": "Lubero",
+      "slug": "lubero"
+    },
+    "code": {
+      "id": "CD610504",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6105",
+      "level": 2,
+      "name": {
+        "local": "Lubero",
+        "en": "Lubero",
+        "slug": "lubero"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD61",
+        "level": 1,
+        "name": {
+          "local": "Nord-Kivu",
+          "en": "Nord-Kivu",
+          "slug": "nord-kivu"
+        }
+      },
+      {
+        "id": "CD6105",
+        "level": 2,
+        "name": {
+          "local": "Lubero",
+          "en": "Lubero",
+          "slug": "lubero"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.06",
+      "lon": "28.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD610505",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Manguredjipa",
+      "en": "Manguredjipa",
+      "slug": "manguredjipa"
+    },
+    "code": {
+      "id": "CD610505",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6105",
+      "level": 2,
+      "name": {
+        "local": "Lubero",
+        "en": "Lubero",
+        "slug": "lubero"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD61",
+        "level": 1,
+        "name": {
+          "local": "Nord-Kivu",
+          "en": "Nord-Kivu",
+          "slug": "nord-kivu"
+        }
+      },
+      {
+        "id": "CD6105",
+        "level": 2,
+        "name": {
+          "local": "Lubero",
+          "en": "Lubero",
+          "slug": "lubero"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.06",
+      "lon": "28.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD610506",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Masereka",
+      "en": "Masereka",
+      "slug": "masereka"
+    },
+    "code": {
+      "id": "CD610506",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6105",
+      "level": 2,
+      "name": {
+        "local": "Lubero",
+        "en": "Lubero",
+        "slug": "lubero"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD61",
+        "level": 1,
+        "name": {
+          "local": "Nord-Kivu",
+          "en": "Nord-Kivu",
+          "slug": "nord-kivu"
+        }
+      },
+      {
+        "id": "CD6105",
+        "level": 2,
+        "name": {
+          "local": "Lubero",
+          "en": "Lubero",
+          "slug": "lubero"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.06",
+      "lon": "28.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD610507",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Musienene",
+      "en": "Musienene",
+      "slug": "musienene"
+    },
+    "code": {
+      "id": "CD610507",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6105",
+      "level": 2,
+      "name": {
+        "local": "Lubero",
+        "en": "Lubero",
+        "slug": "lubero"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD61",
+        "level": 1,
+        "name": {
+          "local": "Nord-Kivu",
+          "en": "Nord-Kivu",
+          "slug": "nord-kivu"
+        }
+      },
+      {
+        "id": "CD6105",
+        "level": 2,
+        "name": {
+          "local": "Lubero",
+          "en": "Lubero",
+          "slug": "lubero"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.06",
+      "lon": "28.762"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

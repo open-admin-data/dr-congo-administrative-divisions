@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CD740201",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kalemie",
+      "en": "Kalemie",
+      "slug": "kalemie"
+    },
+    "code": {
+      "id": "CD740201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7402",
+      "level": 2,
+      "name": {
+        "local": "Kalemie",
+        "en": "Kalemie",
+        "slug": "kalemie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD74",
+        "level": 1,
+        "name": {
+          "local": "Tanganyika",
+          "en": "Tanganyika",
+          "slug": "tanganyika"
+        }
+      },
+      {
+        "id": "CD7402",
+        "level": 2,
+        "name": {
+          "local": "Kalemie",
+          "en": "Kalemie",
+          "slug": "kalemie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.066",
+      "lon": "28.889"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD740202",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Nyemba",
+      "en": "Nyemba",
+      "slug": "nyemba"
+    },
+    "code": {
+      "id": "CD740202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7402",
+      "level": 2,
+      "name": {
+        "local": "Kalemie",
+        "en": "Kalemie",
+        "slug": "kalemie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD74",
+        "level": 1,
+        "name": {
+          "local": "Tanganyika",
+          "en": "Tanganyika",
+          "slug": "tanganyika"
+        }
+      },
+      {
+        "id": "CD7402",
+        "level": 2,
+        "name": {
+          "local": "Kalemie",
+          "en": "Kalemie",
+          "slug": "kalemie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.066",
+      "lon": "28.889"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

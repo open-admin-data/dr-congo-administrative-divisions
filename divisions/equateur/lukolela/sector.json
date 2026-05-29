@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CD410301",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Irebu",
+      "en": "Irebu",
+      "slug": "irebu"
+    },
+    "code": {
+      "id": "CD410301",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD4103",
+      "level": 2,
+      "name": {
+        "local": "Lukolela",
+        "en": "Lukolela",
+        "slug": "lukolela"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD41",
+        "level": 1,
+        "name": {
+          "local": "Equateur",
+          "en": "Equateur",
+          "slug": "equateur"
+        }
+      },
+      {
+        "id": "CD4103",
+        "level": 2,
+        "name": {
+          "local": "Lukolela",
+          "en": "Lukolela",
+          "slug": "lukolela"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.275",
+      "lon": "17.19"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD410302",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Lukolela",
+      "en": "Lukolela",
+      "slug": "lukolela"
+    },
+    "code": {
+      "id": "CD410302",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD4103",
+      "level": 2,
+      "name": {
+        "local": "Lukolela",
+        "en": "Lukolela",
+        "slug": "lukolela"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD41",
+        "level": 1,
+        "name": {
+          "local": "Equateur",
+          "en": "Equateur",
+          "slug": "equateur"
+        }
+      },
+      {
+        "id": "CD4103",
+        "level": 2,
+        "name": {
+          "local": "Lukolela",
+          "en": "Lukolela",
+          "slug": "lukolela"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.275",
+      "lon": "17.19"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

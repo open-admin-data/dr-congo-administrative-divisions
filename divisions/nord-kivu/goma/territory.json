@@ -1,0 +1,47 @@
+{
+  "id": "CD6101",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Goma",
+    "en": "Goma",
+    "slug": "goma"
+  },
+  "code": {
+    "id": "CD6101",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD61",
+    "level": 1,
+    "name": {
+      "local": "Nord-Kivu",
+      "en": "Nord-Kivu",
+      "slug": "nord-kivu"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD61",
+      "level": 1,
+      "name": {
+        "local": "Nord-Kivu",
+        "en": "Nord-Kivu",
+        "slug": "nord-kivu"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.655",
+    "lon": "29.202"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CD450601",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Bokungu",
+      "en": "Bokungu",
+      "slug": "bokungu"
+    },
+    "code": {
+      "id": "CD450601",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD4506",
+      "level": 2,
+      "name": {
+        "local": "Bokungu",
+        "en": "Bokungu",
+        "slug": "bokungu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD45",
+        "level": 1,
+        "name": {
+          "local": "Tshuapa",
+          "en": "Tshuapa",
+          "slug": "tshuapa"
+        }
+      },
+      {
+        "id": "CD4506",
+        "level": 2,
+        "name": {
+          "local": "Bokungu",
+          "en": "Bokungu",
+          "slug": "bokungu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.898",
+      "lon": "22.138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD450602",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Bosanga",
+      "en": "Bosanga",
+      "slug": "bosanga"
+    },
+    "code": {
+      "id": "CD450602",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD4506",
+      "level": 2,
+      "name": {
+        "local": "Bokungu",
+        "en": "Bokungu",
+        "slug": "bokungu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD45",
+        "level": 1,
+        "name": {
+          "local": "Tshuapa",
+          "en": "Tshuapa",
+          "slug": "tshuapa"
+        }
+      },
+      {
+        "id": "CD4506",
+        "level": 2,
+        "name": {
+          "local": "Bokungu",
+          "en": "Bokungu",
+          "slug": "bokungu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.898",
+      "lon": "22.138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD450603",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Yalifafo",
+      "en": "Yalifafo",
+      "slug": "yalifafo"
+    },
+    "code": {
+      "id": "CD450603",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD4506",
+      "level": 2,
+      "name": {
+        "local": "Bokungu",
+        "en": "Bokungu",
+        "slug": "bokungu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD45",
+        "level": 1,
+        "name": {
+          "local": "Tshuapa",
+          "en": "Tshuapa",
+          "slug": "tshuapa"
+        }
+      },
+      {
+        "id": "CD4506",
+        "level": 2,
+        "name": {
+          "local": "Bokungu",
+          "en": "Bokungu",
+          "slug": "bokungu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.898",
+      "lon": "22.138"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

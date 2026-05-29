@@ -1,0 +1,10 @@
+id,name.local,name.en,name.slug,code.id,children_count.sector,geo.lat,geo.lon
+CD6109,Beni,Beni,beni,CD6109,1,0.482,29.453
+CD6110,Butembo,Butembo,butembo,CD6110,2,0.135,29.282
+CD6101,Goma,Goma,goma,CD6101,2,-1.655,29.202
+CD6105,Lubero,Lubero,lubero,CD6105,7,-0.06,28.762
+CD6103,Masisi,Masisi,masisi,CD6103,4,-1.371,28.882
+CD6102,Nyiragongo,Nyiragongo,nyiragongo,CD6102,1,-1.553,29.249
+CD6107,Oïcha,Oïcha,ocha,CD6107,7,0.401,29.72
+CD6111,Rutshuru,Rutshuru,rutshuru,CD6111,6,-0.961,29.327
+CD6104,Walikale,Walikale,walikale,CD6104,4,-1.084,27.984

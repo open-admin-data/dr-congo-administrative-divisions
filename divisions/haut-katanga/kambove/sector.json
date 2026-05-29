@@ -1,0 +1,272 @@
+[
+  {
+    "id": "CD710501",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kambove",
+      "en": "Kambove",
+      "slug": "kambove"
+    },
+    "code": {
+      "id": "CD710501",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7105",
+      "level": 2,
+      "name": {
+        "local": "Kambove",
+        "en": "Kambove",
+        "slug": "kambove"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD71",
+        "level": 1,
+        "name": {
+          "local": "Haut-Katanga",
+          "en": "Haut-Katanga",
+          "slug": "haut-katanga"
+        }
+      },
+      {
+        "id": "CD7105",
+        "level": 2,
+        "name": {
+          "local": "Kambove",
+          "en": "Kambove",
+          "slug": "kambove"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.236",
+      "lon": "26.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD710502",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kapolowe",
+      "en": "Kapolowe",
+      "slug": "kapolowe"
+    },
+    "code": {
+      "id": "CD710502",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7105",
+      "level": 2,
+      "name": {
+        "local": "Kambove",
+        "en": "Kambove",
+        "slug": "kambove"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD71",
+        "level": 1,
+        "name": {
+          "local": "Haut-Katanga",
+          "en": "Haut-Katanga",
+          "slug": "haut-katanga"
+        }
+      },
+      {
+        "id": "CD7105",
+        "level": 2,
+        "name": {
+          "local": "Kambove",
+          "en": "Kambove",
+          "slug": "kambove"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.236",
+      "lon": "26.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD710503",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kilela Balanda",
+      "en": "Kilela Balanda",
+      "slug": "kilela-balanda"
+    },
+    "code": {
+      "id": "CD710503",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7105",
+      "level": 2,
+      "name": {
+        "local": "Kambove",
+        "en": "Kambove",
+        "slug": "kambove"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD71",
+        "level": 1,
+        "name": {
+          "local": "Haut-Katanga",
+          "en": "Haut-Katanga",
+          "slug": "haut-katanga"
+        }
+      },
+      {
+        "id": "CD7105",
+        "level": 2,
+        "name": {
+          "local": "Kambove",
+          "en": "Kambove",
+          "slug": "kambove"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.236",
+      "lon": "26.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD710504",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Manika",
+      "en": "Manika",
+      "slug": "manika"
+    },
+    "code": {
+      "id": "CD710504",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7105",
+      "level": 2,
+      "name": {
+        "local": "Kambove",
+        "en": "Kambove",
+        "slug": "kambove"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD71",
+        "level": 1,
+        "name": {
+          "local": "Haut-Katanga",
+          "en": "Haut-Katanga",
+          "slug": "haut-katanga"
+        }
+      },
+      {
+        "id": "CD7105",
+        "level": 2,
+        "name": {
+          "local": "Kambove",
+          "en": "Kambove",
+          "slug": "kambove"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.236",
+      "lon": "26.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD710505",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Panda",
+      "en": "Panda",
+      "slug": "panda"
+    },
+    "code": {
+      "id": "CD710505",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7105",
+      "level": 2,
+      "name": {
+        "local": "Kambove",
+        "en": "Kambove",
+        "slug": "kambove"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD71",
+        "level": 1,
+        "name": {
+          "local": "Haut-Katanga",
+          "en": "Haut-Katanga",
+          "slug": "haut-katanga"
+        }
+      },
+      {
+        "id": "CD7105",
+        "level": 2,
+        "name": {
+          "local": "Kambove",
+          "en": "Kambove",
+          "slug": "kambove"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.236",
+      "lon": "26.674"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

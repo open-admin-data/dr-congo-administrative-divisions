@@ -1,0 +1,326 @@
+[
+  {
+    "id": "CD611101",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Bambo",
+      "en": "Bambo",
+      "slug": "bambo"
+    },
+    "code": {
+      "id": "CD611101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6111",
+      "level": 2,
+      "name": {
+        "local": "Rutshuru",
+        "en": "Rutshuru",
+        "slug": "rutshuru"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD61",
+        "level": 1,
+        "name": {
+          "local": "Nord-Kivu",
+          "en": "Nord-Kivu",
+          "slug": "nord-kivu"
+        }
+      },
+      {
+        "id": "CD6111",
+        "level": 2,
+        "name": {
+          "local": "Rutshuru",
+          "en": "Rutshuru",
+          "slug": "rutshuru"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.961",
+      "lon": "29.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD611102",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Binza",
+      "en": "Binza",
+      "slug": "binza"
+    },
+    "code": {
+      "id": "CD611102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6111",
+      "level": 2,
+      "name": {
+        "local": "Rutshuru",
+        "en": "Rutshuru",
+        "slug": "rutshuru"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD61",
+        "level": 1,
+        "name": {
+          "local": "Nord-Kivu",
+          "en": "Nord-Kivu",
+          "slug": "nord-kivu"
+        }
+      },
+      {
+        "id": "CD6111",
+        "level": 2,
+        "name": {
+          "local": "Rutshuru",
+          "en": "Rutshuru",
+          "slug": "rutshuru"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.961",
+      "lon": "29.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD611103",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Birambizo",
+      "en": "Birambizo",
+      "slug": "birambizo"
+    },
+    "code": {
+      "id": "CD611103",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6111",
+      "level": 2,
+      "name": {
+        "local": "Rutshuru",
+        "en": "Rutshuru",
+        "slug": "rutshuru"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD61",
+        "level": 1,
+        "name": {
+          "local": "Nord-Kivu",
+          "en": "Nord-Kivu",
+          "slug": "nord-kivu"
+        }
+      },
+      {
+        "id": "CD6111",
+        "level": 2,
+        "name": {
+          "local": "Rutshuru",
+          "en": "Rutshuru",
+          "slug": "rutshuru"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.961",
+      "lon": "29.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD611104",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kibirizi",
+      "en": "Kibirizi",
+      "slug": "kibirizi"
+    },
+    "code": {
+      "id": "CD611104",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6111",
+      "level": 2,
+      "name": {
+        "local": "Rutshuru",
+        "en": "Rutshuru",
+        "slug": "rutshuru"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD61",
+        "level": 1,
+        "name": {
+          "local": "Nord-Kivu",
+          "en": "Nord-Kivu",
+          "slug": "nord-kivu"
+        }
+      },
+      {
+        "id": "CD6111",
+        "level": 2,
+        "name": {
+          "local": "Rutshuru",
+          "en": "Rutshuru",
+          "slug": "rutshuru"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.961",
+      "lon": "29.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD611105",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Rutshuru",
+      "en": "Rutshuru",
+      "slug": "rutshuru"
+    },
+    "code": {
+      "id": "CD611105",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6111",
+      "level": 2,
+      "name": {
+        "local": "Rutshuru",
+        "en": "Rutshuru",
+        "slug": "rutshuru"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD61",
+        "level": 1,
+        "name": {
+          "local": "Nord-Kivu",
+          "en": "Nord-Kivu",
+          "slug": "nord-kivu"
+        }
+      },
+      {
+        "id": "CD6111",
+        "level": 2,
+        "name": {
+          "local": "Rutshuru",
+          "en": "Rutshuru",
+          "slug": "rutshuru"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.961",
+      "lon": "29.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD611106",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Rwanguba",
+      "en": "Rwanguba",
+      "slug": "rwanguba"
+    },
+    "code": {
+      "id": "CD611106",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6111",
+      "level": 2,
+      "name": {
+        "local": "Rutshuru",
+        "en": "Rutshuru",
+        "slug": "rutshuru"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD61",
+        "level": 1,
+        "name": {
+          "local": "Nord-Kivu",
+          "en": "Nord-Kivu",
+          "slug": "nord-kivu"
+        }
+      },
+      {
+        "id": "CD6111",
+        "level": 2,
+        "name": {
+          "local": "Rutshuru",
+          "en": "Rutshuru",
+          "slug": "rutshuru"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.961",
+      "lon": "29.327"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

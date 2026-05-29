@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CD201701",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kisantu",
+      "en": "Kisantu",
+      "slug": "kisantu"
+    },
+    "code": {
+      "id": "CD201701",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD2017",
+      "level": 2,
+      "name": {
+        "local": "Madimba",
+        "en": "Madimba",
+        "slug": "madimba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD20",
+        "level": 1,
+        "name": {
+          "local": "Kongo-Central",
+          "en": "Kongo-Central",
+          "slug": "kongo-central"
+        }
+      },
+      {
+        "id": "CD2017",
+        "level": 2,
+        "name": {
+          "local": "Madimba",
+          "en": "Madimba",
+          "slug": "madimba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.374",
+      "lon": "15.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD201702",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Ngidinga",
+      "en": "Ngidinga",
+      "slug": "ngidinga"
+    },
+    "code": {
+      "id": "CD201702",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD2017",
+      "level": 2,
+      "name": {
+        "local": "Madimba",
+        "en": "Madimba",
+        "slug": "madimba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD20",
+        "level": 1,
+        "name": {
+          "local": "Kongo-Central",
+          "en": "Kongo-Central",
+          "slug": "kongo-central"
+        }
+      },
+      {
+        "id": "CD2017",
+        "level": 2,
+        "name": {
+          "local": "Madimba",
+          "en": "Madimba",
+          "slug": "madimba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.374",
+      "lon": "15.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD201703",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Nselo",
+      "en": "Nselo",
+      "slug": "nselo"
+    },
+    "code": {
+      "id": "CD201703",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD2017",
+      "level": 2,
+      "name": {
+        "local": "Madimba",
+        "en": "Madimba",
+        "slug": "madimba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD20",
+        "level": 1,
+        "name": {
+          "local": "Kongo-Central",
+          "en": "Kongo-Central",
+          "slug": "kongo-central"
+        }
+      },
+      {
+        "id": "CD2017",
+        "level": 2,
+        "name": {
+          "local": "Madimba",
+          "en": "Madimba",
+          "slug": "madimba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.374",
+      "lon": "15.558"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CD531101",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Boma-Mangbetu",
+      "en": "Boma-Mangbetu",
+      "slug": "boma-mangbetu"
+    },
+    "code": {
+      "id": "CD531101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5311",
+      "level": 2,
+      "name": {
+        "local": "Wamba",
+        "en": "Wamba",
+        "slug": "wamba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD53",
+        "level": 1,
+        "name": {
+          "local": "Haut-Uele",
+          "en": "Haut-Uele",
+          "slug": "haut-uele"
+        }
+      },
+      {
+        "id": "CD5311",
+        "level": 2,
+        "name": {
+          "local": "Wamba",
+          "en": "Wamba",
+          "slug": "wamba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.096",
+      "lon": "27.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD531102",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Pawa",
+      "en": "Pawa",
+      "slug": "pawa"
+    },
+    "code": {
+      "id": "CD531102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5311",
+      "level": 2,
+      "name": {
+        "local": "Wamba",
+        "en": "Wamba",
+        "slug": "wamba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD53",
+        "level": 1,
+        "name": {
+          "local": "Haut-Uele",
+          "en": "Haut-Uele",
+          "slug": "haut-uele"
+        }
+      },
+      {
+        "id": "CD5311",
+        "level": 2,
+        "name": {
+          "local": "Wamba",
+          "en": "Wamba",
+          "slug": "wamba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.096",
+      "lon": "27.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD531103",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Wamba",
+      "en": "Wamba",
+      "slug": "wamba"
+    },
+    "code": {
+      "id": "CD531103",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5311",
+      "level": 2,
+      "name": {
+        "local": "Wamba",
+        "en": "Wamba",
+        "slug": "wamba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD53",
+        "level": 1,
+        "name": {
+          "local": "Haut-Uele",
+          "en": "Haut-Uele",
+          "slug": "haut-uele"
+        }
+      },
+      {
+        "id": "CD5311",
+        "level": 2,
+        "name": {
+          "local": "Wamba",
+          "en": "Wamba",
+          "slug": "wamba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.096",
+      "lon": "27.839"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

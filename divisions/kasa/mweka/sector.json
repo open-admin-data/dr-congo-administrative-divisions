@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CD920701",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Bulape",
+      "en": "Bulape",
+      "slug": "bulape"
+    },
+    "code": {
+      "id": "CD920701",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD9207",
+      "level": 2,
+      "name": {
+        "local": "Mweka",
+        "en": "Mweka",
+        "slug": "mweka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD92",
+        "level": 1,
+        "name": {
+          "local": "Kasaï",
+          "en": "Kasaï",
+          "slug": "kasa"
+        }
+      },
+      {
+        "id": "CD9207",
+        "level": 2,
+        "name": {
+          "local": "Mweka",
+          "en": "Mweka",
+          "slug": "mweka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.65",
+      "lon": "21.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD920702",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kakenge",
+      "en": "Kakenge",
+      "slug": "kakenge"
+    },
+    "code": {
+      "id": "CD920702",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD9207",
+      "level": 2,
+      "name": {
+        "local": "Mweka",
+        "en": "Mweka",
+        "slug": "mweka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD92",
+        "level": 1,
+        "name": {
+          "local": "Kasaï",
+          "en": "Kasaï",
+          "slug": "kasa"
+        }
+      },
+      {
+        "id": "CD9207",
+        "level": 2,
+        "name": {
+          "local": "Mweka",
+          "en": "Mweka",
+          "slug": "mweka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.65",
+      "lon": "21.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD920703",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Mushenge",
+      "en": "Mushenge",
+      "slug": "mushenge"
+    },
+    "code": {
+      "id": "CD920703",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD9207",
+      "level": 2,
+      "name": {
+        "local": "Mweka",
+        "en": "Mweka",
+        "slug": "mweka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD92",
+        "level": 1,
+        "name": {
+          "local": "Kasaï",
+          "en": "Kasaï",
+          "slug": "kasa"
+        }
+      },
+      {
+        "id": "CD9207",
+        "level": 2,
+        "name": {
+          "local": "Mweka",
+          "en": "Mweka",
+          "slug": "mweka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.65",
+      "lon": "21.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD920704",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Mweka",
+      "en": "Mweka",
+      "slug": "mweka"
+    },
+    "code": {
+      "id": "CD920704",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD9207",
+      "level": 2,
+      "name": {
+        "local": "Mweka",
+        "en": "Mweka",
+        "slug": "mweka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD92",
+        "level": 1,
+        "name": {
+          "local": "Kasaï",
+          "en": "Kasaï",
+          "slug": "kasa"
+        }
+      },
+      {
+        "id": "CD9207",
+        "level": 2,
+        "name": {
+          "local": "Mweka",
+          "en": "Mweka",
+          "slug": "mweka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.65",
+      "lon": "21.668"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

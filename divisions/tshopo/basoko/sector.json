@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CD510901",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Basali",
+      "en": "Basali",
+      "slug": "basali"
+    },
+    "code": {
+      "id": "CD510901",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5109",
+      "level": 2,
+      "name": {
+        "local": "Basoko",
+        "en": "Basoko",
+        "slug": "basoko"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD51",
+        "level": 1,
+        "name": {
+          "local": "Tshopo",
+          "en": "Tshopo",
+          "slug": "tshopo"
+        }
+      },
+      {
+        "id": "CD5109",
+        "level": 2,
+        "name": {
+          "local": "Basoko",
+          "en": "Basoko",
+          "slug": "basoko"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.677",
+      "lon": "23.898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD510902",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Basoko",
+      "en": "Basoko",
+      "slug": "basoko"
+    },
+    "code": {
+      "id": "CD510902",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5109",
+      "level": 2,
+      "name": {
+        "local": "Basoko",
+        "en": "Basoko",
+        "slug": "basoko"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD51",
+        "level": 1,
+        "name": {
+          "local": "Tshopo",
+          "en": "Tshopo",
+          "slug": "tshopo"
+        }
+      },
+      {
+        "id": "CD5109",
+        "level": 2,
+        "name": {
+          "local": "Basoko",
+          "en": "Basoko",
+          "slug": "basoko"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.677",
+      "lon": "23.898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD510903",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Yalimbongo",
+      "en": "Yalimbongo",
+      "slug": "yalimbongo"
+    },
+    "code": {
+      "id": "CD510903",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5109",
+      "level": 2,
+      "name": {
+        "local": "Basoko",
+        "en": "Basoko",
+        "slug": "basoko"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD51",
+        "level": 1,
+        "name": {
+          "local": "Tshopo",
+          "en": "Tshopo",
+          "slug": "tshopo"
+        }
+      },
+      {
+        "id": "CD5109",
+        "level": 2,
+        "name": {
+          "local": "Basoko",
+          "en": "Basoko",
+          "slug": "basoko"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.677",
+      "lon": "23.898"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

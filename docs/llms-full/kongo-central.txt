@@ -1,0 +1,193 @@
+# Kongo-Central — DR Congo Administrative Divisions
+
+> 12 territorys, 31 sectors
+> Code: CD20
+> Coordinates: -5.178, 14.382
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Territorys
+
+### Boma
+
+Code: CD2002, Coordinates: -5.814, 13.05
+Sectors: 1
+
+#### Boma
+
+Code: CD200201, Coordinates: -5.814, 13.05
+
+### Kasangulu
+
+Code: CD2015, Coordinates: -4.805, 15.311
+Sectors: 2
+
+#### Masa
+
+Code: CD201501, Coordinates: -4.805, 15.311
+
+#### Sona-Bata
+
+Code: CD201502, Coordinates: -4.805, 15.311
+
+### Kimvula
+
+Code: CD2019, Coordinates: -5.422, 16.04
+Sectors: 1
+
+#### Kimvula
+
+Code: CD201901, Coordinates: -5.422, 16.04
+
+### Lukula
+
+Code: CD2005, Coordinates: -5.388, 12.852
+Sectors: 2
+
+#### Kangu
+
+Code: CD200501, Coordinates: -5.388, 12.852
+
+#### Lukula
+
+Code: CD200502, Coordinates: -5.388, 12.852
+
+### Luozi
+
+Code: CD2010, Coordinates: -4.818, 14.01
+Sectors: 3
+
+#### Kibunzi
+
+Code: CD201001, Coordinates: -4.818, 14.01
+
+#### Luozi
+
+Code: CD201002, Coordinates: -4.818, 14.01
+
+#### Mangembo
+
+Code: CD201003, Coordinates: -4.818, 14.01
+
+### Madimba
+
+Code: CD2017, Coordinates: -5.374, 15.558
+Sectors: 3
+
+#### Kisantu
+
+Code: CD201701, Coordinates: -5.374, 15.558
+
+#### Ngidinga
+
+Code: CD201702, Coordinates: -5.374, 15.558
+
+#### Nselo
+
+Code: CD201703, Coordinates: -5.374, 15.558
+
+### Matadi
+
+Code: CD2001, Coordinates: -5.841, 13.459
+Sectors: 2
+
+#### Matadi
+
+Code: CD200101, Coordinates: -5.841, 13.459
+
+#### Nzanza
+
+Code: CD200102, Coordinates: -5.841, 13.459
+
+### Mbanza-Ngungu
+
+Code: CD2013, Coordinates: -5.338, 14.8
+Sectors: 5
+
+#### Boko-Kivulu
+
+Code: CD201301, Coordinates: -5.338, 14.8
+
+#### Gombe-Matadi
+
+Code: CD201302, Coordinates: -5.338, 14.8
+
+#### Kimpangu
+
+Code: CD201303, Coordinates: -5.338, 14.8
+
+#### Kwilu-Ngongo
+
+Code: CD201304, Coordinates: -5.338, 14.8
+
+#### Mbanza-Ngungu
+
+Code: CD201305, Coordinates: -5.338, 14.8
+
+### Moanda
+
+Code: CD2003, Coordinates: -5.756, 12.943
+Sectors: 3
+
+#### Boma Bungu
+
+Code: CD200301, Coordinates: -5.756, 12.943
+
+#### Kitona
+
+Code: CD200302, Coordinates: -5.756, 12.943
+
+#### Moanda
+
+Code: CD200303, Coordinates: -5.756, 12.943
+
+### Seke-Banza
+
+Code: CD2009, Coordinates: -5.391, 13.372
+Sectors: 2
+
+#### Inga
+
+Code: CD200901, Coordinates: -5.391, 13.372
+
+#### Seke-Banza
+
+Code: CD200902, Coordinates: -5.391, 13.372
+
+### Songololo
+
+Code: CD2011, Coordinates: -5.441, 14.05
+Sectors: 2
+
+#### Kimpese
+
+Code: CD201101, Coordinates: -5.441, 14.05
+
+#### Nsona-Mpangu
+
+Code: CD201102, Coordinates: -5.441, 14.05
+
+### Tshela
+
+Code: CD2007, Coordinates: -4.984, 12.868
+Sectors: 5
+
+#### Kinkonzi
+
+Code: CD200701, Coordinates: -4.984, 12.868
+
+#### Kizu
+
+Code: CD200702, Coordinates: -4.984, 12.868
+
+#### Kuimba
+
+Code: CD200703, Coordinates: -4.984, 12.868
+
+#### Tshela
+
+Code: CD200704, Coordinates: -4.984, 12.868
+
+#### Vaku
+
+Code: CD200705, Coordinates: -4.984, 12.868
+

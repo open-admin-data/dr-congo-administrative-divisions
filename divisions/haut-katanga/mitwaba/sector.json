@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CD710801",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Mitwaba",
+      "en": "Mitwaba",
+      "slug": "mitwaba"
+    },
+    "code": {
+      "id": "CD710801",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7108",
+      "level": 2,
+      "name": {
+        "local": "Mitwaba",
+        "en": "Mitwaba",
+        "slug": "mitwaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD71",
+        "level": 1,
+        "name": {
+          "local": "Haut-Katanga",
+          "en": "Haut-Katanga",
+          "slug": "haut-katanga"
+        }
+      },
+      {
+        "id": "CD7108",
+        "level": 2,
+        "name": {
+          "local": "Mitwaba",
+          "en": "Mitwaba",
+          "slug": "mitwaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.111",
+      "lon": "27.099"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD710802",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Mufunga Sampwe",
+      "en": "Mufunga Sampwe",
+      "slug": "mufunga-sampwe"
+    },
+    "code": {
+      "id": "CD710802",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7108",
+      "level": 2,
+      "name": {
+        "local": "Mitwaba",
+        "en": "Mitwaba",
+        "slug": "mitwaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD71",
+        "level": 1,
+        "name": {
+          "local": "Haut-Katanga",
+          "en": "Haut-Katanga",
+          "slug": "haut-katanga"
+        }
+      },
+      {
+        "id": "CD7108",
+        "level": 2,
+        "name": {
+          "local": "Mitwaba",
+          "en": "Mitwaba",
+          "slug": "mitwaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.111",
+      "lon": "27.099"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

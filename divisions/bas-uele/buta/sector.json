@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CD520201",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Buta",
+      "en": "Buta",
+      "slug": "buta"
+    },
+    "code": {
+      "id": "CD520201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5202",
+      "level": 2,
+      "name": {
+        "local": "Buta",
+        "en": "Buta",
+        "slug": "buta"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD52",
+        "level": 1,
+        "name": {
+          "local": "Bas-Uele",
+          "en": "Bas-Uele",
+          "slug": "bas-uele"
+        }
+      },
+      {
+        "id": "CD5202",
+        "level": 2,
+        "name": {
+          "local": "Buta",
+          "en": "Buta",
+          "slug": "buta"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.835",
+      "lon": "25.144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD520202",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Titule",
+      "en": "Titule",
+      "slug": "titule"
+    },
+    "code": {
+      "id": "CD520202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5202",
+      "level": 2,
+      "name": {
+        "local": "Buta",
+        "en": "Buta",
+        "slug": "buta"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD52",
+        "level": 1,
+        "name": {
+          "local": "Bas-Uele",
+          "en": "Bas-Uele",
+          "slug": "bas-uele"
+        }
+      },
+      {
+        "id": "CD5202",
+        "level": 2,
+        "name": {
+          "local": "Buta",
+          "en": "Buta",
+          "slug": "buta"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.835",
+      "lon": "25.144"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

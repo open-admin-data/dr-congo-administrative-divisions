@@ -1,0 +1,86 @@
+# Lualaba — DR Congo Administrative Divisions
+
+> 5 territorys, 13 sectors
+> Code: CD72
+> Coordinates: -9.689, 23.026
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Territorys
+
+### Dilolo
+
+Code: CD7205, Coordinates: -10.539, 23.309
+Sectors: 2
+
+#### Dilolo
+
+Code: CD720501, Coordinates: -10.539, 23.309
+
+#### Kasaji
+
+Code: CD720502, Coordinates: -10.539, 23.309
+
+### Kapanga
+
+Code: CD7207, Coordinates: -8.488, 22.796
+Sectors: 2
+
+#### Kalamba
+
+Code: CD720701, Coordinates: -8.488, 22.796
+
+#### Kapanga
+
+Code: CD720702, Coordinates: -8.488, 22.796
+
+### Lubudi
+
+Code: CD7203, Coordinates: -10.358, 26.479
+Sectors: 4
+
+#### Bunkeya
+
+Code: CD720301, Coordinates: -10.358, 26.479
+
+#### Fungurume
+
+Code: CD720302, Coordinates: -10.358, 26.479
+
+#### Kanzenze
+
+Code: CD720303, Coordinates: -10.358, 26.479
+
+#### Lubudi
+
+Code: CD720304, Coordinates: -10.358, 26.479
+
+### Mutshatsha
+
+Code: CD7202, Coordinates: -10.858, 25.166
+Sectors: 3
+
+#### Dilala
+
+Code: CD720201, Coordinates: -10.858, 25.166
+
+#### Lualaba
+
+Code: CD720202, Coordinates: -10.858, 25.166
+
+#### Mutshatsha
+
+Code: CD720203, Coordinates: -10.858, 25.166
+
+### Sandoa
+
+Code: CD7206, Coordinates: -9.383, 22.975
+Sectors: 2
+
+#### Kafakumba
+
+Code: CD720601, Coordinates: -9.383, 22.975
+
+#### Sandoa
+
+Code: CD720602, Coordinates: -9.383, 22.975
+

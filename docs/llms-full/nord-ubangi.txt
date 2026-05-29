@@ -1,0 +1,78 @@
+# Nord-Ubangi — DR Congo Administrative Divisions
+
+> 5 territorys, 11 sectors
+> Code: CD43
+> Coordinates: 3.981, 21.355
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Territorys
+
+### Bosobolo
+
+Code: CD4306, Coordinates: 4.523, 19.938
+Sectors: 2
+
+#### Bili
+
+Code: CD430601, Coordinates: 4.523, 19.938
+
+#### Bosobolo
+
+Code: CD430602, Coordinates: 4.523, 19.938
+
+### Businga
+
+Code: CD4305, Coordinates: 3.443, 20.745
+Sectors: 3
+
+#### Businga
+
+Code: CD430501, Coordinates: 3.443, 20.745
+
+#### Karawa
+
+Code: CD430502, Coordinates: 3.443, 20.745
+
+#### Loko
+
+Code: CD430503, Coordinates: 3.443, 20.745
+
+### Gbadolite
+
+Code: CD4301, Coordinates: 4.254, 20.909
+Sectors: 1
+
+#### Gbadolite
+
+Code: CD430101, Coordinates: 4.254, 20.909
+
+### Mobayi-Mbongo
+
+Code: CD4302, Coordinates: 4.13, 21.445
+Sectors: 1
+
+#### Mobayi Mbongo
+
+Code: CD430201, Coordinates: 4.13, 21.445
+
+### Yakoma
+
+Code: CD4304, Coordinates: 3.594, 22.198
+Sectors: 4
+
+#### Abuzi
+
+Code: CD430401, Coordinates: 3.594, 22.198
+
+#### Wapinda
+
+Code: CD430402, Coordinates: 3.594, 22.198
+
+#### Wasolo
+
+Code: CD430403, Coordinates: 3.594, 22.198
+
+#### Yakoma
+
+Code: CD430404, Coordinates: 3.594, 22.198
+

@@ -1,0 +1,237 @@
+[
+  {
+    "id": "CD5409",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Aru",
+      "en": "Aru",
+      "slug": "aru"
+    },
+    "code": {
+      "id": "CD5409",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD54",
+      "level": 1,
+      "name": {
+        "local": "Ituri",
+        "en": "Ituri",
+        "slug": "ituri"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD54",
+        "level": 1,
+        "name": {
+          "local": "Ituri",
+          "en": "Ituri",
+          "slug": "ituri"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.029",
+      "lon": "30.457"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD5405",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Djugu",
+      "en": "Djugu",
+      "slug": "djugu"
+    },
+    "code": {
+      "id": "CD5405",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD54",
+      "level": 1,
+      "name": {
+        "local": "Ituri",
+        "en": "Ituri",
+        "slug": "ituri"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD54",
+        "level": 1,
+        "name": {
+          "local": "Ituri",
+          "en": "Ituri",
+          "slug": "ituri"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.886",
+      "lon": "30.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD5402",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Irumu",
+      "en": "Irumu",
+      "slug": "irumu"
+    },
+    "code": {
+      "id": "CD5402",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD54",
+      "level": 1,
+      "name": {
+        "local": "Ituri",
+        "en": "Ituri",
+        "slug": "ituri"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD54",
+        "level": 1,
+        "name": {
+          "local": "Ituri",
+          "en": "Ituri",
+          "slug": "ituri"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.27",
+      "lon": "30.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD5407",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Mahagi",
+      "en": "Mahagi",
+      "slug": "mahagi"
+    },
+    "code": {
+      "id": "CD5407",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD54",
+      "level": 1,
+      "name": {
+        "local": "Ituri",
+        "en": "Ituri",
+        "slug": "ituri"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD54",
+        "level": 1,
+        "name": {
+          "local": "Ituri",
+          "en": "Ituri",
+          "slug": "ituri"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.325",
+      "lon": "30.673"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD5403",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Mambasa",
+      "en": "Mambasa",
+      "slug": "mambasa"
+    },
+    "code": {
+      "id": "CD5403",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD54",
+      "level": 1,
+      "name": {
+        "local": "Ituri",
+        "en": "Ituri",
+        "slug": "ituri"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD54",
+        "level": 1,
+        "name": {
+          "local": "Ituri",
+          "en": "Ituri",
+          "slug": "ituri"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.531",
+      "lon": "28.784"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "CD4108",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Bolomba",
+    "en": "Bolomba",
+    "slug": "bolomba"
+  },
+  "code": {
+    "id": "CD4108",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD41",
+    "level": 1,
+    "name": {
+      "local": "Equateur",
+      "en": "Equateur",
+      "slug": "equateur"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD41",
+      "level": 1,
+      "name": {
+        "local": "Equateur",
+        "en": "Equateur",
+        "slug": "equateur"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.589",
+    "lon": "18.98"
+  },
+  "metadata": {},
+  "source": {}
+}

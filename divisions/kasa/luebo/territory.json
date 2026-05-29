@@ -1,0 +1,47 @@
+{
+  "id": "CD9204",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Luebo",
+    "en": "Luebo",
+    "slug": "luebo"
+  },
+  "code": {
+    "id": "CD9204",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD92",
+    "level": 1,
+    "name": {
+      "local": "Kasaï",
+      "en": "Kasaï",
+      "slug": "kasa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD92",
+      "level": 1,
+      "name": {
+        "local": "Kasaï",
+        "en": "Kasaï",
+        "slug": "kasa"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.593",
+    "lon": "21.442"
+  },
+  "metadata": {},
+  "source": {}
+}

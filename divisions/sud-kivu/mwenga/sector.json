@@ -1,0 +1,272 @@
+[
+  {
+    "id": "CD621201",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Itombwe",
+      "en": "Itombwe",
+      "slug": "itombwe"
+    },
+    "code": {
+      "id": "CD621201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6212",
+      "level": 2,
+      "name": {
+        "local": "Mwenga",
+        "en": "Mwenga",
+        "slug": "mwenga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD62",
+        "level": 1,
+        "name": {
+          "local": "Sud-Kivu",
+          "en": "Sud-Kivu",
+          "slug": "sud-kivu"
+        }
+      },
+      {
+        "id": "CD6212",
+        "level": 2,
+        "name": {
+          "local": "Mwenga",
+          "en": "Mwenga",
+          "slug": "mwenga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.393",
+      "lon": "28.311"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD621202",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kamituga",
+      "en": "Kamituga",
+      "slug": "kamituga"
+    },
+    "code": {
+      "id": "CD621202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6212",
+      "level": 2,
+      "name": {
+        "local": "Mwenga",
+        "en": "Mwenga",
+        "slug": "mwenga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD62",
+        "level": 1,
+        "name": {
+          "local": "Sud-Kivu",
+          "en": "Sud-Kivu",
+          "slug": "sud-kivu"
+        }
+      },
+      {
+        "id": "CD6212",
+        "level": 2,
+        "name": {
+          "local": "Mwenga",
+          "en": "Mwenga",
+          "slug": "mwenga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.393",
+      "lon": "28.311"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD621203",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kitutu",
+      "en": "Kitutu",
+      "slug": "kitutu"
+    },
+    "code": {
+      "id": "CD621203",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6212",
+      "level": 2,
+      "name": {
+        "local": "Mwenga",
+        "en": "Mwenga",
+        "slug": "mwenga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD62",
+        "level": 1,
+        "name": {
+          "local": "Sud-Kivu",
+          "en": "Sud-Kivu",
+          "slug": "sud-kivu"
+        }
+      },
+      {
+        "id": "CD6212",
+        "level": 2,
+        "name": {
+          "local": "Mwenga",
+          "en": "Mwenga",
+          "slug": "mwenga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.393",
+      "lon": "28.311"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD621204",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Mwana",
+      "en": "Mwana",
+      "slug": "mwana"
+    },
+    "code": {
+      "id": "CD621204",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6212",
+      "level": 2,
+      "name": {
+        "local": "Mwenga",
+        "en": "Mwenga",
+        "slug": "mwenga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD62",
+        "level": 1,
+        "name": {
+          "local": "Sud-Kivu",
+          "en": "Sud-Kivu",
+          "slug": "sud-kivu"
+        }
+      },
+      {
+        "id": "CD6212",
+        "level": 2,
+        "name": {
+          "local": "Mwenga",
+          "en": "Mwenga",
+          "slug": "mwenga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.393",
+      "lon": "28.311"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD621205",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Mwenga",
+      "en": "Mwenga",
+      "slug": "mwenga"
+    },
+    "code": {
+      "id": "CD621205",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6212",
+      "level": 2,
+      "name": {
+        "local": "Mwenga",
+        "en": "Mwenga",
+        "slug": "mwenga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD62",
+        "level": 1,
+        "name": {
+          "local": "Sud-Kivu",
+          "en": "Sud-Kivu",
+          "slug": "sud-kivu"
+        }
+      },
+      {
+        "id": "CD6212",
+        "level": 2,
+        "name": {
+          "local": "Mwenga",
+          "en": "Mwenga",
+          "slug": "mwenga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.393",
+      "lon": "28.311"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

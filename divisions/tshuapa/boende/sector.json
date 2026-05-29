@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CD450201",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Boende",
+      "en": "Boende",
+      "slug": "boende"
+    },
+    "code": {
+      "id": "CD450201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD4502",
+      "level": 2,
+      "name": {
+        "local": "Boende",
+        "en": "Boende",
+        "slug": "boende"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD45",
+        "level": 1,
+        "name": {
+          "local": "Tshuapa",
+          "en": "Tshuapa",
+          "slug": "tshuapa"
+        }
+      },
+      {
+        "id": "CD4502",
+        "level": 2,
+        "name": {
+          "local": "Boende",
+          "en": "Boende",
+          "slug": "boende"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.494",
+      "lon": "20.953"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD450202",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Wema",
+      "en": "Wema",
+      "slug": "wema"
+    },
+    "code": {
+      "id": "CD450202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD4502",
+      "level": 2,
+      "name": {
+        "local": "Boende",
+        "en": "Boende",
+        "slug": "boende"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD45",
+        "level": 1,
+        "name": {
+          "local": "Tshuapa",
+          "en": "Tshuapa",
+          "slug": "tshuapa"
+        }
+      },
+      {
+        "id": "CD4502",
+        "level": 2,
+        "name": {
+          "local": "Boende",
+          "en": "Boende",
+          "slug": "boende"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.494",
+      "lon": "20.953"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

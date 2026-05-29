@@ -1,0 +1,143 @@
+[
+  {
+    "id": "CD4405",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Bongandanga",
+      "en": "Bongandanga",
+      "slug": "bongandanga"
+    },
+    "code": {
+      "id": "CD4405",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD44",
+      "level": 1,
+      "name": {
+        "local": "Mongala",
+        "en": "Mongala",
+        "slug": "mongala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD44",
+        "level": 1,
+        "name": {
+          "local": "Mongala",
+          "en": "Mongala",
+          "slug": "mongala"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.471",
+      "lon": "21.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD4404",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Bumba",
+      "en": "Bumba",
+      "slug": "bumba"
+    },
+    "code": {
+      "id": "CD4404",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD44",
+      "level": 1,
+      "name": {
+        "local": "Mongala",
+        "en": "Mongala",
+        "slug": "mongala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD44",
+        "level": 1,
+        "name": {
+          "local": "Mongala",
+          "en": "Mongala",
+          "slug": "mongala"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.675",
+      "lon": "22.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD4402",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Lisala",
+      "en": "Lisala",
+      "slug": "lisala"
+    },
+    "code": {
+      "id": "CD4402",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD44",
+      "level": 1,
+      "name": {
+        "local": "Mongala",
+        "en": "Mongala",
+        "slug": "mongala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD44",
+        "level": 1,
+        "name": {
+          "local": "Mongala",
+          "en": "Mongala",
+          "slug": "mongala"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.548",
+      "lon": "21.306"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

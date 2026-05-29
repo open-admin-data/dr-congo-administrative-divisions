@@ -1,0 +1,47 @@
+{
+  "id": "CD6102",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Nyiragongo",
+    "en": "Nyiragongo",
+    "slug": "nyiragongo"
+  },
+  "code": {
+    "id": "CD6102",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD61",
+    "level": 1,
+    "name": {
+      "local": "Nord-Kivu",
+      "en": "Nord-Kivu",
+      "slug": "nord-kivu"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD61",
+      "level": 1,
+      "name": {
+        "local": "Nord-Kivu",
+        "en": "Nord-Kivu",
+        "slug": "nord-kivu"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.553",
+    "lon": "29.249"
+  },
+  "metadata": {},
+  "source": {}
+}

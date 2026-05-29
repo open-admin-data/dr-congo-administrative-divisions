@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CD810601",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kalambayi Kabanga",
+      "en": "Kalambayi Kabanga",
+      "slug": "kalambayi-kabanga"
+    },
+    "code": {
+      "id": "CD810601",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD8106",
+      "level": 2,
+      "name": {
+        "local": "Ngandajika",
+        "en": "Ngandajika",
+        "slug": "ngandajika"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD81",
+        "level": 1,
+        "name": {
+          "local": "Lomami",
+          "en": "Lomami",
+          "slug": "lomami"
+        }
+      },
+      {
+        "id": "CD8106",
+        "level": 2,
+        "name": {
+          "local": "Ngandajika",
+          "en": "Ngandajika",
+          "slug": "ngandajika"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.701",
+      "lon": "24.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD810602",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Mulumba",
+      "en": "Mulumba",
+      "slug": "mulumba"
+    },
+    "code": {
+      "id": "CD810602",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD8106",
+      "level": 2,
+      "name": {
+        "local": "Ngandajika",
+        "en": "Ngandajika",
+        "slug": "ngandajika"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD81",
+        "level": 1,
+        "name": {
+          "local": "Lomami",
+          "en": "Lomami",
+          "slug": "lomami"
+        }
+      },
+      {
+        "id": "CD8106",
+        "level": 2,
+        "name": {
+          "local": "Ngandajika",
+          "en": "Ngandajika",
+          "slug": "ngandajika"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.701",
+      "lon": "24.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD810603",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Ngandajika",
+      "en": "Ngandajika",
+      "slug": "ngandajika"
+    },
+    "code": {
+      "id": "CD810603",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD8106",
+      "level": 2,
+      "name": {
+        "local": "Ngandajika",
+        "en": "Ngandajika",
+        "slug": "ngandajika"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD81",
+        "level": 1,
+        "name": {
+          "local": "Lomami",
+          "en": "Lomami",
+          "slug": "lomami"
+        }
+      },
+      {
+        "id": "CD8106",
+        "level": 2,
+        "name": {
+          "local": "Ngandajika",
+          "en": "Ngandajika",
+          "slug": "ngandajika"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.701",
+      "lon": "24.279"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

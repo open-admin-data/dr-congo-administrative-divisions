@@ -1,0 +1,154 @@
+# Kinshasa — DR Congo Administrative Divisions
+
+> 1 territorys, 35 sectors
+> Code: CD10
+> Coordinates: -4.477, 15.788
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Territorys
+
+### Kinshasa
+
+Code: CD1000, Coordinates: -4.477, 15.788
+Sectors: 35
+
+#### Bandalungwa
+
+Code: CD100001, Coordinates: -4.477, 15.788
+
+#### Barumbu
+
+Code: CD100002, Coordinates: -4.477, 15.788
+
+#### Binza Meteo
+
+Code: CD100003, Coordinates: -4.477, 15.788
+
+#### Binza Ozone
+
+Code: CD100004, Coordinates: -4.477, 15.788
+
+#### Biyela
+
+Code: CD100005, Coordinates: -4.477, 15.788
+
+#### Bumbu
+
+Code: CD100006, Coordinates: -4.477, 15.788
+
+#### Gombe
+
+Code: CD100007, Coordinates: -4.477, 15.788
+
+#### Kalamu I
+
+Code: CD100008, Coordinates: -4.477, 15.788
+
+#### Kalamu II
+
+Code: CD100009, Coordinates: -4.477, 15.788
+
+#### Kasa-Vubu
+
+Code: CD100010, Coordinates: -4.477, 15.788
+
+#### Kikimi
+
+Code: CD100011, Coordinates: -4.477, 15.788
+
+#### Kimbanseke
+
+Code: CD100012, Coordinates: -4.477, 15.788
+
+#### Kingabwa
+
+Code: CD100013, Coordinates: -4.477, 15.788
+
+#### Kingasani
+
+Code: CD100014, Coordinates: -4.477, 15.788
+
+#### Kinshasa
+
+Code: CD100015, Coordinates: -4.477, 15.788
+
+#### Kintambo
+
+Code: CD100016, Coordinates: -4.477, 15.788
+
+#### Kisenso
+
+Code: CD100017, Coordinates: -4.477, 15.788
+
+#### Kokolo
+
+Code: CD100018, Coordinates: -4.477, 15.788
+
+#### Lemba
+
+Code: CD100019, Coordinates: -4.477, 15.788
+
+#### Limete
+
+Code: CD100020, Coordinates: -4.477, 15.788
+
+#### Lingwala
+
+Code: CD100021, Coordinates: -4.477, 15.788
+
+#### Makala
+
+Code: CD100022, Coordinates: -4.477, 15.788
+
+#### Maluku I
+
+Code: CD100023, Coordinates: -4.477, 15.788
+
+#### Maluku II
+
+Code: CD100024, Coordinates: -4.477, 15.788
+
+#### Masina I
+
+Code: CD100025, Coordinates: -4.477, 15.788
+
+#### Masina II
+
+Code: CD100026, Coordinates: -4.477, 15.788
+
+#### Matete
+
+Code: CD100027, Coordinates: -4.477, 15.788
+
+#### Mont Ngafula I
+
+Code: CD100028, Coordinates: -4.477, 15.788
+
+#### Mont Ngafula II
+
+Code: CD100029, Coordinates: -4.477, 15.788
+
+#### Ndjili
+
+Code: CD100030, Coordinates: -4.477, 15.788
+
+#### Ngaba
+
+Code: CD100031, Coordinates: -4.477, 15.788
+
+#### Ngiri-Ngiri
+
+Code: CD100032, Coordinates: -4.477, 15.788
+
+#### Nsele
+
+Code: CD100033, Coordinates: -4.477, 15.788
+
+#### Police
+
+Code: CD100034, Coordinates: -4.477, 15.788
+
+#### Selembao
+
+Code: CD100035, Coordinates: -4.477, 15.788
+

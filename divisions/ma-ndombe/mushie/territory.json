@@ -1,0 +1,47 @@
+{
+  "id": "CD3311",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Mushie",
+    "en": "Mushie",
+    "slug": "mushie"
+  },
+  "code": {
+    "id": "CD3311",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD33",
+    "level": 1,
+    "name": {
+      "local": "Maï-Ndombe",
+      "en": "Maï-Ndombe",
+      "slug": "ma-ndombe"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD33",
+      "level": 1,
+      "name": {
+        "local": "Maï-Ndombe",
+        "en": "Maï-Ndombe",
+        "slug": "ma-ndombe"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.526",
+    "lon": "17.142"
+  },
+  "metadata": {},
+  "source": {}
+}

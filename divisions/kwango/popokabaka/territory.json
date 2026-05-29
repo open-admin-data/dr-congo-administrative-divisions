@@ -1,0 +1,47 @@
+{
+  "id": "CD3108",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Popokabaka",
+    "en": "Popokabaka",
+    "slug": "popokabaka"
+  },
+  "code": {
+    "id": "CD3108",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD31",
+    "level": 1,
+    "name": {
+      "local": "Kwango",
+      "en": "Kwango",
+      "slug": "kwango"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD31",
+      "level": 1,
+      "name": {
+        "local": "Kwango",
+        "en": "Kwango",
+        "slug": "kwango"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.512",
+    "lon": "16.383"
+  },
+  "metadata": {},
+  "source": {}
+}

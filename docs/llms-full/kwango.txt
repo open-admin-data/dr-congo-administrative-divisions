@@ -1,0 +1,90 @@
+# Kwango — DR Congo Administrative Divisions
+
+> 5 territorys, 14 sectors
+> Code: CD31
+> Coordinates: -6.181, 17.796
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Territorys
+
+### Feshi
+
+Code: CD3103, Coordinates: -6.306, 18.233
+Sectors: 3
+
+#### Feshi
+
+Code: CD310301, Coordinates: -6.306, 18.233
+
+#### Kisanji
+
+Code: CD310302, Coordinates: -6.306, 18.233
+
+#### Mwela Lembwa
+
+Code: CD310303, Coordinates: -6.306, 18.233
+
+### Kahemba
+
+Code: CD3105, Coordinates: -7.198, 19.005
+Sectors: 2
+
+#### Kahemba
+
+Code: CD310501, Coordinates: -7.198, 19.005
+
+#### Kajiji
+
+Code: CD310502, Coordinates: -7.198, 19.005
+
+### Kasongo-Lunda
+
+Code: CD3106, Coordinates: -6.181, 17.796
+Sectors: 5
+
+#### Kasongo Lunda
+
+Code: CD310601, Coordinates: -6.181, 17.796
+
+#### Kitenda
+
+Code: CD310602, Coordinates: -6.181, 17.796
+
+#### Panzi
+
+Code: CD310603, Coordinates: -6.181, 17.796
+
+#### Tembo
+
+Code: CD310604, Coordinates: -6.181, 17.796
+
+#### Wamba Lwadi
+
+Code: CD310605, Coordinates: -6.181, 17.796
+
+### Kenge
+
+Code: CD3102, Coordinates: -5.104, 17.018
+Sectors: 3
+
+#### Boko
+
+Code: CD310201, Coordinates: -5.104, 17.018
+
+#### Kenge
+
+Code: CD310202, Coordinates: -5.104, 17.018
+
+#### Kimbau
+
+Code: CD310203, Coordinates: -5.104, 17.018
+
+### Popokabaka
+
+Code: CD3108, Coordinates: -5.512, 16.383
+Sectors: 1
+
+#### Popokabaka
+
+Code: CD310801, Coordinates: -5.512, 16.383
+

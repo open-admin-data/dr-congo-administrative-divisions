@@ -1,0 +1,56 @@
+[
+  {
+    "id": "CD430201",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Mobayi Mbongo",
+      "en": "Mobayi Mbongo",
+      "slug": "mobayi-mbongo"
+    },
+    "code": {
+      "id": "CD430201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD4302",
+      "level": 2,
+      "name": {
+        "local": "Mobayi-Mbongo",
+        "en": "Mobayi-Mbongo",
+        "slug": "mobayi-mbongo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD43",
+        "level": 1,
+        "name": {
+          "local": "Nord-Ubangi",
+          "en": "Nord-Ubangi",
+          "slug": "nord-ubangi"
+        }
+      },
+      {
+        "id": "CD4302",
+        "level": 2,
+        "name": {
+          "local": "Mobayi-Mbongo",
+          "en": "Mobayi-Mbongo",
+          "slug": "mobayi-mbongo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.13",
+      "lon": "21.445"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

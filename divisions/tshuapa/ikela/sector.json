@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CD450501",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Ikela",
+      "en": "Ikela",
+      "slug": "ikela"
+    },
+    "code": {
+      "id": "CD450501",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD4505",
+      "level": 2,
+      "name": {
+        "local": "Ikela",
+        "en": "Ikela",
+        "slug": "ikela"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD45",
+        "level": 1,
+        "name": {
+          "local": "Tshuapa",
+          "en": "Tshuapa",
+          "slug": "tshuapa"
+        }
+      },
+      {
+        "id": "CD4505",
+        "level": 2,
+        "name": {
+          "local": "Ikela",
+          "en": "Ikela",
+          "slug": "ikela"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.989",
+      "lon": "23.087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD450502",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Mondombe",
+      "en": "Mondombe",
+      "slug": "mondombe"
+    },
+    "code": {
+      "id": "CD450502",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD4505",
+      "level": 2,
+      "name": {
+        "local": "Ikela",
+        "en": "Ikela",
+        "slug": "ikela"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD45",
+        "level": 1,
+        "name": {
+          "local": "Tshuapa",
+          "en": "Tshuapa",
+          "slug": "tshuapa"
+        }
+      },
+      {
+        "id": "CD4505",
+        "level": 2,
+        "name": {
+          "local": "Ikela",
+          "en": "Ikela",
+          "slug": "ikela"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.989",
+      "lon": "23.087"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,284 @@
+[
+  {
+    "id": "CD5204",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Aketi",
+      "en": "Aketi",
+      "slug": "aketi"
+    },
+    "code": {
+      "id": "CD5204",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD52",
+      "level": 1,
+      "name": {
+        "local": "Bas-Uele",
+        "en": "Bas-Uele",
+        "slug": "bas-uele"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD52",
+        "level": 1,
+        "name": {
+          "local": "Bas-Uele",
+          "en": "Bas-Uele",
+          "slug": "bas-uele"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.923",
+      "lon": "23.742"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD5207",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Ango",
+      "en": "Ango",
+      "slug": "ango"
+    },
+    "code": {
+      "id": "CD5207",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD52",
+      "level": 1,
+      "name": {
+        "local": "Bas-Uele",
+        "en": "Bas-Uele",
+        "slug": "bas-uele"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD52",
+        "level": 1,
+        "name": {
+          "local": "Bas-Uele",
+          "en": "Bas-Uele",
+          "slug": "bas-uele"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.447",
+      "lon": "26.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD5209",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Bambesa",
+      "en": "Bambesa",
+      "slug": "bambesa"
+    },
+    "code": {
+      "id": "CD5209",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD52",
+      "level": 1,
+      "name": {
+        "local": "Bas-Uele",
+        "en": "Bas-Uele",
+        "slug": "bas-uele"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD52",
+        "level": 1,
+        "name": {
+          "local": "Bas-Uele",
+          "en": "Bas-Uele",
+          "slug": "bas-uele"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.972",
+      "lon": "26.229"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD5206",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Bondo",
+      "en": "Bondo",
+      "slug": "bondo"
+    },
+    "code": {
+      "id": "CD5206",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD52",
+      "level": 1,
+      "name": {
+        "local": "Bas-Uele",
+        "en": "Bas-Uele",
+        "slug": "bas-uele"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD52",
+        "level": 1,
+        "name": {
+          "local": "Bas-Uele",
+          "en": "Bas-Uele",
+          "slug": "bas-uele"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.255",
+      "lon": "23.948"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD5202",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Buta",
+      "en": "Buta",
+      "slug": "buta"
+    },
+    "code": {
+      "id": "CD5202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD52",
+      "level": 1,
+      "name": {
+        "local": "Bas-Uele",
+        "en": "Bas-Uele",
+        "slug": "bas-uele"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD52",
+        "level": 1,
+        "name": {
+          "local": "Bas-Uele",
+          "en": "Bas-Uele",
+          "slug": "bas-uele"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.835",
+      "lon": "25.144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD5208",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Poko",
+      "en": "Poko",
+      "slug": "poko"
+    },
+    "code": {
+      "id": "CD5208",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD52",
+      "level": 1,
+      "name": {
+        "local": "Bas-Uele",
+        "en": "Bas-Uele",
+        "slug": "bas-uele"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD52",
+        "level": 1,
+        "name": {
+          "local": "Bas-Uele",
+          "en": "Bas-Uele",
+          "slug": "bas-uele"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.982",
+      "lon": "27.051"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "id": "CD420301",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Bangabola",
+      "en": "Bangabola",
+      "slug": "bangabola"
+    },
+    "code": {
+      "id": "CD420301",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD4203",
+      "level": 2,
+      "name": {
+        "local": "Budjala",
+        "en": "Budjala",
+        "slug": "budjala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD42",
+        "level": 1,
+        "name": {
+          "local": "Sud-Ubangi",
+          "en": "Sud-Ubangi",
+          "slug": "sud-ubangi"
+        }
+      },
+      {
+        "id": "CD4203",
+        "level": 2,
+        "name": {
+          "local": "Budjala",
+          "en": "Budjala",
+          "slug": "budjala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.6",
+      "lon": "20.065"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD420302",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Budjala",
+      "en": "Budjala",
+      "slug": "budjala"
+    },
+    "code": {
+      "id": "CD420302",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD4203",
+      "level": 2,
+      "name": {
+        "local": "Budjala",
+        "en": "Budjala",
+        "slug": "budjala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD42",
+        "level": 1,
+        "name": {
+          "local": "Sud-Ubangi",
+          "en": "Sud-Ubangi",
+          "slug": "sud-ubangi"
+        }
+      },
+      {
+        "id": "CD4203",
+        "level": 2,
+        "name": {
+          "local": "Budjala",
+          "en": "Budjala",
+          "slug": "budjala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.6",
+      "lon": "20.065"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD420303",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Bulu",
+      "en": "Bulu",
+      "slug": "bulu"
+    },
+    "code": {
+      "id": "CD420303",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD4203",
+      "level": 2,
+      "name": {
+        "local": "Budjala",
+        "en": "Budjala",
+        "slug": "budjala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD42",
+        "level": 1,
+        "name": {
+          "local": "Sud-Ubangi",
+          "en": "Sud-Ubangi",
+          "slug": "sud-ubangi"
+        }
+      },
+      {
+        "id": "CD4203",
+        "level": 2,
+        "name": {
+          "local": "Budjala",
+          "en": "Budjala",
+          "slug": "budjala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.6",
+      "lon": "20.065"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD420304",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Mbaya",
+      "en": "Mbaya",
+      "slug": "mbaya"
+    },
+    "code": {
+      "id": "CD420304",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD4203",
+      "level": 2,
+      "name": {
+        "local": "Budjala",
+        "en": "Budjala",
+        "slug": "budjala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD42",
+        "level": 1,
+        "name": {
+          "local": "Sud-Ubangi",
+          "en": "Sud-Ubangi",
+          "slug": "sud-ubangi"
+        }
+      },
+      {
+        "id": "CD4203",
+        "level": 2,
+        "name": {
+          "local": "Budjala",
+          "en": "Budjala",
+          "slug": "budjala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.6",
+      "lon": "20.065"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD420305",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Ndage",
+      "en": "Ndage",
+      "slug": "ndage"
+    },
+    "code": {
+      "id": "CD420305",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD4203",
+      "level": 2,
+      "name": {
+        "local": "Budjala",
+        "en": "Budjala",
+        "slug": "budjala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD42",
+        "level": 1,
+        "name": {
+          "local": "Sud-Ubangi",
+          "en": "Sud-Ubangi",
+          "slug": "sud-ubangi"
+        }
+      },
+      {
+        "id": "CD4203",
+        "level": 2,
+        "name": {
+          "local": "Budjala",
+          "en": "Budjala",
+          "slug": "budjala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.6",
+      "lon": "20.065"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

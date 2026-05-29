@@ -1,0 +1,272 @@
+[
+  {
+    "id": "CD510101",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kabondo",
+      "en": "Kabondo",
+      "slug": "kabondo"
+    },
+    "code": {
+      "id": "CD510101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5101",
+      "level": 2,
+      "name": {
+        "local": "Kisangani",
+        "en": "Kisangani",
+        "slug": "kisangani"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD51",
+        "level": 1,
+        "name": {
+          "local": "Tshopo",
+          "en": "Tshopo",
+          "slug": "tshopo"
+        }
+      },
+      {
+        "id": "CD5101",
+        "level": 2,
+        "name": {
+          "local": "Kisangani",
+          "en": "Kisangani",
+          "slug": "kisangani"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.545",
+      "lon": "25.193"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD510102",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Lubunga",
+      "en": "Lubunga",
+      "slug": "lubunga"
+    },
+    "code": {
+      "id": "CD510102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5101",
+      "level": 2,
+      "name": {
+        "local": "Kisangani",
+        "en": "Kisangani",
+        "slug": "kisangani"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD51",
+        "level": 1,
+        "name": {
+          "local": "Tshopo",
+          "en": "Tshopo",
+          "slug": "tshopo"
+        }
+      },
+      {
+        "id": "CD5101",
+        "level": 2,
+        "name": {
+          "local": "Kisangani",
+          "en": "Kisangani",
+          "slug": "kisangani"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.545",
+      "lon": "25.193"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD510103",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Makiso-Kisangani",
+      "en": "Makiso-Kisangani",
+      "slug": "makiso-kisangani"
+    },
+    "code": {
+      "id": "CD510103",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5101",
+      "level": 2,
+      "name": {
+        "local": "Kisangani",
+        "en": "Kisangani",
+        "slug": "kisangani"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD51",
+        "level": 1,
+        "name": {
+          "local": "Tshopo",
+          "en": "Tshopo",
+          "slug": "tshopo"
+        }
+      },
+      {
+        "id": "CD5101",
+        "level": 2,
+        "name": {
+          "local": "Kisangani",
+          "en": "Kisangani",
+          "slug": "kisangani"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.545",
+      "lon": "25.193"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD510104",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Mangobo",
+      "en": "Mangobo",
+      "slug": "mangobo"
+    },
+    "code": {
+      "id": "CD510104",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5101",
+      "level": 2,
+      "name": {
+        "local": "Kisangani",
+        "en": "Kisangani",
+        "slug": "kisangani"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD51",
+        "level": 1,
+        "name": {
+          "local": "Tshopo",
+          "en": "Tshopo",
+          "slug": "tshopo"
+        }
+      },
+      {
+        "id": "CD5101",
+        "level": 2,
+        "name": {
+          "local": "Kisangani",
+          "en": "Kisangani",
+          "slug": "kisangani"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.545",
+      "lon": "25.193"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD510105",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Tshopo",
+      "en": "Tshopo",
+      "slug": "tshopo"
+    },
+    "code": {
+      "id": "CD510105",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5101",
+      "level": 2,
+      "name": {
+        "local": "Kisangani",
+        "en": "Kisangani",
+        "slug": "kisangani"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD51",
+        "level": 1,
+        "name": {
+          "local": "Tshopo",
+          "en": "Tshopo",
+          "slug": "tshopo"
+        }
+      },
+      {
+        "id": "CD5101",
+        "level": 2,
+        "name": {
+          "local": "Kisangani",
+          "en": "Kisangani",
+          "slug": "kisangani"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.545",
+      "lon": "25.193"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

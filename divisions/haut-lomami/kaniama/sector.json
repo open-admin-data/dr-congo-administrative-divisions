@@ -1,0 +1,56 @@
+[
+  {
+    "id": "CD730301",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kaniama",
+      "en": "Kaniama",
+      "slug": "kaniama"
+    },
+    "code": {
+      "id": "CD730301",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7303",
+      "level": 2,
+      "name": {
+        "local": "Kaniama",
+        "en": "Kaniama",
+        "slug": "kaniama"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD73",
+        "level": 1,
+        "name": {
+          "local": "Haut-Lomami",
+          "en": "Haut-Lomami",
+          "slug": "haut-lomami"
+        }
+      },
+      {
+        "id": "CD7303",
+        "level": 2,
+        "name": {
+          "local": "Kaniama",
+          "en": "Kaniama",
+          "slug": "kaniama"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.846",
+      "lon": "24.245"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

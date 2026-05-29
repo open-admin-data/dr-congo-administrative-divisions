@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CD330201",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Banjow Moke",
+      "en": "Banjow Moke",
+      "slug": "banjow-moke"
+    },
+    "code": {
+      "id": "CD330201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD3302",
+      "level": 2,
+      "name": {
+        "local": "Inongo",
+        "en": "Inongo",
+        "slug": "inongo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD33",
+        "level": 1,
+        "name": {
+          "local": "Maï-Ndombe",
+          "en": "Maï-Ndombe",
+          "slug": "ma-ndombe"
+        }
+      },
+      {
+        "id": "CD3302",
+        "level": 2,
+        "name": {
+          "local": "Inongo",
+          "en": "Inongo",
+          "slug": "inongo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.934",
+      "lon": "18.01"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD330202",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Inongo",
+      "en": "Inongo",
+      "slug": "inongo"
+    },
+    "code": {
+      "id": "CD330202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD3302",
+      "level": 2,
+      "name": {
+        "local": "Inongo",
+        "en": "Inongo",
+        "slug": "inongo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD33",
+        "level": 1,
+        "name": {
+          "local": "Maï-Ndombe",
+          "en": "Maï-Ndombe",
+          "slug": "ma-ndombe"
+        }
+      },
+      {
+        "id": "CD3302",
+        "level": 2,
+        "name": {
+          "local": "Inongo",
+          "en": "Inongo",
+          "slug": "inongo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.934",
+      "lon": "18.01"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD330203",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Ntandembelo",
+      "en": "Ntandembelo",
+      "slug": "ntandembelo"
+    },
+    "code": {
+      "id": "CD330203",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD3302",
+      "level": 2,
+      "name": {
+        "local": "Inongo",
+        "en": "Inongo",
+        "slug": "inongo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD33",
+        "level": 1,
+        "name": {
+          "local": "Maï-Ndombe",
+          "en": "Maï-Ndombe",
+          "slug": "ma-ndombe"
+        }
+      },
+      {
+        "id": "CD3302",
+        "level": 2,
+        "name": {
+          "local": "Inongo",
+          "en": "Inongo",
+          "slug": "inongo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.934",
+      "lon": "18.01"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

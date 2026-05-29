@@ -1,0 +1,190 @@
+# Sud-Kivu — DR Congo Administrative Divisions
+
+> 9 territorys, 34 sectors
+> Code: CD62
+> Coordinates: -3.297, 28.177
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Territorys
+
+### Bukavu
+
+Code: CD6201, Coordinates: -2.508, 28.835
+Sectors: 3
+
+#### Bagira
+
+Code: CD620101, Coordinates: -2.508, 28.835
+
+#### Ibanda
+
+Code: CD620102, Coordinates: -2.508, 28.835
+
+#### Kadutu
+
+Code: CD620103, Coordinates: -2.508, 28.835
+
+### Fizi
+
+Code: CD6210, Coordinates: -4.276, 28.883
+Sectors: 4
+
+#### Fizi
+
+Code: CD621001, Coordinates: -4.276, 28.883
+
+#### Kimbi Lulenge
+
+Code: CD621002, Coordinates: -4.276, 28.883
+
+#### Minembwe
+
+Code: CD621003, Coordinates: -4.276, 28.883
+
+#### Nundu
+
+Code: CD621004, Coordinates: -4.276, 28.883
+
+### Idjwi
+
+Code: CD6206, Coordinates: -1.965, 29.098
+Sectors: 1
+
+#### Idjwi
+
+Code: CD620601, Coordinates: -1.965, 29.098
+
+### Kabare
+
+Code: CD6202, Coordinates: -2.407, 28.769
+Sectors: 5
+
+#### Kabare
+
+Code: CD620201, Coordinates: -2.407, 28.769
+
+#### Kaniola
+
+Code: CD620202, Coordinates: -2.407, 28.769
+
+#### Katana
+
+Code: CD620203, Coordinates: -2.407, 28.769
+
+#### Miti-Murhesa
+
+Code: CD620204, Coordinates: -2.407, 28.769
+
+#### Nyantende
+
+Code: CD620205, Coordinates: -2.407, 28.769
+
+### Kalehe
+
+Code: CD6205, Coordinates: -2.031, 28.582
+Sectors: 4
+
+#### Bunyakiri
+
+Code: CD620501, Coordinates: -2.031, 28.582
+
+#### Kalehe
+
+Code: CD620502, Coordinates: -2.031, 28.582
+
+#### Kalonge
+
+Code: CD620503, Coordinates: -2.031, 28.582
+
+#### Minova
+
+Code: CD620504, Coordinates: -2.031, 28.582
+
+### Mwenga
+
+Code: CD6212, Coordinates: -3.393, 28.311
+Sectors: 5
+
+#### Itombwe
+
+Code: CD621201, Coordinates: -3.393, 28.311
+
+#### Kamituga
+
+Code: CD621202, Coordinates: -3.393, 28.311
+
+#### Kitutu
+
+Code: CD621203, Coordinates: -3.393, 28.311
+
+#### Mwana
+
+Code: CD621204, Coordinates: -3.393, 28.311
+
+#### Mwenga
+
+Code: CD621205, Coordinates: -3.393, 28.311
+
+### Shabunda
+
+Code: CD6203, Coordinates: -3.006, 27.47
+Sectors: 4
+
+#### Kalole
+
+Code: CD620301, Coordinates: -3.006, 27.47
+
+#### Lulingu
+
+Code: CD620302, Coordinates: -3.006, 27.47
+
+#### Mulungu
+
+Code: CD620303, Coordinates: -3.006, 27.47
+
+#### Shabunda
+
+Code: CD620304, Coordinates: -3.006, 27.47
+
+### Uvira
+
+Code: CD6208, Coordinates: -3.199, 29.007
+Sectors: 4
+
+#### Hauts-Plateaux
+
+Code: CD620801, Coordinates: -3.199, 29.007
+
+#### Lemera
+
+Code: CD620802, Coordinates: -3.199, 29.007
+
+#### Ruzizi
+
+Code: CD620803, Coordinates: -3.199, 29.007
+
+#### Uvira
+
+Code: CD620804, Coordinates: -3.199, 29.007
+
+### Walungu
+
+Code: CD6207, Coordinates: -2.771, 28.6
+Sectors: 4
+
+#### Kaziba
+
+Code: CD620701, Coordinates: -2.771, 28.6
+
+#### Mubumbano
+
+Code: CD620702, Coordinates: -2.771, 28.6
+
+#### Nyangezi
+
+Code: CD620703, Coordinates: -2.771, 28.6
+
+#### Walungu
+
+Code: CD620704, Coordinates: -2.771, 28.6
+

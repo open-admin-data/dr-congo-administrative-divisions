@@ -1,0 +1,30 @@
+{
+  "id": "CD73",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Haut-Lomami",
+    "en": "Haut-Lomami",
+    "slug": "haut-lomami"
+  },
+  "code": {
+    "id": "CD73",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "territory": 5,
+    "sector": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.138",
+    "lon": "25.577"
+  },
+  "metadata": {},
+  "source": {}
+}

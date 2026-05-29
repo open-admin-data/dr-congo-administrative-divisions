@@ -1,0 +1,47 @@
+{
+  "id": "CD7102",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Kipushi",
+    "en": "Kipushi",
+    "slug": "kipushi"
+  },
+  "code": {
+    "id": "CD7102",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD71",
+    "level": 1,
+    "name": {
+      "local": "Haut-Katanga",
+      "en": "Haut-Katanga",
+      "slug": "haut-katanga"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD71",
+      "level": 1,
+      "name": {
+        "local": "Haut-Katanga",
+        "en": "Haut-Katanga",
+        "slug": "haut-katanga"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.623",
+    "lon": "27.999"
+  },
+  "metadata": {},
+  "source": {}
+}

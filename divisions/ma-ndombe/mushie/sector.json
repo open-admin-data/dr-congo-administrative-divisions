@@ -1,0 +1,56 @@
+[
+  {
+    "id": "CD331101",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Mushie",
+      "en": "Mushie",
+      "slug": "mushie"
+    },
+    "code": {
+      "id": "CD331101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD3311",
+      "level": 2,
+      "name": {
+        "local": "Mushie",
+        "en": "Mushie",
+        "slug": "mushie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD33",
+        "level": 1,
+        "name": {
+          "local": "Maï-Ndombe",
+          "en": "Maï-Ndombe",
+          "slug": "ma-ndombe"
+        }
+      },
+      {
+        "id": "CD3311",
+        "level": 2,
+        "name": {
+          "local": "Mushie",
+          "en": "Mushie",
+          "slug": "mushie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.526",
+      "lon": "17.142"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

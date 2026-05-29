@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CD201501",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Masa",
+      "en": "Masa",
+      "slug": "masa"
+    },
+    "code": {
+      "id": "CD201501",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD2015",
+      "level": 2,
+      "name": {
+        "local": "Kasangulu",
+        "en": "Kasangulu",
+        "slug": "kasangulu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD20",
+        "level": 1,
+        "name": {
+          "local": "Kongo-Central",
+          "en": "Kongo-Central",
+          "slug": "kongo-central"
+        }
+      },
+      {
+        "id": "CD2015",
+        "level": 2,
+        "name": {
+          "local": "Kasangulu",
+          "en": "Kasangulu",
+          "slug": "kasangulu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.805",
+      "lon": "15.311"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD201502",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Sona-Bata",
+      "en": "Sona-Bata",
+      "slug": "sona-bata"
+    },
+    "code": {
+      "id": "CD201502",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD2015",
+      "level": 2,
+      "name": {
+        "local": "Kasangulu",
+        "en": "Kasangulu",
+        "slug": "kasangulu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD20",
+        "level": 1,
+        "name": {
+          "local": "Kongo-Central",
+          "en": "Kongo-Central",
+          "slug": "kongo-central"
+        }
+      },
+      {
+        "id": "CD2015",
+        "level": 2,
+        "name": {
+          "local": "Kasangulu",
+          "en": "Kasangulu",
+          "slug": "kasangulu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.805",
+      "lon": "15.311"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

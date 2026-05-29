@@ -1,0 +1,47 @@
+{
+  "id": "CD8309",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Lubefu",
+    "en": "Lubefu",
+    "slug": "lubefu"
+  },
+  "code": {
+    "id": "CD8309",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD83",
+    "level": 1,
+    "name": {
+      "local": "Sankuru",
+      "en": "Sankuru",
+      "slug": "sankuru"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD83",
+      "level": 1,
+      "name": {
+        "local": "Sankuru",
+        "en": "Sankuru",
+        "slug": "sankuru"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.689",
+    "lon": "24.331"
+  },
+  "metadata": {},
+  "source": {}
+}

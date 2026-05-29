@@ -1,0 +1,47 @@
+{
+  "id": "CD5303",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Niangara",
+    "en": "Niangara",
+    "slug": "niangara"
+  },
+  "code": {
+    "id": "CD5303",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD53",
+    "level": 1,
+    "name": {
+      "local": "Haut-Uele",
+      "en": "Haut-Uele",
+      "slug": "haut-uele"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD53",
+      "level": 1,
+      "name": {
+        "local": "Haut-Uele",
+        "en": "Haut-Uele",
+        "slug": "haut-uele"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.492",
+    "lon": "27.921"
+  },
+  "metadata": {},
+  "source": {}
+}

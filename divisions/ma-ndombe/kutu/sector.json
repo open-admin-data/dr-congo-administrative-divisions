@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CD330601",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Bokoro",
+      "en": "Bokoro",
+      "slug": "bokoro"
+    },
+    "code": {
+      "id": "CD330601",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD3306",
+      "level": 2,
+      "name": {
+        "local": "Kutu",
+        "en": "Kutu",
+        "slug": "kutu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD33",
+        "level": 1,
+        "name": {
+          "local": "Maï-Ndombe",
+          "en": "Maï-Ndombe",
+          "slug": "ma-ndombe"
+        }
+      },
+      {
+        "id": "CD3306",
+        "level": 2,
+        "name": {
+          "local": "Kutu",
+          "en": "Kutu",
+          "slug": "kutu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.971",
+      "lon": "18.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD330602",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Nioki",
+      "en": "Nioki",
+      "slug": "nioki"
+    },
+    "code": {
+      "id": "CD330602",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD3306",
+      "level": 2,
+      "name": {
+        "local": "Kutu",
+        "en": "Kutu",
+        "slug": "kutu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD33",
+        "level": 1,
+        "name": {
+          "local": "Maï-Ndombe",
+          "en": "Maï-Ndombe",
+          "slug": "ma-ndombe"
+        }
+      },
+      {
+        "id": "CD3306",
+        "level": 2,
+        "name": {
+          "local": "Kutu",
+          "en": "Kutu",
+          "slug": "kutu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.971",
+      "lon": "18.163"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

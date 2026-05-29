@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CD200901",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Inga",
+      "en": "Inga",
+      "slug": "inga"
+    },
+    "code": {
+      "id": "CD200901",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD2009",
+      "level": 2,
+      "name": {
+        "local": "Seke-Banza",
+        "en": "Seke-Banza",
+        "slug": "seke-banza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD20",
+        "level": 1,
+        "name": {
+          "local": "Kongo-Central",
+          "en": "Kongo-Central",
+          "slug": "kongo-central"
+        }
+      },
+      {
+        "id": "CD2009",
+        "level": 2,
+        "name": {
+          "local": "Seke-Banza",
+          "en": "Seke-Banza",
+          "slug": "seke-banza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.391",
+      "lon": "13.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD200902",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Seke-Banza",
+      "en": "Seke-Banza",
+      "slug": "seke-banza"
+    },
+    "code": {
+      "id": "CD200902",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD2009",
+      "level": 2,
+      "name": {
+        "local": "Seke-Banza",
+        "en": "Seke-Banza",
+        "slug": "seke-banza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD20",
+        "level": 1,
+        "name": {
+          "local": "Kongo-Central",
+          "en": "Kongo-Central",
+          "slug": "kongo-central"
+        }
+      },
+      {
+        "id": "CD2009",
+        "level": 2,
+        "name": {
+          "local": "Seke-Banza",
+          "en": "Seke-Banza",
+          "slug": "seke-banza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.391",
+      "lon": "13.372"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

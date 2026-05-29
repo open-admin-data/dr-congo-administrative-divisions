@@ -1,0 +1,56 @@
+[
+  {
+    "id": "CD741001",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Nyunzu",
+      "en": "Nyunzu",
+      "slug": "nyunzu"
+    },
+    "code": {
+      "id": "CD741001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7410",
+      "level": 2,
+      "name": {
+        "local": "Nyunzu",
+        "en": "Nyunzu",
+        "slug": "nyunzu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD74",
+        "level": 1,
+        "name": {
+          "local": "Tanganyika",
+          "en": "Tanganyika",
+          "slug": "tanganyika"
+        }
+      },
+      {
+        "id": "CD7410",
+        "level": 2,
+        "name": {
+          "local": "Nyunzu",
+          "en": "Nyunzu",
+          "slug": "nyunzu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.86",
+      "lon": "27.66"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

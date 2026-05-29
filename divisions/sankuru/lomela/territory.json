@@ -1,0 +1,47 @@
+{
+  "id": "CD8307",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Lomela",
+    "en": "Lomela",
+    "slug": "lomela"
+  },
+  "code": {
+    "id": "CD8307",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD83",
+    "level": 1,
+    "name": {
+      "local": "Sankuru",
+      "en": "Sankuru",
+      "slug": "sankuru"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD83",
+      "level": 1,
+      "name": {
+        "local": "Sankuru",
+        "en": "Sankuru",
+        "slug": "sankuru"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.398",
+    "lon": "23.415"
+  },
+  "metadata": {},
+  "source": {}
+}

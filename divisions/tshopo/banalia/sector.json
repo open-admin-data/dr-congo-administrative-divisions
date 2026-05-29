@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CD511001",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Banalia",
+      "en": "Banalia",
+      "slug": "banalia"
+    },
+    "code": {
+      "id": "CD511001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5110",
+      "level": 2,
+      "name": {
+        "local": "Banalia",
+        "en": "Banalia",
+        "slug": "banalia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD51",
+        "level": 1,
+        "name": {
+          "local": "Tshopo",
+          "en": "Tshopo",
+          "slug": "tshopo"
+        }
+      },
+      {
+        "id": "CD5110",
+        "level": 2,
+        "name": {
+          "local": "Banalia",
+          "en": "Banalia",
+          "slug": "banalia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.495",
+      "lon": "25.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD511002",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Bengamisa",
+      "en": "Bengamisa",
+      "slug": "bengamisa"
+    },
+    "code": {
+      "id": "CD511002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5110",
+      "level": 2,
+      "name": {
+        "local": "Banalia",
+        "en": "Banalia",
+        "slug": "banalia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD51",
+        "level": 1,
+        "name": {
+          "local": "Tshopo",
+          "en": "Tshopo",
+          "slug": "tshopo"
+        }
+      },
+      {
+        "id": "CD5110",
+        "level": 2,
+        "name": {
+          "local": "Banalia",
+          "en": "Banalia",
+          "slug": "banalia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.495",
+      "lon": "25.192"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

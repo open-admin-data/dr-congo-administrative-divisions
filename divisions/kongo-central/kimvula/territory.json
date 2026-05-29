@@ -1,0 +1,47 @@
+{
+  "id": "CD2019",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Kimvula",
+    "en": "Kimvula",
+    "slug": "kimvula"
+  },
+  "code": {
+    "id": "CD2019",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD20",
+    "level": 1,
+    "name": {
+      "local": "Kongo-Central",
+      "en": "Kongo-Central",
+      "slug": "kongo-central"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD20",
+      "level": 1,
+      "name": {
+        "local": "Kongo-Central",
+        "en": "Kongo-Central",
+        "slug": "kongo-central"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.422",
+    "lon": "16.04"
+  },
+  "metadata": {},
+  "source": {}
+}

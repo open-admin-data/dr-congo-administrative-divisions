@@ -1,0 +1,47 @@
+{
+  "id": "CD8102",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Kabinda",
+    "en": "Kabinda",
+    "slug": "kabinda"
+  },
+  "code": {
+    "id": "CD8102",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD81",
+    "level": 1,
+    "name": {
+      "local": "Lomami",
+      "en": "Lomami",
+      "slug": "lomami"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD81",
+      "level": 1,
+      "name": {
+        "local": "Lomami",
+        "en": "Lomami",
+        "slug": "lomami"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.075",
+    "lon": "24.611"
+  },
+  "metadata": {},
+  "source": {}
+}

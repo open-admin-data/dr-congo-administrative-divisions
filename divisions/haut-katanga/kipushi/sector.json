@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CD710201",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kafubu",
+      "en": "Kafubu",
+      "slug": "kafubu"
+    },
+    "code": {
+      "id": "CD710201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7102",
+      "level": 2,
+      "name": {
+        "local": "Kipushi",
+        "en": "Kipushi",
+        "slug": "kipushi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD71",
+        "level": 1,
+        "name": {
+          "local": "Haut-Katanga",
+          "en": "Haut-Katanga",
+          "slug": "haut-katanga"
+        }
+      },
+      {
+        "id": "CD7102",
+        "level": 2,
+        "name": {
+          "local": "Kipushi",
+          "en": "Kipushi",
+          "slug": "kipushi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.623",
+      "lon": "27.999"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD710202",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kipushi",
+      "en": "Kipushi",
+      "slug": "kipushi"
+    },
+    "code": {
+      "id": "CD710202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7102",
+      "level": 2,
+      "name": {
+        "local": "Kipushi",
+        "en": "Kipushi",
+        "slug": "kipushi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD71",
+        "level": 1,
+        "name": {
+          "local": "Haut-Katanga",
+          "en": "Haut-Katanga",
+          "slug": "haut-katanga"
+        }
+      },
+      {
+        "id": "CD7102",
+        "level": 2,
+        "name": {
+          "local": "Kipushi",
+          "en": "Kipushi",
+          "slug": "kipushi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.623",
+      "lon": "27.999"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

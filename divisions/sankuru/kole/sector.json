@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CD830601",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Bena Dibele",
+      "en": "Bena Dibele",
+      "slug": "bena-dibele"
+    },
+    "code": {
+      "id": "CD830601",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD8306",
+      "level": 2,
+      "name": {
+        "local": "Kole",
+        "en": "Kole",
+        "slug": "kole"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD83",
+        "level": 1,
+        "name": {
+          "local": "Sankuru",
+          "en": "Sankuru",
+          "slug": "sankuru"
+        }
+      },
+      {
+        "id": "CD8306",
+        "level": 2,
+        "name": {
+          "local": "Kole",
+          "en": "Kole",
+          "slug": "kole"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.424",
+      "lon": "22.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD830602",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kole",
+      "en": "Kole",
+      "slug": "kole"
+    },
+    "code": {
+      "id": "CD830602",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD8306",
+      "level": 2,
+      "name": {
+        "local": "Kole",
+        "en": "Kole",
+        "slug": "kole"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD83",
+        "level": 1,
+        "name": {
+          "local": "Sankuru",
+          "en": "Sankuru",
+          "slug": "sankuru"
+        }
+      },
+      {
+        "id": "CD8306",
+        "level": 2,
+        "name": {
+          "local": "Kole",
+          "en": "Kole",
+          "slug": "kole"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.424",
+      "lon": "22.503"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CD620301",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kalole",
+      "en": "Kalole",
+      "slug": "kalole"
+    },
+    "code": {
+      "id": "CD620301",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6203",
+      "level": 2,
+      "name": {
+        "local": "Shabunda",
+        "en": "Shabunda",
+        "slug": "shabunda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD62",
+        "level": 1,
+        "name": {
+          "local": "Sud-Kivu",
+          "en": "Sud-Kivu",
+          "slug": "sud-kivu"
+        }
+      },
+      {
+        "id": "CD6203",
+        "level": 2,
+        "name": {
+          "local": "Shabunda",
+          "en": "Shabunda",
+          "slug": "shabunda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.006",
+      "lon": "27.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD620302",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Lulingu",
+      "en": "Lulingu",
+      "slug": "lulingu"
+    },
+    "code": {
+      "id": "CD620302",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6203",
+      "level": 2,
+      "name": {
+        "local": "Shabunda",
+        "en": "Shabunda",
+        "slug": "shabunda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD62",
+        "level": 1,
+        "name": {
+          "local": "Sud-Kivu",
+          "en": "Sud-Kivu",
+          "slug": "sud-kivu"
+        }
+      },
+      {
+        "id": "CD6203",
+        "level": 2,
+        "name": {
+          "local": "Shabunda",
+          "en": "Shabunda",
+          "slug": "shabunda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.006",
+      "lon": "27.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD620303",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Mulungu",
+      "en": "Mulungu",
+      "slug": "mulungu"
+    },
+    "code": {
+      "id": "CD620303",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6203",
+      "level": 2,
+      "name": {
+        "local": "Shabunda",
+        "en": "Shabunda",
+        "slug": "shabunda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD62",
+        "level": 1,
+        "name": {
+          "local": "Sud-Kivu",
+          "en": "Sud-Kivu",
+          "slug": "sud-kivu"
+        }
+      },
+      {
+        "id": "CD6203",
+        "level": 2,
+        "name": {
+          "local": "Shabunda",
+          "en": "Shabunda",
+          "slug": "shabunda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.006",
+      "lon": "27.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD620304",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Shabunda",
+      "en": "Shabunda",
+      "slug": "shabunda"
+    },
+    "code": {
+      "id": "CD620304",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6203",
+      "level": 2,
+      "name": {
+        "local": "Shabunda",
+        "en": "Shabunda",
+        "slug": "shabunda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD62",
+        "level": 1,
+        "name": {
+          "local": "Sud-Kivu",
+          "en": "Sud-Kivu",
+          "slug": "sud-kivu"
+        }
+      },
+      {
+        "id": "CD6203",
+        "level": 2,
+        "name": {
+          "local": "Shabunda",
+          "en": "Shabunda",
+          "slug": "shabunda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.006",
+      "lon": "27.47"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

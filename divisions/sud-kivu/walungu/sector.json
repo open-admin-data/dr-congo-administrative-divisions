@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CD620701",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kaziba",
+      "en": "Kaziba",
+      "slug": "kaziba"
+    },
+    "code": {
+      "id": "CD620701",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6207",
+      "level": 2,
+      "name": {
+        "local": "Walungu",
+        "en": "Walungu",
+        "slug": "walungu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD62",
+        "level": 1,
+        "name": {
+          "local": "Sud-Kivu",
+          "en": "Sud-Kivu",
+          "slug": "sud-kivu"
+        }
+      },
+      {
+        "id": "CD6207",
+        "level": 2,
+        "name": {
+          "local": "Walungu",
+          "en": "Walungu",
+          "slug": "walungu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.771",
+      "lon": "28.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD620702",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Mubumbano",
+      "en": "Mubumbano",
+      "slug": "mubumbano"
+    },
+    "code": {
+      "id": "CD620702",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6207",
+      "level": 2,
+      "name": {
+        "local": "Walungu",
+        "en": "Walungu",
+        "slug": "walungu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD62",
+        "level": 1,
+        "name": {
+          "local": "Sud-Kivu",
+          "en": "Sud-Kivu",
+          "slug": "sud-kivu"
+        }
+      },
+      {
+        "id": "CD6207",
+        "level": 2,
+        "name": {
+          "local": "Walungu",
+          "en": "Walungu",
+          "slug": "walungu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.771",
+      "lon": "28.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD620703",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Nyangezi",
+      "en": "Nyangezi",
+      "slug": "nyangezi"
+    },
+    "code": {
+      "id": "CD620703",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6207",
+      "level": 2,
+      "name": {
+        "local": "Walungu",
+        "en": "Walungu",
+        "slug": "walungu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD62",
+        "level": 1,
+        "name": {
+          "local": "Sud-Kivu",
+          "en": "Sud-Kivu",
+          "slug": "sud-kivu"
+        }
+      },
+      {
+        "id": "CD6207",
+        "level": 2,
+        "name": {
+          "local": "Walungu",
+          "en": "Walungu",
+          "slug": "walungu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.771",
+      "lon": "28.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD620704",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Walungu",
+      "en": "Walungu",
+      "slug": "walungu"
+    },
+    "code": {
+      "id": "CD620704",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6207",
+      "level": 2,
+      "name": {
+        "local": "Walungu",
+        "en": "Walungu",
+        "slug": "walungu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD62",
+        "level": 1,
+        "name": {
+          "local": "Sud-Kivu",
+          "en": "Sud-Kivu",
+          "slug": "sud-kivu"
+        }
+      },
+      {
+        "id": "CD6207",
+        "level": 2,
+        "name": {
+          "local": "Walungu",
+          "en": "Walungu",
+          "slug": "walungu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.771",
+      "lon": "28.6"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "CD4503",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Befale",
+    "en": "Befale",
+    "slug": "befale"
+  },
+  "code": {
+    "id": "CD4503",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD45",
+    "level": 1,
+    "name": {
+      "local": "Tshuapa",
+      "en": "Tshuapa",
+      "slug": "tshuapa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD45",
+      "level": 1,
+      "name": {
+        "local": "Tshuapa",
+        "en": "Tshuapa",
+        "slug": "tshuapa"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.596",
+    "lon": "21.058"
+  },
+  "metadata": {},
+  "source": {}
+}

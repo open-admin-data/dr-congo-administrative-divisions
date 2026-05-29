@@ -1,0 +1,72 @@
+# Mongala — DR Congo Administrative Divisions
+
+> 3 territorys, 12 sectors
+> Code: CD44
+> Coordinates: 2.03, 21.175
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Territorys
+
+### Bongandanga
+
+Code: CD4405, Coordinates: 1.471, 21.26
+Sectors: 4
+
+#### Bongandanga
+
+Code: CD440501, Coordinates: 1.471, 21.26
+
+#### Boso Mondanda
+
+Code: CD440502, Coordinates: 1.471, 21.26
+
+#### Bosondjo
+
+Code: CD440503, Coordinates: 1.471, 21.26
+
+#### Pimu
+
+Code: CD440504, Coordinates: 1.471, 21.26
+
+### Bumba
+
+Code: CD4404, Coordinates: 2.675, 22.301
+Sectors: 5
+
+#### Bumba
+
+Code: CD440401, Coordinates: 2.675, 22.301
+
+#### Lolo
+
+Code: CD440402, Coordinates: 2.675, 22.301
+
+#### Yamaluka
+
+Code: CD440403, Coordinates: 2.675, 22.301
+
+#### Yambuku
+
+Code: CD440404, Coordinates: 2.675, 22.301
+
+#### Yamongili
+
+Code: CD440405, Coordinates: 2.675, 22.301
+
+### Lisala
+
+Code: CD4402, Coordinates: 2.548, 21.306
+Sectors: 3
+
+#### Binga
+
+Code: CD440201, Coordinates: 2.548, 21.306
+
+#### Boso Manzi
+
+Code: CD440202, Coordinates: 2.548, 21.306
+
+#### Lisala
+
+Code: CD440203, Coordinates: 2.548, 21.306
+

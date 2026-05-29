@@ -1,0 +1,47 @@
+{
+  "id": "CD6205",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Kalehe",
+    "en": "Kalehe",
+    "slug": "kalehe"
+  },
+  "code": {
+    "id": "CD6205",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD62",
+    "level": 1,
+    "name": {
+      "local": "Sud-Kivu",
+      "en": "Sud-Kivu",
+      "slug": "sud-kivu"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD62",
+      "level": 1,
+      "name": {
+        "local": "Sud-Kivu",
+        "en": "Sud-Kivu",
+        "slug": "sud-kivu"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.031",
+    "lon": "28.582"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CD430401",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Abuzi",
+      "en": "Abuzi",
+      "slug": "abuzi"
+    },
+    "code": {
+      "id": "CD430401",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD4304",
+      "level": 2,
+      "name": {
+        "local": "Yakoma",
+        "en": "Yakoma",
+        "slug": "yakoma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD43",
+        "level": 1,
+        "name": {
+          "local": "Nord-Ubangi",
+          "en": "Nord-Ubangi",
+          "slug": "nord-ubangi"
+        }
+      },
+      {
+        "id": "CD4304",
+        "level": 2,
+        "name": {
+          "local": "Yakoma",
+          "en": "Yakoma",
+          "slug": "yakoma"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.594",
+      "lon": "22.198"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD430402",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Wapinda",
+      "en": "Wapinda",
+      "slug": "wapinda"
+    },
+    "code": {
+      "id": "CD430402",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD4304",
+      "level": 2,
+      "name": {
+        "local": "Yakoma",
+        "en": "Yakoma",
+        "slug": "yakoma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD43",
+        "level": 1,
+        "name": {
+          "local": "Nord-Ubangi",
+          "en": "Nord-Ubangi",
+          "slug": "nord-ubangi"
+        }
+      },
+      {
+        "id": "CD4304",
+        "level": 2,
+        "name": {
+          "local": "Yakoma",
+          "en": "Yakoma",
+          "slug": "yakoma"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.594",
+      "lon": "22.198"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD430403",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Wasolo",
+      "en": "Wasolo",
+      "slug": "wasolo"
+    },
+    "code": {
+      "id": "CD430403",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD4304",
+      "level": 2,
+      "name": {
+        "local": "Yakoma",
+        "en": "Yakoma",
+        "slug": "yakoma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD43",
+        "level": 1,
+        "name": {
+          "local": "Nord-Ubangi",
+          "en": "Nord-Ubangi",
+          "slug": "nord-ubangi"
+        }
+      },
+      {
+        "id": "CD4304",
+        "level": 2,
+        "name": {
+          "local": "Yakoma",
+          "en": "Yakoma",
+          "slug": "yakoma"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.594",
+      "lon": "22.198"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD430404",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Yakoma",
+      "en": "Yakoma",
+      "slug": "yakoma"
+    },
+    "code": {
+      "id": "CD430404",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD4304",
+      "level": 2,
+      "name": {
+        "local": "Yakoma",
+        "en": "Yakoma",
+        "slug": "yakoma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD43",
+        "level": 1,
+        "name": {
+          "local": "Nord-Ubangi",
+          "en": "Nord-Ubangi",
+          "slug": "nord-ubangi"
+        }
+      },
+      {
+        "id": "CD4304",
+        "level": 2,
+        "name": {
+          "local": "Yakoma",
+          "en": "Yakoma",
+          "slug": "yakoma"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.594",
+      "lon": "22.198"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

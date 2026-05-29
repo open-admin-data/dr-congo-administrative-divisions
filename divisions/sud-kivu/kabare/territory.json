@@ -1,0 +1,47 @@
+{
+  "id": "CD6202",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Kabare",
+    "en": "Kabare",
+    "slug": "kabare"
+  },
+  "code": {
+    "id": "CD6202",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD62",
+    "level": 1,
+    "name": {
+      "local": "Sud-Kivu",
+      "en": "Sud-Kivu",
+      "slug": "sud-kivu"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD62",
+      "level": 1,
+      "name": {
+        "local": "Sud-Kivu",
+        "en": "Sud-Kivu",
+        "slug": "sud-kivu"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.407",
+    "lon": "28.769"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CD200501",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kangu",
+      "en": "Kangu",
+      "slug": "kangu"
+    },
+    "code": {
+      "id": "CD200501",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD2005",
+      "level": 2,
+      "name": {
+        "local": "Lukula",
+        "en": "Lukula",
+        "slug": "lukula"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD20",
+        "level": 1,
+        "name": {
+          "local": "Kongo-Central",
+          "en": "Kongo-Central",
+          "slug": "kongo-central"
+        }
+      },
+      {
+        "id": "CD2005",
+        "level": 2,
+        "name": {
+          "local": "Lukula",
+          "en": "Lukula",
+          "slug": "lukula"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.388",
+      "lon": "12.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD200502",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Lukula",
+      "en": "Lukula",
+      "slug": "lukula"
+    },
+    "code": {
+      "id": "CD200502",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD2005",
+      "level": 2,
+      "name": {
+        "local": "Lukula",
+        "en": "Lukula",
+        "slug": "lukula"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD20",
+        "level": 1,
+        "name": {
+          "local": "Kongo-Central",
+          "en": "Kongo-Central",
+          "slug": "kongo-central"
+        }
+      },
+      {
+        "id": "CD2005",
+        "level": 2,
+        "name": {
+          "local": "Lukula",
+          "en": "Lukula",
+          "slug": "lukula"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.388",
+      "lon": "12.852"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

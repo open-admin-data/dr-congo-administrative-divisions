@@ -1,0 +1,106 @@
+# Kasaï — DR Congo Administrative Divisions
+
+> 5 territorys, 18 sectors
+> Code: CD92
+> Coordinates: -4.805, 21.132
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Territorys
+
+### Dekese
+
+Code: CD9208, Coordinates: -3.235, 21.367
+Sectors: 1
+
+#### Dekese
+
+Code: CD920801, Coordinates: -3.235, 21.367
+
+### Ilebo
+
+Code: CD9205, Coordinates: -5.056, 20.632
+Sectors: 3
+
+#### Banga Lubaka
+
+Code: CD920501, Coordinates: -5.056, 20.632
+
+#### Ilebo
+
+Code: CD920502, Coordinates: -5.056, 20.632
+
+#### Mikope
+
+Code: CD920503, Coordinates: -5.056, 20.632
+
+### Kamonia
+
+Code: CD9202, Coordinates: -6.517, 20.635
+Sectors: 8
+
+#### Kalonda Ouest
+
+Code: CD920201, Coordinates: -6.517, 20.635
+
+#### Kamonia
+
+Code: CD920202, Coordinates: -6.517, 20.635
+
+#### Kamwesha
+
+Code: CD920203, Coordinates: -6.517, 20.635
+
+#### Kanzala
+
+Code: CD920204, Coordinates: -6.517, 20.635
+
+#### Kitangwa
+
+Code: CD920205, Coordinates: -6.517, 20.635
+
+#### Mutena
+
+Code: CD920206, Coordinates: -6.517, 20.635
+
+#### Nyanga
+
+Code: CD920207, Coordinates: -6.517, 20.635
+
+#### Tshikapa
+
+Code: CD920208, Coordinates: -6.517, 20.635
+
+### Luebo
+
+Code: CD9204, Coordinates: -5.593, 21.442
+Sectors: 2
+
+#### Luebo
+
+Code: CD920401, Coordinates: -5.593, 21.442
+
+#### Ndjoko-Mpunda
+
+Code: CD920402, Coordinates: -5.593, 21.442
+
+### Mweka
+
+Code: CD9207, Coordinates: -4.65, 21.668
+Sectors: 4
+
+#### Bulape
+
+Code: CD920701, Coordinates: -4.65, 21.668
+
+#### Kakenge
+
+Code: CD920702, Coordinates: -4.65, 21.668
+
+#### Mushenge
+
+Code: CD920703, Coordinates: -4.65, 21.668
+
+#### Mweka
+
+Code: CD920704, Coordinates: -4.65, 21.668
+

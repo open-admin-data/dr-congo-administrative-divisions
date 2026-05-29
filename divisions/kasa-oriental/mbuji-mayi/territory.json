@@ -1,0 +1,47 @@
+{
+  "id": "CD8201",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Mbuji-Mayi",
+    "en": "Mbuji-Mayi",
+    "slug": "mbuji-mayi"
+  },
+  "code": {
+    "id": "CD8201",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD82",
+    "level": 1,
+    "name": {
+      "local": "Kasaï-Oriental",
+      "en": "Kasaï-Oriental",
+      "slug": "kasa-oriental"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD82",
+      "level": 1,
+      "name": {
+        "local": "Kasaï-Oriental",
+        "en": "Kasaï-Oriental",
+        "slug": "kasa-oriental"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.111",
+    "lon": "23.61"
+  },
+  "metadata": {},
+  "source": {}
+}

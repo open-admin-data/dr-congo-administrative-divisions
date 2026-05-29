@@ -1,0 +1,272 @@
+[
+  {
+    "id": "CD320401",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Bulungu",
+      "en": "Bulungu",
+      "slug": "bulungu"
+    },
+    "code": {
+      "id": "CD320401",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD3204",
+      "level": 2,
+      "name": {
+        "local": "Bulungu",
+        "en": "Bulungu",
+        "slug": "bulungu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD32",
+        "level": 1,
+        "name": {
+          "local": "Kwilu",
+          "en": "Kwilu",
+          "slug": "kwilu"
+        }
+      },
+      {
+        "id": "CD3204",
+        "level": 2,
+        "name": {
+          "local": "Bulungu",
+          "en": "Bulungu",
+          "slug": "bulungu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.699",
+      "lon": "18.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD320402",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Djuma",
+      "en": "Djuma",
+      "slug": "djuma"
+    },
+    "code": {
+      "id": "CD320402",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD3204",
+      "level": 2,
+      "name": {
+        "local": "Bulungu",
+        "en": "Bulungu",
+        "slug": "bulungu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD32",
+        "level": 1,
+        "name": {
+          "local": "Kwilu",
+          "en": "Kwilu",
+          "slug": "kwilu"
+        }
+      },
+      {
+        "id": "CD3204",
+        "level": 2,
+        "name": {
+          "local": "Bulungu",
+          "en": "Bulungu",
+          "slug": "bulungu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.699",
+      "lon": "18.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD320404",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Lusanga",
+      "en": "Lusanga",
+      "slug": "lusanga"
+    },
+    "code": {
+      "id": "CD320404",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD3204",
+      "level": 2,
+      "name": {
+        "local": "Bulungu",
+        "en": "Bulungu",
+        "slug": "bulungu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD32",
+        "level": 1,
+        "name": {
+          "local": "Kwilu",
+          "en": "Kwilu",
+          "slug": "kwilu"
+        }
+      },
+      {
+        "id": "CD3204",
+        "level": 2,
+        "name": {
+          "local": "Bulungu",
+          "en": "Bulungu",
+          "slug": "bulungu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.699",
+      "lon": "18.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD320405",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Pay Kongila",
+      "en": "Pay Kongila",
+      "slug": "pay-kongila"
+    },
+    "code": {
+      "id": "CD320405",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD3204",
+      "level": 2,
+      "name": {
+        "local": "Bulungu",
+        "en": "Bulungu",
+        "slug": "bulungu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD32",
+        "level": 1,
+        "name": {
+          "local": "Kwilu",
+          "en": "Kwilu",
+          "slug": "kwilu"
+        }
+      },
+      {
+        "id": "CD3204",
+        "level": 2,
+        "name": {
+          "local": "Bulungu",
+          "en": "Bulungu",
+          "slug": "bulungu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.699",
+      "lon": "18.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD320403",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Vanga",
+      "en": "Vanga",
+      "slug": "vanga"
+    },
+    "code": {
+      "id": "CD320403",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD3204",
+      "level": 2,
+      "name": {
+        "local": "Bulungu",
+        "en": "Bulungu",
+        "slug": "bulungu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD32",
+        "level": 1,
+        "name": {
+          "local": "Kwilu",
+          "en": "Kwilu",
+          "slug": "kwilu"
+        }
+      },
+      {
+        "id": "CD3204",
+        "level": 2,
+        "name": {
+          "local": "Bulungu",
+          "en": "Bulungu",
+          "slug": "bulungu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.699",
+      "lon": "18.698"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

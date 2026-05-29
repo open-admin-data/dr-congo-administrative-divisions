@@ -1,0 +1,47 @@
+{
+  "id": "CD4202",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Gemena",
+    "en": "Gemena",
+    "slug": "gemena"
+  },
+  "code": {
+    "id": "CD4202",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD42",
+    "level": 1,
+    "name": {
+      "local": "Sud-Ubangi",
+      "en": "Sud-Ubangi",
+      "slug": "sud-ubangi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD42",
+      "level": 1,
+      "name": {
+        "local": "Sud-Ubangi",
+        "en": "Sud-Ubangi",
+        "slug": "sud-ubangi"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.437",
+    "lon": "19.708"
+  },
+  "metadata": {},
+  "source": {}
+}

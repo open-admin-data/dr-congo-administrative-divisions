@@ -1,0 +1,56 @@
+[
+  {
+    "id": "CD520901",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Ganga",
+      "en": "Ganga",
+      "slug": "ganga"
+    },
+    "code": {
+      "id": "CD520901",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5209",
+      "level": 2,
+      "name": {
+        "local": "Bambesa",
+        "en": "Bambesa",
+        "slug": "bambesa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD52",
+        "level": 1,
+        "name": {
+          "local": "Bas-Uele",
+          "en": "Bas-Uele",
+          "slug": "bas-uele"
+        }
+      },
+      {
+        "id": "CD5209",
+        "level": 2,
+        "name": {
+          "local": "Bambesa",
+          "en": "Bambesa",
+          "slug": "bambesa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.972",
+      "lon": "26.229"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

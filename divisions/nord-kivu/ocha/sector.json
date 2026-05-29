@@ -1,0 +1,380 @@
+[
+  {
+    "id": "CD610701",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kalunguta",
+      "en": "Kalunguta",
+      "slug": "kalunguta"
+    },
+    "code": {
+      "id": "CD610701",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6107",
+      "level": 2,
+      "name": {
+        "local": "Oïcha",
+        "en": "Oïcha",
+        "slug": "ocha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD61",
+        "level": 1,
+        "name": {
+          "local": "Nord-Kivu",
+          "en": "Nord-Kivu",
+          "slug": "nord-kivu"
+        }
+      },
+      {
+        "id": "CD6107",
+        "level": 2,
+        "name": {
+          "local": "Oïcha",
+          "en": "Oïcha",
+          "slug": "ocha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.401",
+      "lon": "29.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD610702",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kamango",
+      "en": "Kamango",
+      "slug": "kamango"
+    },
+    "code": {
+      "id": "CD610702",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6107",
+      "level": 2,
+      "name": {
+        "local": "Oïcha",
+        "en": "Oïcha",
+        "slug": "ocha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD61",
+        "level": 1,
+        "name": {
+          "local": "Nord-Kivu",
+          "en": "Nord-Kivu",
+          "slug": "nord-kivu"
+        }
+      },
+      {
+        "id": "CD6107",
+        "level": 2,
+        "name": {
+          "local": "Oïcha",
+          "en": "Oïcha",
+          "slug": "ocha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.401",
+      "lon": "29.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD610703",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kyondo",
+      "en": "Kyondo",
+      "slug": "kyondo"
+    },
+    "code": {
+      "id": "CD610703",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6107",
+      "level": 2,
+      "name": {
+        "local": "Oïcha",
+        "en": "Oïcha",
+        "slug": "ocha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD61",
+        "level": 1,
+        "name": {
+          "local": "Nord-Kivu",
+          "en": "Nord-Kivu",
+          "slug": "nord-kivu"
+        }
+      },
+      {
+        "id": "CD6107",
+        "level": 2,
+        "name": {
+          "local": "Oïcha",
+          "en": "Oïcha",
+          "slug": "ocha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.401",
+      "lon": "29.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD610704",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Mabalako",
+      "en": "Mabalako",
+      "slug": "mabalako"
+    },
+    "code": {
+      "id": "CD610704",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6107",
+      "level": 2,
+      "name": {
+        "local": "Oïcha",
+        "en": "Oïcha",
+        "slug": "ocha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD61",
+        "level": 1,
+        "name": {
+          "local": "Nord-Kivu",
+          "en": "Nord-Kivu",
+          "slug": "nord-kivu"
+        }
+      },
+      {
+        "id": "CD6107",
+        "level": 2,
+        "name": {
+          "local": "Oïcha",
+          "en": "Oïcha",
+          "slug": "ocha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.401",
+      "lon": "29.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD610705",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Mutwanga",
+      "en": "Mutwanga",
+      "slug": "mutwanga"
+    },
+    "code": {
+      "id": "CD610705",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6107",
+      "level": 2,
+      "name": {
+        "local": "Oïcha",
+        "en": "Oïcha",
+        "slug": "ocha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD61",
+        "level": 1,
+        "name": {
+          "local": "Nord-Kivu",
+          "en": "Nord-Kivu",
+          "slug": "nord-kivu"
+        }
+      },
+      {
+        "id": "CD6107",
+        "level": 2,
+        "name": {
+          "local": "Oïcha",
+          "en": "Oïcha",
+          "slug": "ocha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.401",
+      "lon": "29.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD610706",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Oicha",
+      "en": "Oicha",
+      "slug": "oicha"
+    },
+    "code": {
+      "id": "CD610706",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6107",
+      "level": 2,
+      "name": {
+        "local": "Oïcha",
+        "en": "Oïcha",
+        "slug": "ocha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD61",
+        "level": 1,
+        "name": {
+          "local": "Nord-Kivu",
+          "en": "Nord-Kivu",
+          "slug": "nord-kivu"
+        }
+      },
+      {
+        "id": "CD6107",
+        "level": 2,
+        "name": {
+          "local": "Oïcha",
+          "en": "Oïcha",
+          "slug": "ocha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.401",
+      "lon": "29.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD610707",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Vuhovi",
+      "en": "Vuhovi",
+      "slug": "vuhovi"
+    },
+    "code": {
+      "id": "CD610707",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6107",
+      "level": 2,
+      "name": {
+        "local": "Oïcha",
+        "en": "Oïcha",
+        "slug": "ocha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD61",
+        "level": 1,
+        "name": {
+          "local": "Nord-Kivu",
+          "en": "Nord-Kivu",
+          "slug": "nord-kivu"
+        }
+      },
+      {
+        "id": "CD6107",
+        "level": 2,
+        "name": {
+          "local": "Oïcha",
+          "en": "Oïcha",
+          "slug": "ocha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.401",
+      "lon": "29.72"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

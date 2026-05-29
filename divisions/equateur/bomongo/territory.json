@@ -1,0 +1,47 @@
+{
+  "id": "CD4104",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Bomongo",
+    "en": "Bomongo",
+    "slug": "bomongo"
+  },
+  "code": {
+    "id": "CD4104",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD41",
+    "level": 1,
+    "name": {
+      "local": "Equateur",
+      "en": "Equateur",
+      "slug": "equateur"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD41",
+      "level": 1,
+      "name": {
+        "local": "Equateur",
+        "en": "Equateur",
+        "slug": "equateur"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.789",
+    "lon": "18.064"
+  },
+  "metadata": {},
+  "source": {}
+}

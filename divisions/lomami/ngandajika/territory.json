@@ -1,0 +1,47 @@
+{
+  "id": "CD8106",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Ngandajika",
+    "en": "Ngandajika",
+    "slug": "ngandajika"
+  },
+  "code": {
+    "id": "CD8106",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD81",
+    "level": 1,
+    "name": {
+      "local": "Lomami",
+      "en": "Lomami",
+      "slug": "lomami"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD81",
+      "level": 1,
+      "name": {
+        "local": "Lomami",
+        "en": "Lomami",
+        "slug": "lomami"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.701",
+    "lon": "24.279"
+  },
+  "metadata": {},
+  "source": {}
+}

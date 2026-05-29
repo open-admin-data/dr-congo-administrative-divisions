@@ -1,0 +1,47 @@
+{
+  "id": "CD5409",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Aru",
+    "en": "Aru",
+    "slug": "aru"
+  },
+  "code": {
+    "id": "CD5409",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD54",
+    "level": 1,
+    "name": {
+      "local": "Ituri",
+      "en": "Ituri",
+      "slug": "ituri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD54",
+      "level": 1,
+      "name": {
+        "local": "Ituri",
+        "en": "Ituri",
+        "slug": "ituri"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.029",
+    "lon": "30.457"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "CD2001",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Matadi",
+    "en": "Matadi",
+    "slug": "matadi"
+  },
+  "code": {
+    "id": "CD2001",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD20",
+    "level": 1,
+    "name": {
+      "local": "Kongo-Central",
+      "en": "Kongo-Central",
+      "slug": "kongo-central"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD20",
+      "level": 1,
+      "name": {
+        "local": "Kongo-Central",
+        "en": "Kongo-Central",
+        "slug": "kongo-central"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.841",
+    "lon": "13.459"
+  },
+  "metadata": {},
+  "source": {}
+}

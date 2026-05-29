@@ -1,0 +1,47 @@
+{
+  "id": "CD6307",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Pangi",
+    "en": "Pangi",
+    "slug": "pangi"
+  },
+  "code": {
+    "id": "CD6307",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD63",
+    "level": 1,
+    "name": {
+      "local": "Maniema",
+      "en": "Maniema",
+      "slug": "maniema"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD63",
+      "level": 1,
+      "name": {
+        "local": "Maniema",
+        "en": "Maniema",
+        "slug": "maniema"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.132",
+    "lon": "26.618"
+  },
+  "metadata": {},
+  "source": {}
+}

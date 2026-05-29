@@ -1,0 +1,56 @@
+[
+  {
+    "id": "CD710401",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Sakania",
+      "en": "Sakania",
+      "slug": "sakania"
+    },
+    "code": {
+      "id": "CD710401",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7104",
+      "level": 2,
+      "name": {
+        "local": "Sakania",
+        "en": "Sakania",
+        "slug": "sakania"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD71",
+        "level": 1,
+        "name": {
+          "local": "Haut-Katanga",
+          "en": "Haut-Katanga",
+          "slug": "haut-katanga"
+        }
+      },
+      {
+        "id": "CD7104",
+        "level": 2,
+        "name": {
+          "local": "Sakania",
+          "en": "Sakania",
+          "slug": "sakania"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.605",
+      "lon": "29.156"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

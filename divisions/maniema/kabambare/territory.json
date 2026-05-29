@@ -1,0 +1,47 @@
+{
+  "id": "CD6309",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Kabambare",
+    "en": "Kabambare",
+    "slug": "kabambare"
+  },
+  "code": {
+    "id": "CD6309",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD63",
+    "level": 1,
+    "name": {
+      "local": "Maniema",
+      "en": "Maniema",
+      "slug": "maniema"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD63",
+      "level": 1,
+      "name": {
+        "local": "Maniema",
+        "en": "Maniema",
+        "slug": "maniema"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.414",
+    "lon": "27.776"
+  },
+  "metadata": {},
+  "source": {}
+}

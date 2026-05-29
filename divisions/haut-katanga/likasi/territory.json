@@ -1,0 +1,47 @@
+{
+  "id": "CD7106",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Likasi",
+    "en": "Likasi",
+    "slug": "likasi"
+  },
+  "code": {
+    "id": "CD7106",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD71",
+    "level": 1,
+    "name": {
+      "local": "Haut-Katanga",
+      "en": "Haut-Katanga",
+      "slug": "haut-katanga"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD71",
+      "level": 1,
+      "name": {
+        "local": "Haut-Katanga",
+        "en": "Haut-Katanga",
+        "slug": "haut-katanga"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.964",
+    "lon": "26.732"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "CD4505",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Ikela",
+    "en": "Ikela",
+    "slug": "ikela"
+  },
+  "code": {
+    "id": "CD4505",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD45",
+    "level": 1,
+    "name": {
+      "local": "Tshuapa",
+      "en": "Tshuapa",
+      "slug": "tshuapa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD45",
+      "level": 1,
+      "name": {
+        "local": "Tshuapa",
+        "en": "Tshuapa",
+        "slug": "tshuapa"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.989",
+    "lon": "23.087"
+  },
+  "metadata": {},
+  "source": {}
+}

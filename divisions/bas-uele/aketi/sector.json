@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CD520401",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Aketi",
+      "en": "Aketi",
+      "slug": "aketi"
+    },
+    "code": {
+      "id": "CD520401",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5204",
+      "level": 2,
+      "name": {
+        "local": "Aketi",
+        "en": "Aketi",
+        "slug": "aketi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD52",
+        "level": 1,
+        "name": {
+          "local": "Bas-Uele",
+          "en": "Bas-Uele",
+          "slug": "bas-uele"
+        }
+      },
+      {
+        "id": "CD5204",
+        "level": 2,
+        "name": {
+          "local": "Aketi",
+          "en": "Aketi",
+          "slug": "aketi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.923",
+      "lon": "23.742"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD520402",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Likati",
+      "en": "Likati",
+      "slug": "likati"
+    },
+    "code": {
+      "id": "CD520402",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5204",
+      "level": 2,
+      "name": {
+        "local": "Aketi",
+        "en": "Aketi",
+        "slug": "aketi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD52",
+        "level": 1,
+        "name": {
+          "local": "Bas-Uele",
+          "en": "Bas-Uele",
+          "slug": "bas-uele"
+        }
+      },
+      {
+        "id": "CD5204",
+        "level": 2,
+        "name": {
+          "local": "Aketi",
+          "en": "Aketi",
+          "slug": "aketi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.923",
+      "lon": "23.742"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

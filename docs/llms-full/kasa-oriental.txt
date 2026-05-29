@@ -1,0 +1,115 @@
+# Kasaï-Oriental — DR Congo Administrative Divisions
+
+> 6 territorys, 19 sectors
+> Code: CD82
+> Coordinates: -6.199, 23.571
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Territorys
+
+### Kabeya-Kamwanga
+
+Code: CD8207, Coordinates: -6.028, 23.122
+Sectors: 1
+
+#### Kabeya Kamuanga
+
+Code: CD820701, Coordinates: -6.028, 23.122
+
+### Katanda
+
+Code: CD8209, Coordinates: -6.077, 23.927
+Sectors: 2
+
+#### Bibanga
+
+Code: CD820901, Coordinates: -6.077, 23.927
+
+#### Tshitenge
+
+Code: CD820902, Coordinates: -6.077, 23.927
+
+### Lupatapata
+
+Code: CD8208, Coordinates: -6.023, 23.602
+Sectors: 2
+
+#### Mukumbi
+
+Code: CD820801, Coordinates: -6.023, 23.602
+
+#### Tshishimbi
+
+Code: CD820802, Coordinates: -6.023, 23.602
+
+### Mbuji-Mayi
+
+Code: CD8201, Coordinates: -6.111, 23.61
+Sectors: 10
+
+#### Bipemba
+
+Code: CD820101, Coordinates: -6.111, 23.61
+
+#### Bonzola
+
+Code: CD820102, Coordinates: -6.111, 23.61
+
+#### Dibindi
+
+Code: CD820103, Coordinates: -6.111, 23.61
+
+#### Diulu
+
+Code: CD820104, Coordinates: -6.111, 23.61
+
+#### Kansele
+
+Code: CD820105, Coordinates: -6.111, 23.61
+
+#### Lubilanji
+
+Code: CD820106, Coordinates: -6.111, 23.61
+
+#### Lukelenge
+
+Code: CD820107, Coordinates: -6.111, 23.61
+
+#### Mpokolo
+
+Code: CD820108, Coordinates: -6.111, 23.61
+
+#### Muya
+
+Code: CD820109, Coordinates: -6.111, 23.61
+
+#### Nzaba
+
+Code: CD820110, Coordinates: -6.111, 23.61
+
+### Miabi
+
+Code: CD8205, Coordinates: -6.291, 23.286
+Sectors: 2
+
+#### Cilundu
+
+Code: CD820501, Coordinates: -6.291, 23.286
+
+#### Miabi
+
+Code: CD820502, Coordinates: -6.291, 23.286
+
+### Tshilenge
+
+Code: CD8202, Coordinates: -6.465, 23.621
+Sectors: 2
+
+#### Kasansa
+
+Code: CD820201, Coordinates: -6.465, 23.621
+
+#### Tshilenge
+
+Code: CD820202, Coordinates: -6.465, 23.621
+

@@ -1,0 +1,121 @@
+# Maniema — DR Congo Administrative Divisions
+
+> 8 territorys, 18 sectors
+> Code: CD63
+> Coordinates: -2.516, 25.943
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Territorys
+
+### Kabambare
+
+Code: CD6309, Coordinates: -4.414, 27.776
+Sectors: 3
+
+#### Kabambare
+
+Code: CD630901, Coordinates: -4.414, 27.776
+
+#### Lusangi
+
+Code: CD630902, Coordinates: -4.414, 27.776
+
+#### Saramabila
+
+Code: CD630903, Coordinates: -4.414, 27.776
+
+### Kailo
+
+Code: CD6302, Coordinates: -2.56, 25.75
+Sectors: 1
+
+#### Kailo
+
+Code: CD630201, Coordinates: -2.56, 25.75
+
+### Kasongo
+
+Code: CD6311, Coordinates: -4.179, 26.549
+Sectors: 3
+
+#### Kasongo
+
+Code: CD631101, Coordinates: -4.179, 26.549
+
+#### Kunda
+
+Code: CD631102, Coordinates: -4.179, 26.549
+
+#### Samba
+
+Code: CD631103, Coordinates: -4.179, 26.549
+
+### Kibombo
+
+Code: CD6313, Coordinates: -4.082, 25.488
+Sectors: 2
+
+#### Kibombo
+
+Code: CD631301, Coordinates: -4.082, 25.488
+
+#### Tunda
+
+Code: CD631302, Coordinates: -4.082, 25.488
+
+### Kindu
+
+Code: CD6301, Coordinates: -2.974, 25.918
+Sectors: 2
+
+#### Alunguli
+
+Code: CD630101, Coordinates: -2.974, 25.918
+
+#### Kindu
+
+Code: CD630102, Coordinates: -2.974, 25.918
+
+### Lubutu
+
+Code: CD6305, Coordinates: -0.716, 27.022
+Sectors: 2
+
+#### Lubutu
+
+Code: CD630501, Coordinates: -0.716, 27.022
+
+#### Obokote
+
+Code: CD630502, Coordinates: -0.716, 27.022
+
+### Pangi
+
+Code: CD6307, Coordinates: -3.132, 26.618
+Sectors: 3
+
+#### Kalima
+
+Code: CD630701, Coordinates: -3.132, 26.618
+
+#### Kampene
+
+Code: CD630702, Coordinates: -3.132, 26.618
+
+#### Pangi
+
+Code: CD630703, Coordinates: -3.132, 26.618
+
+### Punia
+
+Code: CD6303, Coordinates: -1.706, 26.752
+Sectors: 2
+
+#### Ferekeni
+
+Code: CD630301, Coordinates: -1.706, 26.752
+
+#### Punia
+
+Code: CD630302, Coordinates: -1.706, 26.752
+

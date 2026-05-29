@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CD530901",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Gombari",
+      "en": "Gombari",
+      "slug": "gombari"
+    },
+    "code": {
+      "id": "CD530901",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5309",
+      "level": 2,
+      "name": {
+        "local": "Watsa",
+        "en": "Watsa",
+        "slug": "watsa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD53",
+        "level": 1,
+        "name": {
+          "local": "Haut-Uele",
+          "en": "Haut-Uele",
+          "slug": "haut-uele"
+        }
+      },
+      {
+        "id": "CD5309",
+        "level": 2,
+        "name": {
+          "local": "Watsa",
+          "en": "Watsa",
+          "slug": "watsa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.774",
+      "lon": "29.225"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD530902",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Watsa",
+      "en": "Watsa",
+      "slug": "watsa"
+    },
+    "code": {
+      "id": "CD530902",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5309",
+      "level": 2,
+      "name": {
+        "local": "Watsa",
+        "en": "Watsa",
+        "slug": "watsa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD53",
+        "level": 1,
+        "name": {
+          "local": "Haut-Uele",
+          "en": "Haut-Uele",
+          "slug": "haut-uele"
+        }
+      },
+      {
+        "id": "CD5309",
+        "level": 2,
+        "name": {
+          "local": "Watsa",
+          "en": "Watsa",
+          "slug": "watsa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.774",
+      "lon": "29.225"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

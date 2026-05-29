@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CD720501",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Dilolo",
+      "en": "Dilolo",
+      "slug": "dilolo"
+    },
+    "code": {
+      "id": "CD720501",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7205",
+      "level": 2,
+      "name": {
+        "local": "Dilolo",
+        "en": "Dilolo",
+        "slug": "dilolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD72",
+        "level": 1,
+        "name": {
+          "local": "Lualaba",
+          "en": "Lualaba",
+          "slug": "lualaba"
+        }
+      },
+      {
+        "id": "CD7205",
+        "level": 2,
+        "name": {
+          "local": "Dilolo",
+          "en": "Dilolo",
+          "slug": "dilolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.539",
+      "lon": "23.309"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD720502",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kasaji",
+      "en": "Kasaji",
+      "slug": "kasaji"
+    },
+    "code": {
+      "id": "CD720502",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7205",
+      "level": 2,
+      "name": {
+        "local": "Dilolo",
+        "en": "Dilolo",
+        "slug": "dilolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD72",
+        "level": 1,
+        "name": {
+          "local": "Lualaba",
+          "en": "Lualaba",
+          "slug": "lualaba"
+        }
+      },
+      {
+        "id": "CD7205",
+        "level": 2,
+        "name": {
+          "local": "Dilolo",
+          "en": "Dilolo",
+          "slug": "dilolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.539",
+      "lon": "23.309"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

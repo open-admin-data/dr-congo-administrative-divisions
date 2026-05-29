@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CD910601",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Bena Leka",
+      "en": "Bena Leka",
+      "slug": "bena-leka"
+    },
+    "code": {
+      "id": "CD910601",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD9106",
+      "level": 2,
+      "name": {
+        "local": "Demba",
+        "en": "Demba",
+        "slug": "demba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD91",
+        "level": 1,
+        "name": {
+          "local": "Kasaï-Central",
+          "en": "Kasaï-Central",
+          "slug": "kasa-central"
+        }
+      },
+      {
+        "id": "CD9106",
+        "level": 2,
+        "name": {
+          "local": "Demba",
+          "en": "Demba",
+          "slug": "demba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.236",
+      "lon": "22.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD910602",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Demba",
+      "en": "Demba",
+      "slug": "demba"
+    },
+    "code": {
+      "id": "CD910602",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD9106",
+      "level": 2,
+      "name": {
+        "local": "Demba",
+        "en": "Demba",
+        "slug": "demba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD91",
+        "level": 1,
+        "name": {
+          "local": "Kasaï-Central",
+          "en": "Kasaï-Central",
+          "slug": "kasa-central"
+        }
+      },
+      {
+        "id": "CD9106",
+        "level": 2,
+        "name": {
+          "local": "Demba",
+          "en": "Demba",
+          "slug": "demba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.236",
+      "lon": "22.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD910603",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Mutoto",
+      "en": "Mutoto",
+      "slug": "mutoto"
+    },
+    "code": {
+      "id": "CD910603",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD9106",
+      "level": 2,
+      "name": {
+        "local": "Demba",
+        "en": "Demba",
+        "slug": "demba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD91",
+        "level": 1,
+        "name": {
+          "local": "Kasaï-Central",
+          "en": "Kasaï-Central",
+          "slug": "kasa-central"
+        }
+      },
+      {
+        "id": "CD9106",
+        "level": 2,
+        "name": {
+          "local": "Demba",
+          "en": "Demba",
+          "slug": "demba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.236",
+      "lon": "22.117"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

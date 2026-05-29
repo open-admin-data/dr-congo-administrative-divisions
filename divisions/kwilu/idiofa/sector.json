@@ -1,0 +1,326 @@
+[
+  {
+    "id": "CD320601",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Idiofa",
+      "en": "Idiofa",
+      "slug": "idiofa"
+    },
+    "code": {
+      "id": "CD320601",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD3206",
+      "level": 2,
+      "name": {
+        "local": "Idiofa",
+        "en": "Idiofa",
+        "slug": "idiofa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD32",
+        "level": 1,
+        "name": {
+          "local": "Kwilu",
+          "en": "Kwilu",
+          "slug": "kwilu"
+        }
+      },
+      {
+        "id": "CD3206",
+        "level": 2,
+        "name": {
+          "local": "Idiofa",
+          "en": "Idiofa",
+          "slug": "idiofa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.708",
+      "lon": "19.613"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD320602",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Ipamu",
+      "en": "Ipamu",
+      "slug": "ipamu"
+    },
+    "code": {
+      "id": "CD320602",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD3206",
+      "level": 2,
+      "name": {
+        "local": "Idiofa",
+        "en": "Idiofa",
+        "slug": "idiofa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD32",
+        "level": 1,
+        "name": {
+          "local": "Kwilu",
+          "en": "Kwilu",
+          "slug": "kwilu"
+        }
+      },
+      {
+        "id": "CD3206",
+        "level": 2,
+        "name": {
+          "local": "Idiofa",
+          "en": "Idiofa",
+          "slug": "idiofa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.708",
+      "lon": "19.613"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD320603",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kimputu",
+      "en": "Kimputu",
+      "slug": "kimputu"
+    },
+    "code": {
+      "id": "CD320603",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD3206",
+      "level": 2,
+      "name": {
+        "local": "Idiofa",
+        "en": "Idiofa",
+        "slug": "idiofa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD32",
+        "level": 1,
+        "name": {
+          "local": "Kwilu",
+          "en": "Kwilu",
+          "slug": "kwilu"
+        }
+      },
+      {
+        "id": "CD3206",
+        "level": 2,
+        "name": {
+          "local": "Idiofa",
+          "en": "Idiofa",
+          "slug": "idiofa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.708",
+      "lon": "19.613"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD320604",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Koshibanda",
+      "en": "Koshibanda",
+      "slug": "koshibanda"
+    },
+    "code": {
+      "id": "CD320604",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD3206",
+      "level": 2,
+      "name": {
+        "local": "Idiofa",
+        "en": "Idiofa",
+        "slug": "idiofa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD32",
+        "level": 1,
+        "name": {
+          "local": "Kwilu",
+          "en": "Kwilu",
+          "slug": "kwilu"
+        }
+      },
+      {
+        "id": "CD3206",
+        "level": 2,
+        "name": {
+          "local": "Idiofa",
+          "en": "Idiofa",
+          "slug": "idiofa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.708",
+      "lon": "19.613"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD320605",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Mokala",
+      "en": "Mokala",
+      "slug": "mokala"
+    },
+    "code": {
+      "id": "CD320605",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD3206",
+      "level": 2,
+      "name": {
+        "local": "Idiofa",
+        "en": "Idiofa",
+        "slug": "idiofa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD32",
+        "level": 1,
+        "name": {
+          "local": "Kwilu",
+          "en": "Kwilu",
+          "slug": "kwilu"
+        }
+      },
+      {
+        "id": "CD3206",
+        "level": 2,
+        "name": {
+          "local": "Idiofa",
+          "en": "Idiofa",
+          "slug": "idiofa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.708",
+      "lon": "19.613"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD320606",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Mungindu",
+      "en": "Mungindu",
+      "slug": "mungindu"
+    },
+    "code": {
+      "id": "CD320606",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD3206",
+      "level": 2,
+      "name": {
+        "local": "Idiofa",
+        "en": "Idiofa",
+        "slug": "idiofa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD32",
+        "level": 1,
+        "name": {
+          "local": "Kwilu",
+          "en": "Kwilu",
+          "slug": "kwilu"
+        }
+      },
+      {
+        "id": "CD3206",
+        "level": 2,
+        "name": {
+          "local": "Idiofa",
+          "en": "Idiofa",
+          "slug": "idiofa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.708",
+      "lon": "19.613"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

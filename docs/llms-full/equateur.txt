@@ -1,0 +1,121 @@
+# Equateur — DR Congo Administrative Divisions
+
+> 8 territorys, 18 sectors
+> Code: CD41
+> Coordinates: 0.063, 19.135
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Territorys
+
+### Basankusu
+
+Code: CD4107, Coordinates: 1.057, 19.874
+Sectors: 2
+
+#### Basankusu
+
+Code: CD410701, Coordinates: 1.057, 19.874
+
+#### Djombo
+
+Code: CD410702, Coordinates: 1.057, 19.874
+
+### Bikoro
+
+Code: CD4102, Coordinates: -0.751, 18.225
+Sectors: 3
+
+#### Bikoro
+
+Code: CD410201, Coordinates: -0.751, 18.225
+
+#### Iboko
+
+Code: CD410202, Coordinates: -0.751, 18.225
+
+#### Ntondo
+
+Code: CD410203, Coordinates: -0.751, 18.225
+
+### Bolomba
+
+Code: CD4108, Coordinates: 0.589, 18.98
+Sectors: 3
+
+#### Bolomba
+
+Code: CD410801, Coordinates: 0.589, 18.98
+
+#### Lolanga Mampoko
+
+Code: CD410802, Coordinates: 0.589, 18.98
+
+#### Monieka
+
+Code: CD410803, Coordinates: 0.589, 18.98
+
+### Bomongo
+
+Code: CD4104, Coordinates: 0.789, 18.064
+Sectors: 2
+
+#### Bomongo
+
+Code: CD410401, Coordinates: 0.789, 18.064
+
+#### Lilanga Bobangi
+
+Code: CD410402, Coordinates: 0.789, 18.064
+
+### Ingende
+
+Code: CD4109, Coordinates: -0.717, 19.446
+Sectors: 2
+
+#### Ingende
+
+Code: CD410901, Coordinates: -0.717, 19.446
+
+#### Lotumbe
+
+Code: CD410902, Coordinates: -0.717, 19.446
+
+### Lukolela
+
+Code: CD4103, Coordinates: -1.275, 17.19
+Sectors: 2
+
+#### Irebu
+
+Code: CD410301, Coordinates: -1.275, 17.19
+
+#### Lukolela
+
+Code: CD410302, Coordinates: -1.275, 17.19
+
+### Makanza
+
+Code: CD4105, Coordinates: 1.263, 18.799
+Sectors: 1
+
+#### Makanza
+
+Code: CD410501, Coordinates: 1.263, 18.799
+
+### Mbandaka
+
+Code: CD4101, Coordinates: -0.087, 18.26
+Sectors: 3
+
+#### Bolenge
+
+Code: CD410101, Coordinates: -0.087, 18.26
+
+#### Mbandaka
+
+Code: CD410102, Coordinates: -0.087, 18.26
+
+#### Wangata
+
+Code: CD410103, Coordinates: -0.087, 18.26
+

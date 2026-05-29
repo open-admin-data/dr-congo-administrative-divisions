@@ -1,0 +1,30 @@
+{
+  "id": "CD52",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Bas-Uele",
+    "en": "Bas-Uele",
+    "slug": "bas-uele"
+  },
+  "code": {
+    "id": "CD52",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "territory": 6,
+    "sector": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.668",
+    "lon": "25.215"
+  },
+  "metadata": {},
+  "source": {}
+}

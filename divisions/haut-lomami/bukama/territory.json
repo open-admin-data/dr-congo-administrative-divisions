@@ -1,0 +1,47 @@
+{
+  "id": "CD7306",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Bukama",
+    "en": "Bukama",
+    "slug": "bukama"
+  },
+  "code": {
+    "id": "CD7306",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD73",
+    "level": 1,
+    "name": {
+      "local": "Haut-Lomami",
+      "en": "Haut-Lomami",
+      "slug": "haut-lomami"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD73",
+      "level": 1,
+      "name": {
+        "local": "Haut-Lomami",
+        "en": "Haut-Lomami",
+        "slug": "haut-lomami"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.835",
+    "lon": "26.119"
+  },
+  "metadata": {},
+  "source": {}
+}

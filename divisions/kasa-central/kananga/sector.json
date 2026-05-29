@@ -1,0 +1,326 @@
+[
+  {
+    "id": "CD910101",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Bobozo",
+      "en": "Bobozo",
+      "slug": "bobozo"
+    },
+    "code": {
+      "id": "CD910101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD9101",
+      "level": 2,
+      "name": {
+        "local": "Kananga",
+        "en": "Kananga",
+        "slug": "kananga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD91",
+        "level": 1,
+        "name": {
+          "local": "Kasaï-Central",
+          "en": "Kasaï-Central",
+          "slug": "kasa-central"
+        }
+      },
+      {
+        "id": "CD9101",
+        "level": 2,
+        "name": {
+          "local": "Kananga",
+          "en": "Kananga",
+          "slug": "kananga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.895",
+      "lon": "22.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD910102",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kananga",
+      "en": "Kananga",
+      "slug": "kananga"
+    },
+    "code": {
+      "id": "CD910102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD9101",
+      "level": 2,
+      "name": {
+        "local": "Kananga",
+        "en": "Kananga",
+        "slug": "kananga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD91",
+        "level": 1,
+        "name": {
+          "local": "Kasaï-Central",
+          "en": "Kasaï-Central",
+          "slug": "kasa-central"
+        }
+      },
+      {
+        "id": "CD9101",
+        "level": 2,
+        "name": {
+          "local": "Kananga",
+          "en": "Kananga",
+          "slug": "kananga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.895",
+      "lon": "22.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD910103",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Katoka",
+      "en": "Katoka",
+      "slug": "katoka"
+    },
+    "code": {
+      "id": "CD910103",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD9101",
+      "level": 2,
+      "name": {
+        "local": "Kananga",
+        "en": "Kananga",
+        "slug": "kananga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD91",
+        "level": 1,
+        "name": {
+          "local": "Kasaï-Central",
+          "en": "Kasaï-Central",
+          "slug": "kasa-central"
+        }
+      },
+      {
+        "id": "CD9101",
+        "level": 2,
+        "name": {
+          "local": "Kananga",
+          "en": "Kananga",
+          "slug": "kananga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.895",
+      "lon": "22.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD910104",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Lukonga",
+      "en": "Lukonga",
+      "slug": "lukonga"
+    },
+    "code": {
+      "id": "CD910104",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD9101",
+      "level": 2,
+      "name": {
+        "local": "Kananga",
+        "en": "Kananga",
+        "slug": "kananga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD91",
+        "level": 1,
+        "name": {
+          "local": "Kasaï-Central",
+          "en": "Kasaï-Central",
+          "slug": "kasa-central"
+        }
+      },
+      {
+        "id": "CD9101",
+        "level": 2,
+        "name": {
+          "local": "Kananga",
+          "en": "Kananga",
+          "slug": "kananga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.895",
+      "lon": "22.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD910105",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Ndesha",
+      "en": "Ndesha",
+      "slug": "ndesha"
+    },
+    "code": {
+      "id": "CD910105",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD9101",
+      "level": 2,
+      "name": {
+        "local": "Kananga",
+        "en": "Kananga",
+        "slug": "kananga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD91",
+        "level": 1,
+        "name": {
+          "local": "Kasaï-Central",
+          "en": "Kasaï-Central",
+          "slug": "kasa-central"
+        }
+      },
+      {
+        "id": "CD9101",
+        "level": 2,
+        "name": {
+          "local": "Kananga",
+          "en": "Kananga",
+          "slug": "kananga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.895",
+      "lon": "22.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD910106",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Tshikaji",
+      "en": "Tshikaji",
+      "slug": "tshikaji"
+    },
+    "code": {
+      "id": "CD910106",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD9101",
+      "level": 2,
+      "name": {
+        "local": "Kananga",
+        "en": "Kananga",
+        "slug": "kananga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD91",
+        "level": 1,
+        "name": {
+          "local": "Kasaï-Central",
+          "en": "Kasaï-Central",
+          "slug": "kasa-central"
+        }
+      },
+      {
+        "id": "CD9101",
+        "level": 2,
+        "name": {
+          "local": "Kananga",
+          "en": "Kananga",
+          "slug": "kananga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.895",
+      "lon": "22.444"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

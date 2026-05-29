@@ -1,0 +1,425 @@
+[
+  {
+    "id": "CD6109",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Beni",
+      "en": "Beni",
+      "slug": "beni"
+    },
+    "code": {
+      "id": "CD6109",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD61",
+      "level": 1,
+      "name": {
+        "local": "Nord-Kivu",
+        "en": "Nord-Kivu",
+        "slug": "nord-kivu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD61",
+        "level": 1,
+        "name": {
+          "local": "Nord-Kivu",
+          "en": "Nord-Kivu",
+          "slug": "nord-kivu"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.482",
+      "lon": "29.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD6110",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Butembo",
+      "en": "Butembo",
+      "slug": "butembo"
+    },
+    "code": {
+      "id": "CD6110",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD61",
+      "level": 1,
+      "name": {
+        "local": "Nord-Kivu",
+        "en": "Nord-Kivu",
+        "slug": "nord-kivu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD61",
+        "level": 1,
+        "name": {
+          "local": "Nord-Kivu",
+          "en": "Nord-Kivu",
+          "slug": "nord-kivu"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.135",
+      "lon": "29.282"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD6101",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Goma",
+      "en": "Goma",
+      "slug": "goma"
+    },
+    "code": {
+      "id": "CD6101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD61",
+      "level": 1,
+      "name": {
+        "local": "Nord-Kivu",
+        "en": "Nord-Kivu",
+        "slug": "nord-kivu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD61",
+        "level": 1,
+        "name": {
+          "local": "Nord-Kivu",
+          "en": "Nord-Kivu",
+          "slug": "nord-kivu"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.655",
+      "lon": "29.202"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD6105",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Lubero",
+      "en": "Lubero",
+      "slug": "lubero"
+    },
+    "code": {
+      "id": "CD6105",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD61",
+      "level": 1,
+      "name": {
+        "local": "Nord-Kivu",
+        "en": "Nord-Kivu",
+        "slug": "nord-kivu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD61",
+        "level": 1,
+        "name": {
+          "local": "Nord-Kivu",
+          "en": "Nord-Kivu",
+          "slug": "nord-kivu"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.06",
+      "lon": "28.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD6103",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Masisi",
+      "en": "Masisi",
+      "slug": "masisi"
+    },
+    "code": {
+      "id": "CD6103",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD61",
+      "level": 1,
+      "name": {
+        "local": "Nord-Kivu",
+        "en": "Nord-Kivu",
+        "slug": "nord-kivu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD61",
+        "level": 1,
+        "name": {
+          "local": "Nord-Kivu",
+          "en": "Nord-Kivu",
+          "slug": "nord-kivu"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.371",
+      "lon": "28.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD6102",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Nyiragongo",
+      "en": "Nyiragongo",
+      "slug": "nyiragongo"
+    },
+    "code": {
+      "id": "CD6102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD61",
+      "level": 1,
+      "name": {
+        "local": "Nord-Kivu",
+        "en": "Nord-Kivu",
+        "slug": "nord-kivu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD61",
+        "level": 1,
+        "name": {
+          "local": "Nord-Kivu",
+          "en": "Nord-Kivu",
+          "slug": "nord-kivu"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.553",
+      "lon": "29.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD6107",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Oïcha",
+      "en": "Oïcha",
+      "slug": "ocha"
+    },
+    "code": {
+      "id": "CD6107",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD61",
+      "level": 1,
+      "name": {
+        "local": "Nord-Kivu",
+        "en": "Nord-Kivu",
+        "slug": "nord-kivu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD61",
+        "level": 1,
+        "name": {
+          "local": "Nord-Kivu",
+          "en": "Nord-Kivu",
+          "slug": "nord-kivu"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.401",
+      "lon": "29.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD6111",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Rutshuru",
+      "en": "Rutshuru",
+      "slug": "rutshuru"
+    },
+    "code": {
+      "id": "CD6111",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD61",
+      "level": 1,
+      "name": {
+        "local": "Nord-Kivu",
+        "en": "Nord-Kivu",
+        "slug": "nord-kivu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD61",
+        "level": 1,
+        "name": {
+          "local": "Nord-Kivu",
+          "en": "Nord-Kivu",
+          "slug": "nord-kivu"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.961",
+      "lon": "29.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD6104",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Walikale",
+      "en": "Walikale",
+      "slug": "walikale"
+    },
+    "code": {
+      "id": "CD6104",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD61",
+      "level": 1,
+      "name": {
+        "local": "Nord-Kivu",
+        "en": "Nord-Kivu",
+        "slug": "nord-kivu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD61",
+        "level": 1,
+        "name": {
+          "local": "Nord-Kivu",
+          "en": "Nord-Kivu",
+          "slug": "nord-kivu"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.084",
+      "lon": "27.984"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

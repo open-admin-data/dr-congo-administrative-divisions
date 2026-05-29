@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CD720201",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Dilala",
+      "en": "Dilala",
+      "slug": "dilala"
+    },
+    "code": {
+      "id": "CD720201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7202",
+      "level": 2,
+      "name": {
+        "local": "Mutshatsha",
+        "en": "Mutshatsha",
+        "slug": "mutshatsha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD72",
+        "level": 1,
+        "name": {
+          "local": "Lualaba",
+          "en": "Lualaba",
+          "slug": "lualaba"
+        }
+      },
+      {
+        "id": "CD7202",
+        "level": 2,
+        "name": {
+          "local": "Mutshatsha",
+          "en": "Mutshatsha",
+          "slug": "mutshatsha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.858",
+      "lon": "25.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD720202",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Lualaba",
+      "en": "Lualaba",
+      "slug": "lualaba"
+    },
+    "code": {
+      "id": "CD720202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7202",
+      "level": 2,
+      "name": {
+        "local": "Mutshatsha",
+        "en": "Mutshatsha",
+        "slug": "mutshatsha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD72",
+        "level": 1,
+        "name": {
+          "local": "Lualaba",
+          "en": "Lualaba",
+          "slug": "lualaba"
+        }
+      },
+      {
+        "id": "CD7202",
+        "level": 2,
+        "name": {
+          "local": "Mutshatsha",
+          "en": "Mutshatsha",
+          "slug": "mutshatsha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.858",
+      "lon": "25.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD720203",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Mutshatsha",
+      "en": "Mutshatsha",
+      "slug": "mutshatsha"
+    },
+    "code": {
+      "id": "CD720203",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7202",
+      "level": 2,
+      "name": {
+        "local": "Mutshatsha",
+        "en": "Mutshatsha",
+        "slug": "mutshatsha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD72",
+        "level": 1,
+        "name": {
+          "local": "Lualaba",
+          "en": "Lualaba",
+          "slug": "lualaba"
+        }
+      },
+      {
+        "id": "CD7202",
+        "level": 2,
+        "name": {
+          "local": "Mutshatsha",
+          "en": "Mutshatsha",
+          "slug": "mutshatsha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.858",
+      "lon": "25.166"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

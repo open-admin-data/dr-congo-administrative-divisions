@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CD450301",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Befale",
+      "en": "Befale",
+      "slug": "befale"
+    },
+    "code": {
+      "id": "CD450301",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD4503",
+      "level": 2,
+      "name": {
+        "local": "Befale",
+        "en": "Befale",
+        "slug": "befale"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD45",
+        "level": 1,
+        "name": {
+          "local": "Tshuapa",
+          "en": "Tshuapa",
+          "slug": "tshuapa"
+        }
+      },
+      {
+        "id": "CD4503",
+        "level": 2,
+        "name": {
+          "local": "Befale",
+          "en": "Befale",
+          "slug": "befale"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.596",
+      "lon": "21.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD450302",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Mompono",
+      "en": "Mompono",
+      "slug": "mompono"
+    },
+    "code": {
+      "id": "CD450302",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD4503",
+      "level": 2,
+      "name": {
+        "local": "Befale",
+        "en": "Befale",
+        "slug": "befale"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD45",
+        "level": 1,
+        "name": {
+          "local": "Tshuapa",
+          "en": "Tshuapa",
+          "slug": "tshuapa"
+        }
+      },
+      {
+        "id": "CD4503",
+        "level": 2,
+        "name": {
+          "local": "Befale",
+          "en": "Befale",
+          "slug": "befale"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.596",
+      "lon": "21.058"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

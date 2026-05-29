@@ -1,0 +1,56 @@
+[
+  {
+    "id": "CD630201",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kailo",
+      "en": "Kailo",
+      "slug": "kailo"
+    },
+    "code": {
+      "id": "CD630201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6302",
+      "level": 2,
+      "name": {
+        "local": "Kailo",
+        "en": "Kailo",
+        "slug": "kailo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD63",
+        "level": 1,
+        "name": {
+          "local": "Maniema",
+          "en": "Maniema",
+          "slug": "maniema"
+        }
+      },
+      {
+        "id": "CD6302",
+        "level": 2,
+        "name": {
+          "local": "Kailo",
+          "en": "Kailo",
+          "slug": "kailo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.56",
+      "lon": "25.75"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

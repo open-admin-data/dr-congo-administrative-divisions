@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CD740401",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kansimba",
+      "en": "Kansimba",
+      "slug": "kansimba"
+    },
+    "code": {
+      "id": "CD740401",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7404",
+      "level": 2,
+      "name": {
+        "local": "Moba",
+        "en": "Moba",
+        "slug": "moba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD74",
+        "level": 1,
+        "name": {
+          "local": "Tanganyika",
+          "en": "Tanganyika",
+          "slug": "tanganyika"
+        }
+      },
+      {
+        "id": "CD7404",
+        "level": 2,
+        "name": {
+          "local": "Moba",
+          "en": "Moba",
+          "slug": "moba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.405",
+      "lon": "29.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD740402",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Moba",
+      "en": "Moba",
+      "slug": "moba"
+    },
+    "code": {
+      "id": "CD740402",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7404",
+      "level": 2,
+      "name": {
+        "local": "Moba",
+        "en": "Moba",
+        "slug": "moba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD74",
+        "level": 1,
+        "name": {
+          "local": "Tanganyika",
+          "en": "Tanganyika",
+          "slug": "tanganyika"
+        }
+      },
+      {
+        "id": "CD7404",
+        "level": 2,
+        "name": {
+          "local": "Moba",
+          "en": "Moba",
+          "slug": "moba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.405",
+      "lon": "29.533"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

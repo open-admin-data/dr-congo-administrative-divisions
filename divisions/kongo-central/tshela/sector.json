@@ -1,0 +1,272 @@
+[
+  {
+    "id": "CD200701",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kinkonzi",
+      "en": "Kinkonzi",
+      "slug": "kinkonzi"
+    },
+    "code": {
+      "id": "CD200701",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD2007",
+      "level": 2,
+      "name": {
+        "local": "Tshela",
+        "en": "Tshela",
+        "slug": "tshela"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD20",
+        "level": 1,
+        "name": {
+          "local": "Kongo-Central",
+          "en": "Kongo-Central",
+          "slug": "kongo-central"
+        }
+      },
+      {
+        "id": "CD2007",
+        "level": 2,
+        "name": {
+          "local": "Tshela",
+          "en": "Tshela",
+          "slug": "tshela"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.984",
+      "lon": "12.868"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD200702",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kizu",
+      "en": "Kizu",
+      "slug": "kizu"
+    },
+    "code": {
+      "id": "CD200702",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD2007",
+      "level": 2,
+      "name": {
+        "local": "Tshela",
+        "en": "Tshela",
+        "slug": "tshela"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD20",
+        "level": 1,
+        "name": {
+          "local": "Kongo-Central",
+          "en": "Kongo-Central",
+          "slug": "kongo-central"
+        }
+      },
+      {
+        "id": "CD2007",
+        "level": 2,
+        "name": {
+          "local": "Tshela",
+          "en": "Tshela",
+          "slug": "tshela"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.984",
+      "lon": "12.868"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD200703",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kuimba",
+      "en": "Kuimba",
+      "slug": "kuimba"
+    },
+    "code": {
+      "id": "CD200703",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD2007",
+      "level": 2,
+      "name": {
+        "local": "Tshela",
+        "en": "Tshela",
+        "slug": "tshela"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD20",
+        "level": 1,
+        "name": {
+          "local": "Kongo-Central",
+          "en": "Kongo-Central",
+          "slug": "kongo-central"
+        }
+      },
+      {
+        "id": "CD2007",
+        "level": 2,
+        "name": {
+          "local": "Tshela",
+          "en": "Tshela",
+          "slug": "tshela"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.984",
+      "lon": "12.868"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD200704",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Tshela",
+      "en": "Tshela",
+      "slug": "tshela"
+    },
+    "code": {
+      "id": "CD200704",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD2007",
+      "level": 2,
+      "name": {
+        "local": "Tshela",
+        "en": "Tshela",
+        "slug": "tshela"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD20",
+        "level": 1,
+        "name": {
+          "local": "Kongo-Central",
+          "en": "Kongo-Central",
+          "slug": "kongo-central"
+        }
+      },
+      {
+        "id": "CD2007",
+        "level": 2,
+        "name": {
+          "local": "Tshela",
+          "en": "Tshela",
+          "slug": "tshela"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.984",
+      "lon": "12.868"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD200705",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Vaku",
+      "en": "Vaku",
+      "slug": "vaku"
+    },
+    "code": {
+      "id": "CD200705",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD2007",
+      "level": 2,
+      "name": {
+        "local": "Tshela",
+        "en": "Tshela",
+        "slug": "tshela"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD20",
+        "level": 1,
+        "name": {
+          "local": "Kongo-Central",
+          "en": "Kongo-Central",
+          "slug": "kongo-central"
+        }
+      },
+      {
+        "id": "CD2007",
+        "level": 2,
+        "name": {
+          "local": "Tshela",
+          "en": "Tshela",
+          "slug": "tshela"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.984",
+      "lon": "12.868"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

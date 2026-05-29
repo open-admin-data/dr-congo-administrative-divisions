@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CD830701",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Lomela",
+      "en": "Lomela",
+      "slug": "lomela"
+    },
+    "code": {
+      "id": "CD830701",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD8307",
+      "level": 2,
+      "name": {
+        "local": "Lomela",
+        "en": "Lomela",
+        "slug": "lomela"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD83",
+        "level": 1,
+        "name": {
+          "local": "Sankuru",
+          "en": "Sankuru",
+          "slug": "sankuru"
+        }
+      },
+      {
+        "id": "CD8307",
+        "level": 2,
+        "name": {
+          "local": "Lomela",
+          "en": "Lomela",
+          "slug": "lomela"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.398",
+      "lon": "23.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD830702",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Tshudi Loto",
+      "en": "Tshudi Loto",
+      "slug": "tshudi-loto"
+    },
+    "code": {
+      "id": "CD830702",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD8307",
+      "level": 2,
+      "name": {
+        "local": "Lomela",
+        "en": "Lomela",
+        "slug": "lomela"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD83",
+        "level": 1,
+        "name": {
+          "local": "Sankuru",
+          "en": "Sankuru",
+          "slug": "sankuru"
+        }
+      },
+      {
+        "id": "CD8307",
+        "level": 2,
+        "name": {
+          "local": "Lomela",
+          "en": "Lomela",
+          "slug": "lomela"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.398",
+      "lon": "23.415"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

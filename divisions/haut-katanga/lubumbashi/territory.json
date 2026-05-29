@@ -1,0 +1,47 @@
+{
+  "id": "CD7101",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Lubumbashi",
+    "en": "Lubumbashi",
+    "slug": "lubumbashi"
+  },
+  "code": {
+    "id": "CD7101",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD71",
+    "level": 1,
+    "name": {
+      "local": "Haut-Katanga",
+      "en": "Haut-Katanga",
+      "slug": "haut-katanga"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD71",
+      "level": 1,
+      "name": {
+        "local": "Haut-Katanga",
+        "en": "Haut-Katanga",
+        "slug": "haut-katanga"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.655",
+    "lon": "27.46"
+  },
+  "metadata": {},
+  "source": {}
+}

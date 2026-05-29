@@ -1,0 +1,378 @@
+[
+  {
+    "id": "CD3308",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Bolobo",
+      "en": "Bolobo",
+      "slug": "bolobo"
+    },
+    "code": {
+      "id": "CD3308",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD33",
+      "level": 1,
+      "name": {
+        "local": "Maï-Ndombe",
+        "en": "Maï-Ndombe",
+        "slug": "ma-ndombe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD33",
+        "level": 1,
+        "name": {
+          "local": "Maï-Ndombe",
+          "en": "Maï-Ndombe",
+          "slug": "ma-ndombe"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.648",
+      "lon": "16.361"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD3302",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Inongo",
+      "en": "Inongo",
+      "slug": "inongo"
+    },
+    "code": {
+      "id": "CD3302",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD33",
+      "level": 1,
+      "name": {
+        "local": "Maï-Ndombe",
+        "en": "Maï-Ndombe",
+        "slug": "ma-ndombe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD33",
+        "level": 1,
+        "name": {
+          "local": "Maï-Ndombe",
+          "en": "Maï-Ndombe",
+          "slug": "ma-ndombe"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.934",
+      "lon": "18.01"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD3303",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Kiri",
+      "en": "Kiri",
+      "slug": "kiri"
+    },
+    "code": {
+      "id": "CD3303",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD33",
+      "level": 1,
+      "name": {
+        "local": "Maï-Ndombe",
+        "en": "Maï-Ndombe",
+        "slug": "ma-ndombe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD33",
+        "level": 1,
+        "name": {
+          "local": "Maï-Ndombe",
+          "en": "Maï-Ndombe",
+          "slug": "ma-ndombe"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.724",
+      "lon": "19.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD3306",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Kutu",
+      "en": "Kutu",
+      "slug": "kutu"
+    },
+    "code": {
+      "id": "CD3306",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD33",
+      "level": 1,
+      "name": {
+        "local": "Maï-Ndombe",
+        "en": "Maï-Ndombe",
+        "slug": "ma-ndombe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD33",
+        "level": 1,
+        "name": {
+          "local": "Maï-Ndombe",
+          "en": "Maï-Ndombe",
+          "slug": "ma-ndombe"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.971",
+      "lon": "18.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD3307",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Kwamouth",
+      "en": "Kwamouth",
+      "slug": "kwamouth"
+    },
+    "code": {
+      "id": "CD3307",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD33",
+      "level": 1,
+      "name": {
+        "local": "Maï-Ndombe",
+        "en": "Maï-Ndombe",
+        "slug": "ma-ndombe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD33",
+        "level": 1,
+        "name": {
+          "local": "Maï-Ndombe",
+          "en": "Maï-Ndombe",
+          "slug": "ma-ndombe"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.617",
+      "lon": "16.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD3311",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Mushie",
+      "en": "Mushie",
+      "slug": "mushie"
+    },
+    "code": {
+      "id": "CD3311",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD33",
+      "level": 1,
+      "name": {
+        "local": "Maï-Ndombe",
+        "en": "Maï-Ndombe",
+        "slug": "ma-ndombe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD33",
+        "level": 1,
+        "name": {
+          "local": "Maï-Ndombe",
+          "en": "Maï-Ndombe",
+          "slug": "ma-ndombe"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.526",
+      "lon": "17.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD3304",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Oshwe",
+      "en": "Oshwe",
+      "slug": "oshwe"
+    },
+    "code": {
+      "id": "CD3304",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD33",
+      "level": 1,
+      "name": {
+        "local": "Maï-Ndombe",
+        "en": "Maï-Ndombe",
+        "slug": "ma-ndombe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD33",
+        "level": 1,
+        "name": {
+          "local": "Maï-Ndombe",
+          "en": "Maï-Ndombe",
+          "slug": "ma-ndombe"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.147",
+      "lon": "19.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD3310",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Yumbi",
+      "en": "Yumbi",
+      "slug": "yumbi"
+    },
+    "code": {
+      "id": "CD3310",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD33",
+      "level": 1,
+      "name": {
+        "local": "Maï-Ndombe",
+        "en": "Maï-Ndombe",
+        "slug": "ma-ndombe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD33",
+        "level": 1,
+        "name": {
+          "local": "Maï-Ndombe",
+          "en": "Maï-Ndombe",
+          "slug": "ma-ndombe"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.097",
+      "lon": "16.465"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

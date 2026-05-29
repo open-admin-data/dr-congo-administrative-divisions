@@ -1,0 +1,47 @@
+{
+  "id": "CD2007",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Tshela",
+    "en": "Tshela",
+    "slug": "tshela"
+  },
+  "code": {
+    "id": "CD2007",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD20",
+    "level": 1,
+    "name": {
+      "local": "Kongo-Central",
+      "en": "Kongo-Central",
+      "slug": "kongo-central"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD20",
+      "level": 1,
+      "name": {
+        "local": "Kongo-Central",
+        "en": "Kongo-Central",
+        "slug": "kongo-central"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.984",
+    "lon": "12.868"
+  },
+  "metadata": {},
+  "source": {}
+}

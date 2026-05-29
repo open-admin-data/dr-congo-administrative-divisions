@@ -1,0 +1,47 @@
+{
+  "id": "CD9105",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Kazumba",
+    "en": "Kazumba",
+    "slug": "kazumba"
+  },
+  "code": {
+    "id": "CD9105",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD91",
+    "level": 1,
+    "name": {
+      "local": "Kasaï-Central",
+      "en": "Kasaï-Central",
+      "slug": "kasa-central"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD91",
+      "level": 1,
+      "name": {
+        "local": "Kasaï-Central",
+        "en": "Kasaï-Central",
+        "slug": "kasa-central"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.402",
+    "lon": "22.008"
+  },
+  "metadata": {},
+  "source": {}
+}

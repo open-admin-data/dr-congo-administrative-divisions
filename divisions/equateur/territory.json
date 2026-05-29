@@ -1,0 +1,378 @@
+[
+  {
+    "id": "CD4107",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Basankusu",
+      "en": "Basankusu",
+      "slug": "basankusu"
+    },
+    "code": {
+      "id": "CD4107",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD41",
+      "level": 1,
+      "name": {
+        "local": "Equateur",
+        "en": "Equateur",
+        "slug": "equateur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD41",
+        "level": 1,
+        "name": {
+          "local": "Equateur",
+          "en": "Equateur",
+          "slug": "equateur"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.057",
+      "lon": "19.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD4102",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Bikoro",
+      "en": "Bikoro",
+      "slug": "bikoro"
+    },
+    "code": {
+      "id": "CD4102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD41",
+      "level": 1,
+      "name": {
+        "local": "Equateur",
+        "en": "Equateur",
+        "slug": "equateur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD41",
+        "level": 1,
+        "name": {
+          "local": "Equateur",
+          "en": "Equateur",
+          "slug": "equateur"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.751",
+      "lon": "18.225"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD4108",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Bolomba",
+      "en": "Bolomba",
+      "slug": "bolomba"
+    },
+    "code": {
+      "id": "CD4108",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD41",
+      "level": 1,
+      "name": {
+        "local": "Equateur",
+        "en": "Equateur",
+        "slug": "equateur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD41",
+        "level": 1,
+        "name": {
+          "local": "Equateur",
+          "en": "Equateur",
+          "slug": "equateur"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.589",
+      "lon": "18.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD4104",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Bomongo",
+      "en": "Bomongo",
+      "slug": "bomongo"
+    },
+    "code": {
+      "id": "CD4104",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD41",
+      "level": 1,
+      "name": {
+        "local": "Equateur",
+        "en": "Equateur",
+        "slug": "equateur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD41",
+        "level": 1,
+        "name": {
+          "local": "Equateur",
+          "en": "Equateur",
+          "slug": "equateur"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.789",
+      "lon": "18.064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD4109",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Ingende",
+      "en": "Ingende",
+      "slug": "ingende"
+    },
+    "code": {
+      "id": "CD4109",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD41",
+      "level": 1,
+      "name": {
+        "local": "Equateur",
+        "en": "Equateur",
+        "slug": "equateur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD41",
+        "level": 1,
+        "name": {
+          "local": "Equateur",
+          "en": "Equateur",
+          "slug": "equateur"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.717",
+      "lon": "19.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD4103",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Lukolela",
+      "en": "Lukolela",
+      "slug": "lukolela"
+    },
+    "code": {
+      "id": "CD4103",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD41",
+      "level": 1,
+      "name": {
+        "local": "Equateur",
+        "en": "Equateur",
+        "slug": "equateur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD41",
+        "level": 1,
+        "name": {
+          "local": "Equateur",
+          "en": "Equateur",
+          "slug": "equateur"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.275",
+      "lon": "17.19"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD4105",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Makanza",
+      "en": "Makanza",
+      "slug": "makanza"
+    },
+    "code": {
+      "id": "CD4105",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD41",
+      "level": 1,
+      "name": {
+        "local": "Equateur",
+        "en": "Equateur",
+        "slug": "equateur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD41",
+        "level": 1,
+        "name": {
+          "local": "Equateur",
+          "en": "Equateur",
+          "slug": "equateur"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.263",
+      "lon": "18.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD4101",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Mbandaka",
+      "en": "Mbandaka",
+      "slug": "mbandaka"
+    },
+    "code": {
+      "id": "CD4101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD41",
+      "level": 1,
+      "name": {
+        "local": "Equateur",
+        "en": "Equateur",
+        "slug": "equateur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD41",
+        "level": 1,
+        "name": {
+          "local": "Equateur",
+          "en": "Equateur",
+          "slug": "equateur"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.087",
+      "lon": "18.26"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

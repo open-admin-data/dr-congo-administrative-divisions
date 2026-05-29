@@ -1,0 +1,83 @@
+# Tanganyika — DR Congo Administrative Divisions
+
+> 6 territorys, 11 sectors
+> Code: CD74
+> Coordinates: -6.705, 27.955
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Territorys
+
+### Kabalo
+
+Code: CD7407, Coordinates: -6.184, 26.978
+Sectors: 1
+
+#### Kabalo
+
+Code: CD740701, Coordinates: -6.184, 26.978
+
+### Kalemie
+
+Code: CD7402, Coordinates: -6.066, 28.889
+Sectors: 2
+
+#### Kalemie
+
+Code: CD740201, Coordinates: -6.066, 28.889
+
+#### Nyemba
+
+Code: CD740202, Coordinates: -6.066, 28.889
+
+### Kongolo
+
+Code: CD7409, Coordinates: -5.429, 26.876
+Sectors: 2
+
+#### Kongolo
+
+Code: CD740901, Coordinates: -5.429, 26.876
+
+#### Mbulula
+
+Code: CD740902, Coordinates: -5.429, 26.876
+
+### Manono
+
+Code: CD7406, Coordinates: -7.421, 27.589
+Sectors: 3
+
+#### Ankoro
+
+Code: CD740601, Coordinates: -7.421, 27.589
+
+#### Kiyambi
+
+Code: CD740602, Coordinates: -7.421, 27.589
+
+#### Manono
+
+Code: CD740603, Coordinates: -7.421, 27.589
+
+### Moba
+
+Code: CD7404, Coordinates: -7.405, 29.533
+Sectors: 2
+
+#### Kansimba
+
+Code: CD740401, Coordinates: -7.405, 29.533
+
+#### Moba
+
+Code: CD740402, Coordinates: -7.405, 29.533
+
+### Nyunzu
+
+Code: CD7410, Coordinates: -5.86, 27.66
+Sectors: 1
+
+#### Nyunzu
+
+Code: CD741001, Coordinates: -5.86, 27.66
+

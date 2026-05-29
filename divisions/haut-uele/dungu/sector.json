@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CD530501",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Doruma",
+      "en": "Doruma",
+      "slug": "doruma"
+    },
+    "code": {
+      "id": "CD530501",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5305",
+      "level": 2,
+      "name": {
+        "local": "Dungu",
+        "en": "Dungu",
+        "slug": "dungu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD53",
+        "level": 1,
+        "name": {
+          "local": "Haut-Uele",
+          "en": "Haut-Uele",
+          "slug": "haut-uele"
+        }
+      },
+      {
+        "id": "CD5305",
+        "level": 2,
+        "name": {
+          "local": "Dungu",
+          "en": "Dungu",
+          "slug": "dungu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.005",
+      "lon": "28.773"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD530502",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Dungu",
+      "en": "Dungu",
+      "slug": "dungu"
+    },
+    "code": {
+      "id": "CD530502",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5305",
+      "level": 2,
+      "name": {
+        "local": "Dungu",
+        "en": "Dungu",
+        "slug": "dungu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD53",
+        "level": 1,
+        "name": {
+          "local": "Haut-Uele",
+          "en": "Haut-Uele",
+          "slug": "haut-uele"
+        }
+      },
+      {
+        "id": "CD5305",
+        "level": 2,
+        "name": {
+          "local": "Dungu",
+          "en": "Dungu",
+          "slug": "dungu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.005",
+      "lon": "28.773"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

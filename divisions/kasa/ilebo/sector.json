@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CD920501",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Banga Lubaka",
+      "en": "Banga Lubaka",
+      "slug": "banga-lubaka"
+    },
+    "code": {
+      "id": "CD920501",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD9205",
+      "level": 2,
+      "name": {
+        "local": "Ilebo",
+        "en": "Ilebo",
+        "slug": "ilebo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD92",
+        "level": 1,
+        "name": {
+          "local": "Kasaï",
+          "en": "Kasaï",
+          "slug": "kasa"
+        }
+      },
+      {
+        "id": "CD9205",
+        "level": 2,
+        "name": {
+          "local": "Ilebo",
+          "en": "Ilebo",
+          "slug": "ilebo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.056",
+      "lon": "20.632"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD920502",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Ilebo",
+      "en": "Ilebo",
+      "slug": "ilebo"
+    },
+    "code": {
+      "id": "CD920502",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD9205",
+      "level": 2,
+      "name": {
+        "local": "Ilebo",
+        "en": "Ilebo",
+        "slug": "ilebo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD92",
+        "level": 1,
+        "name": {
+          "local": "Kasaï",
+          "en": "Kasaï",
+          "slug": "kasa"
+        }
+      },
+      {
+        "id": "CD9205",
+        "level": 2,
+        "name": {
+          "local": "Ilebo",
+          "en": "Ilebo",
+          "slug": "ilebo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.056",
+      "lon": "20.632"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD920503",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Mikope",
+      "en": "Mikope",
+      "slug": "mikope"
+    },
+    "code": {
+      "id": "CD920503",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD9205",
+      "level": 2,
+      "name": {
+        "local": "Ilebo",
+        "en": "Ilebo",
+        "slug": "ilebo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD92",
+        "level": 1,
+        "name": {
+          "local": "Kasaï",
+          "en": "Kasaï",
+          "slug": "kasa"
+        }
+      },
+      {
+        "id": "CD9205",
+        "level": 2,
+        "name": {
+          "local": "Ilebo",
+          "en": "Ilebo",
+          "slug": "ilebo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.056",
+      "lon": "20.632"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

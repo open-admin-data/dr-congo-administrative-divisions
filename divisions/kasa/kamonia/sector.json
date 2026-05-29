@@ -1,0 +1,434 @@
+[
+  {
+    "id": "CD920201",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kalonda Ouest",
+      "en": "Kalonda Ouest",
+      "slug": "kalonda-ouest"
+    },
+    "code": {
+      "id": "CD920201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD9202",
+      "level": 2,
+      "name": {
+        "local": "Kamonia",
+        "en": "Kamonia",
+        "slug": "kamonia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD92",
+        "level": 1,
+        "name": {
+          "local": "Kasaï",
+          "en": "Kasaï",
+          "slug": "kasa"
+        }
+      },
+      {
+        "id": "CD9202",
+        "level": 2,
+        "name": {
+          "local": "Kamonia",
+          "en": "Kamonia",
+          "slug": "kamonia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.517",
+      "lon": "20.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD920202",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kamonia",
+      "en": "Kamonia",
+      "slug": "kamonia"
+    },
+    "code": {
+      "id": "CD920202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD9202",
+      "level": 2,
+      "name": {
+        "local": "Kamonia",
+        "en": "Kamonia",
+        "slug": "kamonia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD92",
+        "level": 1,
+        "name": {
+          "local": "Kasaï",
+          "en": "Kasaï",
+          "slug": "kasa"
+        }
+      },
+      {
+        "id": "CD9202",
+        "level": 2,
+        "name": {
+          "local": "Kamonia",
+          "en": "Kamonia",
+          "slug": "kamonia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.517",
+      "lon": "20.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD920203",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kamwesha",
+      "en": "Kamwesha",
+      "slug": "kamwesha"
+    },
+    "code": {
+      "id": "CD920203",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD9202",
+      "level": 2,
+      "name": {
+        "local": "Kamonia",
+        "en": "Kamonia",
+        "slug": "kamonia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD92",
+        "level": 1,
+        "name": {
+          "local": "Kasaï",
+          "en": "Kasaï",
+          "slug": "kasa"
+        }
+      },
+      {
+        "id": "CD9202",
+        "level": 2,
+        "name": {
+          "local": "Kamonia",
+          "en": "Kamonia",
+          "slug": "kamonia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.517",
+      "lon": "20.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD920204",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kanzala",
+      "en": "Kanzala",
+      "slug": "kanzala"
+    },
+    "code": {
+      "id": "CD920204",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD9202",
+      "level": 2,
+      "name": {
+        "local": "Kamonia",
+        "en": "Kamonia",
+        "slug": "kamonia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD92",
+        "level": 1,
+        "name": {
+          "local": "Kasaï",
+          "en": "Kasaï",
+          "slug": "kasa"
+        }
+      },
+      {
+        "id": "CD9202",
+        "level": 2,
+        "name": {
+          "local": "Kamonia",
+          "en": "Kamonia",
+          "slug": "kamonia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.517",
+      "lon": "20.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD920205",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kitangwa",
+      "en": "Kitangwa",
+      "slug": "kitangwa"
+    },
+    "code": {
+      "id": "CD920205",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD9202",
+      "level": 2,
+      "name": {
+        "local": "Kamonia",
+        "en": "Kamonia",
+        "slug": "kamonia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD92",
+        "level": 1,
+        "name": {
+          "local": "Kasaï",
+          "en": "Kasaï",
+          "slug": "kasa"
+        }
+      },
+      {
+        "id": "CD9202",
+        "level": 2,
+        "name": {
+          "local": "Kamonia",
+          "en": "Kamonia",
+          "slug": "kamonia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.517",
+      "lon": "20.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD920206",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Mutena",
+      "en": "Mutena",
+      "slug": "mutena"
+    },
+    "code": {
+      "id": "CD920206",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD9202",
+      "level": 2,
+      "name": {
+        "local": "Kamonia",
+        "en": "Kamonia",
+        "slug": "kamonia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD92",
+        "level": 1,
+        "name": {
+          "local": "Kasaï",
+          "en": "Kasaï",
+          "slug": "kasa"
+        }
+      },
+      {
+        "id": "CD9202",
+        "level": 2,
+        "name": {
+          "local": "Kamonia",
+          "en": "Kamonia",
+          "slug": "kamonia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.517",
+      "lon": "20.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD920207",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Nyanga",
+      "en": "Nyanga",
+      "slug": "nyanga"
+    },
+    "code": {
+      "id": "CD920207",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD9202",
+      "level": 2,
+      "name": {
+        "local": "Kamonia",
+        "en": "Kamonia",
+        "slug": "kamonia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD92",
+        "level": 1,
+        "name": {
+          "local": "Kasaï",
+          "en": "Kasaï",
+          "slug": "kasa"
+        }
+      },
+      {
+        "id": "CD9202",
+        "level": 2,
+        "name": {
+          "local": "Kamonia",
+          "en": "Kamonia",
+          "slug": "kamonia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.517",
+      "lon": "20.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD920208",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Tshikapa",
+      "en": "Tshikapa",
+      "slug": "tshikapa"
+    },
+    "code": {
+      "id": "CD920208",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD9202",
+      "level": 2,
+      "name": {
+        "local": "Kamonia",
+        "en": "Kamonia",
+        "slug": "kamonia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD92",
+        "level": 1,
+        "name": {
+          "local": "Kasaï",
+          "en": "Kasaï",
+          "slug": "kasa"
+        }
+      },
+      {
+        "id": "CD9202",
+        "level": 2,
+        "name": {
+          "local": "Kamonia",
+          "en": "Kamonia",
+          "slug": "kamonia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.517",
+      "lon": "20.635"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

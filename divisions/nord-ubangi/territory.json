@@ -1,0 +1,237 @@
+[
+  {
+    "id": "CD4306",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Bosobolo",
+      "en": "Bosobolo",
+      "slug": "bosobolo"
+    },
+    "code": {
+      "id": "CD4306",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD43",
+      "level": 1,
+      "name": {
+        "local": "Nord-Ubangi",
+        "en": "Nord-Ubangi",
+        "slug": "nord-ubangi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD43",
+        "level": 1,
+        "name": {
+          "local": "Nord-Ubangi",
+          "en": "Nord-Ubangi",
+          "slug": "nord-ubangi"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.523",
+      "lon": "19.938"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD4305",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Businga",
+      "en": "Businga",
+      "slug": "businga"
+    },
+    "code": {
+      "id": "CD4305",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD43",
+      "level": 1,
+      "name": {
+        "local": "Nord-Ubangi",
+        "en": "Nord-Ubangi",
+        "slug": "nord-ubangi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD43",
+        "level": 1,
+        "name": {
+          "local": "Nord-Ubangi",
+          "en": "Nord-Ubangi",
+          "slug": "nord-ubangi"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.443",
+      "lon": "20.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD4301",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Gbadolite",
+      "en": "Gbadolite",
+      "slug": "gbadolite"
+    },
+    "code": {
+      "id": "CD4301",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD43",
+      "level": 1,
+      "name": {
+        "local": "Nord-Ubangi",
+        "en": "Nord-Ubangi",
+        "slug": "nord-ubangi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD43",
+        "level": 1,
+        "name": {
+          "local": "Nord-Ubangi",
+          "en": "Nord-Ubangi",
+          "slug": "nord-ubangi"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.254",
+      "lon": "20.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD4302",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Mobayi-Mbongo",
+      "en": "Mobayi-Mbongo",
+      "slug": "mobayi-mbongo"
+    },
+    "code": {
+      "id": "CD4302",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD43",
+      "level": 1,
+      "name": {
+        "local": "Nord-Ubangi",
+        "en": "Nord-Ubangi",
+        "slug": "nord-ubangi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD43",
+        "level": 1,
+        "name": {
+          "local": "Nord-Ubangi",
+          "en": "Nord-Ubangi",
+          "slug": "nord-ubangi"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.13",
+      "lon": "21.445"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD4304",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Yakoma",
+      "en": "Yakoma",
+      "slug": "yakoma"
+    },
+    "code": {
+      "id": "CD4304",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD43",
+      "level": 1,
+      "name": {
+        "local": "Nord-Ubangi",
+        "en": "Nord-Ubangi",
+        "slug": "nord-ubangi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD43",
+        "level": 1,
+        "name": {
+          "local": "Nord-Ubangi",
+          "en": "Nord-Ubangi",
+          "slug": "nord-ubangi"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.594",
+      "lon": "22.198"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

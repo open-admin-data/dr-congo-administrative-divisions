@@ -1,0 +1,105 @@
+# Maï-Ndombe — DR Congo Administrative Divisions
+
+> 8 territorys, 14 sectors
+> Code: CD33
+> Coordinates: -2.57, 18.585
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Territorys
+
+### Bolobo
+
+Code: CD3308, Coordinates: -2.648, 16.361
+Sectors: 1
+
+#### Bolobo
+
+Code: CD330801, Coordinates: -2.648, 16.361
+
+### Inongo
+
+Code: CD3302, Coordinates: -1.934, 18.01
+Sectors: 3
+
+#### Banjow Moke
+
+Code: CD330201, Coordinates: -1.934, 18.01
+
+#### Inongo
+
+Code: CD330202, Coordinates: -1.934, 18.01
+
+#### Ntandembelo
+
+Code: CD330203, Coordinates: -1.934, 18.01
+
+### Kiri
+
+Code: CD3303, Coordinates: -1.724, 19.097
+Sectors: 2
+
+#### Kiri
+
+Code: CD330301, Coordinates: -1.724, 19.097
+
+#### Penjwa
+
+Code: CD330302, Coordinates: -1.724, 19.097
+
+### Kutu
+
+Code: CD3306, Coordinates: -2.971, 18.163
+Sectors: 2
+
+#### Bokoro
+
+Code: CD330601, Coordinates: -2.971, 18.163
+
+#### Nioki
+
+Code: CD330602, Coordinates: -2.971, 18.163
+
+### Kwamouth
+
+Code: CD3307, Coordinates: -3.617, 16.683
+Sectors: 1
+
+#### Kwamouth
+
+Code: CD330701, Coordinates: -3.617, 16.683
+
+### Mushie
+
+Code: CD3311, Coordinates: -2.526, 17.142
+Sectors: 1
+
+#### Mushie
+
+Code: CD331101, Coordinates: -2.526, 17.142
+
+### Oshwe
+
+Code: CD3304, Coordinates: -3.147, 19.769
+Sectors: 3
+
+#### Bosobe
+
+Code: CD330401, Coordinates: -3.147, 19.769
+
+#### Mimia
+
+Code: CD330402, Coordinates: -3.147, 19.769
+
+#### Oshwe
+
+Code: CD330403, Coordinates: -3.147, 19.769
+
+### Yumbi
+
+Code: CD3310, Coordinates: -2.097, 16.465
+Sectors: 1
+
+#### Yumbi
+
+Code: CD331001, Coordinates: -2.097, 16.465
+

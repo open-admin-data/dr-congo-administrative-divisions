@@ -1,0 +1,30 @@
+{
+  "id": "CD32",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Kwilu",
+    "en": "Kwilu",
+    "slug": "kwilu"
+  },
+  "code": {
+    "id": "CD32",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "territory": 7,
+    "sector": 24
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.793",
+    "lon": "18.809"
+  },
+  "metadata": {},
+  "source": {}
+}

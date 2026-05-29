@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CD310201",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Boko",
+      "en": "Boko",
+      "slug": "boko"
+    },
+    "code": {
+      "id": "CD310201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD3102",
+      "level": 2,
+      "name": {
+        "local": "Kenge",
+        "en": "Kenge",
+        "slug": "kenge"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD31",
+        "level": 1,
+        "name": {
+          "local": "Kwango",
+          "en": "Kwango",
+          "slug": "kwango"
+        }
+      },
+      {
+        "id": "CD3102",
+        "level": 2,
+        "name": {
+          "local": "Kenge",
+          "en": "Kenge",
+          "slug": "kenge"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.104",
+      "lon": "17.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD310202",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kenge",
+      "en": "Kenge",
+      "slug": "kenge"
+    },
+    "code": {
+      "id": "CD310202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD3102",
+      "level": 2,
+      "name": {
+        "local": "Kenge",
+        "en": "Kenge",
+        "slug": "kenge"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD31",
+        "level": 1,
+        "name": {
+          "local": "Kwango",
+          "en": "Kwango",
+          "slug": "kwango"
+        }
+      },
+      {
+        "id": "CD3102",
+        "level": 2,
+        "name": {
+          "local": "Kenge",
+          "en": "Kenge",
+          "slug": "kenge"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.104",
+      "lon": "17.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD310203",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kimbau",
+      "en": "Kimbau",
+      "slug": "kimbau"
+    },
+    "code": {
+      "id": "CD310203",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD3102",
+      "level": 2,
+      "name": {
+        "local": "Kenge",
+        "en": "Kenge",
+        "slug": "kenge"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD31",
+        "level": 1,
+        "name": {
+          "local": "Kwango",
+          "en": "Kwango",
+          "slug": "kwango"
+        }
+      },
+      {
+        "id": "CD3102",
+        "level": 2,
+        "name": {
+          "local": "Kenge",
+          "en": "Kenge",
+          "slug": "kenge"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.104",
+      "lon": "17.018"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

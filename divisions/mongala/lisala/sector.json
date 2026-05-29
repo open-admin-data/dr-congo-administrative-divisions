@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CD440201",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Binga",
+      "en": "Binga",
+      "slug": "binga"
+    },
+    "code": {
+      "id": "CD440201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD4402",
+      "level": 2,
+      "name": {
+        "local": "Lisala",
+        "en": "Lisala",
+        "slug": "lisala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD44",
+        "level": 1,
+        "name": {
+          "local": "Mongala",
+          "en": "Mongala",
+          "slug": "mongala"
+        }
+      },
+      {
+        "id": "CD4402",
+        "level": 2,
+        "name": {
+          "local": "Lisala",
+          "en": "Lisala",
+          "slug": "lisala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.548",
+      "lon": "21.306"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD440202",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Boso Manzi",
+      "en": "Boso Manzi",
+      "slug": "boso-manzi"
+    },
+    "code": {
+      "id": "CD440202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD4402",
+      "level": 2,
+      "name": {
+        "local": "Lisala",
+        "en": "Lisala",
+        "slug": "lisala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD44",
+        "level": 1,
+        "name": {
+          "local": "Mongala",
+          "en": "Mongala",
+          "slug": "mongala"
+        }
+      },
+      {
+        "id": "CD4402",
+        "level": 2,
+        "name": {
+          "local": "Lisala",
+          "en": "Lisala",
+          "slug": "lisala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.548",
+      "lon": "21.306"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD440203",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Lisala",
+      "en": "Lisala",
+      "slug": "lisala"
+    },
+    "code": {
+      "id": "CD440203",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD4402",
+      "level": 2,
+      "name": {
+        "local": "Lisala",
+        "en": "Lisala",
+        "slug": "lisala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD44",
+        "level": 1,
+        "name": {
+          "local": "Mongala",
+          "en": "Mongala",
+          "slug": "mongala"
+        }
+      },
+      {
+        "id": "CD4402",
+        "level": 2,
+        "name": {
+          "local": "Lisala",
+          "en": "Lisala",
+          "slug": "lisala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.548",
+      "lon": "21.306"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

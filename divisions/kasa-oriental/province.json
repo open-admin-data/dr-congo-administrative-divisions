@@ -1,0 +1,30 @@
+{
+  "id": "CD82",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Kasaï-Oriental",
+    "en": "Kasaï-Oriental",
+    "slug": "kasa-oriental"
+  },
+  "code": {
+    "id": "CD82",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "territory": 6,
+    "sector": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.199",
+    "lon": "23.571"
+  },
+  "metadata": {},
+  "source": {}
+}

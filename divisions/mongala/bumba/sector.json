@@ -1,0 +1,272 @@
+[
+  {
+    "id": "CD440401",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Bumba",
+      "en": "Bumba",
+      "slug": "bumba"
+    },
+    "code": {
+      "id": "CD440401",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD4404",
+      "level": 2,
+      "name": {
+        "local": "Bumba",
+        "en": "Bumba",
+        "slug": "bumba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD44",
+        "level": 1,
+        "name": {
+          "local": "Mongala",
+          "en": "Mongala",
+          "slug": "mongala"
+        }
+      },
+      {
+        "id": "CD4404",
+        "level": 2,
+        "name": {
+          "local": "Bumba",
+          "en": "Bumba",
+          "slug": "bumba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.675",
+      "lon": "22.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD440402",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Lolo",
+      "en": "Lolo",
+      "slug": "lolo"
+    },
+    "code": {
+      "id": "CD440402",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD4404",
+      "level": 2,
+      "name": {
+        "local": "Bumba",
+        "en": "Bumba",
+        "slug": "bumba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD44",
+        "level": 1,
+        "name": {
+          "local": "Mongala",
+          "en": "Mongala",
+          "slug": "mongala"
+        }
+      },
+      {
+        "id": "CD4404",
+        "level": 2,
+        "name": {
+          "local": "Bumba",
+          "en": "Bumba",
+          "slug": "bumba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.675",
+      "lon": "22.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD440403",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Yamaluka",
+      "en": "Yamaluka",
+      "slug": "yamaluka"
+    },
+    "code": {
+      "id": "CD440403",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD4404",
+      "level": 2,
+      "name": {
+        "local": "Bumba",
+        "en": "Bumba",
+        "slug": "bumba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD44",
+        "level": 1,
+        "name": {
+          "local": "Mongala",
+          "en": "Mongala",
+          "slug": "mongala"
+        }
+      },
+      {
+        "id": "CD4404",
+        "level": 2,
+        "name": {
+          "local": "Bumba",
+          "en": "Bumba",
+          "slug": "bumba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.675",
+      "lon": "22.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD440404",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Yambuku",
+      "en": "Yambuku",
+      "slug": "yambuku"
+    },
+    "code": {
+      "id": "CD440404",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD4404",
+      "level": 2,
+      "name": {
+        "local": "Bumba",
+        "en": "Bumba",
+        "slug": "bumba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD44",
+        "level": 1,
+        "name": {
+          "local": "Mongala",
+          "en": "Mongala",
+          "slug": "mongala"
+        }
+      },
+      {
+        "id": "CD4404",
+        "level": 2,
+        "name": {
+          "local": "Bumba",
+          "en": "Bumba",
+          "slug": "bumba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.675",
+      "lon": "22.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD440405",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Yamongili",
+      "en": "Yamongili",
+      "slug": "yamongili"
+    },
+    "code": {
+      "id": "CD440405",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD4404",
+      "level": 2,
+      "name": {
+        "local": "Bumba",
+        "en": "Bumba",
+        "slug": "bumba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD44",
+        "level": 1,
+        "name": {
+          "local": "Mongala",
+          "en": "Mongala",
+          "slug": "mongala"
+        }
+      },
+      {
+        "id": "CD4404",
+        "level": 2,
+        "name": {
+          "local": "Bumba",
+          "en": "Bumba",
+          "slug": "bumba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.675",
+      "lon": "22.301"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

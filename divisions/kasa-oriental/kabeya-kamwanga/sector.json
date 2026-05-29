@@ -1,0 +1,56 @@
+[
+  {
+    "id": "CD820701",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kabeya Kamuanga",
+      "en": "Kabeya Kamuanga",
+      "slug": "kabeya-kamuanga"
+    },
+    "code": {
+      "id": "CD820701",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD8207",
+      "level": 2,
+      "name": {
+        "local": "Kabeya-Kamwanga",
+        "en": "Kabeya-Kamwanga",
+        "slug": "kabeya-kamwanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD82",
+        "level": 1,
+        "name": {
+          "local": "Kasaï-Oriental",
+          "en": "Kasaï-Oriental",
+          "slug": "kasa-oriental"
+        }
+      },
+      {
+        "id": "CD8207",
+        "level": 2,
+        "name": {
+          "local": "Kabeya-Kamwanga",
+          "en": "Kabeya-Kamwanga",
+          "slug": "kabeya-kamwanga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.028",
+      "lon": "23.122"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

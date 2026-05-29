@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CD830901",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Dikungu",
+      "en": "Dikungu",
+      "slug": "dikungu"
+    },
+    "code": {
+      "id": "CD830901",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD8309",
+      "level": 2,
+      "name": {
+        "local": "Lubefu",
+        "en": "Lubefu",
+        "slug": "lubefu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD83",
+        "level": 1,
+        "name": {
+          "local": "Sankuru",
+          "en": "Sankuru",
+          "slug": "sankuru"
+        }
+      },
+      {
+        "id": "CD8309",
+        "level": 2,
+        "name": {
+          "local": "Lubefu",
+          "en": "Lubefu",
+          "slug": "lubefu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.689",
+      "lon": "24.331"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD830902",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Minga",
+      "en": "Minga",
+      "slug": "minga"
+    },
+    "code": {
+      "id": "CD830902",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD8309",
+      "level": 2,
+      "name": {
+        "local": "Lubefu",
+        "en": "Lubefu",
+        "slug": "lubefu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD83",
+        "level": 1,
+        "name": {
+          "local": "Sankuru",
+          "en": "Sankuru",
+          "slug": "sankuru"
+        }
+      },
+      {
+        "id": "CD8309",
+        "level": 2,
+        "name": {
+          "local": "Lubefu",
+          "en": "Lubefu",
+          "slug": "lubefu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.689",
+      "lon": "24.331"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD830903",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Tshumbe",
+      "en": "Tshumbe",
+      "slug": "tshumbe"
+    },
+    "code": {
+      "id": "CD830903",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD8309",
+      "level": 2,
+      "name": {
+        "local": "Lubefu",
+        "en": "Lubefu",
+        "slug": "lubefu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD83",
+        "level": 1,
+        "name": {
+          "local": "Sankuru",
+          "en": "Sankuru",
+          "slug": "sankuru"
+        }
+      },
+      {
+        "id": "CD8309",
+        "level": 2,
+        "name": {
+          "local": "Lubefu",
+          "en": "Lubefu",
+          "slug": "lubefu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.689",
+      "lon": "24.331"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

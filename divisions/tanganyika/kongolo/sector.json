@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CD740901",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kongolo",
+      "en": "Kongolo",
+      "slug": "kongolo"
+    },
+    "code": {
+      "id": "CD740901",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7409",
+      "level": 2,
+      "name": {
+        "local": "Kongolo",
+        "en": "Kongolo",
+        "slug": "kongolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD74",
+        "level": 1,
+        "name": {
+          "local": "Tanganyika",
+          "en": "Tanganyika",
+          "slug": "tanganyika"
+        }
+      },
+      {
+        "id": "CD7409",
+        "level": 2,
+        "name": {
+          "local": "Kongolo",
+          "en": "Kongolo",
+          "slug": "kongolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.429",
+      "lon": "26.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD740902",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Mbulula",
+      "en": "Mbulula",
+      "slug": "mbulula"
+    },
+    "code": {
+      "id": "CD740902",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7409",
+      "level": 2,
+      "name": {
+        "local": "Kongolo",
+        "en": "Kongolo",
+        "slug": "kongolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD74",
+        "level": 1,
+        "name": {
+          "local": "Tanganyika",
+          "en": "Tanganyika",
+          "slug": "tanganyika"
+        }
+      },
+      {
+        "id": "CD7409",
+        "level": 2,
+        "name": {
+          "local": "Kongolo",
+          "en": "Kongolo",
+          "slug": "kongolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.429",
+      "lon": "26.876"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CD910701",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Bena Tshiadi",
+      "en": "Bena Tshiadi",
+      "slug": "bena-tshiadi"
+    },
+    "code": {
+      "id": "CD910701",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD9107",
+      "level": 2,
+      "name": {
+        "local": "Dimbelenge",
+        "en": "Dimbelenge",
+        "slug": "dimbelenge"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD91",
+        "level": 1,
+        "name": {
+          "local": "Kasaï-Central",
+          "en": "Kasaï-Central",
+          "slug": "kasa-central"
+        }
+      },
+      {
+        "id": "CD9107",
+        "level": 2,
+        "name": {
+          "local": "Dimbelenge",
+          "en": "Dimbelenge",
+          "slug": "dimbelenge"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.022",
+      "lon": "22.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD910702",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Katende",
+      "en": "Katende",
+      "slug": "katende"
+    },
+    "code": {
+      "id": "CD910702",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD9107",
+      "level": 2,
+      "name": {
+        "local": "Dimbelenge",
+        "en": "Dimbelenge",
+        "slug": "dimbelenge"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD91",
+        "level": 1,
+        "name": {
+          "local": "Kasaï-Central",
+          "en": "Kasaï-Central",
+          "slug": "kasa-central"
+        }
+      },
+      {
+        "id": "CD9107",
+        "level": 2,
+        "name": {
+          "local": "Dimbelenge",
+          "en": "Dimbelenge",
+          "slug": "dimbelenge"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.022",
+      "lon": "22.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD910703",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Lubunga",
+      "en": "Lubunga",
+      "slug": "lubunga"
+    },
+    "code": {
+      "id": "CD910703",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD9107",
+      "level": 2,
+      "name": {
+        "local": "Dimbelenge",
+        "en": "Dimbelenge",
+        "slug": "dimbelenge"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD91",
+        "level": 1,
+        "name": {
+          "local": "Kasaï-Central",
+          "en": "Kasaï-Central",
+          "slug": "kasa-central"
+        }
+      },
+      {
+        "id": "CD9107",
+        "level": 2,
+        "name": {
+          "local": "Dimbelenge",
+          "en": "Dimbelenge",
+          "slug": "dimbelenge"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.022",
+      "lon": "22.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD910704",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Muetshi",
+      "en": "Muetshi",
+      "slug": "muetshi"
+    },
+    "code": {
+      "id": "CD910704",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD9107",
+      "level": 2,
+      "name": {
+        "local": "Dimbelenge",
+        "en": "Dimbelenge",
+        "slug": "dimbelenge"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD91",
+        "level": 1,
+        "name": {
+          "local": "Kasaï-Central",
+          "en": "Kasaï-Central",
+          "slug": "kasa-central"
+        }
+      },
+      {
+        "id": "CD9107",
+        "level": 2,
+        "name": {
+          "local": "Dimbelenge",
+          "en": "Dimbelenge",
+          "slug": "dimbelenge"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.022",
+      "lon": "22.684"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

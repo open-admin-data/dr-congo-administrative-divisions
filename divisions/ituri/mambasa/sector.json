@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CD540301",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Lolwa",
+      "en": "Lolwa",
+      "slug": "lolwa"
+    },
+    "code": {
+      "id": "CD540301",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5403",
+      "level": 2,
+      "name": {
+        "local": "Mambasa",
+        "en": "Mambasa",
+        "slug": "mambasa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD54",
+        "level": 1,
+        "name": {
+          "local": "Ituri",
+          "en": "Ituri",
+          "slug": "ituri"
+        }
+      },
+      {
+        "id": "CD5403",
+        "level": 2,
+        "name": {
+          "local": "Mambasa",
+          "en": "Mambasa",
+          "slug": "mambasa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.531",
+      "lon": "28.784"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD540302",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Mambasa",
+      "en": "Mambasa",
+      "slug": "mambasa"
+    },
+    "code": {
+      "id": "CD540302",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5403",
+      "level": 2,
+      "name": {
+        "local": "Mambasa",
+        "en": "Mambasa",
+        "slug": "mambasa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD54",
+        "level": 1,
+        "name": {
+          "local": "Ituri",
+          "en": "Ituri",
+          "slug": "ituri"
+        }
+      },
+      {
+        "id": "CD5403",
+        "level": 2,
+        "name": {
+          "local": "Mambasa",
+          "en": "Mambasa",
+          "slug": "mambasa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.531",
+      "lon": "28.784"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD540303",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Mandima",
+      "en": "Mandima",
+      "slug": "mandima"
+    },
+    "code": {
+      "id": "CD540303",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5403",
+      "level": 2,
+      "name": {
+        "local": "Mambasa",
+        "en": "Mambasa",
+        "slug": "mambasa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD54",
+        "level": 1,
+        "name": {
+          "local": "Ituri",
+          "en": "Ituri",
+          "slug": "ituri"
+        }
+      },
+      {
+        "id": "CD5403",
+        "level": 2,
+        "name": {
+          "local": "Mambasa",
+          "en": "Mambasa",
+          "slug": "mambasa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.531",
+      "lon": "28.784"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD540304",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Nia-Nia",
+      "en": "Nia-Nia",
+      "slug": "nia-nia"
+    },
+    "code": {
+      "id": "CD540304",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5403",
+      "level": 2,
+      "name": {
+        "local": "Mambasa",
+        "en": "Mambasa",
+        "slug": "mambasa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD54",
+        "level": 1,
+        "name": {
+          "local": "Ituri",
+          "en": "Ituri",
+          "slug": "ituri"
+        }
+      },
+      {
+        "id": "CD5403",
+        "level": 2,
+        "name": {
+          "local": "Mambasa",
+          "en": "Mambasa",
+          "slug": "mambasa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.531",
+      "lon": "28.784"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

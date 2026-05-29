@@ -1,0 +1,566 @@
+[
+  {
+    "id": "CD2002",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Boma",
+      "en": "Boma",
+      "slug": "boma"
+    },
+    "code": {
+      "id": "CD2002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD20",
+      "level": 1,
+      "name": {
+        "local": "Kongo-Central",
+        "en": "Kongo-Central",
+        "slug": "kongo-central"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD20",
+        "level": 1,
+        "name": {
+          "local": "Kongo-Central",
+          "en": "Kongo-Central",
+          "slug": "kongo-central"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.814",
+      "lon": "13.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD2015",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Kasangulu",
+      "en": "Kasangulu",
+      "slug": "kasangulu"
+    },
+    "code": {
+      "id": "CD2015",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD20",
+      "level": 1,
+      "name": {
+        "local": "Kongo-Central",
+        "en": "Kongo-Central",
+        "slug": "kongo-central"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD20",
+        "level": 1,
+        "name": {
+          "local": "Kongo-Central",
+          "en": "Kongo-Central",
+          "slug": "kongo-central"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.805",
+      "lon": "15.311"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD2019",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Kimvula",
+      "en": "Kimvula",
+      "slug": "kimvula"
+    },
+    "code": {
+      "id": "CD2019",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD20",
+      "level": 1,
+      "name": {
+        "local": "Kongo-Central",
+        "en": "Kongo-Central",
+        "slug": "kongo-central"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD20",
+        "level": 1,
+        "name": {
+          "local": "Kongo-Central",
+          "en": "Kongo-Central",
+          "slug": "kongo-central"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.422",
+      "lon": "16.04"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD2005",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Lukula",
+      "en": "Lukula",
+      "slug": "lukula"
+    },
+    "code": {
+      "id": "CD2005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD20",
+      "level": 1,
+      "name": {
+        "local": "Kongo-Central",
+        "en": "Kongo-Central",
+        "slug": "kongo-central"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD20",
+        "level": 1,
+        "name": {
+          "local": "Kongo-Central",
+          "en": "Kongo-Central",
+          "slug": "kongo-central"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.388",
+      "lon": "12.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD2010",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Luozi",
+      "en": "Luozi",
+      "slug": "luozi"
+    },
+    "code": {
+      "id": "CD2010",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD20",
+      "level": 1,
+      "name": {
+        "local": "Kongo-Central",
+        "en": "Kongo-Central",
+        "slug": "kongo-central"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD20",
+        "level": 1,
+        "name": {
+          "local": "Kongo-Central",
+          "en": "Kongo-Central",
+          "slug": "kongo-central"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.818",
+      "lon": "14.01"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD2017",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Madimba",
+      "en": "Madimba",
+      "slug": "madimba"
+    },
+    "code": {
+      "id": "CD2017",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD20",
+      "level": 1,
+      "name": {
+        "local": "Kongo-Central",
+        "en": "Kongo-Central",
+        "slug": "kongo-central"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD20",
+        "level": 1,
+        "name": {
+          "local": "Kongo-Central",
+          "en": "Kongo-Central",
+          "slug": "kongo-central"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.374",
+      "lon": "15.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD2001",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Matadi",
+      "en": "Matadi",
+      "slug": "matadi"
+    },
+    "code": {
+      "id": "CD2001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD20",
+      "level": 1,
+      "name": {
+        "local": "Kongo-Central",
+        "en": "Kongo-Central",
+        "slug": "kongo-central"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD20",
+        "level": 1,
+        "name": {
+          "local": "Kongo-Central",
+          "en": "Kongo-Central",
+          "slug": "kongo-central"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.841",
+      "lon": "13.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD2013",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Mbanza-Ngungu",
+      "en": "Mbanza-Ngungu",
+      "slug": "mbanza-ngungu"
+    },
+    "code": {
+      "id": "CD2013",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD20",
+      "level": 1,
+      "name": {
+        "local": "Kongo-Central",
+        "en": "Kongo-Central",
+        "slug": "kongo-central"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD20",
+        "level": 1,
+        "name": {
+          "local": "Kongo-Central",
+          "en": "Kongo-Central",
+          "slug": "kongo-central"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.338",
+      "lon": "14.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD2003",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Moanda",
+      "en": "Moanda",
+      "slug": "moanda"
+    },
+    "code": {
+      "id": "CD2003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD20",
+      "level": 1,
+      "name": {
+        "local": "Kongo-Central",
+        "en": "Kongo-Central",
+        "slug": "kongo-central"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD20",
+        "level": 1,
+        "name": {
+          "local": "Kongo-Central",
+          "en": "Kongo-Central",
+          "slug": "kongo-central"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.756",
+      "lon": "12.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD2009",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Seke-Banza",
+      "en": "Seke-Banza",
+      "slug": "seke-banza"
+    },
+    "code": {
+      "id": "CD2009",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD20",
+      "level": 1,
+      "name": {
+        "local": "Kongo-Central",
+        "en": "Kongo-Central",
+        "slug": "kongo-central"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD20",
+        "level": 1,
+        "name": {
+          "local": "Kongo-Central",
+          "en": "Kongo-Central",
+          "slug": "kongo-central"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.391",
+      "lon": "13.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD2011",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Songololo",
+      "en": "Songololo",
+      "slug": "songololo"
+    },
+    "code": {
+      "id": "CD2011",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD20",
+      "level": 1,
+      "name": {
+        "local": "Kongo-Central",
+        "en": "Kongo-Central",
+        "slug": "kongo-central"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD20",
+        "level": 1,
+        "name": {
+          "local": "Kongo-Central",
+          "en": "Kongo-Central",
+          "slug": "kongo-central"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.441",
+      "lon": "14.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD2007",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Tshela",
+      "en": "Tshela",
+      "slug": "tshela"
+    },
+    "code": {
+      "id": "CD2007",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD20",
+      "level": 1,
+      "name": {
+        "local": "Kongo-Central",
+        "en": "Kongo-Central",
+        "slug": "kongo-central"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD20",
+        "level": 1,
+        "name": {
+          "local": "Kongo-Central",
+          "en": "Kongo-Central",
+          "slug": "kongo-central"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.984",
+      "lon": "12.868"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

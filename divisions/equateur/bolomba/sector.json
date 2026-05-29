@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CD410801",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Bolomba",
+      "en": "Bolomba",
+      "slug": "bolomba"
+    },
+    "code": {
+      "id": "CD410801",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD4108",
+      "level": 2,
+      "name": {
+        "local": "Bolomba",
+        "en": "Bolomba",
+        "slug": "bolomba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD41",
+        "level": 1,
+        "name": {
+          "local": "Equateur",
+          "en": "Equateur",
+          "slug": "equateur"
+        }
+      },
+      {
+        "id": "CD4108",
+        "level": 2,
+        "name": {
+          "local": "Bolomba",
+          "en": "Bolomba",
+          "slug": "bolomba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.589",
+      "lon": "18.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD410802",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Lolanga Mampoko",
+      "en": "Lolanga Mampoko",
+      "slug": "lolanga-mampoko"
+    },
+    "code": {
+      "id": "CD410802",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD4108",
+      "level": 2,
+      "name": {
+        "local": "Bolomba",
+        "en": "Bolomba",
+        "slug": "bolomba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD41",
+        "level": 1,
+        "name": {
+          "local": "Equateur",
+          "en": "Equateur",
+          "slug": "equateur"
+        }
+      },
+      {
+        "id": "CD4108",
+        "level": 2,
+        "name": {
+          "local": "Bolomba",
+          "en": "Bolomba",
+          "slug": "bolomba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.589",
+      "lon": "18.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD410803",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Monieka",
+      "en": "Monieka",
+      "slug": "monieka"
+    },
+    "code": {
+      "id": "CD410803",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD4108",
+      "level": 2,
+      "name": {
+        "local": "Bolomba",
+        "en": "Bolomba",
+        "slug": "bolomba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD41",
+        "level": 1,
+        "name": {
+          "local": "Equateur",
+          "en": "Equateur",
+          "slug": "equateur"
+        }
+      },
+      {
+        "id": "CD4108",
+        "level": 2,
+        "name": {
+          "local": "Bolomba",
+          "en": "Bolomba",
+          "slug": "bolomba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.589",
+      "lon": "18.98"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

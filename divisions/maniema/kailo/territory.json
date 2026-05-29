@@ -1,0 +1,47 @@
+{
+  "id": "CD6302",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Kailo",
+    "en": "Kailo",
+    "slug": "kailo"
+  },
+  "code": {
+    "id": "CD6302",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD63",
+    "level": 1,
+    "name": {
+      "local": "Maniema",
+      "en": "Maniema",
+      "slug": "maniema"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD63",
+      "level": 1,
+      "name": {
+        "local": "Maniema",
+        "en": "Maniema",
+        "slug": "maniema"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.56",
+    "lon": "25.75"
+  },
+  "metadata": {},
+  "source": {}
+}

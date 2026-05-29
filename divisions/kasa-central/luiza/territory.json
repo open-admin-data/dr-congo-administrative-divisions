@@ -1,0 +1,47 @@
+{
+  "id": "CD9104",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Luiza",
+    "en": "Luiza",
+    "slug": "luiza"
+  },
+  "code": {
+    "id": "CD9104",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD91",
+    "level": 1,
+    "name": {
+      "local": "Kasaï-Central",
+      "en": "Kasaï-Central",
+      "slug": "kasa-central"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD91",
+      "level": 1,
+      "name": {
+        "local": "Kasaï-Central",
+        "en": "Kasaï-Central",
+        "slug": "kasa-central"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.201",
+    "lon": "22.477"
+  },
+  "metadata": {},
+  "source": {}
+}

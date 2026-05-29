@@ -1,0 +1,47 @@
+{
+  "id": "CD3302",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Inongo",
+    "en": "Inongo",
+    "slug": "inongo"
+  },
+  "code": {
+    "id": "CD3302",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD33",
+    "level": 1,
+    "name": {
+      "local": "Maï-Ndombe",
+      "en": "Maï-Ndombe",
+      "slug": "ma-ndombe"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD33",
+      "level": 1,
+      "name": {
+        "local": "Maï-Ndombe",
+        "en": "Maï-Ndombe",
+        "slug": "ma-ndombe"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.934",
+    "lon": "18.01"
+  },
+  "metadata": {},
+  "source": {}
+}

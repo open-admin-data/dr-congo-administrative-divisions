@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CD201101",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kimpese",
+      "en": "Kimpese",
+      "slug": "kimpese"
+    },
+    "code": {
+      "id": "CD201101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD2011",
+      "level": 2,
+      "name": {
+        "local": "Songololo",
+        "en": "Songololo",
+        "slug": "songololo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD20",
+        "level": 1,
+        "name": {
+          "local": "Kongo-Central",
+          "en": "Kongo-Central",
+          "slug": "kongo-central"
+        }
+      },
+      {
+        "id": "CD2011",
+        "level": 2,
+        "name": {
+          "local": "Songololo",
+          "en": "Songololo",
+          "slug": "songololo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.441",
+      "lon": "14.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD201102",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Nsona-Mpangu",
+      "en": "Nsona-Mpangu",
+      "slug": "nsona-mpangu"
+    },
+    "code": {
+      "id": "CD201102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD2011",
+      "level": 2,
+      "name": {
+        "local": "Songololo",
+        "en": "Songololo",
+        "slug": "songololo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD20",
+        "level": 1,
+        "name": {
+          "local": "Kongo-Central",
+          "en": "Kongo-Central",
+          "slug": "kongo-central"
+        }
+      },
+      {
+        "id": "CD2011",
+        "level": 2,
+        "name": {
+          "local": "Songololo",
+          "en": "Songololo",
+          "slug": "songololo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.441",
+      "lon": "14.05"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

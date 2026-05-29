@@ -1,0 +1,47 @@
+{
+  "id": "CD9106",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Demba",
+    "en": "Demba",
+    "slug": "demba"
+  },
+  "code": {
+    "id": "CD9106",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD91",
+    "level": 1,
+    "name": {
+      "local": "Kasaï-Central",
+      "en": "Kasaï-Central",
+      "slug": "kasa-central"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD91",
+      "level": 1,
+      "name": {
+        "local": "Kasaï-Central",
+        "en": "Kasaï-Central",
+        "slug": "kasa-central"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.236",
+    "lon": "22.117"
+  },
+  "metadata": {},
+  "source": {}
+}

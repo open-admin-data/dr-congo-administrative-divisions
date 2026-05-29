@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CD910201",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Bunkonde",
+      "en": "Bunkonde",
+      "slug": "bunkonde"
+    },
+    "code": {
+      "id": "CD910201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD9102",
+      "level": 2,
+      "name": {
+        "local": "Dibaya",
+        "en": "Dibaya",
+        "slug": "dibaya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD91",
+        "level": 1,
+        "name": {
+          "local": "Kasaï-Central",
+          "en": "Kasaï-Central",
+          "slug": "kasa-central"
+        }
+      },
+      {
+        "id": "CD9102",
+        "level": 2,
+        "name": {
+          "local": "Dibaya",
+          "en": "Dibaya",
+          "slug": "dibaya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.391",
+      "lon": "22.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD910202",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Dibaya",
+      "en": "Dibaya",
+      "slug": "dibaya"
+    },
+    "code": {
+      "id": "CD910202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD9102",
+      "level": 2,
+      "name": {
+        "local": "Dibaya",
+        "en": "Dibaya",
+        "slug": "dibaya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD91",
+        "level": 1,
+        "name": {
+          "local": "Kasaï-Central",
+          "en": "Kasaï-Central",
+          "slug": "kasa-central"
+        }
+      },
+      {
+        "id": "CD9102",
+        "level": 2,
+        "name": {
+          "local": "Dibaya",
+          "en": "Dibaya",
+          "slug": "dibaya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.391",
+      "lon": "22.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD910203",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Lubondaie",
+      "en": "Lubondaie",
+      "slug": "lubondaie"
+    },
+    "code": {
+      "id": "CD910203",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD9102",
+      "level": 2,
+      "name": {
+        "local": "Dibaya",
+        "en": "Dibaya",
+        "slug": "dibaya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD91",
+        "level": 1,
+        "name": {
+          "local": "Kasaï-Central",
+          "en": "Kasaï-Central",
+          "slug": "kasa-central"
+        }
+      },
+      {
+        "id": "CD9102",
+        "level": 2,
+        "name": {
+          "local": "Dibaya",
+          "en": "Dibaya",
+          "slug": "dibaya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.391",
+      "lon": "22.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD910204",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Tshikula",
+      "en": "Tshikula",
+      "slug": "tshikula"
+    },
+    "code": {
+      "id": "CD910204",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD9102",
+      "level": 2,
+      "name": {
+        "local": "Dibaya",
+        "en": "Dibaya",
+        "slug": "dibaya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD91",
+        "level": 1,
+        "name": {
+          "local": "Kasaï-Central",
+          "en": "Kasaï-Central",
+          "slug": "kasa-central"
+        }
+      },
+      {
+        "id": "CD9102",
+        "level": 2,
+        "name": {
+          "local": "Dibaya",
+          "en": "Dibaya",
+          "slug": "dibaya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.391",
+      "lon": "22.771"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

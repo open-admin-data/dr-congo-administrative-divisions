@@ -1,0 +1,47 @@
+{
+  "id": "CD4109",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Ingende",
+    "en": "Ingende",
+    "slug": "ingende"
+  },
+  "code": {
+    "id": "CD4109",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD41",
+    "level": 1,
+    "name": {
+      "local": "Equateur",
+      "en": "Equateur",
+      "slug": "equateur"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD41",
+      "level": 1,
+      "name": {
+        "local": "Equateur",
+        "en": "Equateur",
+        "slug": "equateur"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.717",
+    "lon": "19.446"
+  },
+  "metadata": {},
+  "source": {}
+}

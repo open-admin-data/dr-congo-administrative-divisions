@@ -1,0 +1,30 @@
+{
+  "id": "CD74",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Tanganyika",
+    "en": "Tanganyika",
+    "slug": "tanganyika"
+  },
+  "code": {
+    "id": "CD74",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "territory": 6,
+    "sector": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.705",
+    "lon": "27.955"
+  },
+  "metadata": {},
+  "source": {}
+}

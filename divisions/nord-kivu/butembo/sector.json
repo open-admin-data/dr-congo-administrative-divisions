@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CD611001",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Butembo",
+      "en": "Butembo",
+      "slug": "butembo"
+    },
+    "code": {
+      "id": "CD611001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6110",
+      "level": 2,
+      "name": {
+        "local": "Butembo",
+        "en": "Butembo",
+        "slug": "butembo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD61",
+        "level": 1,
+        "name": {
+          "local": "Nord-Kivu",
+          "en": "Nord-Kivu",
+          "slug": "nord-kivu"
+        }
+      },
+      {
+        "id": "CD6110",
+        "level": 2,
+        "name": {
+          "local": "Butembo",
+          "en": "Butembo",
+          "slug": "butembo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.135",
+      "lon": "29.282"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD611002",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Katwa",
+      "en": "Katwa",
+      "slug": "katwa"
+    },
+    "code": {
+      "id": "CD611002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6110",
+      "level": 2,
+      "name": {
+        "local": "Butembo",
+        "en": "Butembo",
+        "slug": "butembo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD61",
+        "level": 1,
+        "name": {
+          "local": "Nord-Kivu",
+          "en": "Nord-Kivu",
+          "slug": "nord-kivu"
+        }
+      },
+      {
+        "id": "CD6110",
+        "level": 2,
+        "name": {
+          "local": "Butembo",
+          "en": "Butembo",
+          "slug": "butembo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.135",
+      "lon": "29.282"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,596 @@
+[
+  {
+    "id": "CD710101",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kamalondo",
+      "en": "Kamalondo",
+      "slug": "kamalondo"
+    },
+    "code": {
+      "id": "CD710101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7101",
+      "level": 2,
+      "name": {
+        "local": "Lubumbashi",
+        "en": "Lubumbashi",
+        "slug": "lubumbashi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD71",
+        "level": 1,
+        "name": {
+          "local": "Haut-Katanga",
+          "en": "Haut-Katanga",
+          "slug": "haut-katanga"
+        }
+      },
+      {
+        "id": "CD7101",
+        "level": 2,
+        "name": {
+          "local": "Lubumbashi",
+          "en": "Lubumbashi",
+          "slug": "lubumbashi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.655",
+      "lon": "27.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD710102",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kampemba",
+      "en": "Kampemba",
+      "slug": "kampemba"
+    },
+    "code": {
+      "id": "CD710102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7101",
+      "level": 2,
+      "name": {
+        "local": "Lubumbashi",
+        "en": "Lubumbashi",
+        "slug": "lubumbashi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD71",
+        "level": 1,
+        "name": {
+          "local": "Haut-Katanga",
+          "en": "Haut-Katanga",
+          "slug": "haut-katanga"
+        }
+      },
+      {
+        "id": "CD7101",
+        "level": 2,
+        "name": {
+          "local": "Lubumbashi",
+          "en": "Lubumbashi",
+          "slug": "lubumbashi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.655",
+      "lon": "27.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD710103",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Katuba",
+      "en": "Katuba",
+      "slug": "katuba"
+    },
+    "code": {
+      "id": "CD710103",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7101",
+      "level": 2,
+      "name": {
+        "local": "Lubumbashi",
+        "en": "Lubumbashi",
+        "slug": "lubumbashi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD71",
+        "level": 1,
+        "name": {
+          "local": "Haut-Katanga",
+          "en": "Haut-Katanga",
+          "slug": "haut-katanga"
+        }
+      },
+      {
+        "id": "CD7101",
+        "level": 2,
+        "name": {
+          "local": "Lubumbashi",
+          "en": "Lubumbashi",
+          "slug": "lubumbashi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.655",
+      "lon": "27.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD710104",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kenya",
+      "en": "Kenya",
+      "slug": "kenya"
+    },
+    "code": {
+      "id": "CD710104",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7101",
+      "level": 2,
+      "name": {
+        "local": "Lubumbashi",
+        "en": "Lubumbashi",
+        "slug": "lubumbashi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD71",
+        "level": 1,
+        "name": {
+          "local": "Haut-Katanga",
+          "en": "Haut-Katanga",
+          "slug": "haut-katanga"
+        }
+      },
+      {
+        "id": "CD7101",
+        "level": 2,
+        "name": {
+          "local": "Lubumbashi",
+          "en": "Lubumbashi",
+          "slug": "lubumbashi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.655",
+      "lon": "27.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD710105",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kisanga",
+      "en": "Kisanga",
+      "slug": "kisanga"
+    },
+    "code": {
+      "id": "CD710105",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7101",
+      "level": 2,
+      "name": {
+        "local": "Lubumbashi",
+        "en": "Lubumbashi",
+        "slug": "lubumbashi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD71",
+        "level": 1,
+        "name": {
+          "local": "Haut-Katanga",
+          "en": "Haut-Katanga",
+          "slug": "haut-katanga"
+        }
+      },
+      {
+        "id": "CD7101",
+        "level": 2,
+        "name": {
+          "local": "Lubumbashi",
+          "en": "Lubumbashi",
+          "slug": "lubumbashi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.655",
+      "lon": "27.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD710106",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kowe",
+      "en": "Kowe",
+      "slug": "kowe"
+    },
+    "code": {
+      "id": "CD710106",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7101",
+      "level": 2,
+      "name": {
+        "local": "Lubumbashi",
+        "en": "Lubumbashi",
+        "slug": "lubumbashi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD71",
+        "level": 1,
+        "name": {
+          "local": "Haut-Katanga",
+          "en": "Haut-Katanga",
+          "slug": "haut-katanga"
+        }
+      },
+      {
+        "id": "CD7101",
+        "level": 2,
+        "name": {
+          "local": "Lubumbashi",
+          "en": "Lubumbashi",
+          "slug": "lubumbashi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.655",
+      "lon": "27.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD710107",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Lubumbashi",
+      "en": "Lubumbashi",
+      "slug": "lubumbashi"
+    },
+    "code": {
+      "id": "CD710107",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7101",
+      "level": 2,
+      "name": {
+        "local": "Lubumbashi",
+        "en": "Lubumbashi",
+        "slug": "lubumbashi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD71",
+        "level": 1,
+        "name": {
+          "local": "Haut-Katanga",
+          "en": "Haut-Katanga",
+          "slug": "haut-katanga"
+        }
+      },
+      {
+        "id": "CD7101",
+        "level": 2,
+        "name": {
+          "local": "Lubumbashi",
+          "en": "Lubumbashi",
+          "slug": "lubumbashi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.655",
+      "lon": "27.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD710108",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Mumbunda",
+      "en": "Mumbunda",
+      "slug": "mumbunda"
+    },
+    "code": {
+      "id": "CD710108",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7101",
+      "level": 2,
+      "name": {
+        "local": "Lubumbashi",
+        "en": "Lubumbashi",
+        "slug": "lubumbashi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD71",
+        "level": 1,
+        "name": {
+          "local": "Haut-Katanga",
+          "en": "Haut-Katanga",
+          "slug": "haut-katanga"
+        }
+      },
+      {
+        "id": "CD7101",
+        "level": 2,
+        "name": {
+          "local": "Lubumbashi",
+          "en": "Lubumbashi",
+          "slug": "lubumbashi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.655",
+      "lon": "27.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD710109",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Rwashi",
+      "en": "Rwashi",
+      "slug": "rwashi"
+    },
+    "code": {
+      "id": "CD710109",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7101",
+      "level": 2,
+      "name": {
+        "local": "Lubumbashi",
+        "en": "Lubumbashi",
+        "slug": "lubumbashi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD71",
+        "level": 1,
+        "name": {
+          "local": "Haut-Katanga",
+          "en": "Haut-Katanga",
+          "slug": "haut-katanga"
+        }
+      },
+      {
+        "id": "CD7101",
+        "level": 2,
+        "name": {
+          "local": "Lubumbashi",
+          "en": "Lubumbashi",
+          "slug": "lubumbashi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.655",
+      "lon": "27.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD710110",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Tshamilemba",
+      "en": "Tshamilemba",
+      "slug": "tshamilemba"
+    },
+    "code": {
+      "id": "CD710110",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7101",
+      "level": 2,
+      "name": {
+        "local": "Lubumbashi",
+        "en": "Lubumbashi",
+        "slug": "lubumbashi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD71",
+        "level": 1,
+        "name": {
+          "local": "Haut-Katanga",
+          "en": "Haut-Katanga",
+          "slug": "haut-katanga"
+        }
+      },
+      {
+        "id": "CD7101",
+        "level": 2,
+        "name": {
+          "local": "Lubumbashi",
+          "en": "Lubumbashi",
+          "slug": "lubumbashi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.655",
+      "lon": "27.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD710111",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Vangu",
+      "en": "Vangu",
+      "slug": "vangu"
+    },
+    "code": {
+      "id": "CD710111",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7101",
+      "level": 2,
+      "name": {
+        "local": "Lubumbashi",
+        "en": "Lubumbashi",
+        "slug": "lubumbashi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD71",
+        "level": 1,
+        "name": {
+          "local": "Haut-Katanga",
+          "en": "Haut-Katanga",
+          "slug": "haut-katanga"
+        }
+      },
+      {
+        "id": "CD7101",
+        "level": 2,
+        "name": {
+          "local": "Lubumbashi",
+          "en": "Lubumbashi",
+          "slug": "lubumbashi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.655",
+      "lon": "27.46"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

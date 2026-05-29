@@ -1,0 +1,98 @@
+# Haut-Lomami — DR Congo Administrative Divisions
+
+> 5 territorys, 16 sectors
+> Code: CD73
+> Coordinates: -8.138, 25.577
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Territorys
+
+### Bukama
+
+Code: CD7306, Coordinates: -8.835, 26.119
+Sectors: 4
+
+#### Bukama
+
+Code: CD730601, Coordinates: -8.835, 26.119
+
+#### Butumba
+
+Code: CD730602, Coordinates: -8.835, 26.119
+
+#### Kabondo Dianda
+
+Code: CD730603, Coordinates: -8.835, 26.119
+
+#### Malemba Nkulu
+
+Code: CD730604, Coordinates: -8.835, 26.119
+
+### Kabongo
+
+Code: CD7304, Coordinates: -7.093, 25.545
+Sectors: 3
+
+#### Kabongo
+
+Code: CD730401, Coordinates: -7.093, 25.545
+
+#### Kayamba
+
+Code: CD730402, Coordinates: -7.093, 25.545
+
+#### Kitenge
+
+Code: CD730403, Coordinates: -7.093, 25.545
+
+### Kamina
+
+Code: CD7302, Coordinates: -8.635, 24.841
+Sectors: 4
+
+#### Baka
+
+Code: CD730201, Coordinates: -8.635, 24.841
+
+#### Kamina
+
+Code: CD730202, Coordinates: -8.635, 24.841
+
+#### Kinda
+
+Code: CD730203, Coordinates: -8.635, 24.841
+
+#### Songa
+
+Code: CD730204, Coordinates: -8.635, 24.841
+
+### Kaniama
+
+Code: CD7303, Coordinates: -7.846, 24.245
+Sectors: 1
+
+#### Kaniama
+
+Code: CD730301, Coordinates: -7.846, 24.245
+
+### Malemba-Nkulu
+
+Code: CD7305, Coordinates: -8.059, 27.143
+Sectors: 4
+
+#### Kinkondja
+
+Code: CD730501, Coordinates: -8.059, 27.143
+
+#### Lwamba
+
+Code: CD730502, Coordinates: -8.059, 27.143
+
+#### Mukanga
+
+Code: CD730503, Coordinates: -8.059, 27.143
+
+#### Mulongo
+
+Code: CD730504, Coordinates: -8.059, 27.143
+

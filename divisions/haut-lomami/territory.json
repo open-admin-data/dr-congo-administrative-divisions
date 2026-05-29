@@ -1,0 +1,237 @@
+[
+  {
+    "id": "CD7306",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Bukama",
+      "en": "Bukama",
+      "slug": "bukama"
+    },
+    "code": {
+      "id": "CD7306",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD73",
+      "level": 1,
+      "name": {
+        "local": "Haut-Lomami",
+        "en": "Haut-Lomami",
+        "slug": "haut-lomami"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD73",
+        "level": 1,
+        "name": {
+          "local": "Haut-Lomami",
+          "en": "Haut-Lomami",
+          "slug": "haut-lomami"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.835",
+      "lon": "26.119"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD7304",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Kabongo",
+      "en": "Kabongo",
+      "slug": "kabongo"
+    },
+    "code": {
+      "id": "CD7304",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD73",
+      "level": 1,
+      "name": {
+        "local": "Haut-Lomami",
+        "en": "Haut-Lomami",
+        "slug": "haut-lomami"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD73",
+        "level": 1,
+        "name": {
+          "local": "Haut-Lomami",
+          "en": "Haut-Lomami",
+          "slug": "haut-lomami"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.093",
+      "lon": "25.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD7302",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Kamina",
+      "en": "Kamina",
+      "slug": "kamina"
+    },
+    "code": {
+      "id": "CD7302",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD73",
+      "level": 1,
+      "name": {
+        "local": "Haut-Lomami",
+        "en": "Haut-Lomami",
+        "slug": "haut-lomami"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD73",
+        "level": 1,
+        "name": {
+          "local": "Haut-Lomami",
+          "en": "Haut-Lomami",
+          "slug": "haut-lomami"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.635",
+      "lon": "24.841"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD7303",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Kaniama",
+      "en": "Kaniama",
+      "slug": "kaniama"
+    },
+    "code": {
+      "id": "CD7303",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD73",
+      "level": 1,
+      "name": {
+        "local": "Haut-Lomami",
+        "en": "Haut-Lomami",
+        "slug": "haut-lomami"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD73",
+        "level": 1,
+        "name": {
+          "local": "Haut-Lomami",
+          "en": "Haut-Lomami",
+          "slug": "haut-lomami"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.846",
+      "lon": "24.245"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD7305",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Malemba-Nkulu",
+      "en": "Malemba-Nkulu",
+      "slug": "malemba-nkulu"
+    },
+    "code": {
+      "id": "CD7305",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD73",
+      "level": 1,
+      "name": {
+        "local": "Haut-Lomami",
+        "en": "Haut-Lomami",
+        "slug": "haut-lomami"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD73",
+        "level": 1,
+        "name": {
+          "local": "Haut-Lomami",
+          "en": "Haut-Lomami",
+          "slug": "haut-lomami"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.059",
+      "lon": "27.143"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

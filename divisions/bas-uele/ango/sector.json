@@ -1,0 +1,56 @@
+[
+  {
+    "id": "CD520701",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Ango",
+      "en": "Ango",
+      "slug": "ango"
+    },
+    "code": {
+      "id": "CD520701",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5207",
+      "level": 2,
+      "name": {
+        "local": "Ango",
+        "en": "Ango",
+        "slug": "ango"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD52",
+        "level": 1,
+        "name": {
+          "local": "Bas-Uele",
+          "en": "Bas-Uele",
+          "slug": "bas-uele"
+        }
+      },
+      {
+        "id": "CD5207",
+        "level": 2,
+        "name": {
+          "local": "Ango",
+          "en": "Ango",
+          "slug": "ango"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.447",
+      "lon": "26.251"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

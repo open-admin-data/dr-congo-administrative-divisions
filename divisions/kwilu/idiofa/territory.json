@@ -1,0 +1,47 @@
+{
+  "id": "CD3206",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Idiofa",
+    "en": "Idiofa",
+    "slug": "idiofa"
+  },
+  "code": {
+    "id": "CD3206",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD32",
+    "level": 1,
+    "name": {
+      "local": "Kwilu",
+      "en": "Kwilu",
+      "slug": "kwilu"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD32",
+      "level": 1,
+      "name": {
+        "local": "Kwilu",
+        "en": "Kwilu",
+        "slug": "kwilu"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.708",
+    "lon": "19.613"
+  },
+  "metadata": {},
+  "source": {}
+}

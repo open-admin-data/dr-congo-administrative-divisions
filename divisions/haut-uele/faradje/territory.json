@@ -1,0 +1,47 @@
+{
+  "id": "CD5307",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Faradje",
+    "en": "Faradje",
+    "slug": "faradje"
+  },
+  "code": {
+    "id": "CD5307",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD53",
+    "level": 1,
+    "name": {
+      "local": "Haut-Uele",
+      "en": "Haut-Uele",
+      "slug": "haut-uele"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD53",
+      "level": 1,
+      "name": {
+        "local": "Haut-Uele",
+        "en": "Haut-Uele",
+        "slug": "haut-uele"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.485",
+    "lon": "29.904"
+  },
+  "metadata": {},
+  "source": {}
+}

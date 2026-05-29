@@ -1,0 +1,56 @@
+[
+  {
+    "id": "CD200201",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Boma",
+      "en": "Boma",
+      "slug": "boma"
+    },
+    "code": {
+      "id": "CD200201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD2002",
+      "level": 2,
+      "name": {
+        "local": "Boma",
+        "en": "Boma",
+        "slug": "boma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD20",
+        "level": 1,
+        "name": {
+          "local": "Kongo-Central",
+          "en": "Kongo-Central",
+          "slug": "kongo-central"
+        }
+      },
+      {
+        "id": "CD2002",
+        "level": 2,
+        "name": {
+          "local": "Boma",
+          "en": "Boma",
+          "slug": "boma"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.814",
+      "lon": "13.05"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

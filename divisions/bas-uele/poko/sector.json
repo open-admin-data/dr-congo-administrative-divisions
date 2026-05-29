@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CD520801",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Poko",
+      "en": "Poko",
+      "slug": "poko"
+    },
+    "code": {
+      "id": "CD520801",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5208",
+      "level": 2,
+      "name": {
+        "local": "Poko",
+        "en": "Poko",
+        "slug": "poko"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD52",
+        "level": 1,
+        "name": {
+          "local": "Bas-Uele",
+          "en": "Bas-Uele",
+          "slug": "bas-uele"
+        }
+      },
+      {
+        "id": "CD5208",
+        "level": 2,
+        "name": {
+          "local": "Poko",
+          "en": "Poko",
+          "slug": "poko"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.982",
+      "lon": "27.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD520802",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Viadana",
+      "en": "Viadana",
+      "slug": "viadana"
+    },
+    "code": {
+      "id": "CD520802",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5208",
+      "level": 2,
+      "name": {
+        "local": "Poko",
+        "en": "Poko",
+        "slug": "poko"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD52",
+        "level": 1,
+        "name": {
+          "local": "Bas-Uele",
+          "en": "Bas-Uele",
+          "slug": "bas-uele"
+        }
+      },
+      {
+        "id": "CD5208",
+        "level": 2,
+        "name": {
+          "local": "Poko",
+          "en": "Poko",
+          "slug": "poko"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.982",
+      "lon": "27.051"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

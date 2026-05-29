@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CD510301",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Opala",
+      "en": "Opala",
+      "slug": "opala"
+    },
+    "code": {
+      "id": "CD510301",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5103",
+      "level": 2,
+      "name": {
+        "local": "Opala",
+        "en": "Opala",
+        "slug": "opala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD51",
+        "level": 1,
+        "name": {
+          "local": "Tshopo",
+          "en": "Tshopo",
+          "slug": "tshopo"
+        }
+      },
+      {
+        "id": "CD5103",
+        "level": 2,
+        "name": {
+          "local": "Opala",
+          "en": "Opala",
+          "slug": "opala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.708",
+      "lon": "23.953"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD510302",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Yaleko",
+      "en": "Yaleko",
+      "slug": "yaleko"
+    },
+    "code": {
+      "id": "CD510302",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5103",
+      "level": 2,
+      "name": {
+        "local": "Opala",
+        "en": "Opala",
+        "slug": "opala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD51",
+        "level": 1,
+        "name": {
+          "local": "Tshopo",
+          "en": "Tshopo",
+          "slug": "tshopo"
+        }
+      },
+      {
+        "id": "CD5103",
+        "level": 2,
+        "name": {
+          "local": "Opala",
+          "en": "Opala",
+          "slug": "opala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.708",
+      "lon": "23.953"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

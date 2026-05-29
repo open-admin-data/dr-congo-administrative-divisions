@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CD420401",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Bokonzi",
+      "en": "Bokonzi",
+      "slug": "bokonzi"
+    },
+    "code": {
+      "id": "CD420401",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD4204",
+      "level": 2,
+      "name": {
+        "local": "Kungu",
+        "en": "Kungu",
+        "slug": "kungu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD42",
+        "level": 1,
+        "name": {
+          "local": "Sud-Ubangi",
+          "en": "Sud-Ubangi",
+          "slug": "sud-ubangi"
+        }
+      },
+      {
+        "id": "CD4204",
+        "level": 2,
+        "name": {
+          "local": "Kungu",
+          "en": "Kungu",
+          "slug": "kungu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.549",
+      "lon": "18.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD420402",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Boto",
+      "en": "Boto",
+      "slug": "boto"
+    },
+    "code": {
+      "id": "CD420402",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD4204",
+      "level": 2,
+      "name": {
+        "local": "Kungu",
+        "en": "Kungu",
+        "slug": "kungu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD42",
+        "level": 1,
+        "name": {
+          "local": "Sud-Ubangi",
+          "en": "Sud-Ubangi",
+          "slug": "sud-ubangi"
+        }
+      },
+      {
+        "id": "CD4204",
+        "level": 2,
+        "name": {
+          "local": "Kungu",
+          "en": "Kungu",
+          "slug": "kungu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.549",
+      "lon": "18.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD420403",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kungu",
+      "en": "Kungu",
+      "slug": "kungu"
+    },
+    "code": {
+      "id": "CD420403",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD4204",
+      "level": 2,
+      "name": {
+        "local": "Kungu",
+        "en": "Kungu",
+        "slug": "kungu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD42",
+        "level": 1,
+        "name": {
+          "local": "Sud-Ubangi",
+          "en": "Sud-Ubangi",
+          "slug": "sud-ubangi"
+        }
+      },
+      {
+        "id": "CD4204",
+        "level": 2,
+        "name": {
+          "local": "Kungu",
+          "en": "Kungu",
+          "slug": "kungu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.549",
+      "lon": "18.747"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

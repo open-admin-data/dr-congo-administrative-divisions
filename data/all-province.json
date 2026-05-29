@@ -1,0 +1,782 @@
+[
+  {
+    "id": "CD10",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Kinshasa",
+      "en": "Kinshasa",
+      "slug": "kinshasa"
+    },
+    "code": {
+      "id": "CD10",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "territory": 1,
+      "sector": 35
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.477",
+      "lon": "15.788"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD20",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Kongo-Central",
+      "en": "Kongo-Central",
+      "slug": "kongo-central"
+    },
+    "code": {
+      "id": "CD20",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "territory": 12,
+      "sector": 31
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.178",
+      "lon": "14.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD31",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Kwango",
+      "en": "Kwango",
+      "slug": "kwango"
+    },
+    "code": {
+      "id": "CD31",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "territory": 5,
+      "sector": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.181",
+      "lon": "17.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD32",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Kwilu",
+      "en": "Kwilu",
+      "slug": "kwilu"
+    },
+    "code": {
+      "id": "CD32",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "territory": 7,
+      "sector": 24
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.793",
+      "lon": "18.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD33",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Maï-Ndombe",
+      "en": "Maï-Ndombe",
+      "slug": "ma-ndombe"
+    },
+    "code": {
+      "id": "CD33",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "territory": 8,
+      "sector": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.57",
+      "lon": "18.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD41",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Equateur",
+      "en": "Equateur",
+      "slug": "equateur"
+    },
+    "code": {
+      "id": "CD41",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "territory": 8,
+      "sector": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.063",
+      "lon": "19.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD42",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Sud-Ubangi",
+      "en": "Sud-Ubangi",
+      "slug": "sud-ubangi"
+    },
+    "code": {
+      "id": "CD42",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "territory": 5,
+      "sector": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.341",
+      "lon": "19.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD43",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Nord-Ubangi",
+      "en": "Nord-Ubangi",
+      "slug": "nord-ubangi"
+    },
+    "code": {
+      "id": "CD43",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "territory": 5,
+      "sector": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.981",
+      "lon": "21.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD44",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Mongala",
+      "en": "Mongala",
+      "slug": "mongala"
+    },
+    "code": {
+      "id": "CD44",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "territory": 3,
+      "sector": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.03",
+      "lon": "21.175"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD45",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Tshuapa",
+      "en": "Tshuapa",
+      "slug": "tshuapa"
+    },
+    "code": {
+      "id": "CD45",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "territory": 6,
+      "sector": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.384",
+      "lon": "21.529"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD51",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Tshopo",
+      "en": "Tshopo",
+      "slug": "tshopo"
+    },
+    "code": {
+      "id": "CD51",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "territory": 8,
+      "sector": 23
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.141",
+      "lon": "25.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD52",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Bas-Uele",
+      "en": "Bas-Uele",
+      "slug": "bas-uele"
+    },
+    "code": {
+      "id": "CD52",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "territory": 6,
+      "sector": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.668",
+      "lon": "25.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD53",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Haut-Uele",
+      "en": "Haut-Uele",
+      "slug": "haut-uele"
+    },
+    "code": {
+      "id": "CD53",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "territory": 6,
+      "sector": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.327",
+      "lon": "28.811"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD54",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Ituri",
+      "en": "Ituri",
+      "slug": "ituri"
+    },
+    "code": {
+      "id": "CD54",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "territory": 5,
+      "sector": 36
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.097",
+      "lon": "29.056"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD61",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Nord-Kivu",
+      "en": "Nord-Kivu",
+      "slug": "nord-kivu"
+    },
+    "code": {
+      "id": "CD61",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "territory": 9,
+      "sector": 34
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.559",
+      "lon": "28.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD62",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Sud-Kivu",
+      "en": "Sud-Kivu",
+      "slug": "sud-kivu"
+    },
+    "code": {
+      "id": "CD62",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "territory": 9,
+      "sector": 34
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.297",
+      "lon": "28.177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD63",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Maniema",
+      "en": "Maniema",
+      "slug": "maniema"
+    },
+    "code": {
+      "id": "CD63",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "territory": 8,
+      "sector": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.516",
+      "lon": "25.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD71",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Haut-Katanga",
+      "en": "Haut-Katanga",
+      "slug": "haut-katanga"
+    },
+    "code": {
+      "id": "CD71",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "territory": 8,
+      "sector": 28
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.539",
+      "lon": "27.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD72",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Lualaba",
+      "en": "Lualaba",
+      "slug": "lualaba"
+    },
+    "code": {
+      "id": "CD72",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "territory": 5,
+      "sector": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.689",
+      "lon": "23.026"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD73",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Haut-Lomami",
+      "en": "Haut-Lomami",
+      "slug": "haut-lomami"
+    },
+    "code": {
+      "id": "CD73",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "territory": 5,
+      "sector": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.138",
+      "lon": "25.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD74",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Tanganyika",
+      "en": "Tanganyika",
+      "slug": "tanganyika"
+    },
+    "code": {
+      "id": "CD74",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "territory": 6,
+      "sector": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.705",
+      "lon": "27.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD81",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Lomami",
+      "en": "Lomami",
+      "slug": "lomami"
+    },
+    "code": {
+      "id": "CD81",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "territory": 6,
+      "sector": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.407",
+      "lon": "24.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD82",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Kasaï-Oriental",
+      "en": "Kasaï-Oriental",
+      "slug": "kasa-oriental"
+    },
+    "code": {
+      "id": "CD82",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "territory": 6,
+      "sector": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.199",
+      "lon": "23.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD83",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Sankuru",
+      "en": "Sankuru",
+      "slug": "sankuru"
+    },
+    "code": {
+      "id": "CD83",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "territory": 6,
+      "sector": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.773",
+      "lon": "23.44"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD91",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Kasaï-Central",
+      "en": "Kasaï-Central",
+      "slug": "kasa-central"
+    },
+    "code": {
+      "id": "CD91",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "territory": 6,
+      "sector": 26
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.047",
+      "lon": "22.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD92",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Kasaï",
+      "en": "Kasaï",
+      "slug": "kasa"
+    },
+    "code": {
+      "id": "CD92",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "territory": 5,
+      "sector": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.805",
+      "lon": "21.132"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "id": "CD201301",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Boko-Kivulu",
+      "en": "Boko-Kivulu",
+      "slug": "boko-kivulu"
+    },
+    "code": {
+      "id": "CD201301",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD2013",
+      "level": 2,
+      "name": {
+        "local": "Mbanza-Ngungu",
+        "en": "Mbanza-Ngungu",
+        "slug": "mbanza-ngungu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD20",
+        "level": 1,
+        "name": {
+          "local": "Kongo-Central",
+          "en": "Kongo-Central",
+          "slug": "kongo-central"
+        }
+      },
+      {
+        "id": "CD2013",
+        "level": 2,
+        "name": {
+          "local": "Mbanza-Ngungu",
+          "en": "Mbanza-Ngungu",
+          "slug": "mbanza-ngungu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.338",
+      "lon": "14.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD201302",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Gombe-Matadi",
+      "en": "Gombe-Matadi",
+      "slug": "gombe-matadi"
+    },
+    "code": {
+      "id": "CD201302",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD2013",
+      "level": 2,
+      "name": {
+        "local": "Mbanza-Ngungu",
+        "en": "Mbanza-Ngungu",
+        "slug": "mbanza-ngungu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD20",
+        "level": 1,
+        "name": {
+          "local": "Kongo-Central",
+          "en": "Kongo-Central",
+          "slug": "kongo-central"
+        }
+      },
+      {
+        "id": "CD2013",
+        "level": 2,
+        "name": {
+          "local": "Mbanza-Ngungu",
+          "en": "Mbanza-Ngungu",
+          "slug": "mbanza-ngungu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.338",
+      "lon": "14.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD201303",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kimpangu",
+      "en": "Kimpangu",
+      "slug": "kimpangu"
+    },
+    "code": {
+      "id": "CD201303",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD2013",
+      "level": 2,
+      "name": {
+        "local": "Mbanza-Ngungu",
+        "en": "Mbanza-Ngungu",
+        "slug": "mbanza-ngungu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD20",
+        "level": 1,
+        "name": {
+          "local": "Kongo-Central",
+          "en": "Kongo-Central",
+          "slug": "kongo-central"
+        }
+      },
+      {
+        "id": "CD2013",
+        "level": 2,
+        "name": {
+          "local": "Mbanza-Ngungu",
+          "en": "Mbanza-Ngungu",
+          "slug": "mbanza-ngungu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.338",
+      "lon": "14.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD201304",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kwilu-Ngongo",
+      "en": "Kwilu-Ngongo",
+      "slug": "kwilu-ngongo"
+    },
+    "code": {
+      "id": "CD201304",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD2013",
+      "level": 2,
+      "name": {
+        "local": "Mbanza-Ngungu",
+        "en": "Mbanza-Ngungu",
+        "slug": "mbanza-ngungu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD20",
+        "level": 1,
+        "name": {
+          "local": "Kongo-Central",
+          "en": "Kongo-Central",
+          "slug": "kongo-central"
+        }
+      },
+      {
+        "id": "CD2013",
+        "level": 2,
+        "name": {
+          "local": "Mbanza-Ngungu",
+          "en": "Mbanza-Ngungu",
+          "slug": "mbanza-ngungu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.338",
+      "lon": "14.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD201305",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Mbanza-Ngungu",
+      "en": "Mbanza-Ngungu",
+      "slug": "mbanza-ngungu"
+    },
+    "code": {
+      "id": "CD201305",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD2013",
+      "level": 2,
+      "name": {
+        "local": "Mbanza-Ngungu",
+        "en": "Mbanza-Ngungu",
+        "slug": "mbanza-ngungu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD20",
+        "level": 1,
+        "name": {
+          "local": "Kongo-Central",
+          "en": "Kongo-Central",
+          "slug": "kongo-central"
+        }
+      },
+      {
+        "id": "CD2013",
+        "level": 2,
+        "name": {
+          "local": "Mbanza-Ngungu",
+          "en": "Mbanza-Ngungu",
+          "slug": "mbanza-ngungu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.338",
+      "lon": "14.8"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "CD7107",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Kasenga",
+    "en": "Kasenga",
+    "slug": "kasenga"
+  },
+  "code": {
+    "id": "CD7107",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD71",
+    "level": 1,
+    "name": {
+      "local": "Haut-Katanga",
+      "en": "Haut-Katanga",
+      "slug": "haut-katanga"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD71",
+      "level": 1,
+      "name": {
+        "local": "Haut-Katanga",
+        "en": "Haut-Katanga",
+        "slug": "haut-katanga"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.367",
+    "lon": "27.882"
+  },
+  "metadata": {},
+  "source": {}
+}

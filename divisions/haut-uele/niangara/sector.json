@@ -1,0 +1,56 @@
+[
+  {
+    "id": "CD530301",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Niangara",
+      "en": "Niangara",
+      "slug": "niangara"
+    },
+    "code": {
+      "id": "CD530301",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5303",
+      "level": 2,
+      "name": {
+        "local": "Niangara",
+        "en": "Niangara",
+        "slug": "niangara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD53",
+        "level": 1,
+        "name": {
+          "local": "Haut-Uele",
+          "en": "Haut-Uele",
+          "slug": "haut-uele"
+        }
+      },
+      {
+        "id": "CD5303",
+        "level": 2,
+        "name": {
+          "local": "Niangara",
+          "en": "Niangara",
+          "slug": "niangara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.492",
+      "lon": "27.921"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

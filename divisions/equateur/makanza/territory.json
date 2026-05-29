@@ -1,0 +1,47 @@
+{
+  "id": "CD4105",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Makanza",
+    "en": "Makanza",
+    "slug": "makanza"
+  },
+  "code": {
+    "id": "CD4105",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD41",
+    "level": 1,
+    "name": {
+      "local": "Equateur",
+      "en": "Equateur",
+      "slug": "equateur"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD41",
+      "level": 1,
+      "name": {
+        "local": "Equateur",
+        "en": "Equateur",
+        "slug": "equateur"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.263",
+    "lon": "18.799"
+  },
+  "metadata": {},
+  "source": {}
+}

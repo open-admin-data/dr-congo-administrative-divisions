@@ -1,0 +1,47 @@
+{
+  "id": "CD6111",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Rutshuru",
+    "en": "Rutshuru",
+    "slug": "rutshuru"
+  },
+  "code": {
+    "id": "CD6111",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD61",
+    "level": 1,
+    "name": {
+      "local": "Nord-Kivu",
+      "en": "Nord-Kivu",
+      "slug": "nord-kivu"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD61",
+      "level": 1,
+      "name": {
+        "local": "Nord-Kivu",
+        "en": "Nord-Kivu",
+        "slug": "nord-kivu"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.961",
+    "lon": "29.327"
+  },
+  "metadata": {},
+  "source": {}
+}

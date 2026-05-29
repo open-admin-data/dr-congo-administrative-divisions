@@ -1,0 +1,30 @@
+{
+  "id": "CD44",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Mongala",
+    "en": "Mongala",
+    "slug": "mongala"
+  },
+  "code": {
+    "id": "CD44",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "territory": 3,
+    "sector": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.03",
+    "lon": "21.175"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CD450401",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Djolu",
+      "en": "Djolu",
+      "slug": "djolu"
+    },
+    "code": {
+      "id": "CD450401",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD4504",
+      "level": 2,
+      "name": {
+        "local": "Djolu",
+        "en": "Djolu",
+        "slug": "djolu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD45",
+        "level": 1,
+        "name": {
+          "local": "Tshuapa",
+          "en": "Tshuapa",
+          "slug": "tshuapa"
+        }
+      },
+      {
+        "id": "CD4504",
+        "level": 2,
+        "name": {
+          "local": "Djolu",
+          "en": "Djolu",
+          "slug": "djolu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.68",
+      "lon": "22.228"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD450402",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Lingomo",
+      "en": "Lingomo",
+      "slug": "lingomo"
+    },
+    "code": {
+      "id": "CD450402",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD4504",
+      "level": 2,
+      "name": {
+        "local": "Djolu",
+        "en": "Djolu",
+        "slug": "djolu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD45",
+        "level": 1,
+        "name": {
+          "local": "Tshuapa",
+          "en": "Tshuapa",
+          "slug": "tshuapa"
+        }
+      },
+      {
+        "id": "CD4504",
+        "level": 2,
+        "name": {
+          "local": "Djolu",
+          "en": "Djolu",
+          "slug": "djolu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.68",
+      "lon": "22.228"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

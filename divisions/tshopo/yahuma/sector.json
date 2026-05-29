@@ -1,0 +1,56 @@
+[
+  {
+    "id": "CD510701",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Yahuma",
+      "en": "Yahuma",
+      "slug": "yahuma"
+    },
+    "code": {
+      "id": "CD510701",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5107",
+      "level": 2,
+      "name": {
+        "local": "Yahuma",
+        "en": "Yahuma",
+        "slug": "yahuma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD51",
+        "level": 1,
+        "name": {
+          "local": "Tshopo",
+          "en": "Tshopo",
+          "slug": "tshopo"
+        }
+      },
+      {
+        "id": "CD5107",
+        "level": 2,
+        "name": {
+          "local": "Yahuma",
+          "en": "Yahuma",
+          "slug": "yahuma"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.8",
+      "lon": "23.242"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

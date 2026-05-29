@@ -1,0 +1,56 @@
+[
+  {
+    "id": "CD320101",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Bandundu",
+      "en": "Bandundu",
+      "slug": "bandundu"
+    },
+    "code": {
+      "id": "CD320101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD3201",
+      "level": 2,
+      "name": {
+        "local": "Bandundu",
+        "en": "Bandundu",
+        "slug": "bandundu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD32",
+        "level": 1,
+        "name": {
+          "local": "Kwilu",
+          "en": "Kwilu",
+          "slug": "kwilu"
+        }
+      },
+      {
+        "id": "CD3201",
+        "level": 2,
+        "name": {
+          "local": "Bandundu",
+          "en": "Bandundu",
+          "slug": "bandundu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.319",
+      "lon": "17.454"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

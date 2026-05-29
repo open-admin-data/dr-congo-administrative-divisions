@@ -1,0 +1,47 @@
+{
+  "id": "CD2013",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Mbanza-Ngungu",
+    "en": "Mbanza-Ngungu",
+    "slug": "mbanza-ngungu"
+  },
+  "code": {
+    "id": "CD2013",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD20",
+    "level": 1,
+    "name": {
+      "local": "Kongo-Central",
+      "en": "Kongo-Central",
+      "slug": "kongo-central"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD20",
+      "level": 1,
+      "name": {
+        "local": "Kongo-Central",
+        "en": "Kongo-Central",
+        "slug": "kongo-central"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.338",
+    "lon": "14.8"
+  },
+  "metadata": {},
+  "source": {}
+}

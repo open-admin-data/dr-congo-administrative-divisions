@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CD810801",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kamana",
+      "en": "Kamana",
+      "slug": "kamana"
+    },
+    "code": {
+      "id": "CD810801",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD8108",
+      "level": 2,
+      "name": {
+        "local": "Lubao",
+        "en": "Lubao",
+        "slug": "lubao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD81",
+        "level": 1,
+        "name": {
+          "local": "Lomami",
+          "en": "Lomami",
+          "slug": "lomami"
+        }
+      },
+      {
+        "id": "CD8108",
+        "level": 2,
+        "name": {
+          "local": "Lubao",
+          "en": "Lubao",
+          "slug": "lubao"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.575",
+      "lon": "25.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD810802",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Lubao",
+      "en": "Lubao",
+      "slug": "lubao"
+    },
+    "code": {
+      "id": "CD810802",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD8108",
+      "level": 2,
+      "name": {
+        "local": "Lubao",
+        "en": "Lubao",
+        "slug": "lubao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD81",
+        "level": 1,
+        "name": {
+          "local": "Lomami",
+          "en": "Lomami",
+          "slug": "lomami"
+        }
+      },
+      {
+        "id": "CD8108",
+        "level": 2,
+        "name": {
+          "local": "Lubao",
+          "en": "Lubao",
+          "slug": "lubao"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.575",
+      "lon": "25.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD810803",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Tshofa",
+      "en": "Tshofa",
+      "slug": "tshofa"
+    },
+    "code": {
+      "id": "CD810803",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD8108",
+      "level": 2,
+      "name": {
+        "local": "Lubao",
+        "en": "Lubao",
+        "slug": "lubao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD81",
+        "level": 1,
+        "name": {
+          "local": "Lomami",
+          "en": "Lomami",
+          "slug": "lomami"
+        }
+      },
+      {
+        "id": "CD8108",
+        "level": 2,
+        "name": {
+          "local": "Lubao",
+          "en": "Lubao",
+          "slug": "lubao"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.575",
+      "lon": "25.408"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

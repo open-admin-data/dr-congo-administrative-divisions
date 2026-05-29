@@ -1,0 +1,63 @@
+# DR Congo Administrative Divisions — Full Reference
+
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Per-Province Data Files
+
+- [Kinshasa](https://github.com/open-admin-data/dr-congo-administrative-divisions/blob/main/docs/llms-full/kinshasa.txt) — 1 territorys, 35 sectors
+- [Kongo-Central](https://github.com/open-admin-data/dr-congo-administrative-divisions/blob/main/docs/llms-full/kongo-central.txt) — 12 territorys, 31 sectors
+- [Kwango](https://github.com/open-admin-data/dr-congo-administrative-divisions/blob/main/docs/llms-full/kwango.txt) — 5 territorys, 14 sectors
+- [Kwilu](https://github.com/open-admin-data/dr-congo-administrative-divisions/blob/main/docs/llms-full/kwilu.txt) — 7 territorys, 24 sectors
+- [Maï-Ndombe](https://github.com/open-admin-data/dr-congo-administrative-divisions/blob/main/docs/llms-full/ma-ndombe.txt) — 8 territorys, 14 sectors
+- [Equateur](https://github.com/open-admin-data/dr-congo-administrative-divisions/blob/main/docs/llms-full/equateur.txt) — 8 territorys, 18 sectors
+- [Sud-Ubangi](https://github.com/open-admin-data/dr-congo-administrative-divisions/blob/main/docs/llms-full/sud-ubangi.txt) — 5 territorys, 16 sectors
+- [Nord-Ubangi](https://github.com/open-admin-data/dr-congo-administrative-divisions/blob/main/docs/llms-full/nord-ubangi.txt) — 5 territorys, 11 sectors
+- [Mongala](https://github.com/open-admin-data/dr-congo-administrative-divisions/blob/main/docs/llms-full/mongala.txt) — 3 territorys, 12 sectors
+- [Tshuapa](https://github.com/open-admin-data/dr-congo-administrative-divisions/blob/main/docs/llms-full/tshuapa.txt) — 6 territorys, 12 sectors
+- [Tshopo](https://github.com/open-admin-data/dr-congo-administrative-divisions/blob/main/docs/llms-full/tshopo.txt) — 8 territorys, 23 sectors
+- [Bas-Uele](https://github.com/open-admin-data/dr-congo-administrative-divisions/blob/main/docs/llms-full/bas-uele.txt) — 6 territorys, 11 sectors
+- [Haut-Uele](https://github.com/open-admin-data/dr-congo-administrative-divisions/blob/main/docs/llms-full/haut-uele.txt) — 6 territorys, 13 sectors
+- [Ituri](https://github.com/open-admin-data/dr-congo-administrative-divisions/blob/main/docs/llms-full/ituri.txt) — 5 territorys, 36 sectors
+- [Nord-Kivu](https://github.com/open-admin-data/dr-congo-administrative-divisions/blob/main/docs/llms-full/nord-kivu.txt) — 9 territorys, 34 sectors
+- [Sud-Kivu](https://github.com/open-admin-data/dr-congo-administrative-divisions/blob/main/docs/llms-full/sud-kivu.txt) — 9 territorys, 34 sectors
+- [Maniema](https://github.com/open-admin-data/dr-congo-administrative-divisions/blob/main/docs/llms-full/maniema.txt) — 8 territorys, 18 sectors
+- [Haut-Katanga](https://github.com/open-admin-data/dr-congo-administrative-divisions/blob/main/docs/llms-full/haut-katanga.txt) — 8 territorys, 28 sectors
+- [Lualaba](https://github.com/open-admin-data/dr-congo-administrative-divisions/blob/main/docs/llms-full/lualaba.txt) — 5 territorys, 13 sectors
+- [Haut-Lomami](https://github.com/open-admin-data/dr-congo-administrative-divisions/blob/main/docs/llms-full/haut-lomami.txt) — 5 territorys, 16 sectors
+- [Tanganyika](https://github.com/open-admin-data/dr-congo-administrative-divisions/blob/main/docs/llms-full/tanganyika.txt) — 6 territorys, 11 sectors
+- [Lomami](https://github.com/open-admin-data/dr-congo-administrative-divisions/blob/main/docs/llms-full/lomami.txt) — 6 territorys, 16 sectors
+- [Kasaï-Oriental](https://github.com/open-admin-data/dr-congo-administrative-divisions/blob/main/docs/llms-full/kasa-oriental.txt) — 6 territorys, 19 sectors
+- [Sankuru](https://github.com/open-admin-data/dr-congo-administrative-divisions/blob/main/docs/llms-full/sankuru.txt) — 6 territorys, 16 sectors
+- [Kasaï-Central](https://github.com/open-admin-data/dr-congo-administrative-divisions/blob/main/docs/llms-full/kasa-central.txt) — 6 territorys, 26 sectors
+- [Kasaï](https://github.com/open-admin-data/dr-congo-administrative-divisions/blob/main/docs/llms-full/kasa.txt) — 5 territorys, 18 sectors
+
+## Summary
+
+| Province | Territorys | Sectors | 
+|---|---|---|
+| Kinshasa | 1 | 35 | 
+| Kongo-Central | 12 | 31 | 
+| Kwango | 5 | 14 | 
+| Kwilu | 7 | 24 | 
+| Maï-Ndombe | 8 | 14 | 
+| Equateur | 8 | 18 | 
+| Sud-Ubangi | 5 | 16 | 
+| Nord-Ubangi | 5 | 11 | 
+| Mongala | 3 | 12 | 
+| Tshuapa | 6 | 12 | 
+| Tshopo | 8 | 23 | 
+| Bas-Uele | 6 | 11 | 
+| Haut-Uele | 6 | 13 | 
+| Ituri | 5 | 36 | 
+| Nord-Kivu | 9 | 34 | 
+| Sud-Kivu | 9 | 34 | 
+| Maniema | 8 | 18 | 
+| Haut-Katanga | 8 | 28 | 
+| Lualaba | 5 | 13 | 
+| Haut-Lomami | 5 | 16 | 
+| Tanganyika | 6 | 11 | 
+| Lomami | 6 | 16 | 
+| Kasaï-Oriental | 6 | 19 | 
+| Sankuru | 6 | 16 | 
+| Kasaï-Central | 6 | 26 | 
+| Kasaï | 5 | 18 | 

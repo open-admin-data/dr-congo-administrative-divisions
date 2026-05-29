@@ -1,0 +1,30 @@
+{
+  "id": "CD41",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Equateur",
+    "en": "Equateur",
+    "slug": "equateur"
+  },
+  "code": {
+    "id": "CD41",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "territory": 8,
+    "sector": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.063",
+    "lon": "19.135"
+  },
+  "metadata": {},
+  "source": {}
+}

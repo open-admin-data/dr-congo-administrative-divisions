@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CD830301",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Lodja",
+      "en": "Lodja",
+      "slug": "lodja"
+    },
+    "code": {
+      "id": "CD830301",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD8303",
+      "level": 2,
+      "name": {
+        "local": "Lodja",
+        "en": "Lodja",
+        "slug": "lodja"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD83",
+        "level": 1,
+        "name": {
+          "local": "Sankuru",
+          "en": "Sankuru",
+          "slug": "sankuru"
+        }
+      },
+      {
+        "id": "CD8303",
+        "level": 2,
+        "name": {
+          "local": "Lodja",
+          "en": "Lodja",
+          "slug": "lodja"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.518",
+      "lon": "23.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD830302",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Omendjadi",
+      "en": "Omendjadi",
+      "slug": "omendjadi"
+    },
+    "code": {
+      "id": "CD830302",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD8303",
+      "level": 2,
+      "name": {
+        "local": "Lodja",
+        "en": "Lodja",
+        "slug": "lodja"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD83",
+        "level": 1,
+        "name": {
+          "local": "Sankuru",
+          "en": "Sankuru",
+          "slug": "sankuru"
+        }
+      },
+      {
+        "id": "CD8303",
+        "level": 2,
+        "name": {
+          "local": "Lodja",
+          "en": "Lodja",
+          "slug": "lodja"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.518",
+      "lon": "23.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD830303",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Vanga Kete",
+      "en": "Vanga Kete",
+      "slug": "vanga-kete"
+    },
+    "code": {
+      "id": "CD830303",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD8303",
+      "level": 2,
+      "name": {
+        "local": "Lodja",
+        "en": "Lodja",
+        "slug": "lodja"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD83",
+        "level": 1,
+        "name": {
+          "local": "Sankuru",
+          "en": "Sankuru",
+          "slug": "sankuru"
+        }
+      },
+      {
+        "id": "CD8303",
+        "level": 2,
+        "name": {
+          "local": "Lodja",
+          "en": "Lodja",
+          "slug": "lodja"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.518",
+      "lon": "23.497"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

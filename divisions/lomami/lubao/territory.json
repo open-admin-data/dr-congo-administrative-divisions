@@ -1,0 +1,47 @@
+{
+  "id": "CD8108",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Lubao",
+    "en": "Lubao",
+    "slug": "lubao"
+  },
+  "code": {
+    "id": "CD8108",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD81",
+    "level": 1,
+    "name": {
+      "local": "Lomami",
+      "en": "Lomami",
+      "slug": "lomami"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD81",
+      "level": 1,
+      "name": {
+        "local": "Lomami",
+        "en": "Lomami",
+        "slug": "lomami"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.575",
+    "lon": "25.408"
+  },
+  "metadata": {},
+  "source": {}
+}

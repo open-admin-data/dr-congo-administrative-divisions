@@ -1,0 +1,47 @@
+{
+  "id": "CD5309",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Watsa",
+    "en": "Watsa",
+    "slug": "watsa"
+  },
+  "code": {
+    "id": "CD5309",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD53",
+    "level": 1,
+    "name": {
+      "local": "Haut-Uele",
+      "en": "Haut-Uele",
+      "slug": "haut-uele"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD53",
+      "level": 1,
+      "name": {
+        "local": "Haut-Uele",
+        "en": "Haut-Uele",
+        "slug": "haut-uele"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.774",
+    "lon": "29.225"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "CD3203",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Kikwit",
+    "en": "Kikwit",
+    "slug": "kikwit"
+  },
+  "code": {
+    "id": "CD3203",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD32",
+    "level": 1,
+    "name": {
+      "local": "Kwilu",
+      "en": "Kwilu",
+      "slug": "kwilu"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD32",
+      "level": 1,
+      "name": {
+        "local": "Kwilu",
+        "en": "Kwilu",
+        "slug": "kwilu"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.06",
+    "lon": "18.809"
+  },
+  "metadata": {},
+  "source": {}
+}

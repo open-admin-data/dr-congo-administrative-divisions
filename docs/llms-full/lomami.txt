@@ -1,0 +1,103 @@
+# Lomami — DR Congo Administrative Divisions
+
+> 6 territorys, 16 sectors
+> Code: CD81
+> Coordinates: -6.407, 24.627
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Territorys
+
+### Kabinda
+
+Code: CD8102, Coordinates: -6.075, 24.611
+Sectors: 3
+
+#### Kabinda
+
+Code: CD810201, Coordinates: -6.075, 24.611
+
+#### Kalonda Est
+
+Code: CD810202, Coordinates: -6.075, 24.611
+
+#### Ludimbi Lukula
+
+Code: CD810203, Coordinates: -6.075, 24.611
+
+### Kamiji
+
+Code: CD8105, Coordinates: -6.69, 23.24
+Sectors: 1
+
+#### Kamiji
+
+Code: CD810501, Coordinates: -6.69, 23.24
+
+### Lubao
+
+Code: CD8108, Coordinates: -5.575, 25.408
+Sectors: 3
+
+#### Kamana
+
+Code: CD810801, Coordinates: -5.575, 25.408
+
+#### Lubao
+
+Code: CD810802, Coordinates: -5.575, 25.408
+
+#### Tshofa
+
+Code: CD810803, Coordinates: -5.575, 25.408
+
+### Luilu
+
+Code: CD8104, Coordinates: -7.313, 23.602
+Sectors: 4
+
+#### Kalenda
+
+Code: CD810401, Coordinates: -7.313, 23.602
+
+#### Kanda Kanda
+
+Code: CD810402, Coordinates: -7.313, 23.602
+
+#### Luputa
+
+Code: CD810403, Coordinates: -7.313, 23.602
+
+#### Wikong
+
+Code: CD810404, Coordinates: -7.313, 23.602
+
+### Mwene-Ditu
+
+Code: CD8103, Coordinates: -6.993, 23.48
+Sectors: 2
+
+#### Makota
+
+Code: CD810301, Coordinates: -6.993, 23.48
+
+#### Mwene Ditu
+
+Code: CD810302, Coordinates: -6.993, 23.48
+
+### Ngandajika
+
+Code: CD8106, Coordinates: -6.701, 24.279
+Sectors: 3
+
+#### Kalambayi Kabanga
+
+Code: CD810601, Coordinates: -6.701, 24.279
+
+#### Mulumba
+
+Code: CD810602, Coordinates: -6.701, 24.279
+
+#### Ngandajika
+
+Code: CD810603, Coordinates: -6.701, 24.279
+

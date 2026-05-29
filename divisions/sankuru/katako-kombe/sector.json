@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CD830801",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Djalo Djeka",
+      "en": "Djalo Djeka",
+      "slug": "djalo-djeka"
+    },
+    "code": {
+      "id": "CD830801",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD8308",
+      "level": 2,
+      "name": {
+        "local": "Katako-Kombe",
+        "en": "Katako-Kombe",
+        "slug": "katako-kombe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD83",
+        "level": 1,
+        "name": {
+          "local": "Sankuru",
+          "en": "Sankuru",
+          "slug": "sankuru"
+        }
+      },
+      {
+        "id": "CD8308",
+        "level": 2,
+        "name": {
+          "local": "Katako-Kombe",
+          "en": "Katako-Kombe",
+          "slug": "katako-kombe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.372",
+      "lon": "24.414"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD830802",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Katako Kombe",
+      "en": "Katako Kombe",
+      "slug": "katako-kombe"
+    },
+    "code": {
+      "id": "CD830802",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD8308",
+      "level": 2,
+      "name": {
+        "local": "Katako-Kombe",
+        "en": "Katako-Kombe",
+        "slug": "katako-kombe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD83",
+        "level": 1,
+        "name": {
+          "local": "Sankuru",
+          "en": "Sankuru",
+          "slug": "sankuru"
+        }
+      },
+      {
+        "id": "CD8308",
+        "level": 2,
+        "name": {
+          "local": "Katako-Kombe",
+          "en": "Katako-Kombe",
+          "slug": "katako-kombe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.372",
+      "lon": "24.414"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD830803",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Wembo Nyama",
+      "en": "Wembo Nyama",
+      "slug": "wembo-nyama"
+    },
+    "code": {
+      "id": "CD830803",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD8308",
+      "level": 2,
+      "name": {
+        "local": "Katako-Kombe",
+        "en": "Katako-Kombe",
+        "slug": "katako-kombe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD83",
+        "level": 1,
+        "name": {
+          "local": "Sankuru",
+          "en": "Sankuru",
+          "slug": "sankuru"
+        }
+      },
+      {
+        "id": "CD8308",
+        "level": 2,
+        "name": {
+          "local": "Katako-Kombe",
+          "en": "Katako-Kombe",
+          "slug": "katako-kombe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.372",
+      "lon": "24.414"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

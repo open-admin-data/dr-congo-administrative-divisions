@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CD320301",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kikwit-Nord",
+      "en": "Kikwit-Nord",
+      "slug": "kikwit-nord"
+    },
+    "code": {
+      "id": "CD320301",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD3203",
+      "level": 2,
+      "name": {
+        "local": "Kikwit",
+        "en": "Kikwit",
+        "slug": "kikwit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD32",
+        "level": 1,
+        "name": {
+          "local": "Kwilu",
+          "en": "Kwilu",
+          "slug": "kwilu"
+        }
+      },
+      {
+        "id": "CD3203",
+        "level": 2,
+        "name": {
+          "local": "Kikwit",
+          "en": "Kikwit",
+          "slug": "kikwit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.06",
+      "lon": "18.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD320302",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kikwit-Sud",
+      "en": "Kikwit-Sud",
+      "slug": "kikwit-sud"
+    },
+    "code": {
+      "id": "CD320302",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD3203",
+      "level": 2,
+      "name": {
+        "local": "Kikwit",
+        "en": "Kikwit",
+        "slug": "kikwit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD32",
+        "level": 1,
+        "name": {
+          "local": "Kwilu",
+          "en": "Kwilu",
+          "slug": "kwilu"
+        }
+      },
+      {
+        "id": "CD3203",
+        "level": 2,
+        "name": {
+          "local": "Kikwit",
+          "en": "Kikwit",
+          "slug": "kikwit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.06",
+      "lon": "18.809"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

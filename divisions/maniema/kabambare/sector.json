@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CD630901",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kabambare",
+      "en": "Kabambare",
+      "slug": "kabambare"
+    },
+    "code": {
+      "id": "CD630901",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6309",
+      "level": 2,
+      "name": {
+        "local": "Kabambare",
+        "en": "Kabambare",
+        "slug": "kabambare"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD63",
+        "level": 1,
+        "name": {
+          "local": "Maniema",
+          "en": "Maniema",
+          "slug": "maniema"
+        }
+      },
+      {
+        "id": "CD6309",
+        "level": 2,
+        "name": {
+          "local": "Kabambare",
+          "en": "Kabambare",
+          "slug": "kabambare"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.414",
+      "lon": "27.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD630902",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Lusangi",
+      "en": "Lusangi",
+      "slug": "lusangi"
+    },
+    "code": {
+      "id": "CD630902",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6309",
+      "level": 2,
+      "name": {
+        "local": "Kabambare",
+        "en": "Kabambare",
+        "slug": "kabambare"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD63",
+        "level": 1,
+        "name": {
+          "local": "Maniema",
+          "en": "Maniema",
+          "slug": "maniema"
+        }
+      },
+      {
+        "id": "CD6309",
+        "level": 2,
+        "name": {
+          "local": "Kabambare",
+          "en": "Kabambare",
+          "slug": "kabambare"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.414",
+      "lon": "27.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD630903",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Saramabila",
+      "en": "Saramabila",
+      "slug": "saramabila"
+    },
+    "code": {
+      "id": "CD630903",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6309",
+      "level": 2,
+      "name": {
+        "local": "Kabambare",
+        "en": "Kabambare",
+        "slug": "kabambare"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD63",
+        "level": 1,
+        "name": {
+          "local": "Maniema",
+          "en": "Maniema",
+          "slug": "maniema"
+        }
+      },
+      {
+        "id": "CD6309",
+        "level": 2,
+        "name": {
+          "local": "Kabambare",
+          "en": "Kabambare",
+          "slug": "kabambare"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.414",
+      "lon": "27.776"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

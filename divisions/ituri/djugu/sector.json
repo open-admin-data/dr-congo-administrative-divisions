@@ -1,0 +1,704 @@
+[
+  {
+    "id": "CD540501",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Bambu",
+      "en": "Bambu",
+      "slug": "bambu"
+    },
+    "code": {
+      "id": "CD540501",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5405",
+      "level": 2,
+      "name": {
+        "local": "Djugu",
+        "en": "Djugu",
+        "slug": "djugu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD54",
+        "level": 1,
+        "name": {
+          "local": "Ituri",
+          "en": "Ituri",
+          "slug": "ituri"
+        }
+      },
+      {
+        "id": "CD5405",
+        "level": 2,
+        "name": {
+          "local": "Djugu",
+          "en": "Djugu",
+          "slug": "djugu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.886",
+      "lon": "30.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD540502",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Damas",
+      "en": "Damas",
+      "slug": "damas"
+    },
+    "code": {
+      "id": "CD540502",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5405",
+      "level": 2,
+      "name": {
+        "local": "Djugu",
+        "en": "Djugu",
+        "slug": "djugu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD54",
+        "level": 1,
+        "name": {
+          "local": "Ituri",
+          "en": "Ituri",
+          "slug": "ituri"
+        }
+      },
+      {
+        "id": "CD5405",
+        "level": 2,
+        "name": {
+          "local": "Djugu",
+          "en": "Djugu",
+          "slug": "djugu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.886",
+      "lon": "30.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD540503",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Drodro",
+      "en": "Drodro",
+      "slug": "drodro"
+    },
+    "code": {
+      "id": "CD540503",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5405",
+      "level": 2,
+      "name": {
+        "local": "Djugu",
+        "en": "Djugu",
+        "slug": "djugu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD54",
+        "level": 1,
+        "name": {
+          "local": "Ituri",
+          "en": "Ituri",
+          "slug": "ituri"
+        }
+      },
+      {
+        "id": "CD5405",
+        "level": 2,
+        "name": {
+          "local": "Djugu",
+          "en": "Djugu",
+          "slug": "djugu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.886",
+      "lon": "30.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD540504",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Fataki",
+      "en": "Fataki",
+      "slug": "fataki"
+    },
+    "code": {
+      "id": "CD540504",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5405",
+      "level": 2,
+      "name": {
+        "local": "Djugu",
+        "en": "Djugu",
+        "slug": "djugu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD54",
+        "level": 1,
+        "name": {
+          "local": "Ituri",
+          "en": "Ituri",
+          "slug": "ituri"
+        }
+      },
+      {
+        "id": "CD5405",
+        "level": 2,
+        "name": {
+          "local": "Djugu",
+          "en": "Djugu",
+          "slug": "djugu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.886",
+      "lon": "30.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD540505",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Jiba",
+      "en": "Jiba",
+      "slug": "jiba"
+    },
+    "code": {
+      "id": "CD540505",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5405",
+      "level": 2,
+      "name": {
+        "local": "Djugu",
+        "en": "Djugu",
+        "slug": "djugu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD54",
+        "level": 1,
+        "name": {
+          "local": "Ituri",
+          "en": "Ituri",
+          "slug": "ituri"
+        }
+      },
+      {
+        "id": "CD5405",
+        "level": 2,
+        "name": {
+          "local": "Djugu",
+          "en": "Djugu",
+          "slug": "djugu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.886",
+      "lon": "30.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD540506",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kilo",
+      "en": "Kilo",
+      "slug": "kilo"
+    },
+    "code": {
+      "id": "CD540506",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5405",
+      "level": 2,
+      "name": {
+        "local": "Djugu",
+        "en": "Djugu",
+        "slug": "djugu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD54",
+        "level": 1,
+        "name": {
+          "local": "Ituri",
+          "en": "Ituri",
+          "slug": "ituri"
+        }
+      },
+      {
+        "id": "CD5405",
+        "level": 2,
+        "name": {
+          "local": "Djugu",
+          "en": "Djugu",
+          "slug": "djugu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.886",
+      "lon": "30.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD540507",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Linga",
+      "en": "Linga",
+      "slug": "linga"
+    },
+    "code": {
+      "id": "CD540507",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5405",
+      "level": 2,
+      "name": {
+        "local": "Djugu",
+        "en": "Djugu",
+        "slug": "djugu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD54",
+        "level": 1,
+        "name": {
+          "local": "Ituri",
+          "en": "Ituri",
+          "slug": "ituri"
+        }
+      },
+      {
+        "id": "CD5405",
+        "level": 2,
+        "name": {
+          "local": "Djugu",
+          "en": "Djugu",
+          "slug": "djugu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.886",
+      "lon": "30.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD540508",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Lita",
+      "en": "Lita",
+      "slug": "lita"
+    },
+    "code": {
+      "id": "CD540508",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5405",
+      "level": 2,
+      "name": {
+        "local": "Djugu",
+        "en": "Djugu",
+        "slug": "djugu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD54",
+        "level": 1,
+        "name": {
+          "local": "Ituri",
+          "en": "Ituri",
+          "slug": "ituri"
+        }
+      },
+      {
+        "id": "CD5405",
+        "level": 2,
+        "name": {
+          "local": "Djugu",
+          "en": "Djugu",
+          "slug": "djugu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.886",
+      "lon": "30.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD540509",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Mangala",
+      "en": "Mangala",
+      "slug": "mangala"
+    },
+    "code": {
+      "id": "CD540509",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5405",
+      "level": 2,
+      "name": {
+        "local": "Djugu",
+        "en": "Djugu",
+        "slug": "djugu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD54",
+        "level": 1,
+        "name": {
+          "local": "Ituri",
+          "en": "Ituri",
+          "slug": "ituri"
+        }
+      },
+      {
+        "id": "CD5405",
+        "level": 2,
+        "name": {
+          "local": "Djugu",
+          "en": "Djugu",
+          "slug": "djugu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.886",
+      "lon": "30.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD540510",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Mongbalu",
+      "en": "Mongbalu",
+      "slug": "mongbalu"
+    },
+    "code": {
+      "id": "CD540510",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5405",
+      "level": 2,
+      "name": {
+        "local": "Djugu",
+        "en": "Djugu",
+        "slug": "djugu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD54",
+        "level": 1,
+        "name": {
+          "local": "Ituri",
+          "en": "Ituri",
+          "slug": "ituri"
+        }
+      },
+      {
+        "id": "CD5405",
+        "level": 2,
+        "name": {
+          "local": "Djugu",
+          "en": "Djugu",
+          "slug": "djugu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.886",
+      "lon": "30.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD540511",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Nizi",
+      "en": "Nizi",
+      "slug": "nizi"
+    },
+    "code": {
+      "id": "CD540511",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5405",
+      "level": 2,
+      "name": {
+        "local": "Djugu",
+        "en": "Djugu",
+        "slug": "djugu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD54",
+        "level": 1,
+        "name": {
+          "local": "Ituri",
+          "en": "Ituri",
+          "slug": "ituri"
+        }
+      },
+      {
+        "id": "CD5405",
+        "level": 2,
+        "name": {
+          "local": "Djugu",
+          "en": "Djugu",
+          "slug": "djugu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.886",
+      "lon": "30.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD540512",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Rethy",
+      "en": "Rethy",
+      "slug": "rethy"
+    },
+    "code": {
+      "id": "CD540512",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5405",
+      "level": 2,
+      "name": {
+        "local": "Djugu",
+        "en": "Djugu",
+        "slug": "djugu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD54",
+        "level": 1,
+        "name": {
+          "local": "Ituri",
+          "en": "Ituri",
+          "slug": "ituri"
+        }
+      },
+      {
+        "id": "CD5405",
+        "level": 2,
+        "name": {
+          "local": "Djugu",
+          "en": "Djugu",
+          "slug": "djugu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.886",
+      "lon": "30.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD540513",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Tchomia",
+      "en": "Tchomia",
+      "slug": "tchomia"
+    },
+    "code": {
+      "id": "CD540513",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5405",
+      "level": 2,
+      "name": {
+        "local": "Djugu",
+        "en": "Djugu",
+        "slug": "djugu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD54",
+        "level": 1,
+        "name": {
+          "local": "Ituri",
+          "en": "Ituri",
+          "slug": "ituri"
+        }
+      },
+      {
+        "id": "CD5405",
+        "level": 2,
+        "name": {
+          "local": "Djugu",
+          "en": "Djugu",
+          "slug": "djugu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.886",
+      "lon": "30.381"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

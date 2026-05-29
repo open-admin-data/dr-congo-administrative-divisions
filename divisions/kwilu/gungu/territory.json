@@ -1,0 +1,47 @@
+{
+  "id": "CD3210",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Gungu",
+    "en": "Gungu",
+    "slug": "gungu"
+  },
+  "code": {
+    "id": "CD3210",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD32",
+    "level": 1,
+    "name": {
+      "local": "Kwilu",
+      "en": "Kwilu",
+      "slug": "kwilu"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD32",
+      "level": 1,
+      "name": {
+        "local": "Kwilu",
+        "en": "Kwilu",
+        "slug": "kwilu"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.768",
+    "lon": "19.364"
+  },
+  "metadata": {},
+  "source": {}
+}

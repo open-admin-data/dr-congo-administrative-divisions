@@ -1,0 +1,47 @@
+{
+  "id": "CD3303",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Kiri",
+    "en": "Kiri",
+    "slug": "kiri"
+  },
+  "code": {
+    "id": "CD3303",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD33",
+    "level": 1,
+    "name": {
+      "local": "Maï-Ndombe",
+      "en": "Maï-Ndombe",
+      "slug": "ma-ndombe"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD33",
+      "level": 1,
+      "name": {
+        "local": "Maï-Ndombe",
+        "en": "Maï-Ndombe",
+        "slug": "ma-ndombe"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.724",
+    "lon": "19.097"
+  },
+  "metadata": {},
+  "source": {}
+}

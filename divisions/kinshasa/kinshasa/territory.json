@@ -1,0 +1,47 @@
+{
+  "id": "CD1000",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Kinshasa",
+    "en": "Kinshasa",
+    "slug": "kinshasa"
+  },
+  "code": {
+    "id": "CD1000",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD10",
+    "level": 1,
+    "name": {
+      "local": "Kinshasa",
+      "en": "Kinshasa",
+      "slug": "kinshasa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD10",
+      "level": 1,
+      "name": {
+        "local": "Kinshasa",
+        "en": "Kinshasa",
+        "slug": "kinshasa"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 35
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.477",
+    "lon": "15.788"
+  },
+  "metadata": {},
+  "source": {}
+}

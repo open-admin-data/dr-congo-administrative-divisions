@@ -1,0 +1,30 @@
+{
+  "id": "CD62",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Sud-Kivu",
+    "en": "Sud-Kivu",
+    "slug": "sud-kivu"
+  },
+  "code": {
+    "id": "CD62",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "territory": 9,
+    "sector": 34
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.297",
+    "lon": "28.177"
+  },
+  "metadata": {},
+  "source": {}
+}

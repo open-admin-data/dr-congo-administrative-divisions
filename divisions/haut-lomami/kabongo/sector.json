@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CD730401",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kabongo",
+      "en": "Kabongo",
+      "slug": "kabongo"
+    },
+    "code": {
+      "id": "CD730401",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7304",
+      "level": 2,
+      "name": {
+        "local": "Kabongo",
+        "en": "Kabongo",
+        "slug": "kabongo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD73",
+        "level": 1,
+        "name": {
+          "local": "Haut-Lomami",
+          "en": "Haut-Lomami",
+          "slug": "haut-lomami"
+        }
+      },
+      {
+        "id": "CD7304",
+        "level": 2,
+        "name": {
+          "local": "Kabongo",
+          "en": "Kabongo",
+          "slug": "kabongo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.093",
+      "lon": "25.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD730402",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kayamba",
+      "en": "Kayamba",
+      "slug": "kayamba"
+    },
+    "code": {
+      "id": "CD730402",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7304",
+      "level": 2,
+      "name": {
+        "local": "Kabongo",
+        "en": "Kabongo",
+        "slug": "kabongo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD73",
+        "level": 1,
+        "name": {
+          "local": "Haut-Lomami",
+          "en": "Haut-Lomami",
+          "slug": "haut-lomami"
+        }
+      },
+      {
+        "id": "CD7304",
+        "level": 2,
+        "name": {
+          "local": "Kabongo",
+          "en": "Kabongo",
+          "slug": "kabongo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.093",
+      "lon": "25.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD730403",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kitenge",
+      "en": "Kitenge",
+      "slug": "kitenge"
+    },
+    "code": {
+      "id": "CD730403",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7304",
+      "level": 2,
+      "name": {
+        "local": "Kabongo",
+        "en": "Kabongo",
+        "slug": "kabongo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD73",
+        "level": 1,
+        "name": {
+          "local": "Haut-Lomami",
+          "en": "Haut-Lomami",
+          "slug": "haut-lomami"
+        }
+      },
+      {
+        "id": "CD7304",
+        "level": 2,
+        "name": {
+          "local": "Kabongo",
+          "en": "Kabongo",
+          "slug": "kabongo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.093",
+      "lon": "25.545"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

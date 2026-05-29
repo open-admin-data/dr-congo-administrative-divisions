@@ -1,0 +1,56 @@
+[
+  {
+    "id": "CD450701",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Monkoto",
+      "en": "Monkoto",
+      "slug": "monkoto"
+    },
+    "code": {
+      "id": "CD450701",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD4507",
+      "level": 2,
+      "name": {
+        "local": "Monkoto",
+        "en": "Monkoto",
+        "slug": "monkoto"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD45",
+        "level": 1,
+        "name": {
+          "local": "Tshuapa",
+          "en": "Tshuapa",
+          "slug": "tshuapa"
+        }
+      },
+      {
+        "id": "CD4507",
+        "level": 2,
+        "name": {
+          "local": "Monkoto",
+          "en": "Monkoto",
+          "slug": "monkoto"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.597",
+      "lon": "20.9"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

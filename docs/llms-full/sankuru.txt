@@ -1,0 +1,103 @@
+# Sankuru — DR Congo Administrative Divisions
+
+> 6 territorys, 16 sectors
+> Code: CD83
+> Coordinates: -3.773, 23.44
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Territorys
+
+### Katako-Kombe
+
+Code: CD8308, Coordinates: -3.372, 24.414
+Sectors: 3
+
+#### Djalo Djeka
+
+Code: CD830801, Coordinates: -3.372, 24.414
+
+#### Katako Kombe
+
+Code: CD830802, Coordinates: -3.372, 24.414
+
+#### Wembo Nyama
+
+Code: CD830803, Coordinates: -3.372, 24.414
+
+### Kole
+
+Code: CD8306, Coordinates: -3.424, 22.503
+Sectors: 2
+
+#### Bena Dibele
+
+Code: CD830601, Coordinates: -3.424, 22.503
+
+#### Kole
+
+Code: CD830602, Coordinates: -3.424, 22.503
+
+### Lodja
+
+Code: CD8303, Coordinates: -3.518, 23.497
+Sectors: 3
+
+#### Lodja
+
+Code: CD830301, Coordinates: -3.518, 23.497
+
+#### Omendjadi
+
+Code: CD830302, Coordinates: -3.518, 23.497
+
+#### Vanga Kete
+
+Code: CD830303, Coordinates: -3.518, 23.497
+
+### Lomela
+
+Code: CD8307, Coordinates: -2.398, 23.415
+Sectors: 2
+
+#### Lomela
+
+Code: CD830701, Coordinates: -2.398, 23.415
+
+#### Tshudi Loto
+
+Code: CD830702, Coordinates: -2.398, 23.415
+
+### Lubefu
+
+Code: CD8309, Coordinates: -4.689, 24.331
+Sectors: 3
+
+#### Dikungu
+
+Code: CD830901, Coordinates: -4.689, 24.331
+
+#### Minga
+
+Code: CD830902, Coordinates: -4.689, 24.331
+
+#### Tshumbe
+
+Code: CD830903, Coordinates: -4.689, 24.331
+
+### Lusambo
+
+Code: CD8302, Coordinates: -5.009, 23.417
+Sectors: 3
+
+#### Lusambo
+
+Code: CD830201, Coordinates: -5.009, 23.417
+
+#### Ototo
+
+Code: CD830202, Coordinates: -5.009, 23.417
+
+#### Pania Mutombo
+
+Code: CD830203, Coordinates: -5.009, 23.417
+

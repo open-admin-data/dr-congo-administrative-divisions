@@ -1,0 +1,47 @@
+{
+  "id": "CD5111",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Bafwasende",
+    "en": "Bafwasende",
+    "slug": "bafwasende"
+  },
+  "code": {
+    "id": "CD5111",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD51",
+    "level": 1,
+    "name": {
+      "local": "Tshopo",
+      "en": "Tshopo",
+      "slug": "tshopo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD51",
+      "level": 1,
+      "name": {
+        "local": "Tshopo",
+        "en": "Tshopo",
+        "slug": "tshopo"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.799",
+    "lon": "26.994"
+  },
+  "metadata": {},
+  "source": {}
+}

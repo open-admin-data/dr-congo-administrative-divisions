@@ -1,0 +1,47 @@
+{
+  "id": "CD6107",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Oïcha",
+    "en": "Oïcha",
+    "slug": "ocha"
+  },
+  "code": {
+    "id": "CD6107",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD61",
+    "level": 1,
+    "name": {
+      "local": "Nord-Kivu",
+      "en": "Nord-Kivu",
+      "slug": "nord-kivu"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD61",
+      "level": 1,
+      "name": {
+        "local": "Nord-Kivu",
+        "en": "Nord-Kivu",
+        "slug": "nord-kivu"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.401",
+    "lon": "29.72"
+  },
+  "metadata": {},
+  "source": {}
+}

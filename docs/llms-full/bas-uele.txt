@@ -1,0 +1,83 @@
+# Bas-Uele — DR Congo Administrative Divisions
+
+> 6 territorys, 11 sectors
+> Code: CD52
+> Coordinates: 3.668, 25.215
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Territorys
+
+### Aketi
+
+Code: CD5204, Coordinates: 2.923, 23.742
+Sectors: 2
+
+#### Aketi
+
+Code: CD520401, Coordinates: 2.923, 23.742
+
+#### Likati
+
+Code: CD520402, Coordinates: 2.923, 23.742
+
+### Ango
+
+Code: CD5207, Coordinates: 4.447, 26.251
+Sectors: 1
+
+#### Ango
+
+Code: CD520701, Coordinates: 4.447, 26.251
+
+### Bambesa
+
+Code: CD5209, Coordinates: 2.972, 26.229
+Sectors: 1
+
+#### Ganga
+
+Code: CD520901, Coordinates: 2.972, 26.229
+
+### Bondo
+
+Code: CD5206, Coordinates: 4.255, 23.948
+Sectors: 3
+
+#### Bili
+
+Code: CD520601, Coordinates: 4.255, 23.948
+
+#### Bondo
+
+Code: CD520602, Coordinates: 4.255, 23.948
+
+#### Monga
+
+Code: CD520603, Coordinates: 4.255, 23.948
+
+### Buta
+
+Code: CD5202, Coordinates: 2.835, 25.144
+Sectors: 2
+
+#### Buta
+
+Code: CD520201, Coordinates: 2.835, 25.144
+
+#### Titule
+
+Code: CD520202, Coordinates: 2.835, 25.144
+
+### Poko
+
+Code: CD5208, Coordinates: 2.982, 27.051
+Sectors: 2
+
+#### Poko
+
+Code: CD520801, Coordinates: 2.982, 27.051
+
+#### Viadana
+
+Code: CD520802, Coordinates: 2.982, 27.051
+

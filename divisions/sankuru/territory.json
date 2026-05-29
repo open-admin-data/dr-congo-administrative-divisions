@@ -1,0 +1,284 @@
+[
+  {
+    "id": "CD8308",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Katako-Kombe",
+      "en": "Katako-Kombe",
+      "slug": "katako-kombe"
+    },
+    "code": {
+      "id": "CD8308",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD83",
+      "level": 1,
+      "name": {
+        "local": "Sankuru",
+        "en": "Sankuru",
+        "slug": "sankuru"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD83",
+        "level": 1,
+        "name": {
+          "local": "Sankuru",
+          "en": "Sankuru",
+          "slug": "sankuru"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.372",
+      "lon": "24.414"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD8306",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Kole",
+      "en": "Kole",
+      "slug": "kole"
+    },
+    "code": {
+      "id": "CD8306",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD83",
+      "level": 1,
+      "name": {
+        "local": "Sankuru",
+        "en": "Sankuru",
+        "slug": "sankuru"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD83",
+        "level": 1,
+        "name": {
+          "local": "Sankuru",
+          "en": "Sankuru",
+          "slug": "sankuru"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.424",
+      "lon": "22.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD8303",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Lodja",
+      "en": "Lodja",
+      "slug": "lodja"
+    },
+    "code": {
+      "id": "CD8303",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD83",
+      "level": 1,
+      "name": {
+        "local": "Sankuru",
+        "en": "Sankuru",
+        "slug": "sankuru"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD83",
+        "level": 1,
+        "name": {
+          "local": "Sankuru",
+          "en": "Sankuru",
+          "slug": "sankuru"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.518",
+      "lon": "23.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD8307",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Lomela",
+      "en": "Lomela",
+      "slug": "lomela"
+    },
+    "code": {
+      "id": "CD8307",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD83",
+      "level": 1,
+      "name": {
+        "local": "Sankuru",
+        "en": "Sankuru",
+        "slug": "sankuru"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD83",
+        "level": 1,
+        "name": {
+          "local": "Sankuru",
+          "en": "Sankuru",
+          "slug": "sankuru"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.398",
+      "lon": "23.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD8309",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Lubefu",
+      "en": "Lubefu",
+      "slug": "lubefu"
+    },
+    "code": {
+      "id": "CD8309",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD83",
+      "level": 1,
+      "name": {
+        "local": "Sankuru",
+        "en": "Sankuru",
+        "slug": "sankuru"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD83",
+        "level": 1,
+        "name": {
+          "local": "Sankuru",
+          "en": "Sankuru",
+          "slug": "sankuru"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.689",
+      "lon": "24.331"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD8302",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Lusambo",
+      "en": "Lusambo",
+      "slug": "lusambo"
+    },
+    "code": {
+      "id": "CD8302",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD83",
+      "level": 1,
+      "name": {
+        "local": "Sankuru",
+        "en": "Sankuru",
+        "slug": "sankuru"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD83",
+        "level": 1,
+        "name": {
+          "local": "Sankuru",
+          "en": "Sankuru",
+          "slug": "sankuru"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.009",
+      "lon": "23.417"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

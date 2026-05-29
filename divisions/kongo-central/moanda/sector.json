@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CD200301",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Boma Bungu",
+      "en": "Boma Bungu",
+      "slug": "boma-bungu"
+    },
+    "code": {
+      "id": "CD200301",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD2003",
+      "level": 2,
+      "name": {
+        "local": "Moanda",
+        "en": "Moanda",
+        "slug": "moanda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD20",
+        "level": 1,
+        "name": {
+          "local": "Kongo-Central",
+          "en": "Kongo-Central",
+          "slug": "kongo-central"
+        }
+      },
+      {
+        "id": "CD2003",
+        "level": 2,
+        "name": {
+          "local": "Moanda",
+          "en": "Moanda",
+          "slug": "moanda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.756",
+      "lon": "12.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD200302",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kitona",
+      "en": "Kitona",
+      "slug": "kitona"
+    },
+    "code": {
+      "id": "CD200302",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD2003",
+      "level": 2,
+      "name": {
+        "local": "Moanda",
+        "en": "Moanda",
+        "slug": "moanda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD20",
+        "level": 1,
+        "name": {
+          "local": "Kongo-Central",
+          "en": "Kongo-Central",
+          "slug": "kongo-central"
+        }
+      },
+      {
+        "id": "CD2003",
+        "level": 2,
+        "name": {
+          "local": "Moanda",
+          "en": "Moanda",
+          "slug": "moanda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.756",
+      "lon": "12.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD200303",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Moanda",
+      "en": "Moanda",
+      "slug": "moanda"
+    },
+    "code": {
+      "id": "CD200303",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD2003",
+      "level": 2,
+      "name": {
+        "local": "Moanda",
+        "en": "Moanda",
+        "slug": "moanda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD20",
+        "level": 1,
+        "name": {
+          "local": "Kongo-Central",
+          "en": "Kongo-Central",
+          "slug": "kongo-central"
+        }
+      },
+      {
+        "id": "CD2003",
+        "level": 2,
+        "name": {
+          "local": "Moanda",
+          "en": "Moanda",
+          "slug": "moanda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.756",
+      "lon": "12.943"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

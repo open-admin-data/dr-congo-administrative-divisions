@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CD510501",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Isangi",
+      "en": "Isangi",
+      "slug": "isangi"
+    },
+    "code": {
+      "id": "CD510501",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5105",
+      "level": 2,
+      "name": {
+        "local": "Isangi",
+        "en": "Isangi",
+        "slug": "isangi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD51",
+        "level": 1,
+        "name": {
+          "local": "Tshopo",
+          "en": "Tshopo",
+          "slug": "tshopo"
+        }
+      },
+      {
+        "id": "CD5105",
+        "level": 2,
+        "name": {
+          "local": "Isangi",
+          "en": "Isangi",
+          "slug": "isangi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.357",
+      "lon": "24.062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD510502",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Yabaondo",
+      "en": "Yabaondo",
+      "slug": "yabaondo"
+    },
+    "code": {
+      "id": "CD510502",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5105",
+      "level": 2,
+      "name": {
+        "local": "Isangi",
+        "en": "Isangi",
+        "slug": "isangi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD51",
+        "level": 1,
+        "name": {
+          "local": "Tshopo",
+          "en": "Tshopo",
+          "slug": "tshopo"
+        }
+      },
+      {
+        "id": "CD5105",
+        "level": 2,
+        "name": {
+          "local": "Isangi",
+          "en": "Isangi",
+          "slug": "isangi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.357",
+      "lon": "24.062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD510503",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Yahisuli",
+      "en": "Yahisuli",
+      "slug": "yahisuli"
+    },
+    "code": {
+      "id": "CD510503",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5105",
+      "level": 2,
+      "name": {
+        "local": "Isangi",
+        "en": "Isangi",
+        "slug": "isangi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD51",
+        "level": 1,
+        "name": {
+          "local": "Tshopo",
+          "en": "Tshopo",
+          "slug": "tshopo"
+        }
+      },
+      {
+        "id": "CD5105",
+        "level": 2,
+        "name": {
+          "local": "Isangi",
+          "en": "Isangi",
+          "slug": "isangi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.357",
+      "lon": "24.062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD510504",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Yakusu",
+      "en": "Yakusu",
+      "slug": "yakusu"
+    },
+    "code": {
+      "id": "CD510504",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5105",
+      "level": 2,
+      "name": {
+        "local": "Isangi",
+        "en": "Isangi",
+        "slug": "isangi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD51",
+        "level": 1,
+        "name": {
+          "local": "Tshopo",
+          "en": "Tshopo",
+          "slug": "tshopo"
+        }
+      },
+      {
+        "id": "CD5105",
+        "level": 2,
+        "name": {
+          "local": "Isangi",
+          "en": "Isangi",
+          "slug": "isangi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.357",
+      "lon": "24.062"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

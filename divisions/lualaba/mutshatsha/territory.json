@@ -1,0 +1,47 @@
+{
+  "id": "CD7202",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Mutshatsha",
+    "en": "Mutshatsha",
+    "slug": "mutshatsha"
+  },
+  "code": {
+    "id": "CD7202",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD72",
+    "level": 1,
+    "name": {
+      "local": "Lualaba",
+      "en": "Lualaba",
+      "slug": "lualaba"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD72",
+      "level": 1,
+      "name": {
+        "local": "Lualaba",
+        "en": "Lualaba",
+        "slug": "lualaba"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.858",
+    "lon": "25.166"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "CD4402",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Lisala",
+    "en": "Lisala",
+    "slug": "lisala"
+  },
+  "code": {
+    "id": "CD4402",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD44",
+    "level": 1,
+    "name": {
+      "local": "Mongala",
+      "en": "Mongala",
+      "slug": "mongala"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD44",
+      "level": 1,
+      "name": {
+        "local": "Mongala",
+        "en": "Mongala",
+        "slug": "mongala"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.548",
+    "lon": "21.306"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "CD6201",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Bukavu",
+    "en": "Bukavu",
+    "slug": "bukavu"
+  },
+  "code": {
+    "id": "CD6201",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD62",
+    "level": 1,
+    "name": {
+      "local": "Sud-Kivu",
+      "en": "Sud-Kivu",
+      "slug": "sud-kivu"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD62",
+      "level": 1,
+      "name": {
+        "local": "Sud-Kivu",
+        "en": "Sud-Kivu",
+        "slug": "sud-kivu"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.508",
+    "lon": "28.835"
+  },
+  "metadata": {},
+  "source": {}
+}

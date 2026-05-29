@@ -1,0 +1,47 @@
+{
+  "id": "CD5204",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Aketi",
+    "en": "Aketi",
+    "slug": "aketi"
+  },
+  "code": {
+    "id": "CD5204",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD52",
+    "level": 1,
+    "name": {
+      "local": "Bas-Uele",
+      "en": "Bas-Uele",
+      "slug": "bas-uele"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD52",
+      "level": 1,
+      "name": {
+        "local": "Bas-Uele",
+        "en": "Bas-Uele",
+        "slug": "bas-uele"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.923",
+    "lon": "23.742"
+  },
+  "metadata": {},
+  "source": {}
+}

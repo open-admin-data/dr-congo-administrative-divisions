@@ -1,0 +1,143 @@
+# Kasaï-Central — DR Congo Administrative Divisions
+
+> 6 territorys, 26 sectors
+> Code: CD91
+> Coordinates: -6.047, 22.267
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Territorys
+
+### Demba
+
+Code: CD9106, Coordinates: -5.236, 22.117
+Sectors: 3
+
+#### Bena Leka
+
+Code: CD910601, Coordinates: -5.236, 22.117
+
+#### Demba
+
+Code: CD910602, Coordinates: -5.236, 22.117
+
+#### Mutoto
+
+Code: CD910603, Coordinates: -5.236, 22.117
+
+### Dibaya
+
+Code: CD9102, Coordinates: -6.391, 22.771
+Sectors: 4
+
+#### Bunkonde
+
+Code: CD910201, Coordinates: -6.391, 22.771
+
+#### Dibaya
+
+Code: CD910202, Coordinates: -6.391, 22.771
+
+#### Lubondaie
+
+Code: CD910203, Coordinates: -6.391, 22.771
+
+#### Tshikula
+
+Code: CD910204, Coordinates: -6.391, 22.771
+
+### Dimbelenge
+
+Code: CD9107, Coordinates: -5.022, 22.684
+Sectors: 4
+
+#### Bena Tshiadi
+
+Code: CD910701, Coordinates: -5.022, 22.684
+
+#### Katende
+
+Code: CD910702, Coordinates: -5.022, 22.684
+
+#### Lubunga
+
+Code: CD910703, Coordinates: -5.022, 22.684
+
+#### Muetshi
+
+Code: CD910704, Coordinates: -5.022, 22.684
+
+### Kananga
+
+Code: CD9101, Coordinates: -5.895, 22.444
+Sectors: 6
+
+#### Bobozo
+
+Code: CD910101, Coordinates: -5.895, 22.444
+
+#### Kananga
+
+Code: CD910102, Coordinates: -5.895, 22.444
+
+#### Katoka
+
+Code: CD910103, Coordinates: -5.895, 22.444
+
+#### Lukonga
+
+Code: CD910104, Coordinates: -5.895, 22.444
+
+#### Ndesha
+
+Code: CD910105, Coordinates: -5.895, 22.444
+
+#### Tshikaji
+
+Code: CD910106, Coordinates: -5.895, 22.444
+
+### Kazumba
+
+Code: CD9105, Coordinates: -6.402, 22.008
+Sectors: 5
+
+#### Bilomba
+
+Code: CD910501, Coordinates: -6.402, 22.008
+
+#### Kalomba
+
+Code: CD910502, Coordinates: -6.402, 22.008
+
+#### Mikalayi
+
+Code: CD910503, Coordinates: -6.402, 22.008
+
+#### Ndekesha
+
+Code: CD910504, Coordinates: -6.402, 22.008
+
+#### Tshibala
+
+Code: CD910505, Coordinates: -6.402, 22.008
+
+### Luiza
+
+Code: CD9104, Coordinates: -7.201, 22.477
+Sectors: 4
+
+#### Luambo
+
+Code: CD910401, Coordinates: -7.201, 22.477
+
+#### Luiza
+
+Code: CD910402, Coordinates: -7.201, 22.477
+
+#### Masuika
+
+Code: CD910403, Coordinates: -7.201, 22.477
+
+#### Yangala
+
+Code: CD910404, Coordinates: -7.201, 22.477
+

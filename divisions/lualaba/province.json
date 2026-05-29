@@ -1,0 +1,30 @@
+{
+  "id": "CD72",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Lualaba",
+    "en": "Lualaba",
+    "slug": "lualaba"
+  },
+  "code": {
+    "id": "CD72",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "territory": 5,
+    "sector": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.689",
+    "lon": "23.026"
+  },
+  "metadata": {},
+  "source": {}
+}

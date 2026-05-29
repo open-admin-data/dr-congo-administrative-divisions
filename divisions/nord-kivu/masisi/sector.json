@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CD610301",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Katoyi",
+      "en": "Katoyi",
+      "slug": "katoyi"
+    },
+    "code": {
+      "id": "CD610301",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6103",
+      "level": 2,
+      "name": {
+        "local": "Masisi",
+        "en": "Masisi",
+        "slug": "masisi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD61",
+        "level": 1,
+        "name": {
+          "local": "Nord-Kivu",
+          "en": "Nord-Kivu",
+          "slug": "nord-kivu"
+        }
+      },
+      {
+        "id": "CD6103",
+        "level": 2,
+        "name": {
+          "local": "Masisi",
+          "en": "Masisi",
+          "slug": "masisi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.371",
+      "lon": "28.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD610302",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kirotshe",
+      "en": "Kirotshe",
+      "slug": "kirotshe"
+    },
+    "code": {
+      "id": "CD610302",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6103",
+      "level": 2,
+      "name": {
+        "local": "Masisi",
+        "en": "Masisi",
+        "slug": "masisi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD61",
+        "level": 1,
+        "name": {
+          "local": "Nord-Kivu",
+          "en": "Nord-Kivu",
+          "slug": "nord-kivu"
+        }
+      },
+      {
+        "id": "CD6103",
+        "level": 2,
+        "name": {
+          "local": "Masisi",
+          "en": "Masisi",
+          "slug": "masisi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.371",
+      "lon": "28.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD610303",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Masisi",
+      "en": "Masisi",
+      "slug": "masisi"
+    },
+    "code": {
+      "id": "CD610303",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6103",
+      "level": 2,
+      "name": {
+        "local": "Masisi",
+        "en": "Masisi",
+        "slug": "masisi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD61",
+        "level": 1,
+        "name": {
+          "local": "Nord-Kivu",
+          "en": "Nord-Kivu",
+          "slug": "nord-kivu"
+        }
+      },
+      {
+        "id": "CD6103",
+        "level": 2,
+        "name": {
+          "local": "Masisi",
+          "en": "Masisi",
+          "slug": "masisi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.371",
+      "lon": "28.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD610304",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Mweso",
+      "en": "Mweso",
+      "slug": "mweso"
+    },
+    "code": {
+      "id": "CD610304",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6103",
+      "level": 2,
+      "name": {
+        "local": "Masisi",
+        "en": "Masisi",
+        "slug": "masisi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD61",
+        "level": 1,
+        "name": {
+          "local": "Nord-Kivu",
+          "en": "Nord-Kivu",
+          "slug": "nord-kivu"
+        }
+      },
+      {
+        "id": "CD6103",
+        "level": 2,
+        "name": {
+          "local": "Masisi",
+          "en": "Masisi",
+          "slug": "masisi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.371",
+      "lon": "28.882"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

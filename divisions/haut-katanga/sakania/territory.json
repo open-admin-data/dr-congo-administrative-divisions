@@ -1,0 +1,47 @@
+{
+  "id": "CD7104",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Sakania",
+    "en": "Sakania",
+    "slug": "sakania"
+  },
+  "code": {
+    "id": "CD7104",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD71",
+    "level": 1,
+    "name": {
+      "local": "Haut-Katanga",
+      "en": "Haut-Katanga",
+      "slug": "haut-katanga"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD71",
+      "level": 1,
+      "name": {
+        "local": "Haut-Katanga",
+        "en": "Haut-Katanga",
+        "slug": "haut-katanga"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.605",
+    "lon": "29.156"
+  },
+  "metadata": {},
+  "source": {}
+}

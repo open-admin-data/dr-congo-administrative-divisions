@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CD530201",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Isiro",
+      "en": "Isiro",
+      "slug": "isiro"
+    },
+    "code": {
+      "id": "CD530201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5302",
+      "level": 2,
+      "name": {
+        "local": "Rungu",
+        "en": "Rungu",
+        "slug": "rungu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD53",
+        "level": 1,
+        "name": {
+          "local": "Haut-Uele",
+          "en": "Haut-Uele",
+          "slug": "haut-uele"
+        }
+      },
+      {
+        "id": "CD5302",
+        "level": 2,
+        "name": {
+          "local": "Rungu",
+          "en": "Rungu",
+          "slug": "rungu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.609",
+      "lon": "27.32"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD530202",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Rungu",
+      "en": "Rungu",
+      "slug": "rungu"
+    },
+    "code": {
+      "id": "CD530202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5302",
+      "level": 2,
+      "name": {
+        "local": "Rungu",
+        "en": "Rungu",
+        "slug": "rungu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD53",
+        "level": 1,
+        "name": {
+          "local": "Haut-Uele",
+          "en": "Haut-Uele",
+          "slug": "haut-uele"
+        }
+      },
+      {
+        "id": "CD5302",
+        "level": 2,
+        "name": {
+          "local": "Rungu",
+          "en": "Rungu",
+          "slug": "rungu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.609",
+      "lon": "27.32"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

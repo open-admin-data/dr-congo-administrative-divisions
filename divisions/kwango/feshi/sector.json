@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CD310301",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Feshi",
+      "en": "Feshi",
+      "slug": "feshi"
+    },
+    "code": {
+      "id": "CD310301",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD3103",
+      "level": 2,
+      "name": {
+        "local": "Feshi",
+        "en": "Feshi",
+        "slug": "feshi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD31",
+        "level": 1,
+        "name": {
+          "local": "Kwango",
+          "en": "Kwango",
+          "slug": "kwango"
+        }
+      },
+      {
+        "id": "CD3103",
+        "level": 2,
+        "name": {
+          "local": "Feshi",
+          "en": "Feshi",
+          "slug": "feshi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.306",
+      "lon": "18.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD310302",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kisanji",
+      "en": "Kisanji",
+      "slug": "kisanji"
+    },
+    "code": {
+      "id": "CD310302",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD3103",
+      "level": 2,
+      "name": {
+        "local": "Feshi",
+        "en": "Feshi",
+        "slug": "feshi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD31",
+        "level": 1,
+        "name": {
+          "local": "Kwango",
+          "en": "Kwango",
+          "slug": "kwango"
+        }
+      },
+      {
+        "id": "CD3103",
+        "level": 2,
+        "name": {
+          "local": "Feshi",
+          "en": "Feshi",
+          "slug": "feshi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.306",
+      "lon": "18.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD310303",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Mwela Lembwa",
+      "en": "Mwela Lembwa",
+      "slug": "mwela-lembwa"
+    },
+    "code": {
+      "id": "CD310303",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD3103",
+      "level": 2,
+      "name": {
+        "local": "Feshi",
+        "en": "Feshi",
+        "slug": "feshi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD31",
+        "level": 1,
+        "name": {
+          "local": "Kwango",
+          "en": "Kwango",
+          "slug": "kwango"
+        }
+      },
+      {
+        "id": "CD3103",
+        "level": 2,
+        "name": {
+          "local": "Feshi",
+          "en": "Feshi",
+          "slug": "feshi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.306",
+      "lon": "18.233"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

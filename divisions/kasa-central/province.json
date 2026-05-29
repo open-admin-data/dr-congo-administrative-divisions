@@ -1,0 +1,30 @@
+{
+  "id": "CD91",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Kasaï-Central",
+    "en": "Kasaï-Central",
+    "slug": "kasa-central"
+  },
+  "code": {
+    "id": "CD91",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "territory": 6,
+    "sector": 26
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.047",
+    "lon": "22.267"
+  },
+  "metadata": {},
+  "source": {}
+}

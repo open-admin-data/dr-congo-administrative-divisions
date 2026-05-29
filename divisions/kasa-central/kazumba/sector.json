@@ -1,0 +1,272 @@
+[
+  {
+    "id": "CD910501",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Bilomba",
+      "en": "Bilomba",
+      "slug": "bilomba"
+    },
+    "code": {
+      "id": "CD910501",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD9105",
+      "level": 2,
+      "name": {
+        "local": "Kazumba",
+        "en": "Kazumba",
+        "slug": "kazumba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD91",
+        "level": 1,
+        "name": {
+          "local": "Kasaï-Central",
+          "en": "Kasaï-Central",
+          "slug": "kasa-central"
+        }
+      },
+      {
+        "id": "CD9105",
+        "level": 2,
+        "name": {
+          "local": "Kazumba",
+          "en": "Kazumba",
+          "slug": "kazumba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.402",
+      "lon": "22.008"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD910502",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kalomba",
+      "en": "Kalomba",
+      "slug": "kalomba"
+    },
+    "code": {
+      "id": "CD910502",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD9105",
+      "level": 2,
+      "name": {
+        "local": "Kazumba",
+        "en": "Kazumba",
+        "slug": "kazumba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD91",
+        "level": 1,
+        "name": {
+          "local": "Kasaï-Central",
+          "en": "Kasaï-Central",
+          "slug": "kasa-central"
+        }
+      },
+      {
+        "id": "CD9105",
+        "level": 2,
+        "name": {
+          "local": "Kazumba",
+          "en": "Kazumba",
+          "slug": "kazumba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.402",
+      "lon": "22.008"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD910503",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Mikalayi",
+      "en": "Mikalayi",
+      "slug": "mikalayi"
+    },
+    "code": {
+      "id": "CD910503",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD9105",
+      "level": 2,
+      "name": {
+        "local": "Kazumba",
+        "en": "Kazumba",
+        "slug": "kazumba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD91",
+        "level": 1,
+        "name": {
+          "local": "Kasaï-Central",
+          "en": "Kasaï-Central",
+          "slug": "kasa-central"
+        }
+      },
+      {
+        "id": "CD9105",
+        "level": 2,
+        "name": {
+          "local": "Kazumba",
+          "en": "Kazumba",
+          "slug": "kazumba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.402",
+      "lon": "22.008"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD910504",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Ndekesha",
+      "en": "Ndekesha",
+      "slug": "ndekesha"
+    },
+    "code": {
+      "id": "CD910504",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD9105",
+      "level": 2,
+      "name": {
+        "local": "Kazumba",
+        "en": "Kazumba",
+        "slug": "kazumba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD91",
+        "level": 1,
+        "name": {
+          "local": "Kasaï-Central",
+          "en": "Kasaï-Central",
+          "slug": "kasa-central"
+        }
+      },
+      {
+        "id": "CD9105",
+        "level": 2,
+        "name": {
+          "local": "Kazumba",
+          "en": "Kazumba",
+          "slug": "kazumba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.402",
+      "lon": "22.008"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD910505",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Tshibala",
+      "en": "Tshibala",
+      "slug": "tshibala"
+    },
+    "code": {
+      "id": "CD910505",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD9105",
+      "level": 2,
+      "name": {
+        "local": "Kazumba",
+        "en": "Kazumba",
+        "slug": "kazumba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD91",
+        "level": 1,
+        "name": {
+          "local": "Kasaï-Central",
+          "en": "Kasaï-Central",
+          "slug": "kasa-central"
+        }
+      },
+      {
+        "id": "CD9105",
+        "level": 2,
+        "name": {
+          "local": "Kazumba",
+          "en": "Kazumba",
+          "slug": "kazumba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.402",
+      "lon": "22.008"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

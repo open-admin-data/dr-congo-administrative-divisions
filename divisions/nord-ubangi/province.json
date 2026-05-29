@@ -1,0 +1,30 @@
+{
+  "id": "CD43",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Nord-Ubangi",
+    "en": "Nord-Ubangi",
+    "slug": "nord-ubangi"
+  },
+  "code": {
+    "id": "CD43",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "territory": 5,
+    "sector": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.981",
+    "lon": "21.355"
+  },
+  "metadata": {},
+  "source": {}
+}

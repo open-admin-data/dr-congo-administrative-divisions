@@ -1,0 +1,56 @@
+[
+  {
+    "id": "CD740701",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kabalo",
+      "en": "Kabalo",
+      "slug": "kabalo"
+    },
+    "code": {
+      "id": "CD740701",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7407",
+      "level": 2,
+      "name": {
+        "local": "Kabalo",
+        "en": "Kabalo",
+        "slug": "kabalo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD74",
+        "level": 1,
+        "name": {
+          "local": "Tanganyika",
+          "en": "Tanganyika",
+          "slug": "tanganyika"
+        }
+      },
+      {
+        "id": "CD7407",
+        "level": 2,
+        "name": {
+          "local": "Kabalo",
+          "en": "Kabalo",
+          "slug": "kabalo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.184",
+      "lon": "26.978"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "id": "CD83",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Sankuru",
+    "en": "Sankuru",
+    "slug": "sankuru"
+  },
+  "code": {
+    "id": "CD83",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "territory": 6,
+    "sector": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.773",
+    "lon": "23.44"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,378 @@
+[
+  {
+    "id": "CD5111",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Bafwasende",
+      "en": "Bafwasende",
+      "slug": "bafwasende"
+    },
+    "code": {
+      "id": "CD5111",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD51",
+      "level": 1,
+      "name": {
+        "local": "Tshopo",
+        "en": "Tshopo",
+        "slug": "tshopo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD51",
+        "level": 1,
+        "name": {
+          "local": "Tshopo",
+          "en": "Tshopo",
+          "slug": "tshopo"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.799",
+      "lon": "26.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD5110",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Banalia",
+      "en": "Banalia",
+      "slug": "banalia"
+    },
+    "code": {
+      "id": "CD5110",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD51",
+      "level": 1,
+      "name": {
+        "local": "Tshopo",
+        "en": "Tshopo",
+        "slug": "tshopo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD51",
+        "level": 1,
+        "name": {
+          "local": "Tshopo",
+          "en": "Tshopo",
+          "slug": "tshopo"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.495",
+      "lon": "25.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD5109",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Basoko",
+      "en": "Basoko",
+      "slug": "basoko"
+    },
+    "code": {
+      "id": "CD5109",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD51",
+      "level": 1,
+      "name": {
+        "local": "Tshopo",
+        "en": "Tshopo",
+        "slug": "tshopo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD51",
+        "level": 1,
+        "name": {
+          "local": "Tshopo",
+          "en": "Tshopo",
+          "slug": "tshopo"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.677",
+      "lon": "23.898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD5105",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Isangi",
+      "en": "Isangi",
+      "slug": "isangi"
+    },
+    "code": {
+      "id": "CD5105",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD51",
+      "level": 1,
+      "name": {
+        "local": "Tshopo",
+        "en": "Tshopo",
+        "slug": "tshopo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD51",
+        "level": 1,
+        "name": {
+          "local": "Tshopo",
+          "en": "Tshopo",
+          "slug": "tshopo"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.357",
+      "lon": "24.062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD5101",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Kisangani",
+      "en": "Kisangani",
+      "slug": "kisangani"
+    },
+    "code": {
+      "id": "CD5101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD51",
+      "level": 1,
+      "name": {
+        "local": "Tshopo",
+        "en": "Tshopo",
+        "slug": "tshopo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD51",
+        "level": 1,
+        "name": {
+          "local": "Tshopo",
+          "en": "Tshopo",
+          "slug": "tshopo"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.545",
+      "lon": "25.193"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD5103",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Opala",
+      "en": "Opala",
+      "slug": "opala"
+    },
+    "code": {
+      "id": "CD5103",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD51",
+      "level": 1,
+      "name": {
+        "local": "Tshopo",
+        "en": "Tshopo",
+        "slug": "tshopo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD51",
+        "level": 1,
+        "name": {
+          "local": "Tshopo",
+          "en": "Tshopo",
+          "slug": "tshopo"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.708",
+      "lon": "23.953"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD5102",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Ubundu",
+      "en": "Ubundu",
+      "slug": "ubundu"
+    },
+    "code": {
+      "id": "CD5102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD51",
+      "level": 1,
+      "name": {
+        "local": "Tshopo",
+        "en": "Tshopo",
+        "slug": "tshopo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD51",
+        "level": 1,
+        "name": {
+          "local": "Tshopo",
+          "en": "Tshopo",
+          "slug": "tshopo"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.602",
+      "lon": "25.394"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD5107",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Yahuma",
+      "en": "Yahuma",
+      "slug": "yahuma"
+    },
+    "code": {
+      "id": "CD5107",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD51",
+      "level": 1,
+      "name": {
+        "local": "Tshopo",
+        "en": "Tshopo",
+        "slug": "tshopo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD51",
+        "level": 1,
+        "name": {
+          "local": "Tshopo",
+          "en": "Tshopo",
+          "slug": "tshopo"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.8",
+      "lon": "23.242"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

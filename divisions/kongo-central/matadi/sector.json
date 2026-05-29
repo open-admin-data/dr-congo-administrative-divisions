@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CD200101",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Matadi",
+      "en": "Matadi",
+      "slug": "matadi"
+    },
+    "code": {
+      "id": "CD200101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD2001",
+      "level": 2,
+      "name": {
+        "local": "Matadi",
+        "en": "Matadi",
+        "slug": "matadi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD20",
+        "level": 1,
+        "name": {
+          "local": "Kongo-Central",
+          "en": "Kongo-Central",
+          "slug": "kongo-central"
+        }
+      },
+      {
+        "id": "CD2001",
+        "level": 2,
+        "name": {
+          "local": "Matadi",
+          "en": "Matadi",
+          "slug": "matadi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.841",
+      "lon": "13.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD200102",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Nzanza",
+      "en": "Nzanza",
+      "slug": "nzanza"
+    },
+    "code": {
+      "id": "CD200102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD2001",
+      "level": 2,
+      "name": {
+        "local": "Matadi",
+        "en": "Matadi",
+        "slug": "matadi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD20",
+        "level": 1,
+        "name": {
+          "local": "Kongo-Central",
+          "en": "Kongo-Central",
+          "slug": "kongo-central"
+        }
+      },
+      {
+        "id": "CD2001",
+        "level": 2,
+        "name": {
+          "local": "Matadi",
+          "en": "Matadi",
+          "slug": "matadi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.841",
+      "lon": "13.459"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

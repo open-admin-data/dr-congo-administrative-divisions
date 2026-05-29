@@ -1,0 +1,87 @@
+# Tshuapa — DR Congo Administrative Divisions
+
+> 6 territorys, 12 sectors
+> Code: CD45
+> Coordinates: -0.384, 21.529
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Territorys
+
+### Befale
+
+Code: CD4503, Coordinates: 0.596, 21.058
+Sectors: 2
+
+#### Befale
+
+Code: CD450301, Coordinates: 0.596, 21.058
+
+#### Mompono
+
+Code: CD450302, Coordinates: 0.596, 21.058
+
+### Boende
+
+Code: CD4502, Coordinates: -0.494, 20.953
+Sectors: 2
+
+#### Boende
+
+Code: CD450201, Coordinates: -0.494, 20.953
+
+#### Wema
+
+Code: CD450202, Coordinates: -0.494, 20.953
+
+### Bokungu
+
+Code: CD4506, Coordinates: -0.898, 22.138
+Sectors: 3
+
+#### Bokungu
+
+Code: CD450601, Coordinates: -0.898, 22.138
+
+#### Bosanga
+
+Code: CD450602, Coordinates: -0.898, 22.138
+
+#### Yalifafo
+
+Code: CD450603, Coordinates: -0.898, 22.138
+
+### Djolu
+
+Code: CD4504, Coordinates: 0.68, 22.228
+Sectors: 2
+
+#### Djolu
+
+Code: CD450401, Coordinates: 0.68, 22.228
+
+#### Lingomo
+
+Code: CD450402, Coordinates: 0.68, 22.228
+
+### Ikela
+
+Code: CD4505, Coordinates: -0.989, 23.087
+Sectors: 2
+
+#### Ikela
+
+Code: CD450501, Coordinates: -0.989, 23.087
+
+#### Mondombe
+
+Code: CD450502, Coordinates: -0.989, 23.087
+
+### Monkoto
+
+Code: CD4507, Coordinates: -1.597, 20.9
+Sectors: 1
+
+#### Monkoto
+
+Code: CD450701, Coordinates: -1.597, 20.9
+

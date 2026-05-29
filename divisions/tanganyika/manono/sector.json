@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CD740601",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Ankoro",
+      "en": "Ankoro",
+      "slug": "ankoro"
+    },
+    "code": {
+      "id": "CD740601",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7406",
+      "level": 2,
+      "name": {
+        "local": "Manono",
+        "en": "Manono",
+        "slug": "manono"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD74",
+        "level": 1,
+        "name": {
+          "local": "Tanganyika",
+          "en": "Tanganyika",
+          "slug": "tanganyika"
+        }
+      },
+      {
+        "id": "CD7406",
+        "level": 2,
+        "name": {
+          "local": "Manono",
+          "en": "Manono",
+          "slug": "manono"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.421",
+      "lon": "27.589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD740602",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kiyambi",
+      "en": "Kiyambi",
+      "slug": "kiyambi"
+    },
+    "code": {
+      "id": "CD740602",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7406",
+      "level": 2,
+      "name": {
+        "local": "Manono",
+        "en": "Manono",
+        "slug": "manono"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD74",
+        "level": 1,
+        "name": {
+          "local": "Tanganyika",
+          "en": "Tanganyika",
+          "slug": "tanganyika"
+        }
+      },
+      {
+        "id": "CD7406",
+        "level": 2,
+        "name": {
+          "local": "Manono",
+          "en": "Manono",
+          "slug": "manono"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.421",
+      "lon": "27.589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD740603",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Manono",
+      "en": "Manono",
+      "slug": "manono"
+    },
+    "code": {
+      "id": "CD740603",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7406",
+      "level": 2,
+      "name": {
+        "local": "Manono",
+        "en": "Manono",
+        "slug": "manono"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD74",
+        "level": 1,
+        "name": {
+          "local": "Tanganyika",
+          "en": "Tanganyika",
+          "slug": "tanganyika"
+        }
+      },
+      {
+        "id": "CD7406",
+        "level": 2,
+        "name": {
+          "local": "Manono",
+          "en": "Manono",
+          "slug": "manono"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.421",
+      "lon": "27.589"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CD530701",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Aba",
+      "en": "Aba",
+      "slug": "aba"
+    },
+    "code": {
+      "id": "CD530701",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5307",
+      "level": 2,
+      "name": {
+        "local": "Faradje",
+        "en": "Faradje",
+        "slug": "faradje"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD53",
+        "level": 1,
+        "name": {
+          "local": "Haut-Uele",
+          "en": "Haut-Uele",
+          "slug": "haut-uele"
+        }
+      },
+      {
+        "id": "CD5307",
+        "level": 2,
+        "name": {
+          "local": "Faradje",
+          "en": "Faradje",
+          "slug": "faradje"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.485",
+      "lon": "29.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD530702",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Faradje",
+      "en": "Faradje",
+      "slug": "faradje"
+    },
+    "code": {
+      "id": "CD530702",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5307",
+      "level": 2,
+      "name": {
+        "local": "Faradje",
+        "en": "Faradje",
+        "slug": "faradje"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD53",
+        "level": 1,
+        "name": {
+          "local": "Haut-Uele",
+          "en": "Haut-Uele",
+          "slug": "haut-uele"
+        }
+      },
+      {
+        "id": "CD5307",
+        "level": 2,
+        "name": {
+          "local": "Faradje",
+          "en": "Faradje",
+          "slug": "faradje"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.485",
+      "lon": "29.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD530703",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Makoro",
+      "en": "Makoro",
+      "slug": "makoro"
+    },
+    "code": {
+      "id": "CD530703",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5307",
+      "level": 2,
+      "name": {
+        "local": "Faradje",
+        "en": "Faradje",
+        "slug": "faradje"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD53",
+        "level": 1,
+        "name": {
+          "local": "Haut-Uele",
+          "en": "Haut-Uele",
+          "slug": "haut-uele"
+        }
+      },
+      {
+        "id": "CD5307",
+        "level": 2,
+        "name": {
+          "local": "Faradje",
+          "en": "Faradje",
+          "slug": "faradje"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.485",
+      "lon": "29.904"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

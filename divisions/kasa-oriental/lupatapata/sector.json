@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CD820801",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Mukumbi",
+      "en": "Mukumbi",
+      "slug": "mukumbi"
+    },
+    "code": {
+      "id": "CD820801",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD8208",
+      "level": 2,
+      "name": {
+        "local": "Lupatapata",
+        "en": "Lupatapata",
+        "slug": "lupatapata"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD82",
+        "level": 1,
+        "name": {
+          "local": "Kasaï-Oriental",
+          "en": "Kasaï-Oriental",
+          "slug": "kasa-oriental"
+        }
+      },
+      {
+        "id": "CD8208",
+        "level": 2,
+        "name": {
+          "local": "Lupatapata",
+          "en": "Lupatapata",
+          "slug": "lupatapata"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.023",
+      "lon": "23.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD820802",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Tshishimbi",
+      "en": "Tshishimbi",
+      "slug": "tshishimbi"
+    },
+    "code": {
+      "id": "CD820802",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD8208",
+      "level": 2,
+      "name": {
+        "local": "Lupatapata",
+        "en": "Lupatapata",
+        "slug": "lupatapata"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD82",
+        "level": 1,
+        "name": {
+          "local": "Kasaï-Oriental",
+          "en": "Kasaï-Oriental",
+          "slug": "kasa-oriental"
+        }
+      },
+      {
+        "id": "CD8208",
+        "level": 2,
+        "name": {
+          "local": "Lupatapata",
+          "en": "Lupatapata",
+          "slug": "lupatapata"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.023",
+      "lon": "23.602"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

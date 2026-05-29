@@ -1,0 +1,47 @@
+{
+  "id": "CD8302",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Lusambo",
+    "en": "Lusambo",
+    "slug": "lusambo"
+  },
+  "code": {
+    "id": "CD8302",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD83",
+    "level": 1,
+    "name": {
+      "local": "Sankuru",
+      "en": "Sankuru",
+      "slug": "sankuru"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD83",
+      "level": 1,
+      "name": {
+        "local": "Sankuru",
+        "en": "Sankuru",
+        "slug": "sankuru"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.009",
+    "lon": "23.417"
+  },
+  "metadata": {},
+  "source": {}
+}

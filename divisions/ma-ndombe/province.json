@@ -1,0 +1,30 @@
+{
+  "id": "CD33",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Maï-Ndombe",
+    "en": "Maï-Ndombe",
+    "slug": "ma-ndombe"
+  },
+  "code": {
+    "id": "CD33",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "territory": 8,
+    "sector": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.57",
+    "lon": "18.585"
+  },
+  "metadata": {},
+  "source": {}
+}

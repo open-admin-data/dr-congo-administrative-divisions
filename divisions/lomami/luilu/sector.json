@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CD810401",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kalenda",
+      "en": "Kalenda",
+      "slug": "kalenda"
+    },
+    "code": {
+      "id": "CD810401",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD8104",
+      "level": 2,
+      "name": {
+        "local": "Luilu",
+        "en": "Luilu",
+        "slug": "luilu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD81",
+        "level": 1,
+        "name": {
+          "local": "Lomami",
+          "en": "Lomami",
+          "slug": "lomami"
+        }
+      },
+      {
+        "id": "CD8104",
+        "level": 2,
+        "name": {
+          "local": "Luilu",
+          "en": "Luilu",
+          "slug": "luilu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.313",
+      "lon": "23.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD810402",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kanda Kanda",
+      "en": "Kanda Kanda",
+      "slug": "kanda-kanda"
+    },
+    "code": {
+      "id": "CD810402",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD8104",
+      "level": 2,
+      "name": {
+        "local": "Luilu",
+        "en": "Luilu",
+        "slug": "luilu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD81",
+        "level": 1,
+        "name": {
+          "local": "Lomami",
+          "en": "Lomami",
+          "slug": "lomami"
+        }
+      },
+      {
+        "id": "CD8104",
+        "level": 2,
+        "name": {
+          "local": "Luilu",
+          "en": "Luilu",
+          "slug": "luilu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.313",
+      "lon": "23.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD810403",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Luputa",
+      "en": "Luputa",
+      "slug": "luputa"
+    },
+    "code": {
+      "id": "CD810403",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD8104",
+      "level": 2,
+      "name": {
+        "local": "Luilu",
+        "en": "Luilu",
+        "slug": "luilu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD81",
+        "level": 1,
+        "name": {
+          "local": "Lomami",
+          "en": "Lomami",
+          "slug": "lomami"
+        }
+      },
+      {
+        "id": "CD8104",
+        "level": 2,
+        "name": {
+          "local": "Luilu",
+          "en": "Luilu",
+          "slug": "luilu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.313",
+      "lon": "23.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD810404",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Wikong",
+      "en": "Wikong",
+      "slug": "wikong"
+    },
+    "code": {
+      "id": "CD810404",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD8104",
+      "level": 2,
+      "name": {
+        "local": "Luilu",
+        "en": "Luilu",
+        "slug": "luilu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD81",
+        "level": 1,
+        "name": {
+          "local": "Lomami",
+          "en": "Lomami",
+          "slug": "lomami"
+        }
+      },
+      {
+        "id": "CD8104",
+        "level": 2,
+        "name": {
+          "local": "Luilu",
+          "en": "Luilu",
+          "slug": "luilu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.313",
+      "lon": "23.602"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

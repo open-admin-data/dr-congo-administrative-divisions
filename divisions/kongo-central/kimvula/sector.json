@@ -1,0 +1,56 @@
+[
+  {
+    "id": "CD201901",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kimvula",
+      "en": "Kimvula",
+      "slug": "kimvula"
+    },
+    "code": {
+      "id": "CD201901",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD2019",
+      "level": 2,
+      "name": {
+        "local": "Kimvula",
+        "en": "Kimvula",
+        "slug": "kimvula"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD20",
+        "level": 1,
+        "name": {
+          "local": "Kongo-Central",
+          "en": "Kongo-Central",
+          "slug": "kongo-central"
+        }
+      },
+      {
+        "id": "CD2019",
+        "level": 2,
+        "name": {
+          "local": "Kimvula",
+          "en": "Kimvula",
+          "slug": "kimvula"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.422",
+      "lon": "16.04"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

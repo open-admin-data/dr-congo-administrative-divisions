@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CD510201",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Lowa",
+      "en": "Lowa",
+      "slug": "lowa"
+    },
+    "code": {
+      "id": "CD510201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5102",
+      "level": 2,
+      "name": {
+        "local": "Ubundu",
+        "en": "Ubundu",
+        "slug": "ubundu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD51",
+        "level": 1,
+        "name": {
+          "local": "Tshopo",
+          "en": "Tshopo",
+          "slug": "tshopo"
+        }
+      },
+      {
+        "id": "CD5102",
+        "level": 2,
+        "name": {
+          "local": "Ubundu",
+          "en": "Ubundu",
+          "slug": "ubundu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.602",
+      "lon": "25.394"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD510202",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Ubundu",
+      "en": "Ubundu",
+      "slug": "ubundu"
+    },
+    "code": {
+      "id": "CD510202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5102",
+      "level": 2,
+      "name": {
+        "local": "Ubundu",
+        "en": "Ubundu",
+        "slug": "ubundu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD51",
+        "level": 1,
+        "name": {
+          "local": "Tshopo",
+          "en": "Tshopo",
+          "slug": "tshopo"
+        }
+      },
+      {
+        "id": "CD5102",
+        "level": 2,
+        "name": {
+          "local": "Ubundu",
+          "en": "Ubundu",
+          "slug": "ubundu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.602",
+      "lon": "25.394"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD510203",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Wanierukula",
+      "en": "Wanierukula",
+      "slug": "wanierukula"
+    },
+    "code": {
+      "id": "CD510203",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5102",
+      "level": 2,
+      "name": {
+        "local": "Ubundu",
+        "en": "Ubundu",
+        "slug": "ubundu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD51",
+        "level": 1,
+        "name": {
+          "local": "Tshopo",
+          "en": "Tshopo",
+          "slug": "tshopo"
+        }
+      },
+      {
+        "id": "CD5102",
+        "level": 2,
+        "name": {
+          "local": "Ubundu",
+          "en": "Ubundu",
+          "slug": "ubundu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.602",
+      "lon": "25.394"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

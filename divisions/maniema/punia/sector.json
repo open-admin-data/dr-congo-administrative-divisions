@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CD630301",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Ferekeni",
+      "en": "Ferekeni",
+      "slug": "ferekeni"
+    },
+    "code": {
+      "id": "CD630301",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6303",
+      "level": 2,
+      "name": {
+        "local": "Punia",
+        "en": "Punia",
+        "slug": "punia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD63",
+        "level": 1,
+        "name": {
+          "local": "Maniema",
+          "en": "Maniema",
+          "slug": "maniema"
+        }
+      },
+      {
+        "id": "CD6303",
+        "level": 2,
+        "name": {
+          "local": "Punia",
+          "en": "Punia",
+          "slug": "punia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.706",
+      "lon": "26.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD630302",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Punia",
+      "en": "Punia",
+      "slug": "punia"
+    },
+    "code": {
+      "id": "CD630302",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6303",
+      "level": 2,
+      "name": {
+        "local": "Punia",
+        "en": "Punia",
+        "slug": "punia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD63",
+        "level": 1,
+        "name": {
+          "local": "Maniema",
+          "en": "Maniema",
+          "slug": "maniema"
+        }
+      },
+      {
+        "id": "CD6303",
+        "level": 2,
+        "name": {
+          "local": "Punia",
+          "en": "Punia",
+          "slug": "punia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.706",
+      "lon": "26.752"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

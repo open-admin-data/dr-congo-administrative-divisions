@@ -1,0 +1,284 @@
+[
+  {
+    "id": "CD8102",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Kabinda",
+      "en": "Kabinda",
+      "slug": "kabinda"
+    },
+    "code": {
+      "id": "CD8102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD81",
+      "level": 1,
+      "name": {
+        "local": "Lomami",
+        "en": "Lomami",
+        "slug": "lomami"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD81",
+        "level": 1,
+        "name": {
+          "local": "Lomami",
+          "en": "Lomami",
+          "slug": "lomami"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.075",
+      "lon": "24.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD8105",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Kamiji",
+      "en": "Kamiji",
+      "slug": "kamiji"
+    },
+    "code": {
+      "id": "CD8105",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD81",
+      "level": 1,
+      "name": {
+        "local": "Lomami",
+        "en": "Lomami",
+        "slug": "lomami"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD81",
+        "level": 1,
+        "name": {
+          "local": "Lomami",
+          "en": "Lomami",
+          "slug": "lomami"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.69",
+      "lon": "23.24"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD8108",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Lubao",
+      "en": "Lubao",
+      "slug": "lubao"
+    },
+    "code": {
+      "id": "CD8108",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD81",
+      "level": 1,
+      "name": {
+        "local": "Lomami",
+        "en": "Lomami",
+        "slug": "lomami"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD81",
+        "level": 1,
+        "name": {
+          "local": "Lomami",
+          "en": "Lomami",
+          "slug": "lomami"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.575",
+      "lon": "25.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD8104",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Luilu",
+      "en": "Luilu",
+      "slug": "luilu"
+    },
+    "code": {
+      "id": "CD8104",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD81",
+      "level": 1,
+      "name": {
+        "local": "Lomami",
+        "en": "Lomami",
+        "slug": "lomami"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD81",
+        "level": 1,
+        "name": {
+          "local": "Lomami",
+          "en": "Lomami",
+          "slug": "lomami"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.313",
+      "lon": "23.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD8103",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Mwene-Ditu",
+      "en": "Mwene-Ditu",
+      "slug": "mwene-ditu"
+    },
+    "code": {
+      "id": "CD8103",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD81",
+      "level": 1,
+      "name": {
+        "local": "Lomami",
+        "en": "Lomami",
+        "slug": "lomami"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD81",
+        "level": 1,
+        "name": {
+          "local": "Lomami",
+          "en": "Lomami",
+          "slug": "lomami"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.993",
+      "lon": "23.48"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD8106",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Ngandajika",
+      "en": "Ngandajika",
+      "slug": "ngandajika"
+    },
+    "code": {
+      "id": "CD8106",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD81",
+      "level": 1,
+      "name": {
+        "local": "Lomami",
+        "en": "Lomami",
+        "slug": "lomami"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD81",
+        "level": 1,
+        "name": {
+          "local": "Lomami",
+          "en": "Lomami",
+          "slug": "lomami"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.701",
+      "lon": "24.279"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

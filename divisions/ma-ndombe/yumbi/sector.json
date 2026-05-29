@@ -1,0 +1,56 @@
+[
+  {
+    "id": "CD331001",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Yumbi",
+      "en": "Yumbi",
+      "slug": "yumbi"
+    },
+    "code": {
+      "id": "CD331001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD3310",
+      "level": 2,
+      "name": {
+        "local": "Yumbi",
+        "en": "Yumbi",
+        "slug": "yumbi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD33",
+        "level": 1,
+        "name": {
+          "local": "Maï-Ndombe",
+          "en": "Maï-Ndombe",
+          "slug": "ma-ndombe"
+        }
+      },
+      {
+        "id": "CD3310",
+        "level": 2,
+        "name": {
+          "local": "Yumbi",
+          "en": "Yumbi",
+          "slug": "yumbi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.097",
+      "lon": "16.465"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

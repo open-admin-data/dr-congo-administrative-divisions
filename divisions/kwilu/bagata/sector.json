@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CD320201",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Bagata",
+      "en": "Bagata",
+      "slug": "bagata"
+    },
+    "code": {
+      "id": "CD320201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD3202",
+      "level": 2,
+      "name": {
+        "local": "Bagata",
+        "en": "Bagata",
+        "slug": "bagata"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD32",
+        "level": 1,
+        "name": {
+          "local": "Kwilu",
+          "en": "Kwilu",
+          "slug": "kwilu"
+        }
+      },
+      {
+        "id": "CD3202",
+        "level": 2,
+        "name": {
+          "local": "Bagata",
+          "en": "Bagata",
+          "slug": "bagata"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.929",
+      "lon": "17.965"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD320202",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kikongo",
+      "en": "Kikongo",
+      "slug": "kikongo"
+    },
+    "code": {
+      "id": "CD320202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD3202",
+      "level": 2,
+      "name": {
+        "local": "Bagata",
+        "en": "Bagata",
+        "slug": "bagata"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD32",
+        "level": 1,
+        "name": {
+          "local": "Kwilu",
+          "en": "Kwilu",
+          "slug": "kwilu"
+        }
+      },
+      {
+        "id": "CD3202",
+        "level": 2,
+        "name": {
+          "local": "Bagata",
+          "en": "Bagata",
+          "slug": "bagata"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.929",
+      "lon": "17.965"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD320203",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Sia",
+      "en": "Sia",
+      "slug": "sia"
+    },
+    "code": {
+      "id": "CD320203",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD3202",
+      "level": 2,
+      "name": {
+        "local": "Bagata",
+        "en": "Bagata",
+        "slug": "bagata"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD32",
+        "level": 1,
+        "name": {
+          "local": "Kwilu",
+          "en": "Kwilu",
+          "slug": "kwilu"
+        }
+      },
+      {
+        "id": "CD3202",
+        "level": 2,
+        "name": {
+          "local": "Bagata",
+          "en": "Bagata",
+          "slug": "bagata"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.929",
+      "lon": "17.965"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

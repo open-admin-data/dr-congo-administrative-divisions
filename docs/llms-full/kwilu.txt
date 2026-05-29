@@ -1,0 +1,140 @@
+# Kwilu — DR Congo Administrative Divisions
+
+> 7 territorys, 24 sectors
+> Code: CD32
+> Coordinates: -4.793, 18.809
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Territorys
+
+### Bagata
+
+Code: CD3202, Coordinates: -3.929, 17.965
+Sectors: 3
+
+#### Bagata
+
+Code: CD320201, Coordinates: -3.929, 17.965
+
+#### Kikongo
+
+Code: CD320202, Coordinates: -3.929, 17.965
+
+#### Sia
+
+Code: CD320203, Coordinates: -3.929, 17.965
+
+### Bandundu
+
+Code: CD3201, Coordinates: -3.319, 17.454
+Sectors: 1
+
+#### Bandundu
+
+Code: CD320101, Coordinates: -3.319, 17.454
+
+### Bulungu
+
+Code: CD3204, Coordinates: -4.699, 18.698
+Sectors: 5
+
+#### Bulungu
+
+Code: CD320401, Coordinates: -4.699, 18.698
+
+#### Djuma
+
+Code: CD320402, Coordinates: -4.699, 18.698
+
+#### Lusanga
+
+Code: CD320404, Coordinates: -4.699, 18.698
+
+#### Pay Kongila
+
+Code: CD320405, Coordinates: -4.699, 18.698
+
+#### Vanga
+
+Code: CD320403, Coordinates: -4.699, 18.698
+
+### Gungu
+
+Code: CD3210, Coordinates: -5.768, 19.364
+Sectors: 3
+
+#### Gungu
+
+Code: CD321001, Coordinates: -5.768, 19.364
+
+#### Kingandu
+
+Code: CD321002, Coordinates: -5.768, 19.364
+
+#### Mukedi
+
+Code: CD321003, Coordinates: -5.768, 19.364
+
+### Idiofa
+
+Code: CD3206, Coordinates: -4.708, 19.613
+Sectors: 6
+
+#### Idiofa
+
+Code: CD320601, Coordinates: -4.708, 19.613
+
+#### Ipamu
+
+Code: CD320602, Coordinates: -4.708, 19.613
+
+#### Kimputu
+
+Code: CD320603, Coordinates: -4.708, 19.613
+
+#### Koshibanda
+
+Code: CD320604, Coordinates: -4.708, 19.613
+
+#### Mokala
+
+Code: CD320605, Coordinates: -4.708, 19.613
+
+#### Mungindu
+
+Code: CD320606, Coordinates: -4.708, 19.613
+
+### Kikwit
+
+Code: CD3203, Coordinates: -5.06, 18.809
+Sectors: 2
+
+#### Kikwit-Nord
+
+Code: CD320301, Coordinates: -5.06, 18.809
+
+#### Kikwit-Sud
+
+Code: CD320302, Coordinates: -5.06, 18.809
+
+### Masi-Manimba
+
+Code: CD3212, Coordinates: -5.012, 17.921
+Sectors: 4
+
+#### Masi-Manimba
+
+Code: CD321201, Coordinates: -5.012, 17.921
+
+#### Moanza
+
+Code: CD321202, Coordinates: -5.012, 17.921
+
+#### Mosango
+
+Code: CD321203, Coordinates: -5.012, 17.921
+
+#### Yasa-Bonga
+
+Code: CD321204, Coordinates: -5.012, 17.921
+

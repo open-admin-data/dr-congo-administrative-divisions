@@ -1,0 +1,56 @@
+[
+  {
+    "id": "CD710601",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Likasi",
+      "en": "Likasi",
+      "slug": "likasi"
+    },
+    "code": {
+      "id": "CD710601",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7106",
+      "level": 2,
+      "name": {
+        "local": "Likasi",
+        "en": "Likasi",
+        "slug": "likasi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD71",
+        "level": 1,
+        "name": {
+          "local": "Haut-Katanga",
+          "en": "Haut-Katanga",
+          "slug": "haut-katanga"
+        }
+      },
+      {
+        "id": "CD7106",
+        "level": 2,
+        "name": {
+          "local": "Likasi",
+          "en": "Likasi",
+          "slug": "likasi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.964",
+      "lon": "26.732"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

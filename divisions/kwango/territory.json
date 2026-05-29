@@ -1,0 +1,237 @@
+[
+  {
+    "id": "CD3103",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Feshi",
+      "en": "Feshi",
+      "slug": "feshi"
+    },
+    "code": {
+      "id": "CD3103",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD31",
+      "level": 1,
+      "name": {
+        "local": "Kwango",
+        "en": "Kwango",
+        "slug": "kwango"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD31",
+        "level": 1,
+        "name": {
+          "local": "Kwango",
+          "en": "Kwango",
+          "slug": "kwango"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.306",
+      "lon": "18.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD3105",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Kahemba",
+      "en": "Kahemba",
+      "slug": "kahemba"
+    },
+    "code": {
+      "id": "CD3105",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD31",
+      "level": 1,
+      "name": {
+        "local": "Kwango",
+        "en": "Kwango",
+        "slug": "kwango"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD31",
+        "level": 1,
+        "name": {
+          "local": "Kwango",
+          "en": "Kwango",
+          "slug": "kwango"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.198",
+      "lon": "19.005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD3106",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Kasongo-Lunda",
+      "en": "Kasongo-Lunda",
+      "slug": "kasongo-lunda"
+    },
+    "code": {
+      "id": "CD3106",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD31",
+      "level": 1,
+      "name": {
+        "local": "Kwango",
+        "en": "Kwango",
+        "slug": "kwango"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD31",
+        "level": 1,
+        "name": {
+          "local": "Kwango",
+          "en": "Kwango",
+          "slug": "kwango"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.181",
+      "lon": "17.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD3102",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Kenge",
+      "en": "Kenge",
+      "slug": "kenge"
+    },
+    "code": {
+      "id": "CD3102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD31",
+      "level": 1,
+      "name": {
+        "local": "Kwango",
+        "en": "Kwango",
+        "slug": "kwango"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD31",
+        "level": 1,
+        "name": {
+          "local": "Kwango",
+          "en": "Kwango",
+          "slug": "kwango"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.104",
+      "lon": "17.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD3108",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Popokabaka",
+      "en": "Popokabaka",
+      "slug": "popokabaka"
+    },
+    "code": {
+      "id": "CD3108",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD31",
+      "level": 1,
+      "name": {
+        "local": "Kwango",
+        "en": "Kwango",
+        "slug": "kwango"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD31",
+        "level": 1,
+        "name": {
+          "local": "Kwango",
+          "en": "Kwango",
+          "slug": "kwango"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.512",
+      "lon": "16.383"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

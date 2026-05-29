@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CD610401",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Itebero",
+      "en": "Itebero",
+      "slug": "itebero"
+    },
+    "code": {
+      "id": "CD610401",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6104",
+      "level": 2,
+      "name": {
+        "local": "Walikale",
+        "en": "Walikale",
+        "slug": "walikale"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD61",
+        "level": 1,
+        "name": {
+          "local": "Nord-Kivu",
+          "en": "Nord-Kivu",
+          "slug": "nord-kivu"
+        }
+      },
+      {
+        "id": "CD6104",
+        "level": 2,
+        "name": {
+          "local": "Walikale",
+          "en": "Walikale",
+          "slug": "walikale"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.084",
+      "lon": "27.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD610402",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kibua",
+      "en": "Kibua",
+      "slug": "kibua"
+    },
+    "code": {
+      "id": "CD610402",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6104",
+      "level": 2,
+      "name": {
+        "local": "Walikale",
+        "en": "Walikale",
+        "slug": "walikale"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD61",
+        "level": 1,
+        "name": {
+          "local": "Nord-Kivu",
+          "en": "Nord-Kivu",
+          "slug": "nord-kivu"
+        }
+      },
+      {
+        "id": "CD6104",
+        "level": 2,
+        "name": {
+          "local": "Walikale",
+          "en": "Walikale",
+          "slug": "walikale"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.084",
+      "lon": "27.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD610403",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Pinga",
+      "en": "Pinga",
+      "slug": "pinga"
+    },
+    "code": {
+      "id": "CD610403",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6104",
+      "level": 2,
+      "name": {
+        "local": "Walikale",
+        "en": "Walikale",
+        "slug": "walikale"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD61",
+        "level": 1,
+        "name": {
+          "local": "Nord-Kivu",
+          "en": "Nord-Kivu",
+          "slug": "nord-kivu"
+        }
+      },
+      {
+        "id": "CD6104",
+        "level": 2,
+        "name": {
+          "local": "Walikale",
+          "en": "Walikale",
+          "slug": "walikale"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.084",
+      "lon": "27.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD610404",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Walikale",
+      "en": "Walikale",
+      "slug": "walikale"
+    },
+    "code": {
+      "id": "CD610404",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6104",
+      "level": 2,
+      "name": {
+        "local": "Walikale",
+        "en": "Walikale",
+        "slug": "walikale"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD61",
+        "level": 1,
+        "name": {
+          "local": "Nord-Kivu",
+          "en": "Nord-Kivu",
+          "slug": "nord-kivu"
+        }
+      },
+      {
+        "id": "CD6104",
+        "level": 2,
+        "name": {
+          "local": "Walikale",
+          "en": "Walikale",
+          "slug": "walikale"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.084",
+      "lon": "27.984"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

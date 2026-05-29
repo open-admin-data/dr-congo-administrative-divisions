@@ -1,0 +1,91 @@
+# Haut-Uele — DR Congo Administrative Divisions
+
+> 6 territorys, 13 sectors
+> Code: CD53
+> Coordinates: 3.327, 28.811
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Territorys
+
+### Dungu
+
+Code: CD5305, Coordinates: 4.005, 28.773
+Sectors: 2
+
+#### Doruma
+
+Code: CD530501, Coordinates: 4.005, 28.773
+
+#### Dungu
+
+Code: CD530502, Coordinates: 4.005, 28.773
+
+### Faradje
+
+Code: CD5307, Coordinates: 3.485, 29.904
+Sectors: 3
+
+#### Aba
+
+Code: CD530701, Coordinates: 3.485, 29.904
+
+#### Faradje
+
+Code: CD530702, Coordinates: 3.485, 29.904
+
+#### Makoro
+
+Code: CD530703, Coordinates: 3.485, 29.904
+
+### Niangara
+
+Code: CD5303, Coordinates: 3.492, 27.921
+Sectors: 1
+
+#### Niangara
+
+Code: CD530301, Coordinates: 3.492, 27.921
+
+### Rungu
+
+Code: CD5302, Coordinates: 2.609, 27.32
+Sectors: 2
+
+#### Isiro
+
+Code: CD530201, Coordinates: 2.609, 27.32
+
+#### Rungu
+
+Code: CD530202, Coordinates: 2.609, 27.32
+
+### Wamba
+
+Code: CD5311, Coordinates: 2.096, 27.839
+Sectors: 3
+
+#### Boma-Mangbetu
+
+Code: CD531101, Coordinates: 2.096, 27.839
+
+#### Pawa
+
+Code: CD531102, Coordinates: 2.096, 27.839
+
+#### Wamba
+
+Code: CD531103, Coordinates: 2.096, 27.839
+
+### Watsa
+
+Code: CD5309, Coordinates: 2.774, 29.225
+Sectors: 2
+
+#### Gombari
+
+Code: CD530901, Coordinates: 2.774, 29.225
+
+#### Watsa
+
+Code: CD530902, Coordinates: 2.774, 29.225
+

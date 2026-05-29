@@ -1,0 +1,30 @@
+{
+  "id": "CD71",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Haut-Katanga",
+    "en": "Haut-Katanga",
+    "slug": "haut-katanga"
+  },
+  "code": {
+    "id": "CD71",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "territory": 8,
+    "sector": 28
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.539",
+    "lon": "27.876"
+  },
+  "metadata": {},
+  "source": {}
+}

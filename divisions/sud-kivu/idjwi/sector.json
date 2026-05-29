@@ -1,0 +1,56 @@
+[
+  {
+    "id": "CD620601",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Idjwi",
+      "en": "Idjwi",
+      "slug": "idjwi"
+    },
+    "code": {
+      "id": "CD620601",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6206",
+      "level": 2,
+      "name": {
+        "local": "Idjwi",
+        "en": "Idjwi",
+        "slug": "idjwi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD62",
+        "level": 1,
+        "name": {
+          "local": "Sud-Kivu",
+          "en": "Sud-Kivu",
+          "slug": "sud-kivu"
+        }
+      },
+      {
+        "id": "CD6206",
+        "level": 2,
+        "name": {
+          "local": "Idjwi",
+          "en": "Idjwi",
+          "slug": "idjwi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.965",
+      "lon": "29.098"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

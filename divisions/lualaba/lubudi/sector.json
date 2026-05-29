@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CD720301",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Bunkeya",
+      "en": "Bunkeya",
+      "slug": "bunkeya"
+    },
+    "code": {
+      "id": "CD720301",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7203",
+      "level": 2,
+      "name": {
+        "local": "Lubudi",
+        "en": "Lubudi",
+        "slug": "lubudi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD72",
+        "level": 1,
+        "name": {
+          "local": "Lualaba",
+          "en": "Lualaba",
+          "slug": "lualaba"
+        }
+      },
+      {
+        "id": "CD7203",
+        "level": 2,
+        "name": {
+          "local": "Lubudi",
+          "en": "Lubudi",
+          "slug": "lubudi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.358",
+      "lon": "26.479"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD720302",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Fungurume",
+      "en": "Fungurume",
+      "slug": "fungurume"
+    },
+    "code": {
+      "id": "CD720302",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7203",
+      "level": 2,
+      "name": {
+        "local": "Lubudi",
+        "en": "Lubudi",
+        "slug": "lubudi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD72",
+        "level": 1,
+        "name": {
+          "local": "Lualaba",
+          "en": "Lualaba",
+          "slug": "lualaba"
+        }
+      },
+      {
+        "id": "CD7203",
+        "level": 2,
+        "name": {
+          "local": "Lubudi",
+          "en": "Lubudi",
+          "slug": "lubudi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.358",
+      "lon": "26.479"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD720303",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kanzenze",
+      "en": "Kanzenze",
+      "slug": "kanzenze"
+    },
+    "code": {
+      "id": "CD720303",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7203",
+      "level": 2,
+      "name": {
+        "local": "Lubudi",
+        "en": "Lubudi",
+        "slug": "lubudi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD72",
+        "level": 1,
+        "name": {
+          "local": "Lualaba",
+          "en": "Lualaba",
+          "slug": "lualaba"
+        }
+      },
+      {
+        "id": "CD7203",
+        "level": 2,
+        "name": {
+          "local": "Lubudi",
+          "en": "Lubudi",
+          "slug": "lubudi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.358",
+      "lon": "26.479"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD720304",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Lubudi",
+      "en": "Lubudi",
+      "slug": "lubudi"
+    },
+    "code": {
+      "id": "CD720304",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7203",
+      "level": 2,
+      "name": {
+        "local": "Lubudi",
+        "en": "Lubudi",
+        "slug": "lubudi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD72",
+        "level": 1,
+        "name": {
+          "local": "Lualaba",
+          "en": "Lualaba",
+          "slug": "lualaba"
+        }
+      },
+      {
+        "id": "CD7203",
+        "level": 2,
+        "name": {
+          "local": "Lubudi",
+          "en": "Lubudi",
+          "slug": "lubudi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.358",
+      "lon": "26.479"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

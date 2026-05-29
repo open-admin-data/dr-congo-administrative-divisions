@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CD720701",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kalamba",
+      "en": "Kalamba",
+      "slug": "kalamba"
+    },
+    "code": {
+      "id": "CD720701",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7207",
+      "level": 2,
+      "name": {
+        "local": "Kapanga",
+        "en": "Kapanga",
+        "slug": "kapanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD72",
+        "level": 1,
+        "name": {
+          "local": "Lualaba",
+          "en": "Lualaba",
+          "slug": "lualaba"
+        }
+      },
+      {
+        "id": "CD7207",
+        "level": 2,
+        "name": {
+          "local": "Kapanga",
+          "en": "Kapanga",
+          "slug": "kapanga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.488",
+      "lon": "22.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD720702",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kapanga",
+      "en": "Kapanga",
+      "slug": "kapanga"
+    },
+    "code": {
+      "id": "CD720702",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7207",
+      "level": 2,
+      "name": {
+        "local": "Kapanga",
+        "en": "Kapanga",
+        "slug": "kapanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD72",
+        "level": 1,
+        "name": {
+          "local": "Lualaba",
+          "en": "Lualaba",
+          "slug": "lualaba"
+        }
+      },
+      {
+        "id": "CD7207",
+        "level": 2,
+        "name": {
+          "local": "Kapanga",
+          "en": "Kapanga",
+          "slug": "kapanga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.488",
+      "lon": "22.796"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

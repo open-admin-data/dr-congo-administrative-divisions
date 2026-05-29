@@ -1,0 +1,56 @@
+[
+  {
+    "id": "CD810501",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kamiji",
+      "en": "Kamiji",
+      "slug": "kamiji"
+    },
+    "code": {
+      "id": "CD810501",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD8105",
+      "level": 2,
+      "name": {
+        "local": "Kamiji",
+        "en": "Kamiji",
+        "slug": "kamiji"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD81",
+        "level": 1,
+        "name": {
+          "local": "Lomami",
+          "en": "Lomami",
+          "slug": "lomami"
+        }
+      },
+      {
+        "id": "CD8105",
+        "level": 2,
+        "name": {
+          "local": "Kamiji",
+          "en": "Kamiji",
+          "slug": "kamiji"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.69",
+      "lon": "23.24"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

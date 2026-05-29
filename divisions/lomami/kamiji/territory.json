@@ -1,0 +1,47 @@
+{
+  "id": "CD8105",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Kamiji",
+    "en": "Kamiji",
+    "slug": "kamiji"
+  },
+  "code": {
+    "id": "CD8105",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD81",
+    "level": 1,
+    "name": {
+      "local": "Lomami",
+      "en": "Lomami",
+      "slug": "lomami"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD81",
+      "level": 1,
+      "name": {
+        "local": "Lomami",
+        "en": "Lomami",
+        "slug": "lomami"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.69",
+    "lon": "23.24"
+  },
+  "metadata": {},
+  "source": {}
+}

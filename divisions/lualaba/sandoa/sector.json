@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CD720601",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kafakumba",
+      "en": "Kafakumba",
+      "slug": "kafakumba"
+    },
+    "code": {
+      "id": "CD720601",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7206",
+      "level": 2,
+      "name": {
+        "local": "Sandoa",
+        "en": "Sandoa",
+        "slug": "sandoa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD72",
+        "level": 1,
+        "name": {
+          "local": "Lualaba",
+          "en": "Lualaba",
+          "slug": "lualaba"
+        }
+      },
+      {
+        "id": "CD7206",
+        "level": 2,
+        "name": {
+          "local": "Sandoa",
+          "en": "Sandoa",
+          "slug": "sandoa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.383",
+      "lon": "22.975"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD720602",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Sandoa",
+      "en": "Sandoa",
+      "slug": "sandoa"
+    },
+    "code": {
+      "id": "CD720602",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD7206",
+      "level": 2,
+      "name": {
+        "local": "Sandoa",
+        "en": "Sandoa",
+        "slug": "sandoa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD72",
+        "level": 1,
+        "name": {
+          "local": "Lualaba",
+          "en": "Lualaba",
+          "slug": "lualaba"
+        }
+      },
+      {
+        "id": "CD7206",
+        "level": 2,
+        "name": {
+          "local": "Sandoa",
+          "en": "Sandoa",
+          "slug": "sandoa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.383",
+      "lon": "22.975"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

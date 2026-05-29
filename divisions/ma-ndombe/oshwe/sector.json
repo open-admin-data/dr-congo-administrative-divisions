@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CD330401",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Bosobe",
+      "en": "Bosobe",
+      "slug": "bosobe"
+    },
+    "code": {
+      "id": "CD330401",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD3304",
+      "level": 2,
+      "name": {
+        "local": "Oshwe",
+        "en": "Oshwe",
+        "slug": "oshwe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD33",
+        "level": 1,
+        "name": {
+          "local": "Maï-Ndombe",
+          "en": "Maï-Ndombe",
+          "slug": "ma-ndombe"
+        }
+      },
+      {
+        "id": "CD3304",
+        "level": 2,
+        "name": {
+          "local": "Oshwe",
+          "en": "Oshwe",
+          "slug": "oshwe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.147",
+      "lon": "19.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD330402",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Mimia",
+      "en": "Mimia",
+      "slug": "mimia"
+    },
+    "code": {
+      "id": "CD330402",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD3304",
+      "level": 2,
+      "name": {
+        "local": "Oshwe",
+        "en": "Oshwe",
+        "slug": "oshwe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD33",
+        "level": 1,
+        "name": {
+          "local": "Maï-Ndombe",
+          "en": "Maï-Ndombe",
+          "slug": "ma-ndombe"
+        }
+      },
+      {
+        "id": "CD3304",
+        "level": 2,
+        "name": {
+          "local": "Oshwe",
+          "en": "Oshwe",
+          "slug": "oshwe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.147",
+      "lon": "19.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD330403",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Oshwe",
+      "en": "Oshwe",
+      "slug": "oshwe"
+    },
+    "code": {
+      "id": "CD330403",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD3304",
+      "level": 2,
+      "name": {
+        "local": "Oshwe",
+        "en": "Oshwe",
+        "slug": "oshwe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD33",
+        "level": 1,
+        "name": {
+          "local": "Maï-Ndombe",
+          "en": "Maï-Ndombe",
+          "slug": "ma-ndombe"
+        }
+      },
+      {
+        "id": "CD3304",
+        "level": 2,
+        "name": {
+          "local": "Oshwe",
+          "en": "Oshwe",
+          "slug": "oshwe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.147",
+      "lon": "19.769"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

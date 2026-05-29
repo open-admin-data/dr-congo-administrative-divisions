@@ -1,0 +1,47 @@
+{
+  "id": "CD7303",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Kaniama",
+    "en": "Kaniama",
+    "slug": "kaniama"
+  },
+  "code": {
+    "id": "CD7303",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD73",
+    "level": 1,
+    "name": {
+      "local": "Haut-Lomami",
+      "en": "Haut-Lomami",
+      "slug": "haut-lomami"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD73",
+      "level": 1,
+      "name": {
+        "local": "Haut-Lomami",
+        "en": "Haut-Lomami",
+        "slug": "haut-lomami"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.846",
+    "lon": "24.245"
+  },
+  "metadata": {},
+  "source": {}
+}

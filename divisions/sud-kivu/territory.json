@@ -1,0 +1,425 @@
+[
+  {
+    "id": "CD6201",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Bukavu",
+      "en": "Bukavu",
+      "slug": "bukavu"
+    },
+    "code": {
+      "id": "CD6201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD62",
+      "level": 1,
+      "name": {
+        "local": "Sud-Kivu",
+        "en": "Sud-Kivu",
+        "slug": "sud-kivu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD62",
+        "level": 1,
+        "name": {
+          "local": "Sud-Kivu",
+          "en": "Sud-Kivu",
+          "slug": "sud-kivu"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.508",
+      "lon": "28.835"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD6210",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Fizi",
+      "en": "Fizi",
+      "slug": "fizi"
+    },
+    "code": {
+      "id": "CD6210",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD62",
+      "level": 1,
+      "name": {
+        "local": "Sud-Kivu",
+        "en": "Sud-Kivu",
+        "slug": "sud-kivu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD62",
+        "level": 1,
+        "name": {
+          "local": "Sud-Kivu",
+          "en": "Sud-Kivu",
+          "slug": "sud-kivu"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.276",
+      "lon": "28.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD6206",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Idjwi",
+      "en": "Idjwi",
+      "slug": "idjwi"
+    },
+    "code": {
+      "id": "CD6206",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD62",
+      "level": 1,
+      "name": {
+        "local": "Sud-Kivu",
+        "en": "Sud-Kivu",
+        "slug": "sud-kivu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD62",
+        "level": 1,
+        "name": {
+          "local": "Sud-Kivu",
+          "en": "Sud-Kivu",
+          "slug": "sud-kivu"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.965",
+      "lon": "29.098"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD6202",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Kabare",
+      "en": "Kabare",
+      "slug": "kabare"
+    },
+    "code": {
+      "id": "CD6202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD62",
+      "level": 1,
+      "name": {
+        "local": "Sud-Kivu",
+        "en": "Sud-Kivu",
+        "slug": "sud-kivu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD62",
+        "level": 1,
+        "name": {
+          "local": "Sud-Kivu",
+          "en": "Sud-Kivu",
+          "slug": "sud-kivu"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.407",
+      "lon": "28.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD6205",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Kalehe",
+      "en": "Kalehe",
+      "slug": "kalehe"
+    },
+    "code": {
+      "id": "CD6205",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD62",
+      "level": 1,
+      "name": {
+        "local": "Sud-Kivu",
+        "en": "Sud-Kivu",
+        "slug": "sud-kivu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD62",
+        "level": 1,
+        "name": {
+          "local": "Sud-Kivu",
+          "en": "Sud-Kivu",
+          "slug": "sud-kivu"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.031",
+      "lon": "28.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD6212",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Mwenga",
+      "en": "Mwenga",
+      "slug": "mwenga"
+    },
+    "code": {
+      "id": "CD6212",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD62",
+      "level": 1,
+      "name": {
+        "local": "Sud-Kivu",
+        "en": "Sud-Kivu",
+        "slug": "sud-kivu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD62",
+        "level": 1,
+        "name": {
+          "local": "Sud-Kivu",
+          "en": "Sud-Kivu",
+          "slug": "sud-kivu"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.393",
+      "lon": "28.311"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD6203",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Shabunda",
+      "en": "Shabunda",
+      "slug": "shabunda"
+    },
+    "code": {
+      "id": "CD6203",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD62",
+      "level": 1,
+      "name": {
+        "local": "Sud-Kivu",
+        "en": "Sud-Kivu",
+        "slug": "sud-kivu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD62",
+        "level": 1,
+        "name": {
+          "local": "Sud-Kivu",
+          "en": "Sud-Kivu",
+          "slug": "sud-kivu"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.006",
+      "lon": "27.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD6208",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Uvira",
+      "en": "Uvira",
+      "slug": "uvira"
+    },
+    "code": {
+      "id": "CD6208",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD62",
+      "level": 1,
+      "name": {
+        "local": "Sud-Kivu",
+        "en": "Sud-Kivu",
+        "slug": "sud-kivu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD62",
+        "level": 1,
+        "name": {
+          "local": "Sud-Kivu",
+          "en": "Sud-Kivu",
+          "slug": "sud-kivu"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.199",
+      "lon": "29.007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD6207",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Walungu",
+      "en": "Walungu",
+      "slug": "walungu"
+    },
+    "code": {
+      "id": "CD6207",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD62",
+      "level": 1,
+      "name": {
+        "local": "Sud-Kivu",
+        "en": "Sud-Kivu",
+        "slug": "sud-kivu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD62",
+        "level": 1,
+        "name": {
+          "local": "Sud-Kivu",
+          "en": "Sud-Kivu",
+          "slug": "sud-kivu"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.771",
+      "lon": "28.6"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

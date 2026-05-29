@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CD920401",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Luebo",
+      "en": "Luebo",
+      "slug": "luebo"
+    },
+    "code": {
+      "id": "CD920401",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD9204",
+      "level": 2,
+      "name": {
+        "local": "Luebo",
+        "en": "Luebo",
+        "slug": "luebo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD92",
+        "level": 1,
+        "name": {
+          "local": "Kasaï",
+          "en": "Kasaï",
+          "slug": "kasa"
+        }
+      },
+      {
+        "id": "CD9204",
+        "level": 2,
+        "name": {
+          "local": "Luebo",
+          "en": "Luebo",
+          "slug": "luebo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.593",
+      "lon": "21.442"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD920402",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Ndjoko-Mpunda",
+      "en": "Ndjoko-Mpunda",
+      "slug": "ndjoko-mpunda"
+    },
+    "code": {
+      "id": "CD920402",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD9204",
+      "level": 2,
+      "name": {
+        "local": "Luebo",
+        "en": "Luebo",
+        "slug": "luebo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD92",
+        "level": 1,
+        "name": {
+          "local": "Kasaï",
+          "en": "Kasaï",
+          "slug": "kasa"
+        }
+      },
+      {
+        "id": "CD9204",
+        "level": 2,
+        "name": {
+          "local": "Luebo",
+          "en": "Luebo",
+          "slug": "luebo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.593",
+      "lon": "21.442"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

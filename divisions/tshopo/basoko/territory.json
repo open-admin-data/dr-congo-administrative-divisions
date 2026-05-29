@@ -1,0 +1,47 @@
+{
+  "id": "CD5109",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Basoko",
+    "en": "Basoko",
+    "slug": "basoko"
+  },
+  "code": {
+    "id": "CD5109",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD51",
+    "level": 1,
+    "name": {
+      "local": "Tshopo",
+      "en": "Tshopo",
+      "slug": "tshopo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD51",
+      "level": 1,
+      "name": {
+        "local": "Tshopo",
+        "en": "Tshopo",
+        "slug": "tshopo"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.677",
+    "lon": "23.898"
+  },
+  "metadata": {},
+  "source": {}
+}

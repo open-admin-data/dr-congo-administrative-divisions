@@ -1,0 +1,47 @@
+{
+  "id": "CD6207",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Walungu",
+    "en": "Walungu",
+    "slug": "walungu"
+  },
+  "code": {
+    "id": "CD6207",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD62",
+    "level": 1,
+    "name": {
+      "local": "Sud-Kivu",
+      "en": "Sud-Kivu",
+      "slug": "sud-kivu"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD62",
+      "level": 1,
+      "name": {
+        "local": "Sud-Kivu",
+        "en": "Sud-Kivu",
+        "slug": "sud-kivu"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.771",
+    "lon": "28.6"
+  },
+  "metadata": {},
+  "source": {}
+}

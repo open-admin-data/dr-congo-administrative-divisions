@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CD621001",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Fizi",
+      "en": "Fizi",
+      "slug": "fizi"
+    },
+    "code": {
+      "id": "CD621001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6210",
+      "level": 2,
+      "name": {
+        "local": "Fizi",
+        "en": "Fizi",
+        "slug": "fizi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD62",
+        "level": 1,
+        "name": {
+          "local": "Sud-Kivu",
+          "en": "Sud-Kivu",
+          "slug": "sud-kivu"
+        }
+      },
+      {
+        "id": "CD6210",
+        "level": 2,
+        "name": {
+          "local": "Fizi",
+          "en": "Fizi",
+          "slug": "fizi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.276",
+      "lon": "28.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD621002",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kimbi Lulenge",
+      "en": "Kimbi Lulenge",
+      "slug": "kimbi-lulenge"
+    },
+    "code": {
+      "id": "CD621002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6210",
+      "level": 2,
+      "name": {
+        "local": "Fizi",
+        "en": "Fizi",
+        "slug": "fizi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD62",
+        "level": 1,
+        "name": {
+          "local": "Sud-Kivu",
+          "en": "Sud-Kivu",
+          "slug": "sud-kivu"
+        }
+      },
+      {
+        "id": "CD6210",
+        "level": 2,
+        "name": {
+          "local": "Fizi",
+          "en": "Fizi",
+          "slug": "fizi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.276",
+      "lon": "28.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD621003",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Minembwe",
+      "en": "Minembwe",
+      "slug": "minembwe"
+    },
+    "code": {
+      "id": "CD621003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6210",
+      "level": 2,
+      "name": {
+        "local": "Fizi",
+        "en": "Fizi",
+        "slug": "fizi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD62",
+        "level": 1,
+        "name": {
+          "local": "Sud-Kivu",
+          "en": "Sud-Kivu",
+          "slug": "sud-kivu"
+        }
+      },
+      {
+        "id": "CD6210",
+        "level": 2,
+        "name": {
+          "local": "Fizi",
+          "en": "Fizi",
+          "slug": "fizi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.276",
+      "lon": "28.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD621004",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Nundu",
+      "en": "Nundu",
+      "slug": "nundu"
+    },
+    "code": {
+      "id": "CD621004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6210",
+      "level": 2,
+      "name": {
+        "local": "Fizi",
+        "en": "Fizi",
+        "slug": "fizi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD62",
+        "level": 1,
+        "name": {
+          "local": "Sud-Kivu",
+          "en": "Sud-Kivu",
+          "slug": "sud-kivu"
+        }
+      },
+      {
+        "id": "CD6210",
+        "level": 2,
+        "name": {
+          "local": "Fizi",
+          "en": "Fizi",
+          "slug": "fizi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.276",
+      "lon": "28.883"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

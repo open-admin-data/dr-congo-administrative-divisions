@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CD310501",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kahemba",
+      "en": "Kahemba",
+      "slug": "kahemba"
+    },
+    "code": {
+      "id": "CD310501",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD3105",
+      "level": 2,
+      "name": {
+        "local": "Kahemba",
+        "en": "Kahemba",
+        "slug": "kahemba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD31",
+        "level": 1,
+        "name": {
+          "local": "Kwango",
+          "en": "Kwango",
+          "slug": "kwango"
+        }
+      },
+      {
+        "id": "CD3105",
+        "level": 2,
+        "name": {
+          "local": "Kahemba",
+          "en": "Kahemba",
+          "slug": "kahemba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.198",
+      "lon": "19.005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD310502",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kajiji",
+      "en": "Kajiji",
+      "slug": "kajiji"
+    },
+    "code": {
+      "id": "CD310502",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD3105",
+      "level": 2,
+      "name": {
+        "local": "Kahemba",
+        "en": "Kahemba",
+        "slug": "kahemba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD31",
+        "level": 1,
+        "name": {
+          "local": "Kwango",
+          "en": "Kwango",
+          "slug": "kwango"
+        }
+      },
+      {
+        "id": "CD3105",
+        "level": 2,
+        "name": {
+          "local": "Kahemba",
+          "en": "Kahemba",
+          "slug": "kahemba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.198",
+      "lon": "19.005"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

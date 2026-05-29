@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CD201001",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Kibunzi",
+      "en": "Kibunzi",
+      "slug": "kibunzi"
+    },
+    "code": {
+      "id": "CD201001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD2010",
+      "level": 2,
+      "name": {
+        "local": "Luozi",
+        "en": "Luozi",
+        "slug": "luozi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD20",
+        "level": 1,
+        "name": {
+          "local": "Kongo-Central",
+          "en": "Kongo-Central",
+          "slug": "kongo-central"
+        }
+      },
+      {
+        "id": "CD2010",
+        "level": 2,
+        "name": {
+          "local": "Luozi",
+          "en": "Luozi",
+          "slug": "luozi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.818",
+      "lon": "14.01"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD201002",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Luozi",
+      "en": "Luozi",
+      "slug": "luozi"
+    },
+    "code": {
+      "id": "CD201002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD2010",
+      "level": 2,
+      "name": {
+        "local": "Luozi",
+        "en": "Luozi",
+        "slug": "luozi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD20",
+        "level": 1,
+        "name": {
+          "local": "Kongo-Central",
+          "en": "Kongo-Central",
+          "slug": "kongo-central"
+        }
+      },
+      {
+        "id": "CD2010",
+        "level": 2,
+        "name": {
+          "local": "Luozi",
+          "en": "Luozi",
+          "slug": "luozi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.818",
+      "lon": "14.01"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD201003",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Mangembo",
+      "en": "Mangembo",
+      "slug": "mangembo"
+    },
+    "code": {
+      "id": "CD201003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD2010",
+      "level": 2,
+      "name": {
+        "local": "Luozi",
+        "en": "Luozi",
+        "slug": "luozi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD20",
+        "level": 1,
+        "name": {
+          "local": "Kongo-Central",
+          "en": "Kongo-Central",
+          "slug": "kongo-central"
+        }
+      },
+      {
+        "id": "CD2010",
+        "level": 2,
+        "name": {
+          "local": "Luozi",
+          "en": "Luozi",
+          "slug": "luozi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.818",
+      "lon": "14.01"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

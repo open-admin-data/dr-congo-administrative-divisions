@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CD420501",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Libenge",
+      "en": "Libenge",
+      "slug": "libenge"
+    },
+    "code": {
+      "id": "CD420501",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD4205",
+      "level": 2,
+      "name": {
+        "local": "Libenge",
+        "en": "Libenge",
+        "slug": "libenge"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD42",
+        "level": 1,
+        "name": {
+          "local": "Sud-Ubangi",
+          "en": "Sud-Ubangi",
+          "slug": "sud-ubangi"
+        }
+      },
+      {
+        "id": "CD4205",
+        "level": 2,
+        "name": {
+          "local": "Libenge",
+          "en": "Libenge",
+          "slug": "libenge"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.76",
+      "lon": "18.976"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD420502",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Mawuya",
+      "en": "Mawuya",
+      "slug": "mawuya"
+    },
+    "code": {
+      "id": "CD420502",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD4205",
+      "level": 2,
+      "name": {
+        "local": "Libenge",
+        "en": "Libenge",
+        "slug": "libenge"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD42",
+        "level": 1,
+        "name": {
+          "local": "Sud-Ubangi",
+          "en": "Sud-Ubangi",
+          "slug": "sud-ubangi"
+        }
+      },
+      {
+        "id": "CD4205",
+        "level": 2,
+        "name": {
+          "local": "Libenge",
+          "en": "Libenge",
+          "slug": "libenge"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.76",
+      "lon": "18.976"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,178 @@
+# Ituri — DR Congo Administrative Divisions
+
+> 5 territorys, 36 sectors
+> Code: CD54
+> Coordinates: 2.097, 29.056
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Territorys
+
+### Aru
+
+Code: CD5409, Coordinates: 3.029, 30.457
+Sectors: 6
+
+#### Adi
+
+Code: CD540901, Coordinates: 3.029, 30.457
+
+#### Adja
+
+Code: CD540902, Coordinates: 3.029, 30.457
+
+#### Ariwara
+
+Code: CD540903, Coordinates: 3.029, 30.457
+
+#### Aru
+
+Code: CD540904, Coordinates: 3.029, 30.457
+
+#### Biringi
+
+Code: CD540905, Coordinates: 3.029, 30.457
+
+#### Laybo
+
+Code: CD540906, Coordinates: 3.029, 30.457
+
+### Djugu
+
+Code: CD5405, Coordinates: 1.886, 30.381
+Sectors: 13
+
+#### Bambu
+
+Code: CD540501, Coordinates: 1.886, 30.381
+
+#### Damas
+
+Code: CD540502, Coordinates: 1.886, 30.381
+
+#### Drodro
+
+Code: CD540503, Coordinates: 1.886, 30.381
+
+#### Fataki
+
+Code: CD540504, Coordinates: 1.886, 30.381
+
+#### Jiba
+
+Code: CD540505, Coordinates: 1.886, 30.381
+
+#### Kilo
+
+Code: CD540506, Coordinates: 1.886, 30.381
+
+#### Linga
+
+Code: CD540507, Coordinates: 1.886, 30.381
+
+#### Lita
+
+Code: CD540508, Coordinates: 1.886, 30.381
+
+#### Mangala
+
+Code: CD540509, Coordinates: 1.886, 30.381
+
+#### Mongbalu
+
+Code: CD540510, Coordinates: 1.886, 30.381
+
+#### Nizi
+
+Code: CD540511, Coordinates: 1.886, 30.381
+
+#### Rethy
+
+Code: CD540512, Coordinates: 1.886, 30.381
+
+#### Tchomia
+
+Code: CD540513, Coordinates: 1.886, 30.381
+
+### Irumu
+
+Code: CD5402, Coordinates: 1.27, 30.017
+Sectors: 6
+
+#### Boga
+
+Code: CD540201, Coordinates: 1.27, 30.017
+
+#### Bunia
+
+Code: CD540202, Coordinates: 1.27, 30.017
+
+#### Gethy
+
+Code: CD540203, Coordinates: 1.27, 30.017
+
+#### Komanda
+
+Code: CD540204, Coordinates: 1.27, 30.017
+
+#### Nyakunde
+
+Code: CD540205, Coordinates: 1.27, 30.017
+
+#### Rwampara
+
+Code: CD540206, Coordinates: 1.27, 30.017
+
+### Mahagi
+
+Code: CD5407, Coordinates: 2.325, 30.673
+Sectors: 7
+
+#### Angumu
+
+Code: CD540701, Coordinates: 2.325, 30.673
+
+#### Aungba
+
+Code: CD540702, Coordinates: 2.325, 30.673
+
+#### Kambala
+
+Code: CD540703, Coordinates: 2.325, 30.673
+
+#### Logo
+
+Code: CD540704, Coordinates: 2.325, 30.673
+
+#### Mahagi
+
+Code: CD540705, Coordinates: 2.325, 30.673
+
+#### Nyarambe
+
+Code: CD540706, Coordinates: 2.325, 30.673
+
+#### Rimba
+
+Code: CD540707, Coordinates: 2.325, 30.673
+
+### Mambasa
+
+Code: CD5403, Coordinates: 1.531, 28.784
+Sectors: 4
+
+#### Lolwa
+
+Code: CD540301, Coordinates: 1.531, 28.784
+
+#### Mambasa
+
+Code: CD540302, Coordinates: 1.531, 28.784
+
+#### Mandima
+
+Code: CD540303, Coordinates: 1.531, 28.784
+
+#### Nia-Nia
+
+Code: CD540304, Coordinates: 1.531, 28.784
+

@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CD620801",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Hauts-Plateaux",
+      "en": "Hauts-Plateaux",
+      "slug": "hauts-plateaux"
+    },
+    "code": {
+      "id": "CD620801",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6208",
+      "level": 2,
+      "name": {
+        "local": "Uvira",
+        "en": "Uvira",
+        "slug": "uvira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD62",
+        "level": 1,
+        "name": {
+          "local": "Sud-Kivu",
+          "en": "Sud-Kivu",
+          "slug": "sud-kivu"
+        }
+      },
+      {
+        "id": "CD6208",
+        "level": 2,
+        "name": {
+          "local": "Uvira",
+          "en": "Uvira",
+          "slug": "uvira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.199",
+      "lon": "29.007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD620802",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Lemera",
+      "en": "Lemera",
+      "slug": "lemera"
+    },
+    "code": {
+      "id": "CD620802",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6208",
+      "level": 2,
+      "name": {
+        "local": "Uvira",
+        "en": "Uvira",
+        "slug": "uvira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD62",
+        "level": 1,
+        "name": {
+          "local": "Sud-Kivu",
+          "en": "Sud-Kivu",
+          "slug": "sud-kivu"
+        }
+      },
+      {
+        "id": "CD6208",
+        "level": 2,
+        "name": {
+          "local": "Uvira",
+          "en": "Uvira",
+          "slug": "uvira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.199",
+      "lon": "29.007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD620803",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Ruzizi",
+      "en": "Ruzizi",
+      "slug": "ruzizi"
+    },
+    "code": {
+      "id": "CD620803",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6208",
+      "level": 2,
+      "name": {
+        "local": "Uvira",
+        "en": "Uvira",
+        "slug": "uvira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD62",
+        "level": 1,
+        "name": {
+          "local": "Sud-Kivu",
+          "en": "Sud-Kivu",
+          "slug": "sud-kivu"
+        }
+      },
+      {
+        "id": "CD6208",
+        "level": 2,
+        "name": {
+          "local": "Uvira",
+          "en": "Uvira",
+          "slug": "uvira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.199",
+      "lon": "29.007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD620804",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Uvira",
+      "en": "Uvira",
+      "slug": "uvira"
+    },
+    "code": {
+      "id": "CD620804",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD6208",
+      "level": 2,
+      "name": {
+        "local": "Uvira",
+        "en": "Uvira",
+        "slug": "uvira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD62",
+        "level": 1,
+        "name": {
+          "local": "Sud-Kivu",
+          "en": "Sud-Kivu",
+          "slug": "sud-kivu"
+        }
+      },
+      {
+        "id": "CD6208",
+        "level": 2,
+        "name": {
+          "local": "Uvira",
+          "en": "Uvira",
+          "slug": "uvira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.199",
+      "lon": "29.007"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

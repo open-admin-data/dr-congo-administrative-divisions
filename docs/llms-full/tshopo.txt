@@ -1,0 +1,141 @@
+# Tshopo — DR Congo Administrative Divisions
+
+> 8 territorys, 23 sectors
+> Code: CD51
+> Coordinates: 0.141, 25.598
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Territorys
+
+### Bafwasende
+
+Code: CD5111, Coordinates: 0.799, 26.994
+Sectors: 3
+
+#### Bafwagbogbo
+
+Code: CD511101, Coordinates: 0.799, 26.994
+
+#### Bafwasende
+
+Code: CD511102, Coordinates: 0.799, 26.994
+
+#### Opienge
+
+Code: CD511103, Coordinates: 0.799, 26.994
+
+### Banalia
+
+Code: CD5110, Coordinates: 1.495, 25.192
+Sectors: 2
+
+#### Banalia
+
+Code: CD511001, Coordinates: 1.495, 25.192
+
+#### Bengamisa
+
+Code: CD511002, Coordinates: 1.495, 25.192
+
+### Basoko
+
+Code: CD5109, Coordinates: 1.677, 23.898
+Sectors: 3
+
+#### Basali
+
+Code: CD510901, Coordinates: 1.677, 23.898
+
+#### Basoko
+
+Code: CD510902, Coordinates: 1.677, 23.898
+
+#### Yalimbongo
+
+Code: CD510903, Coordinates: 1.677, 23.898
+
+### Isangi
+
+Code: CD5105, Coordinates: 0.357, 24.062
+Sectors: 4
+
+#### Isangi
+
+Code: CD510501, Coordinates: 0.357, 24.062
+
+#### Yabaondo
+
+Code: CD510502, Coordinates: 0.357, 24.062
+
+#### Yahisuli
+
+Code: CD510503, Coordinates: 0.357, 24.062
+
+#### Yakusu
+
+Code: CD510504, Coordinates: 0.357, 24.062
+
+### Kisangani
+
+Code: CD5101, Coordinates: 0.545, 25.193
+Sectors: 5
+
+#### Kabondo
+
+Code: CD510101, Coordinates: 0.545, 25.193
+
+#### Lubunga
+
+Code: CD510102, Coordinates: 0.545, 25.193
+
+#### Makiso-Kisangani
+
+Code: CD510103, Coordinates: 0.545, 25.193
+
+#### Mangobo
+
+Code: CD510104, Coordinates: 0.545, 25.193
+
+#### Tshopo
+
+Code: CD510105, Coordinates: 0.545, 25.193
+
+### Opala
+
+Code: CD5103, Coordinates: -0.708, 23.953
+Sectors: 2
+
+#### Opala
+
+Code: CD510301, Coordinates: -0.708, 23.953
+
+#### Yaleko
+
+Code: CD510302, Coordinates: -0.708, 23.953
+
+### Ubundu
+
+Code: CD5102, Coordinates: -0.602, 25.394
+Sectors: 3
+
+#### Lowa
+
+Code: CD510201, Coordinates: -0.602, 25.394
+
+#### Ubundu
+
+Code: CD510202, Coordinates: -0.602, 25.394
+
+#### Wanierukula
+
+Code: CD510203, Coordinates: -0.602, 25.394
+
+### Yahuma
+
+Code: CD5107, Coordinates: 0.8, 23.242
+Sectors: 1
+
+#### Yahuma
+
+Code: CD510701, Coordinates: 0.8, 23.242
+

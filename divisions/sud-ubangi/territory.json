@@ -1,0 +1,237 @@
+[
+  {
+    "id": "CD4203",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Budjala",
+      "en": "Budjala",
+      "slug": "budjala"
+    },
+    "code": {
+      "id": "CD4203",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD42",
+      "level": 1,
+      "name": {
+        "local": "Sud-Ubangi",
+        "en": "Sud-Ubangi",
+        "slug": "sud-ubangi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD42",
+        "level": 1,
+        "name": {
+          "local": "Sud-Ubangi",
+          "en": "Sud-Ubangi",
+          "slug": "sud-ubangi"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.6",
+      "lon": "20.065"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD4202",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Gemena",
+      "en": "Gemena",
+      "slug": "gemena"
+    },
+    "code": {
+      "id": "CD4202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD42",
+      "level": 1,
+      "name": {
+        "local": "Sud-Ubangi",
+        "en": "Sud-Ubangi",
+        "slug": "sud-ubangi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD42",
+        "level": 1,
+        "name": {
+          "local": "Sud-Ubangi",
+          "en": "Sud-Ubangi",
+          "slug": "sud-ubangi"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.437",
+      "lon": "19.708"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD4204",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Kungu",
+      "en": "Kungu",
+      "slug": "kungu"
+    },
+    "code": {
+      "id": "CD4204",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD42",
+      "level": 1,
+      "name": {
+        "local": "Sud-Ubangi",
+        "en": "Sud-Ubangi",
+        "slug": "sud-ubangi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD42",
+        "level": 1,
+        "name": {
+          "local": "Sud-Ubangi",
+          "en": "Sud-Ubangi",
+          "slug": "sud-ubangi"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.549",
+      "lon": "18.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD4205",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Libenge",
+      "en": "Libenge",
+      "slug": "libenge"
+    },
+    "code": {
+      "id": "CD4205",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD42",
+      "level": 1,
+      "name": {
+        "local": "Sud-Ubangi",
+        "en": "Sud-Ubangi",
+        "slug": "sud-ubangi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD42",
+        "level": 1,
+        "name": {
+          "local": "Sud-Ubangi",
+          "en": "Sud-Ubangi",
+          "slug": "sud-ubangi"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.76",
+      "lon": "18.976"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD4206",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Zongo",
+      "en": "Zongo",
+      "slug": "zongo"
+    },
+    "code": {
+      "id": "CD4206",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD42",
+      "level": 1,
+      "name": {
+        "local": "Sud-Ubangi",
+        "en": "Sud-Ubangi",
+        "slug": "sud-ubangi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD42",
+        "level": 1,
+        "name": {
+          "local": "Sud-Ubangi",
+          "en": "Sud-Ubangi",
+          "slug": "sud-ubangi"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.186",
+      "lon": "18.72"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

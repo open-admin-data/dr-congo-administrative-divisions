@@ -1,0 +1,47 @@
+{
+  "id": "CD5105",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Isangi",
+    "en": "Isangi",
+    "slug": "isangi"
+  },
+  "code": {
+    "id": "CD5105",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD51",
+    "level": 1,
+    "name": {
+      "local": "Tshopo",
+      "en": "Tshopo",
+      "slug": "tshopo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD51",
+      "level": 1,
+      "name": {
+        "local": "Tshopo",
+        "en": "Tshopo",
+        "slug": "tshopo"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.357",
+    "lon": "24.062"
+  },
+  "metadata": {},
+  "source": {}
+}

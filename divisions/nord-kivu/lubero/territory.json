@@ -1,0 +1,47 @@
+{
+  "id": "CD6105",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Lubero",
+    "en": "Lubero",
+    "slug": "lubero"
+  },
+  "code": {
+    "id": "CD6105",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD61",
+    "level": 1,
+    "name": {
+      "local": "Nord-Kivu",
+      "en": "Nord-Kivu",
+      "slug": "nord-kivu"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD61",
+      "level": 1,
+      "name": {
+        "local": "Nord-Kivu",
+        "en": "Nord-Kivu",
+        "slug": "nord-kivu"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.06",
+    "lon": "28.762"
+  },
+  "metadata": {},
+  "source": {}
+}

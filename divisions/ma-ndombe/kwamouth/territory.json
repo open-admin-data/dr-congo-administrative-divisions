@@ -1,0 +1,47 @@
+{
+  "id": "CD3307",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Kwamouth",
+    "en": "Kwamouth",
+    "slug": "kwamouth"
+  },
+  "code": {
+    "id": "CD3307",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD33",
+    "level": 1,
+    "name": {
+      "local": "Maï-Ndombe",
+      "en": "Maï-Ndombe",
+      "slug": "ma-ndombe"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD33",
+      "level": 1,
+      "name": {
+        "local": "Maï-Ndombe",
+        "en": "Maï-Ndombe",
+        "slug": "ma-ndombe"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.617",
+    "lon": "16.683"
+  },
+  "metadata": {},
+  "source": {}
+}

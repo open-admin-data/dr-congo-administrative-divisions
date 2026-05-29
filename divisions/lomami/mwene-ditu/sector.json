@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CD810301",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Makota",
+      "en": "Makota",
+      "slug": "makota"
+    },
+    "code": {
+      "id": "CD810301",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD8103",
+      "level": 2,
+      "name": {
+        "local": "Mwene-Ditu",
+        "en": "Mwene-Ditu",
+        "slug": "mwene-ditu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD81",
+        "level": 1,
+        "name": {
+          "local": "Lomami",
+          "en": "Lomami",
+          "slug": "lomami"
+        }
+      },
+      {
+        "id": "CD8103",
+        "level": 2,
+        "name": {
+          "local": "Mwene-Ditu",
+          "en": "Mwene-Ditu",
+          "slug": "mwene-ditu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.993",
+      "lon": "23.48"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD810302",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Mwene Ditu",
+      "en": "Mwene Ditu",
+      "slug": "mwene-ditu"
+    },
+    "code": {
+      "id": "CD810302",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD8103",
+      "level": 2,
+      "name": {
+        "local": "Mwene-Ditu",
+        "en": "Mwene-Ditu",
+        "slug": "mwene-ditu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD81",
+        "level": 1,
+        "name": {
+          "local": "Lomami",
+          "en": "Lomami",
+          "slug": "lomami"
+        }
+      },
+      {
+        "id": "CD8103",
+        "level": 2,
+        "name": {
+          "local": "Mwene-Ditu",
+          "en": "Mwene-Ditu",
+          "slug": "mwene-ditu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.993",
+      "lon": "23.48"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

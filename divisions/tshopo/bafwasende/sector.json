@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CD511101",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Bafwagbogbo",
+      "en": "Bafwagbogbo",
+      "slug": "bafwagbogbo"
+    },
+    "code": {
+      "id": "CD511101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5111",
+      "level": 2,
+      "name": {
+        "local": "Bafwasende",
+        "en": "Bafwasende",
+        "slug": "bafwasende"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD51",
+        "level": 1,
+        "name": {
+          "local": "Tshopo",
+          "en": "Tshopo",
+          "slug": "tshopo"
+        }
+      },
+      {
+        "id": "CD5111",
+        "level": 2,
+        "name": {
+          "local": "Bafwasende",
+          "en": "Bafwasende",
+          "slug": "bafwasende"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.799",
+      "lon": "26.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD511102",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Bafwasende",
+      "en": "Bafwasende",
+      "slug": "bafwasende"
+    },
+    "code": {
+      "id": "CD511102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5111",
+      "level": 2,
+      "name": {
+        "local": "Bafwasende",
+        "en": "Bafwasende",
+        "slug": "bafwasende"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD51",
+        "level": 1,
+        "name": {
+          "local": "Tshopo",
+          "en": "Tshopo",
+          "slug": "tshopo"
+        }
+      },
+      {
+        "id": "CD5111",
+        "level": 2,
+        "name": {
+          "local": "Bafwasende",
+          "en": "Bafwasende",
+          "slug": "bafwasende"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.799",
+      "lon": "26.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD511103",
+    "level": 3,
+    "level_name": {
+      "local": "Secteur",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Opienge",
+      "en": "Opienge",
+      "slug": "opienge"
+    },
+    "code": {
+      "id": "CD511103",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD5111",
+      "level": 2,
+      "name": {
+        "local": "Bafwasende",
+        "en": "Bafwasende",
+        "slug": "bafwasende"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD51",
+        "level": 1,
+        "name": {
+          "local": "Tshopo",
+          "en": "Tshopo",
+          "slug": "tshopo"
+        }
+      },
+      {
+        "id": "CD5111",
+        "level": 2,
+        "name": {
+          "local": "Bafwasende",
+          "en": "Bafwasende",
+          "slug": "bafwasende"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.799",
+      "lon": "26.994"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

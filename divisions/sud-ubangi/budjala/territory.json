@@ -1,0 +1,47 @@
+{
+  "id": "CD4203",
+  "level": 2,
+  "level_name": {
+    "local": "Territoire",
+    "en": "Territory"
+  },
+  "name": {
+    "local": "Budjala",
+    "en": "Budjala",
+    "slug": "budjala"
+  },
+  "code": {
+    "id": "CD4203",
+    "iso": null
+  },
+  "parent": {
+    "id": "CD42",
+    "level": 1,
+    "name": {
+      "local": "Sud-Ubangi",
+      "en": "Sud-Ubangi",
+      "slug": "sud-ubangi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CD42",
+      "level": 1,
+      "name": {
+        "local": "Sud-Ubangi",
+        "en": "Sud-Ubangi",
+        "slug": "sud-ubangi"
+      }
+    }
+  ],
+  "children_count": {
+    "sector": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.6",
+    "lon": "20.065"
+  },
+  "metadata": {},
+  "source": {}
+}

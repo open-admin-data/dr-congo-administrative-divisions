@@ -1,0 +1,284 @@
+[
+  {
+    "id": "CD9106",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Demba",
+      "en": "Demba",
+      "slug": "demba"
+    },
+    "code": {
+      "id": "CD9106",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD91",
+      "level": 1,
+      "name": {
+        "local": "Kasaï-Central",
+        "en": "Kasaï-Central",
+        "slug": "kasa-central"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD91",
+        "level": 1,
+        "name": {
+          "local": "Kasaï-Central",
+          "en": "Kasaï-Central",
+          "slug": "kasa-central"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.236",
+      "lon": "22.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD9102",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Dibaya",
+      "en": "Dibaya",
+      "slug": "dibaya"
+    },
+    "code": {
+      "id": "CD9102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD91",
+      "level": 1,
+      "name": {
+        "local": "Kasaï-Central",
+        "en": "Kasaï-Central",
+        "slug": "kasa-central"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD91",
+        "level": 1,
+        "name": {
+          "local": "Kasaï-Central",
+          "en": "Kasaï-Central",
+          "slug": "kasa-central"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.391",
+      "lon": "22.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD9107",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Dimbelenge",
+      "en": "Dimbelenge",
+      "slug": "dimbelenge"
+    },
+    "code": {
+      "id": "CD9107",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD91",
+      "level": 1,
+      "name": {
+        "local": "Kasaï-Central",
+        "en": "Kasaï-Central",
+        "slug": "kasa-central"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD91",
+        "level": 1,
+        "name": {
+          "local": "Kasaï-Central",
+          "en": "Kasaï-Central",
+          "slug": "kasa-central"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.022",
+      "lon": "22.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD9101",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Kananga",
+      "en": "Kananga",
+      "slug": "kananga"
+    },
+    "code": {
+      "id": "CD9101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD91",
+      "level": 1,
+      "name": {
+        "local": "Kasaï-Central",
+        "en": "Kasaï-Central",
+        "slug": "kasa-central"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD91",
+        "level": 1,
+        "name": {
+          "local": "Kasaï-Central",
+          "en": "Kasaï-Central",
+          "slug": "kasa-central"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.895",
+      "lon": "22.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD9105",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Kazumba",
+      "en": "Kazumba",
+      "slug": "kazumba"
+    },
+    "code": {
+      "id": "CD9105",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD91",
+      "level": 1,
+      "name": {
+        "local": "Kasaï-Central",
+        "en": "Kasaï-Central",
+        "slug": "kasa-central"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD91",
+        "level": 1,
+        "name": {
+          "local": "Kasaï-Central",
+          "en": "Kasaï-Central",
+          "slug": "kasa-central"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.402",
+      "lon": "22.008"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CD9104",
+    "level": 2,
+    "level_name": {
+      "local": "Territoire",
+      "en": "Territory"
+    },
+    "name": {
+      "local": "Luiza",
+      "en": "Luiza",
+      "slug": "luiza"
+    },
+    "code": {
+      "id": "CD9104",
+      "iso": null
+    },
+    "parent": {
+      "id": "CD91",
+      "level": 1,
+      "name": {
+        "local": "Kasaï-Central",
+        "en": "Kasaï-Central",
+        "slug": "kasa-central"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CD91",
+        "level": 1,
+        "name": {
+          "local": "Kasaï-Central",
+          "en": "Kasaï-Central",
+          "slug": "kasa-central"
+        }
+      }
+    ],
+    "children_count": {
+      "sector": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.201",
+      "lon": "22.477"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

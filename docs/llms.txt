@@ -1,0 +1,104 @@
+# DR Congo Administrative Divisions
+
+> Open dataset of DR Congo's administrative hierarchy:
+> 26 provinces, 164 territorys, 519 sectors.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total provinces: 26
+- Total territorys: 164
+- Total sectors: 519
+- Coordinates: included (all levels)
+- Last updated: 2026-05-29
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All provinces (JSON)](https://raw.githubusercontent.com/open-admin-data/dr-congo-administrative-divisions/main/data/all-province.json)
+- [All territorys (JSON)](https://raw.githubusercontent.com/open-admin-data/dr-congo-administrative-divisions/main/data/all-territory.json)
+- [All sectors (JSON)](https://raw.githubusercontent.com/open-admin-data/dr-congo-administrative-divisions/main/data/all-sector.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/dr-congo-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/dr-congo-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/dr-congo-administrative-divisions/main/data/schema.json)
+
+## Browse by Province
+
+- [Kinshasa](https://github.com/open-admin-data/dr-congo-administrative-divisions/tree/main/divisions/kinshasa/) — 1 territorys, 35 sectors
+- [Kongo-Central](https://github.com/open-admin-data/dr-congo-administrative-divisions/tree/main/divisions/kongo-central/) — 12 territorys, 31 sectors
+- [Kwango](https://github.com/open-admin-data/dr-congo-administrative-divisions/tree/main/divisions/kwango/) — 5 territorys, 14 sectors
+- [Kwilu](https://github.com/open-admin-data/dr-congo-administrative-divisions/tree/main/divisions/kwilu/) — 7 territorys, 24 sectors
+- [Maï-Ndombe](https://github.com/open-admin-data/dr-congo-administrative-divisions/tree/main/divisions/ma-ndombe/) — 8 territorys, 14 sectors
+- [Equateur](https://github.com/open-admin-data/dr-congo-administrative-divisions/tree/main/divisions/equateur/) — 8 territorys, 18 sectors
+- [Sud-Ubangi](https://github.com/open-admin-data/dr-congo-administrative-divisions/tree/main/divisions/sud-ubangi/) — 5 territorys, 16 sectors
+- [Nord-Ubangi](https://github.com/open-admin-data/dr-congo-administrative-divisions/tree/main/divisions/nord-ubangi/) — 5 territorys, 11 sectors
+- [Mongala](https://github.com/open-admin-data/dr-congo-administrative-divisions/tree/main/divisions/mongala/) — 3 territorys, 12 sectors
+- [Tshuapa](https://github.com/open-admin-data/dr-congo-administrative-divisions/tree/main/divisions/tshuapa/) — 6 territorys, 12 sectors
+- [Tshopo](https://github.com/open-admin-data/dr-congo-administrative-divisions/tree/main/divisions/tshopo/) — 8 territorys, 23 sectors
+- [Bas-Uele](https://github.com/open-admin-data/dr-congo-administrative-divisions/tree/main/divisions/bas-uele/) — 6 territorys, 11 sectors
+- [Haut-Uele](https://github.com/open-admin-data/dr-congo-administrative-divisions/tree/main/divisions/haut-uele/) — 6 territorys, 13 sectors
+- [Ituri](https://github.com/open-admin-data/dr-congo-administrative-divisions/tree/main/divisions/ituri/) — 5 territorys, 36 sectors
+- [Nord-Kivu](https://github.com/open-admin-data/dr-congo-administrative-divisions/tree/main/divisions/nord-kivu/) — 9 territorys, 34 sectors
+- [Sud-Kivu](https://github.com/open-admin-data/dr-congo-administrative-divisions/tree/main/divisions/sud-kivu/) — 9 territorys, 34 sectors
+- [Maniema](https://github.com/open-admin-data/dr-congo-administrative-divisions/tree/main/divisions/maniema/) — 8 territorys, 18 sectors
+- [Haut-Katanga](https://github.com/open-admin-data/dr-congo-administrative-divisions/tree/main/divisions/haut-katanga/) — 8 territorys, 28 sectors
+- [Lualaba](https://github.com/open-admin-data/dr-congo-administrative-divisions/tree/main/divisions/lualaba/) — 5 territorys, 13 sectors
+- [Haut-Lomami](https://github.com/open-admin-data/dr-congo-administrative-divisions/tree/main/divisions/haut-lomami/) — 5 territorys, 16 sectors
+- [Tanganyika](https://github.com/open-admin-data/dr-congo-administrative-divisions/tree/main/divisions/tanganyika/) — 6 territorys, 11 sectors
+- [Lomami](https://github.com/open-admin-data/dr-congo-administrative-divisions/tree/main/divisions/lomami/) — 6 territorys, 16 sectors
+- [Kasaï-Oriental](https://github.com/open-admin-data/dr-congo-administrative-divisions/tree/main/divisions/kasa-oriental/) — 6 territorys, 19 sectors
+- [Sankuru](https://github.com/open-admin-data/dr-congo-administrative-divisions/tree/main/divisions/sankuru/) — 6 territorys, 16 sectors
+- [Kasaï-Central](https://github.com/open-admin-data/dr-congo-administrative-divisions/tree/main/divisions/kasa-central/) — 6 territorys, 26 sectors
+- [Kasaï](https://github.com/open-admin-data/dr-congo-administrative-divisions/tree/main/divisions/kasa/) — 5 territorys, 18 sectors
+
+## Per-Province Full Data
+
+- [Kinshasa](https://raw.githubusercontent.com/open-admin-data/dr-congo-administrative-divisions/main/docs/llms-full/kinshasa.txt)
+- [Kongo-Central](https://raw.githubusercontent.com/open-admin-data/dr-congo-administrative-divisions/main/docs/llms-full/kongo-central.txt)
+- [Kwango](https://raw.githubusercontent.com/open-admin-data/dr-congo-administrative-divisions/main/docs/llms-full/kwango.txt)
+- [Kwilu](https://raw.githubusercontent.com/open-admin-data/dr-congo-administrative-divisions/main/docs/llms-full/kwilu.txt)
+- [Maï-Ndombe](https://raw.githubusercontent.com/open-admin-data/dr-congo-administrative-divisions/main/docs/llms-full/ma-ndombe.txt)
+- [Equateur](https://raw.githubusercontent.com/open-admin-data/dr-congo-administrative-divisions/main/docs/llms-full/equateur.txt)
+- [Sud-Ubangi](https://raw.githubusercontent.com/open-admin-data/dr-congo-administrative-divisions/main/docs/llms-full/sud-ubangi.txt)
+- [Nord-Ubangi](https://raw.githubusercontent.com/open-admin-data/dr-congo-administrative-divisions/main/docs/llms-full/nord-ubangi.txt)
+- [Mongala](https://raw.githubusercontent.com/open-admin-data/dr-congo-administrative-divisions/main/docs/llms-full/mongala.txt)
+- [Tshuapa](https://raw.githubusercontent.com/open-admin-data/dr-congo-administrative-divisions/main/docs/llms-full/tshuapa.txt)
+- [Tshopo](https://raw.githubusercontent.com/open-admin-data/dr-congo-administrative-divisions/main/docs/llms-full/tshopo.txt)
+- [Bas-Uele](https://raw.githubusercontent.com/open-admin-data/dr-congo-administrative-divisions/main/docs/llms-full/bas-uele.txt)
+- [Haut-Uele](https://raw.githubusercontent.com/open-admin-data/dr-congo-administrative-divisions/main/docs/llms-full/haut-uele.txt)
+- [Ituri](https://raw.githubusercontent.com/open-admin-data/dr-congo-administrative-divisions/main/docs/llms-full/ituri.txt)
+- [Nord-Kivu](https://raw.githubusercontent.com/open-admin-data/dr-congo-administrative-divisions/main/docs/llms-full/nord-kivu.txt)
+- [Sud-Kivu](https://raw.githubusercontent.com/open-admin-data/dr-congo-administrative-divisions/main/docs/llms-full/sud-kivu.txt)
+- [Maniema](https://raw.githubusercontent.com/open-admin-data/dr-congo-administrative-divisions/main/docs/llms-full/maniema.txt)
+- [Haut-Katanga](https://raw.githubusercontent.com/open-admin-data/dr-congo-administrative-divisions/main/docs/llms-full/haut-katanga.txt)
+- [Lualaba](https://raw.githubusercontent.com/open-admin-data/dr-congo-administrative-divisions/main/docs/llms-full/lualaba.txt)
+- [Haut-Lomami](https://raw.githubusercontent.com/open-admin-data/dr-congo-administrative-divisions/main/docs/llms-full/haut-lomami.txt)
+- [Tanganyika](https://raw.githubusercontent.com/open-admin-data/dr-congo-administrative-divisions/main/docs/llms-full/tanganyika.txt)
+- [Lomami](https://raw.githubusercontent.com/open-admin-data/dr-congo-administrative-divisions/main/docs/llms-full/lomami.txt)
+- [Kasaï-Oriental](https://raw.githubusercontent.com/open-admin-data/dr-congo-administrative-divisions/main/docs/llms-full/kasa-oriental.txt)
+- [Sankuru](https://raw.githubusercontent.com/open-admin-data/dr-congo-administrative-divisions/main/docs/llms-full/sankuru.txt)
+- [Kasaï-Central](https://raw.githubusercontent.com/open-admin-data/dr-congo-administrative-divisions/main/docs/llms-full/kasa-central.txt)
+- [Kasaï](https://raw.githubusercontent.com/open-admin-data/dr-congo-administrative-divisions/main/docs/llms-full/kasa.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (province), 2 (territory), 3 (sector)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+DR Congo Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/dr-congo-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)
