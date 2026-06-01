@@ -26,5 +26,9 @@
     "lon": "18.585"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cd/provinces/ma-ndombe/",
+    "api": "https://openadmindata.org/api/cd/"
+  }
 }

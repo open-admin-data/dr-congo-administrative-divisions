@@ -3,7 +3,7 @@
 > 6 territorys, 11 sectors
 > Code: CD52
 > Coordinates: 3.668, 25.215
-> Last updated: 2026-05-29. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Territorys
 

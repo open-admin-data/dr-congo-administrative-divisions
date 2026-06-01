@@ -26,5 +26,9 @@
     "lon": "18.809"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cd/provinces/kwilu/",
+    "api": "https://openadmindata.org/api/cd/"
+  }
 }

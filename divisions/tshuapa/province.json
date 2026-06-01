@@ -26,5 +26,9 @@
     "lon": "21.529"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cd/provinces/tshuapa/",
+    "api": "https://openadmindata.org/api/cd/"
+  }
 }

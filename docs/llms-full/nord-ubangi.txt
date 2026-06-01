@@ -3,7 +3,7 @@
 > 5 territorys, 11 sectors
 > Code: CD43
 > Coordinates: 3.981, 21.355
-> Last updated: 2026-05-29. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Territorys
 

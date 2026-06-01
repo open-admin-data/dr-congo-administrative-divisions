@@ -26,5 +26,9 @@
     "lon": "24.627"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cd/provinces/lomami/",
+    "api": "https://openadmindata.org/api/cd/"
+  }
 }

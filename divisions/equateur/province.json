@@ -26,5 +26,9 @@
     "lon": "19.135"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cd/provinces/equateur/",
+    "api": "https://openadmindata.org/api/cd/"
+  }
 }

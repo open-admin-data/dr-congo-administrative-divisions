@@ -3,7 +3,7 @@
 > 3 territorys, 12 sectors
 > Code: CD44
 > Coordinates: 2.03, 21.175
-> Last updated: 2026-05-29. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Territorys
 

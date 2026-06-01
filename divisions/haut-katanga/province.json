@@ -26,5 +26,9 @@
     "lon": "27.876"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cd/provinces/haut-katanga/",
+    "api": "https://openadmindata.org/api/cd/"
+  }
 }

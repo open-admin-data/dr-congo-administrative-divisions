@@ -26,5 +26,9 @@
     "lon": "23.026"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cd/provinces/lualaba/",
+    "api": "https://openadmindata.org/api/cd/"
+  }
 }

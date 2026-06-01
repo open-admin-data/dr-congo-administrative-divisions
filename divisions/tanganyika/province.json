@@ -26,5 +26,9 @@
     "lon": "27.955"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cd/provinces/tanganyika/",
+    "api": "https://openadmindata.org/api/cd/"
+  }
 }

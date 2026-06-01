@@ -26,5 +26,9 @@
     "lon": "17.796"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cd/provinces/kwango/",
+    "api": "https://openadmindata.org/api/cd/"
+  }
 }

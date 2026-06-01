@@ -26,5 +26,9 @@
     "lon": "14.382"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cd/provinces/kongo-central/",
+    "api": "https://openadmindata.org/api/cd/"
+  }
 }

@@ -26,5 +26,9 @@
     "lon": "25.943"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cd/provinces/maniema/",
+    "api": "https://openadmindata.org/api/cd/"
+  }
 }

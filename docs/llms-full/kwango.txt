@@ -3,7 +3,7 @@
 > 5 territorys, 14 sectors
 > Code: CD31
 > Coordinates: -6.181, 17.796
-> Last updated: 2026-05-29. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Territorys
 

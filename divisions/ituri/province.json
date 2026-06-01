@@ -26,5 +26,9 @@
     "lon": "29.056"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cd/provinces/ituri/",
+    "api": "https://openadmindata.org/api/cd/"
+  }
 }

@@ -27,7 +27,11 @@
       "lon": "15.788"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cd/provinces/kinshasa/",
+      "api": "https://openadmindata.org/api/cd/"
+    }
   },
   {
     "id": "CD20",
@@ -57,7 +61,11 @@
       "lon": "14.382"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cd/provinces/kongo-central/",
+      "api": "https://openadmindata.org/api/cd/"
+    }
   },
   {
     "id": "CD31",
@@ -87,7 +95,11 @@
       "lon": "17.796"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cd/provinces/kwango/",
+      "api": "https://openadmindata.org/api/cd/"
+    }
   },
   {
     "id": "CD32",
@@ -117,7 +129,11 @@
       "lon": "18.809"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cd/provinces/kwilu/",
+      "api": "https://openadmindata.org/api/cd/"
+    }
   },
   {
     "id": "CD33",
@@ -147,7 +163,11 @@
       "lon": "18.585"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cd/provinces/ma-ndombe/",
+      "api": "https://openadmindata.org/api/cd/"
+    }
   },
   {
     "id": "CD41",
@@ -177,7 +197,11 @@
       "lon": "19.135"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cd/provinces/equateur/",
+      "api": "https://openadmindata.org/api/cd/"
+    }
   },
   {
     "id": "CD42",
@@ -207,7 +231,11 @@
       "lon": "19.447"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cd/provinces/sud-ubangi/",
+      "api": "https://openadmindata.org/api/cd/"
+    }
   },
   {
     "id": "CD43",
@@ -237,7 +265,11 @@
       "lon": "21.355"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cd/provinces/nord-ubangi/",
+      "api": "https://openadmindata.org/api/cd/"
+    }
   },
   {
     "id": "CD44",
@@ -267,7 +299,11 @@
       "lon": "21.175"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cd/provinces/mongala/",
+      "api": "https://openadmindata.org/api/cd/"
+    }
   },
   {
     "id": "CD45",
@@ -297,7 +333,11 @@
       "lon": "21.529"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cd/provinces/tshuapa/",
+      "api": "https://openadmindata.org/api/cd/"
+    }
   },
   {
     "id": "CD51",
@@ -327,7 +367,11 @@
       "lon": "25.598"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cd/provinces/tshopo/",
+      "api": "https://openadmindata.org/api/cd/"
+    }
   },
   {
     "id": "CD52",
@@ -357,7 +401,11 @@
       "lon": "25.215"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cd/provinces/bas-uele/",
+      "api": "https://openadmindata.org/api/cd/"
+    }
   },
   {
     "id": "CD53",
@@ -387,7 +435,11 @@
       "lon": "28.811"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cd/provinces/haut-uele/",
+      "api": "https://openadmindata.org/api/cd/"
+    }
   },
   {
     "id": "CD54",
@@ -417,7 +469,11 @@
       "lon": "29.056"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cd/provinces/ituri/",
+      "api": "https://openadmindata.org/api/cd/"
+    }
   },
   {
     "id": "CD61",
@@ -447,7 +503,11 @@
       "lon": "28.808"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cd/provinces/nord-kivu/",
+      "api": "https://openadmindata.org/api/cd/"
+    }
   },
   {
     "id": "CD62",
@@ -477,7 +537,11 @@
       "lon": "28.177"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cd/provinces/sud-kivu/",
+      "api": "https://openadmindata.org/api/cd/"
+    }
   },
   {
     "id": "CD63",
@@ -507,7 +571,11 @@
       "lon": "25.943"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cd/provinces/maniema/",
+      "api": "https://openadmindata.org/api/cd/"
+    }
   },
   {
     "id": "CD71",
@@ -537,7 +605,11 @@
       "lon": "27.876"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cd/provinces/haut-katanga/",
+      "api": "https://openadmindata.org/api/cd/"
+    }
   },
   {
     "id": "CD72",
@@ -567,7 +639,11 @@
       "lon": "23.026"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cd/provinces/lualaba/",
+      "api": "https://openadmindata.org/api/cd/"
+    }
   },
   {
     "id": "CD73",
@@ -597,7 +673,11 @@
       "lon": "25.577"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cd/provinces/haut-lomami/",
+      "api": "https://openadmindata.org/api/cd/"
+    }
   },
   {
     "id": "CD74",
@@ -627,7 +707,11 @@
       "lon": "27.955"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cd/provinces/tanganyika/",
+      "api": "https://openadmindata.org/api/cd/"
+    }
   },
   {
     "id": "CD81",
@@ -657,7 +741,11 @@
       "lon": "24.627"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cd/provinces/lomami/",
+      "api": "https://openadmindata.org/api/cd/"
+    }
   },
   {
     "id": "CD82",
@@ -687,7 +775,11 @@
       "lon": "23.571"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cd/provinces/kasa-oriental/",
+      "api": "https://openadmindata.org/api/cd/"
+    }
   },
   {
     "id": "CD83",
@@ -717,7 +809,11 @@
       "lon": "23.44"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cd/provinces/sankuru/",
+      "api": "https://openadmindata.org/api/cd/"
+    }
   },
   {
     "id": "CD91",
@@ -747,7 +843,11 @@
       "lon": "22.267"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cd/provinces/kasa-central/",
+      "api": "https://openadmindata.org/api/cd/"
+    }
   },
   {
     "id": "CD92",
@@ -777,6 +877,10 @@
       "lon": "21.132"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cd/provinces/kasa/",
+      "api": "https://openadmindata.org/api/cd/"
+    }
   }
 ]

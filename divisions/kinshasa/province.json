@@ -26,5 +26,9 @@
     "lon": "15.788"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cd/provinces/kinshasa/",
+    "api": "https://openadmindata.org/api/cd/"
+  }
 }

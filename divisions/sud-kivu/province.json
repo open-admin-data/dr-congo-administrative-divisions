@@ -26,5 +26,9 @@
     "lon": "28.177"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cd/provinces/sud-kivu/",
+    "api": "https://openadmindata.org/api/cd/"
+  }
 }

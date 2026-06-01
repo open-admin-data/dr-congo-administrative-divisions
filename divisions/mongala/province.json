@@ -26,5 +26,9 @@
     "lon": "21.175"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cd/provinces/mongala/",
+    "api": "https://openadmindata.org/api/cd/"
+  }
 }

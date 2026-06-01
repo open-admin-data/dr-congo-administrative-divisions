@@ -26,5 +26,9 @@
     "lon": "25.215"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cd/provinces/bas-uele/",
+    "api": "https://openadmindata.org/api/cd/"
+  }
 }

@@ -26,5 +26,9 @@
     "lon": "28.811"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cd/provinces/haut-uele/",
+    "api": "https://openadmindata.org/api/cd/"
+  }
 }

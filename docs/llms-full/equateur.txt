@@ -3,7 +3,7 @@
 > 8 territorys, 18 sectors
 > Code: CD41
 > Coordinates: 0.063, 19.135
-> Last updated: 2026-05-29. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Territorys
 

@@ -3,7 +3,7 @@
 > 5 territorys, 16 sectors
 > Code: CD73
 > Coordinates: -8.138, 25.577
-> Last updated: 2026-05-29. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Territorys
 

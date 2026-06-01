@@ -3,7 +3,7 @@
 > 5 territorys, 13 sectors
 > Code: CD72
 > Coordinates: -9.689, 23.026
-> Last updated: 2026-05-29. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Territorys
 

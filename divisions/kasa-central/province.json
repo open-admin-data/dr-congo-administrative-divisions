@@ -26,5 +26,9 @@
     "lon": "22.267"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cd/provinces/kasa-central/",
+    "api": "https://openadmindata.org/api/cd/"
+  }
 }
