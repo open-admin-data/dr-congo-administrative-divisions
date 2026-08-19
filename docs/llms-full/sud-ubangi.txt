@@ -3,7 +3,7 @@
 > 5 territorys, 16 sectors
 > Code: CD42
 > Coordinates: 3.341, 19.447
-> Last updated: 2026-06-01. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Territorys
 

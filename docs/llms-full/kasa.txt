@@ -3,7 +3,7 @@
 > 5 territorys, 18 sectors
 > Code: CD92
 > Coordinates: -4.805, 21.132
-> Last updated: 2026-06-01. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Territorys
 
