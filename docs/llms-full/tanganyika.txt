@@ -3,7 +3,7 @@
 > 6 territorys, 11 sectors
 > Code: CD74
 > Coordinates: -6.705, 27.955
-> Last updated: 2026-08-19. License: CC-BY-4.0.
+> Last updated: 2026-08-20. License: CC-BY-4.0.
 
 ## Territorys
 
